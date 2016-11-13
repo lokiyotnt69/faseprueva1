@@ -1263,33 +1263,33 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
-
-#EXTINF:-1, SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
- 
-#EXTINF:-1, SPORTTV 2 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-
-#EXTINF:0, KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-#EXTINF:-1, Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
-#EXTINF:-1, Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-
-#EXTINF:-1 tvg-logo="cdN.png", CDN Sports SD
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1, MMA BAY TV (poor quality)
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1, SPORTSTV 
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1, TileSport TV
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-#EXTINF:-1, TVA Sport Canada
-rtmp://104.91.167.97/live/event1@9756
+##ONFilmes Torrents
+#EXTINF:-1 tvg-logo="http://goo.gl/Vkkus4" group-title="ONFilmes Torrent",A 5ª Onda
+magnet:?xt=urn:btih:0f2b06daf2a28c042ca13c46373f3ddef246ef04&dn=A+5%C2%AA+Onda+2016+%5B1080p%5D+WWW.BLUDV.COM
+#EXTINF:-1 tvg-logo="http://goo.gl/OcdhAf" group-title="ONFilmes Torrent",O Regresso
+magnet:?xt=urn:btih:FECE4DAC3557DE936DE7380798090C8986331AB2&dn=O%20Regresso%202016%20Bluray%201080p%20Dublado%20-%20WWW.THEPIRATEFILMES.COM&tr=udp%3a//tracker.trackerfix.com%3a80/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/hRWLQ2" group-title="ONFilmes Torrent",A Lenda de Tarzan 2016
+magnet:?xt=urn:btih:804928C4940C45D28DD8D8EBDD96560B7A7A30B9&dn=A.Lenda.de.Tarzan.TS.XviD.DUBLADO-WWW.TORRENTDOSFILMES.COM.avi&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=http%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=http%3a%2f%2ftracker.tfile.me%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fmgtracker.org%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2770%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce
+####################################################################################################################################################
+####################################################################################################################################################
+	##ONSeries Torrents
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",Stranger Things
+http://myonseries.blogspot.com?StrangerThings
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x08 Stranger Things: The Upside Down - OnSeason Finale
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x07 Stranger Things: The Bathtub
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x06 Stranger Things: The Monster
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x05 Stranger Things: The Flea and the Acrobat
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x04 Stranger Things: The Body 
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x03 Stranger Things: Holly Jolly
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x02 Stranger Things: The Weirdo on Maple Street
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+#EXTINF:-1 tvg-logo="http://goo.gl/Yoer8s" group-title="ONSeries Torrent",1x01 Stranger Things: The Vanishing of Wil Byers
+magnet:?xt=urn:btih:E4FE27F0FAC74291A931FB2F1086084489BE54EB&tr=udp://tracker.publicbt.com:80/announce&tr=http://9.rarbg.com:2710/announce&tr=http://announce.torrentsmd.com:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://explodie.org:6969/announce&tr=http://mgtracker.org:2710/announce&tr=http://tracker.best-torrents.net:6969/announce&tr=http://tracker.tfile.me/announce&tr=http://tracker.torrenty.org:6969/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=udp://9.rarbg.com:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://tracker.btzoo.eu:80/announce&tr=udp://tracker.istole.it:80/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.prq.to/announce
+####################################################################################################################################################
+####################################################################################################################################################
