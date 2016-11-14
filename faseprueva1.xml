@@ -1,5 +1,293 @@
 #EXTM3U
 #EXTINF:-1,[I][B][COLOR orange]------------------- JHG.MASTER --------------------[/COLOR][/B][/I]
+#EXTINF:-1,♣♣♣♣♣Spanish♣♣♣♣♣
+http://151.80.29.203:9900/live/Julian/Julian/7448.ts
+#EXTINF:-1,ES-TOROS  HD
+http://151.80.29.203:9900/live/Julian/Julian/19479.ts
+#EXTINF:-1,ES-TOROS
+http://151.80.29.203:9900/live/Julian/Julian/19521.ts
+#EXTINF:-1,ES-TNT
+http://151.80.29.203:9900/live/Julian/Julian/19506.ts
+#EXTINF:-1,ES-Telesur
+http://151.80.29.203:9900/live/Julian/Julian/19507.ts
+#EXTINF:-1,ES-SYFY
+http://151.80.29.203:9900/live/Julian/Julian/19522.ts
+#EXTINF:-1,ES-SKY TG24
+http://151.80.29.203:9900/live/Julian/Julian/19480.ts
+#EXTINF:-1,ES-RT DOC
+http://151.80.29.203:9900/live/Julian/Julian/19481.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://151.80.29.203:9900/live/Julian/Julian/19508.ts
+#EXTINF:-1,ES-RAI NEWS24
+http://151.80.29.203:9900/live/Julian/Julian/19482.ts
+#EXTINF:-1,ES-QUATRO
+http://151.80.29.203:9900/live/Julian/Julian/19509.ts
+#EXTINF:-1,ES-Parlamento
+http://151.80.29.203:9900/live/Julian/Julian/19510.ts
+#EXTINF:-1,ES-PANDA
+http://151.80.29.203:9900/live/Julian/Julian/19523.ts
+#EXTINF:-1,ES-NICK JR
+http://151.80.29.203:9900/live/Julian/Julian/19483.ts
+#EXTINF:-1,ES-NEOX
+http://151.80.29.203:9900/live/Julian/Julian/19524.ts
+#EXTINF:-1,ES-MULTIDEPORTE
+http://151.80.29.203:9900/live/Julian/Julian/19484.ts
+#EXTINF:-1,ES-LOS 40
+http://151.80.29.203:9900/live/Julian/Julian/19511.ts
+#EXTINF:-1,ES-LALIGA TV BAR HD
+http://151.80.29.203:9900/live/Julian/Julian/19512.ts
+#EXTINF:-1,ES-LALIGA TV BAR
+http://151.80.29.203:9900/live/Julian/Julian/19513.ts
+#EXTINF:-1,ES-IBERALIA TV
+http://151.80.29.203:9900/live/Julian/Julian/19525.ts
+#EXTINF:-1,ES-HOLLYWOOD
+http://151.80.29.203:9900/live/Julian/Julian/19526.ts
+#EXTINF:-1,ES-HISTORY
+http://151.80.29.203:9900/live/Julian/Julian/19485.ts
+#EXTINF:-1,ES-GolTV
+http://151.80.29.203:9900/live/Julian/Julian/19486.ts
+#EXTINF:-1,ES-FOX NEWS
+http://151.80.29.203:9900/live/Julian/Julian/19487.ts
+#EXTINF:-1,ES-FDF
+http://151.80.29.203:9900/live/Julian/Julian/19488.ts
+#EXTINF:-1,ES-eurosport hd
+http://151.80.29.203:9900/live/Julian/Julian/19489.ts
+#EXTINF:-1,ES-ESTRELAS
+http://151.80.29.203:9900/live/Julian/Julian/19514.ts
+#EXTINF:-1,ES-EHS
+http://151.80.29.203:9900/live/Julian/Julian/19527.ts
+#EXTINF:-1,ES-DISNEY CHANNEL HD
+http://151.80.29.203:9900/live/Julian/Julian/19490.ts
+#EXTINF:-1,ES-DISCOVERY CHANNEL
+http://151.80.29.203:9900/live/Julian/Julian/19491.ts
+#EXTINF:-1,ES-CUATRO
+http://151.80.29.203:9900/live/Julian/Julian/19492.ts
+#EXTINF:-1,ES-COMEDY CENTRAL HD
+http://151.80.29.203:9900/live/Julian/Julian/19515.ts
+#EXTINF:-1,ES-CLASSICA
+http://151.80.29.203:9900/live/Julian/Julian/19493.ts
+#EXTINF:-1,ES-CLAN TVE
+http://151.80.29.203:9900/live/Julian/Julian/19494.ts
+#EXTINF:-1,ES-CAZA Y PESCA HD
+http://151.80.29.203:9900/live/Julian/Julian/19516.ts
+#EXTINF:-1,ES-CASTILLA LA MANCHA
+http://151.80.29.203:9900/live/Julian/Julian/19495.ts
+#EXTINF:-1,ES-CANAL DECASA
+http://151.80.29.203:9900/live/Julian/Julian/19528.ts
+#EXTINF:-1,ES-CANAL COCINA
+http://151.80.29.203:9900/live/Julian/Julian/19517.ts
+#EXTINF:-1,ES-CALLE 13 HD
+http://151.80.29.203:9900/live/Julian/Julian/19496.ts
+#EXTINF:-1,ES-C XTRA
+http://151.80.29.203:9900/live/Julian/Julian/19529.ts
+#EXTINF:-1,ES-C & I
+http://151.80.29.203:9900/live/Julian/Julian/19497.ts
+#EXTINF:-1,ES-C  COMEDIA
+http://151.80.29.203:9900/live/Julian/Julian/19530.ts
+#EXTINF:-1,ES-BLOOMBERG TV
+http://151.80.29.203:9900/live/Julian/Julian/19498.ts
+#EXTINF:-1,ES-BEIN SPORT HD
+http://151.80.29.203:9900/live/Julian/Julian/19499.ts
+#EXTINF:-1,ES-BEIN SPORT
+http://151.80.29.203:9900/live/Julian/Julian/19500.ts
+#EXTINF:-1,ES-BEIN LALIGA HD
+http://151.80.29.203:9900/live/Julian/Julian/19518.ts
+#EXTINF:-1,ES-BEIN LALIGA
+http://151.80.29.203:9900/live/Julian/Julian/19519.ts
+#EXTINF:-1,ES-Bar?a TV
+http://151.80.29.203:9900/live/Julian/Julian/19501.ts
+#EXTINF:-1,ES-AXN WHITE HD
+http://151.80.29.203:9900/live/Julian/Julian/19502.ts
+#EXTINF:-1,ES-ARIRANG WORLD
+http://151.80.29.203:9900/live/Julian/Julian/19503.ts
+#EXTINF:-1,ES-AMC
+http://151.80.29.203:9900/live/Julian/Julian/19520.ts
+#EXTINF:-1,ES-Al Jazeera
+http://151.80.29.203:9900/live/Julian/Julian/19504.ts
+#EXTINF:-1,ES-#1 HD
+http://151.80.29.203:9900/live/Julian/Julian/19505.ts
+#EXTINF:-1,ES-TNT HD
+http://151.80.29.203:9900/live/Julian/Julian/8185.ts
+#EXTINF:-1,ES-TELEDEPORTE
+http://151.80.29.203:9900/live/Julian/Julian/8187.ts
+#EXTINF:-1,ES-TELECINCO HD
+http://151.80.29.203:9900/live/Julian/Julian/8188.ts
+#EXTINF:-1,ES-TELECINCO
+http://151.80.29.203:9900/live/Julian/Julian/8189.ts
+#EXTINF:-1,ES-TCM HD
+http://151.80.29.203:9900/live/Julian/Julian/8190.ts
+#EXTINF:-1,ES-TCM
+http://151.80.29.203:9900/live/Julian/Julian/8191.ts
+#EXTINF:-1,ES-RT NEWS ENG
+http://151.80.29.203:9900/live/Julian/Julian/8193.ts
+#EXTINF:-1,ES-RT
+http://151.80.29.203:9900/live/Julian/Julian/8194.ts
+#EXTINF:-1,ES-PLAYBOY TV
+http://151.80.29.203:9900/live/Julian/Julian/8196.ts
+#EXTINF:-1,ES-PARAMOUNT
+http://151.80.29.203:9900/live/Julian/Julian/8197.ts
+#EXTINF:-1,ES-NOVA
+http://151.80.29.203:9900/live/Julian/Julian/8199.ts
+#EXTINF:-1,ES-Nickelodeon
+http://151.80.29.203:9900/live/Julian/Julian/8200.ts
+#EXTINF:-1,ES-NHK WORLD
+http://151.80.29.203:9900/live/Julian/Julian/8201.ts
+#EXTINF:-1,ES-NAT GEOGRAPH
+http://151.80.29.203:9900/live/Julian/Julian/8203.ts
+#EXTINF:-1,ES-NAT GEO WILD HD
+http://151.80.29.203:9900/live/Julian/Julian/8204.ts
+#EXTINF:-1,ES-NAT GEO WILD
+http://151.80.29.203:9900/live/Julian/Julian/8205.ts
+#EXTINF:-1,ES-MOVISTAR F1 HD
+http://151.80.29.203:9900/live/Julian/Julian/8206.ts
+#EXTINF:-1,ES-MOTOGP HD
+http://151.80.29.203:9900/live/Julian/Julian/8207.ts
+#EXTINF:-1,ES-MOTO GP
+http://151.80.29.203:9900/live/Julian/Julian/8208.ts
+#EXTINF:-1,ES-LTC
+http://151.80.29.203:9900/live/Julian/Julian/8209.ts
+#EXTINF:-1,ES-LIGA HD
+http://151.80.29.203:9900/live/Julian/Julian/8210.ts
+#EXTINF:-1,ES-LA SEXTA HD
+http://151.80.29.203:9900/live/Julian/Julian/8212.ts
+#EXTINF:-1,ES-LA SEXTA
+http://151.80.29.203:9900/live/Julian/Julian/8213.ts
+#EXTINF:-1,ES-LA 2
+http://151.80.29.203:9900/live/Julian/Julian/8214.ts
+#EXTINF:-1,ES-LA 1 HD
+http://151.80.29.203:9900/live/Julian/Julian/8215.ts
+#EXTINF:-1,ES-LA 1
+http://151.80.29.203:9900/live/Julian/Julian/8216.ts
+#EXTINF:-1,ES-HOLLYWOOD HD
+http://151.80.29.203:9900/live/Julian/Julian/8217.ts
+#EXTINF:-1,ES-HISTORIA
+http://151.80.29.203:9900/live/Julian/Julian/8219.ts
+#EXTINF:-1,ES-FRANCE 24-EN
+http://151.80.29.203:9900/live/Julian/Julian/8220.ts
+#EXTINF:-1,ES-FOX LIFE HD
+http://151.80.29.203:9900/live/Julian/Julian/8221.ts
+#EXTINF:-1,ES-FOX LIFE
+http://151.80.29.203:9900/live/Julian/Julian/8222.ts
+#EXTINF:-1,ES-FOX HD
+http://151.80.29.203:9900/live/Julian/Julian/8223.ts
+#EXTINF:-1,ES-FOX
+http://151.80.29.203:9900/live/Julian/Julian/8224.ts
+#EXTINF:-1,ES-EUROSPORT 2
+http://151.80.29.203:9900/live/Julian/Julian/8225.ts
+#EXTINF:-1,ES-EUROSPORT 1
+http://151.80.29.203:9900/live/Julian/Julian/8226.ts
+#EXTINF:-1,ES-ES-40 TV
+http://151.80.29.203:9900/live/Julian/Julian/8228.ts
+#EXTINF:-1,ES-ENERGY
+http://151.80.29.203:9900/live/Julian/Julian/8229.ts
+#EXTINF:-1,ES-DIVINITY
+http://151.80.29.203:9900/live/Julian/Julian/8231.ts
+#EXTINF:-1,ES-DISNEY XD
+http://151.80.29.203:9900/live/Julian/Julian/8232.ts
+#EXTINF:-1,ES-DISNEY JR
+http://151.80.29.203:9900/live/Julian/Julian/8233.ts
+#EXTINF:-1,ES-DISNEY CH.
+http://151.80.29.203:9900/live/Julian/Julian/8234.ts
+#EXTINF:-1,ES-DISCOVERY
+http://151.80.29.203:9900/live/Julian/Julian/8235.ts
+#EXTINF:-1,ES-DEPORTES 2
+http://151.80.29.203:9900/live/Julian/Julian/8236.ts
+#EXTINF:-1,ES-DCINE
+http://151.80.29.203:9900/live/Julian/Julian/8237.ts
+#EXTINF:-1,ES-CUATRO HD
+http://151.80.29.203:9900/live/Julian/Julian/8238.ts
+#EXTINF:-1,ES-COSMOPOLITAN HD
+http://151.80.29.203:9900/live/Julian/Julian/8239.ts
+#EXTINF:-1,ES-COSMO
+http://151.80.29.203:9900/live/Julian/Julian/8240.ts
+#EXTINF:-1,ES-CAZA Y PESCA
+http://151.80.29.203:9900/live/Julian/Julian/8242.ts
+#EXTINF:-1,ES-CANAL SUR ANDALUCIA
+http://151.80.29.203:9900/live/Julian/Julian/8243.ts
+#EXTINF:-1,ES-CANAL ODISEA
+http://151.80.29.203:9900/live/Julian/Julian/8244.ts
+#EXTINF:-1,ES-Canal Extremadura SAT
+http://151.80.29.203:9900/live/Julian/Julian/8245.ts
+#EXTINF:-1,ES-CALLE 13
+http://151.80.29.203:9900/live/Julian/Julian/8248.ts
+#EXTINF:-1,ES-C&I
+http://151.80.29.203:9900/live/Julian/Julian/8249.ts
+#EXTINF:-1,ES-C COMEDIA HD
+http://151.80.29.203:9900/live/Julian/Julian/8250.ts
+#EXTINF:-1,ES-C  SERIESXTRA
+http://151.80.29.203:9900/live/Julian/Julian/8251.ts
+#EXTINF:-1,ES-C  Series Xtra HD
+http://151.80.29.203:9900/live/Julian/Julian/8252.ts
+#EXTINF:-1,ES-C  SERIES HD
+http://151.80.29.203:9900/live/Julian/Julian/8253.ts
+#EXTINF:-1,ES-C  SERIES
+http://151.80.29.203:9900/live/Julian/Julian/8254.ts
+#EXTINF:-1,ES-C  PORTADA
+http://151.80.29.203:9900/live/Julian/Julian/8255.ts
+#EXTINF:-1,ES-C  LIGA
+http://151.80.29.203:9900/live/Julian/Julian/8256.ts
+#EXTINF:-1,ES-C  GOLF HD
+http://151.80.29.203:9900/live/Julian/Julian/8257.ts
+#EXTINF:-1,ES-C  GOLF
+http://151.80.29.203:9900/live/Julian/Julian/8258.ts
+#EXTINF:-1,ES-C  FUTBOL HD
+http://151.80.29.203:9900/live/Julian/Julian/8259.ts
+#EXTINF:-1,ES-C  FTBOL
+http://151.80.29.203:9900/live/Julian/Julian/8260.ts
+#EXTINF:-1,ES-C  DEPORTES
+http://151.80.29.203:9900/live/Julian/Julian/8262.ts
+#EXTINF:-1,ES-C  DCINE HD
+http://151.80.29.203:9900/live/Julian/Julian/8263.ts
+#EXTINF:-1,ES-C  ACCI©N HD
+http://151.80.29.203:9900/live/Julian/Julian/8265.ts
+#EXTINF:-1,ES-BOING
+http://151.80.29.203:9900/live/Julian/Julian/8267.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 9
+http://151.80.29.203:9900/live/Julian/Julian/8268.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 8
+http://151.80.29.203:9900/live/Julian/Julian/8269.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 7
+http://151.80.29.203:9900/live/Julian/Julian/8270.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 6
+http://151.80.29.203:9900/live/Julian/Julian/8271.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 5
+http://151.80.29.203:9900/live/Julian/Julian/8272.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 4
+http://151.80.29.203:9900/live/Julian/Julian/8273.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 3
+http://151.80.29.203:9900/live/Julian/Julian/8274.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 2
+http://151.80.29.203:9900/live/Julian/Julian/8275.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 10
+http://151.80.29.203:9900/live/Julian/Julian/8276.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 1
+http://151.80.29.203:9900/live/Julian/Julian/8277.ts
+#EXTINF:-1,ES-BAR TV
+http://151.80.29.203:9900/live/Julian/Julian/8280.ts
+#EXTINF:-1,ES-BABY TV
+http://151.80.29.203:9900/live/Julian/Julian/8281.ts
+#EXTINF:-1,ES-AXN WHITE
+http://151.80.29.203:9900/live/Julian/Julian/8282.ts
+#EXTINF:-1,ES-AXN HD
+http://151.80.29.203:9900/live/Julian/Julian/8283.ts
+#EXTINF:-1,ES-AXN
+http://151.80.29.203:9900/live/Julian/Julian/8284.ts
+#EXTINF:-1,ES-ARAGON TV
+http://151.80.29.203:9900/live/Julian/Julian/8285.ts
+#EXTINF:-1,ES-ANTENA 3 HD
+http://151.80.29.203:9900/live/Julian/Julian/8286.ts
+#EXTINF:-1,ES-ANTENA 3
+http://151.80.29.203:9900/live/Julian/Julian/8287.ts
+#EXTINF:-1,ES-AMC HD
+http://151.80.29.203:9900/live/Julian/Julian/8288.ts
+#EXTINF:-1,ES-AJE
+http://151.80.29.203:9900/live/Julian/Julian/8290.ts
+#EXTINF:-1,ES-A&E
+http://151.80.29.203:9900/live/Julian/Julian/8291.ts
+#EXTINF:-1,ES-24 HORAS
+http://151.80.29.203:9900/live/Julian/Julian/8292.ts
+#EXTINF:-1,ES-#1
+http://151.80.29.203:9900/live/Julian/Julian/8293.ts
 #EXTINF:-1,♣♣♣♣♣United Kingdom♣♣♣♣♣
 
 http://151.80.29.203:9900/live/Julian/Julian/12480.ts
@@ -3143,294 +3431,6 @@ http://151.80.29.203:9900/live/Julian/Julian/19225.ts
 http://151.80.29.203:9900/live/Julian/Julian/19224.ts
 #EXTINF:-1,◊◊◊◊DIGITALB◊◊◊◊
 http://151.80.29.203:9900/live/Julian/Julian/16444.ts
-#EXTINF:-1,♣♣♣♣♣Spanish♣♣♣♣♣
-http://151.80.29.203:9900/live/Julian/Julian/7448.ts
-#EXTINF:-1,ES-TOROS  HD
-http://151.80.29.203:9900/live/Julian/Julian/19479.ts
-#EXTINF:-1,ES-TOROS
-http://151.80.29.203:9900/live/Julian/Julian/19521.ts
-#EXTINF:-1,ES-TNT
-http://151.80.29.203:9900/live/Julian/Julian/19506.ts
-#EXTINF:-1,ES-Telesur
-http://151.80.29.203:9900/live/Julian/Julian/19507.ts
-#EXTINF:-1,ES-SYFY
-http://151.80.29.203:9900/live/Julian/Julian/19522.ts
-#EXTINF:-1,ES-SKY TG24
-http://151.80.29.203:9900/live/Julian/Julian/19480.ts
-#EXTINF:-1,ES-RT DOC
-http://151.80.29.203:9900/live/Julian/Julian/19481.ts
-#EXTINF:-1,ES-REAL MADRID TV
-http://151.80.29.203:9900/live/Julian/Julian/19508.ts
-#EXTINF:-1,ES-RAI NEWS24
-http://151.80.29.203:9900/live/Julian/Julian/19482.ts
-#EXTINF:-1,ES-QUATRO
-http://151.80.29.203:9900/live/Julian/Julian/19509.ts
-#EXTINF:-1,ES-Parlamento
-http://151.80.29.203:9900/live/Julian/Julian/19510.ts
-#EXTINF:-1,ES-PANDA
-http://151.80.29.203:9900/live/Julian/Julian/19523.ts
-#EXTINF:-1,ES-NICK JR
-http://151.80.29.203:9900/live/Julian/Julian/19483.ts
-#EXTINF:-1,ES-NEOX
-http://151.80.29.203:9900/live/Julian/Julian/19524.ts
-#EXTINF:-1,ES-MULTIDEPORTE
-http://151.80.29.203:9900/live/Julian/Julian/19484.ts
-#EXTINF:-1,ES-LOS 40
-http://151.80.29.203:9900/live/Julian/Julian/19511.ts
-#EXTINF:-1,ES-LALIGA TV BAR HD
-http://151.80.29.203:9900/live/Julian/Julian/19512.ts
-#EXTINF:-1,ES-LALIGA TV BAR
-http://151.80.29.203:9900/live/Julian/Julian/19513.ts
-#EXTINF:-1,ES-IBERALIA TV
-http://151.80.29.203:9900/live/Julian/Julian/19525.ts
-#EXTINF:-1,ES-HOLLYWOOD
-http://151.80.29.203:9900/live/Julian/Julian/19526.ts
-#EXTINF:-1,ES-HISTORY
-http://151.80.29.203:9900/live/Julian/Julian/19485.ts
-#EXTINF:-1,ES-GolTV
-http://151.80.29.203:9900/live/Julian/Julian/19486.ts
-#EXTINF:-1,ES-FOX NEWS
-http://151.80.29.203:9900/live/Julian/Julian/19487.ts
-#EXTINF:-1,ES-FDF
-http://151.80.29.203:9900/live/Julian/Julian/19488.ts
-#EXTINF:-1,ES-eurosport hd
-http://151.80.29.203:9900/live/Julian/Julian/19489.ts
-#EXTINF:-1,ES-ESTRELAS
-http://151.80.29.203:9900/live/Julian/Julian/19514.ts
-#EXTINF:-1,ES-EHS
-http://151.80.29.203:9900/live/Julian/Julian/19527.ts
-#EXTINF:-1,ES-DISNEY CHANNEL HD
-http://151.80.29.203:9900/live/Julian/Julian/19490.ts
-#EXTINF:-1,ES-DISCOVERY CHANNEL
-http://151.80.29.203:9900/live/Julian/Julian/19491.ts
-#EXTINF:-1,ES-CUATRO
-http://151.80.29.203:9900/live/Julian/Julian/19492.ts
-#EXTINF:-1,ES-COMEDY CENTRAL HD
-http://151.80.29.203:9900/live/Julian/Julian/19515.ts
-#EXTINF:-1,ES-CLASSICA
-http://151.80.29.203:9900/live/Julian/Julian/19493.ts
-#EXTINF:-1,ES-CLAN TVE
-http://151.80.29.203:9900/live/Julian/Julian/19494.ts
-#EXTINF:-1,ES-CAZA Y PESCA HD
-http://151.80.29.203:9900/live/Julian/Julian/19516.ts
-#EXTINF:-1,ES-CASTILLA LA MANCHA
-http://151.80.29.203:9900/live/Julian/Julian/19495.ts
-#EXTINF:-1,ES-CANAL DECASA
-http://151.80.29.203:9900/live/Julian/Julian/19528.ts
-#EXTINF:-1,ES-CANAL COCINA
-http://151.80.29.203:9900/live/Julian/Julian/19517.ts
-#EXTINF:-1,ES-CALLE 13 HD
-http://151.80.29.203:9900/live/Julian/Julian/19496.ts
-#EXTINF:-1,ES-C XTRA
-http://151.80.29.203:9900/live/Julian/Julian/19529.ts
-#EXTINF:-1,ES-C & I
-http://151.80.29.203:9900/live/Julian/Julian/19497.ts
-#EXTINF:-1,ES-C  COMEDIA
-http://151.80.29.203:9900/live/Julian/Julian/19530.ts
-#EXTINF:-1,ES-BLOOMBERG TV
-http://151.80.29.203:9900/live/Julian/Julian/19498.ts
-#EXTINF:-1,ES-BEIN SPORT HD
-http://151.80.29.203:9900/live/Julian/Julian/19499.ts
-#EXTINF:-1,ES-BEIN SPORT
-http://151.80.29.203:9900/live/Julian/Julian/19500.ts
-#EXTINF:-1,ES-BEIN LALIGA HD
-http://151.80.29.203:9900/live/Julian/Julian/19518.ts
-#EXTINF:-1,ES-BEIN LALIGA
-http://151.80.29.203:9900/live/Julian/Julian/19519.ts
-#EXTINF:-1,ES-Bar?a TV
-http://151.80.29.203:9900/live/Julian/Julian/19501.ts
-#EXTINF:-1,ES-AXN WHITE HD
-http://151.80.29.203:9900/live/Julian/Julian/19502.ts
-#EXTINF:-1,ES-ARIRANG WORLD
-http://151.80.29.203:9900/live/Julian/Julian/19503.ts
-#EXTINF:-1,ES-AMC
-http://151.80.29.203:9900/live/Julian/Julian/19520.ts
-#EXTINF:-1,ES-Al Jazeera
-http://151.80.29.203:9900/live/Julian/Julian/19504.ts
-#EXTINF:-1,ES-#1 HD
-http://151.80.29.203:9900/live/Julian/Julian/19505.ts
-#EXTINF:-1,ES-TNT HD
-http://151.80.29.203:9900/live/Julian/Julian/8185.ts
-#EXTINF:-1,ES-TELEDEPORTE
-http://151.80.29.203:9900/live/Julian/Julian/8187.ts
-#EXTINF:-1,ES-TELECINCO HD
-http://151.80.29.203:9900/live/Julian/Julian/8188.ts
-#EXTINF:-1,ES-TELECINCO
-http://151.80.29.203:9900/live/Julian/Julian/8189.ts
-#EXTINF:-1,ES-TCM HD
-http://151.80.29.203:9900/live/Julian/Julian/8190.ts
-#EXTINF:-1,ES-TCM
-http://151.80.29.203:9900/live/Julian/Julian/8191.ts
-#EXTINF:-1,ES-RT NEWS ENG
-http://151.80.29.203:9900/live/Julian/Julian/8193.ts
-#EXTINF:-1,ES-RT
-http://151.80.29.203:9900/live/Julian/Julian/8194.ts
-#EXTINF:-1,ES-PLAYBOY TV
-http://151.80.29.203:9900/live/Julian/Julian/8196.ts
-#EXTINF:-1,ES-PARAMOUNT
-http://151.80.29.203:9900/live/Julian/Julian/8197.ts
-#EXTINF:-1,ES-NOVA
-http://151.80.29.203:9900/live/Julian/Julian/8199.ts
-#EXTINF:-1,ES-Nickelodeon
-http://151.80.29.203:9900/live/Julian/Julian/8200.ts
-#EXTINF:-1,ES-NHK WORLD
-http://151.80.29.203:9900/live/Julian/Julian/8201.ts
-#EXTINF:-1,ES-NAT GEOGRAPH
-http://151.80.29.203:9900/live/Julian/Julian/8203.ts
-#EXTINF:-1,ES-NAT GEO WILD HD
-http://151.80.29.203:9900/live/Julian/Julian/8204.ts
-#EXTINF:-1,ES-NAT GEO WILD
-http://151.80.29.203:9900/live/Julian/Julian/8205.ts
-#EXTINF:-1,ES-MOVISTAR F1 HD
-http://151.80.29.203:9900/live/Julian/Julian/8206.ts
-#EXTINF:-1,ES-MOTOGP HD
-http://151.80.29.203:9900/live/Julian/Julian/8207.ts
-#EXTINF:-1,ES-MOTO GP
-http://151.80.29.203:9900/live/Julian/Julian/8208.ts
-#EXTINF:-1,ES-LTC
-http://151.80.29.203:9900/live/Julian/Julian/8209.ts
-#EXTINF:-1,ES-LIGA HD
-http://151.80.29.203:9900/live/Julian/Julian/8210.ts
-#EXTINF:-1,ES-LA SEXTA HD
-http://151.80.29.203:9900/live/Julian/Julian/8212.ts
-#EXTINF:-1,ES-LA SEXTA
-http://151.80.29.203:9900/live/Julian/Julian/8213.ts
-#EXTINF:-1,ES-LA 2
-http://151.80.29.203:9900/live/Julian/Julian/8214.ts
-#EXTINF:-1,ES-LA 1 HD
-http://151.80.29.203:9900/live/Julian/Julian/8215.ts
-#EXTINF:-1,ES-LA 1
-http://151.80.29.203:9900/live/Julian/Julian/8216.ts
-#EXTINF:-1,ES-HOLLYWOOD HD
-http://151.80.29.203:9900/live/Julian/Julian/8217.ts
-#EXTINF:-1,ES-HISTORIA
-http://151.80.29.203:9900/live/Julian/Julian/8219.ts
-#EXTINF:-1,ES-FRANCE 24-EN
-http://151.80.29.203:9900/live/Julian/Julian/8220.ts
-#EXTINF:-1,ES-FOX LIFE HD
-http://151.80.29.203:9900/live/Julian/Julian/8221.ts
-#EXTINF:-1,ES-FOX LIFE
-http://151.80.29.203:9900/live/Julian/Julian/8222.ts
-#EXTINF:-1,ES-FOX HD
-http://151.80.29.203:9900/live/Julian/Julian/8223.ts
-#EXTINF:-1,ES-FOX
-http://151.80.29.203:9900/live/Julian/Julian/8224.ts
-#EXTINF:-1,ES-EUROSPORT 2
-http://151.80.29.203:9900/live/Julian/Julian/8225.ts
-#EXTINF:-1,ES-EUROSPORT 1
-http://151.80.29.203:9900/live/Julian/Julian/8226.ts
-#EXTINF:-1,ES-ES-40 TV
-http://151.80.29.203:9900/live/Julian/Julian/8228.ts
-#EXTINF:-1,ES-ENERGY
-http://151.80.29.203:9900/live/Julian/Julian/8229.ts
-#EXTINF:-1,ES-DIVINITY
-http://151.80.29.203:9900/live/Julian/Julian/8231.ts
-#EXTINF:-1,ES-DISNEY XD
-http://151.80.29.203:9900/live/Julian/Julian/8232.ts
-#EXTINF:-1,ES-DISNEY JR
-http://151.80.29.203:9900/live/Julian/Julian/8233.ts
-#EXTINF:-1,ES-DISNEY CH.
-http://151.80.29.203:9900/live/Julian/Julian/8234.ts
-#EXTINF:-1,ES-DISCOVERY
-http://151.80.29.203:9900/live/Julian/Julian/8235.ts
-#EXTINF:-1,ES-DEPORTES 2
-http://151.80.29.203:9900/live/Julian/Julian/8236.ts
-#EXTINF:-1,ES-DCINE
-http://151.80.29.203:9900/live/Julian/Julian/8237.ts
-#EXTINF:-1,ES-CUATRO HD
-http://151.80.29.203:9900/live/Julian/Julian/8238.ts
-#EXTINF:-1,ES-COSMOPOLITAN HD
-http://151.80.29.203:9900/live/Julian/Julian/8239.ts
-#EXTINF:-1,ES-COSMO
-http://151.80.29.203:9900/live/Julian/Julian/8240.ts
-#EXTINF:-1,ES-CAZA Y PESCA
-http://151.80.29.203:9900/live/Julian/Julian/8242.ts
-#EXTINF:-1,ES-CANAL SUR ANDALUCIA
-http://151.80.29.203:9900/live/Julian/Julian/8243.ts
-#EXTINF:-1,ES-CANAL ODISEA
-http://151.80.29.203:9900/live/Julian/Julian/8244.ts
-#EXTINF:-1,ES-Canal Extremadura SAT
-http://151.80.29.203:9900/live/Julian/Julian/8245.ts
-#EXTINF:-1,ES-CALLE 13
-http://151.80.29.203:9900/live/Julian/Julian/8248.ts
-#EXTINF:-1,ES-C&I
-http://151.80.29.203:9900/live/Julian/Julian/8249.ts
-#EXTINF:-1,ES-C COMEDIA HD
-http://151.80.29.203:9900/live/Julian/Julian/8250.ts
-#EXTINF:-1,ES-C  SERIESXTRA
-http://151.80.29.203:9900/live/Julian/Julian/8251.ts
-#EXTINF:-1,ES-C  Series Xtra HD
-http://151.80.29.203:9900/live/Julian/Julian/8252.ts
-#EXTINF:-1,ES-C  SERIES HD
-http://151.80.29.203:9900/live/Julian/Julian/8253.ts
-#EXTINF:-1,ES-C  SERIES
-http://151.80.29.203:9900/live/Julian/Julian/8254.ts
-#EXTINF:-1,ES-C  PORTADA
-http://151.80.29.203:9900/live/Julian/Julian/8255.ts
-#EXTINF:-1,ES-C  LIGA
-http://151.80.29.203:9900/live/Julian/Julian/8256.ts
-#EXTINF:-1,ES-C  GOLF HD
-http://151.80.29.203:9900/live/Julian/Julian/8257.ts
-#EXTINF:-1,ES-C  GOLF
-http://151.80.29.203:9900/live/Julian/Julian/8258.ts
-#EXTINF:-1,ES-C  FUTBOL HD
-http://151.80.29.203:9900/live/Julian/Julian/8259.ts
-#EXTINF:-1,ES-C  FTBOL
-http://151.80.29.203:9900/live/Julian/Julian/8260.ts
-#EXTINF:-1,ES-C  DEPORTES
-http://151.80.29.203:9900/live/Julian/Julian/8262.ts
-#EXTINF:-1,ES-C  DCINE HD
-http://151.80.29.203:9900/live/Julian/Julian/8263.ts
-#EXTINF:-1,ES-C  ACCI©N HD
-http://151.80.29.203:9900/live/Julian/Julian/8265.ts
-#EXTINF:-1,ES-BOING
-http://151.80.29.203:9900/live/Julian/Julian/8267.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 9
-http://151.80.29.203:9900/live/Julian/Julian/8268.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 8
-http://151.80.29.203:9900/live/Julian/Julian/8269.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 7
-http://151.80.29.203:9900/live/Julian/Julian/8270.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 6
-http://151.80.29.203:9900/live/Julian/Julian/8271.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 5
-http://151.80.29.203:9900/live/Julian/Julian/8272.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 4
-http://151.80.29.203:9900/live/Julian/Julian/8273.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 3
-http://151.80.29.203:9900/live/Julian/Julian/8274.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 2
-http://151.80.29.203:9900/live/Julian/Julian/8275.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 10
-http://151.80.29.203:9900/live/Julian/Julian/8276.ts
-#EXTINF:-1,ES-BEIN SPORT MAX 1
-http://151.80.29.203:9900/live/Julian/Julian/8277.ts
-#EXTINF:-1,ES-BAR TV
-http://151.80.29.203:9900/live/Julian/Julian/8280.ts
-#EXTINF:-1,ES-BABY TV
-http://151.80.29.203:9900/live/Julian/Julian/8281.ts
-#EXTINF:-1,ES-AXN WHITE
-http://151.80.29.203:9900/live/Julian/Julian/8282.ts
-#EXTINF:-1,ES-AXN HD
-http://151.80.29.203:9900/live/Julian/Julian/8283.ts
-#EXTINF:-1,ES-AXN
-http://151.80.29.203:9900/live/Julian/Julian/8284.ts
-#EXTINF:-1,ES-ARAGON TV
-http://151.80.29.203:9900/live/Julian/Julian/8285.ts
-#EXTINF:-1,ES-ANTENA 3 HD
-http://151.80.29.203:9900/live/Julian/Julian/8286.ts
-#EXTINF:-1,ES-ANTENA 3
-http://151.80.29.203:9900/live/Julian/Julian/8287.ts
-#EXTINF:-1,ES-AMC HD
-http://151.80.29.203:9900/live/Julian/Julian/8288.ts
-#EXTINF:-1,ES-AJE
-http://151.80.29.203:9900/live/Julian/Julian/8290.ts
-#EXTINF:-1,ES-A&E
-http://151.80.29.203:9900/live/Julian/Julian/8291.ts
-#EXTINF:-1,ES-24 HORAS
-http://151.80.29.203:9900/live/Julian/Julian/8292.ts
-#EXTINF:-1,ES-#1
-http://151.80.29.203:9900/live/Julian/Julian/8293.ts
 #EXTINF:-1,♣♣♣♣♣RU Channels♣♣♣♣♣
 http://151.80.29.203:9900/live/Julian/Julian/7446.ts
 #EXTINF:-1,RU: TV1000 Action
@@ -4753,4 +4753,475 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 
 #EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
-
+#EXTINF:1,Canal + HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1141.ts
+#EXTINF:1,CANAL +
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1416.ts
+#EXTINF:1,CANAL+ ESTRENOS HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1510.ts
+#EXTINF:1,CANAL+ Estrenos Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/10.ts
+#EXTINF:1,CANAL+ Xtra HD SPAIN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/540.ts
+#EXTINF:1,CANAL+ Series Xtra HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/222.ts
+#EXTINF:1,CANAL+ ACCIÓN HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1511.ts
+#EXTINF:1,C+ Accion
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/2.ts
+#EXTINF:1,C+ COMEDIA HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/223.ts
+#EXTINF:1,CANAL+ DCINE HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1512.ts
+#EXTINF:1,CANAL+ DCINE
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/324.ts
+#EXTINF:1,DCINE ESPAÑOL
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/539.ts
+#EXTINF:1,Canal+ Multi Liga
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1677.ts
+#EXTINF:1,ABONO FUTBOL MULTI HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1297.ts
+#EXTINF:1,CANAL+ LIGA HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1040.ts
+#EXTINF:1,ABONO FUTBOL HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1572.ts
+#EXTINF:1,Canal + Liga 2 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1644.ts
+#EXTINF:1,C+ Liga
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/5.ts
+#EXTINF:1,Canal + Liga 2 Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1543.ts
+#EXTINF:1,C + PARTIDAZO HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/536.ts
+#EXTINF:1,BEIN SPORTS HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1682.ts
+#EXTINF:1,BeinSport HD spain 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1683.ts
+#EXTINF:1,BEINSPORTS MAX 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1684.ts
+#EXTINF:1,BEIN SPORTS Spain Baja Calidad
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1685.ts
+#EXTINF:1,BEIN SPORTS Ñ HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/734.ts
+#EXTINF:1,C+ LIGA 2 A Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1646.ts
+#EXTINF:1,C+ LIGA 2 B Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1647.ts
+#EXTINF:1,C+Liga 2 c spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1528.ts
+#EXTINF:1,C+Liga 2 d Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1529.ts
+#EXTINF:1,C+ Futbol HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1643.ts
+#EXTINF:1,C+ FUTBOL
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/219.ts
+#EXTINF:1,CANAL+ DEPORTES HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1655.ts
+#EXTINF:1,C+ DEPORTES
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/218.ts
+#EXTINF:1,C + DEPORTES 2 HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/627.ts
+#EXTINF:1,Canal+ Deportes 2 spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1415.ts
+#EXTINF:1,Canal Documentales spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/252.ts
+#EXTINF:1,Teledeporte
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/790.ts
+#EXTINF:1,Movistar Fórmula1 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/49.ts
+#EXTINF:1,Movistar Moto Gp HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/48.ts
+#EXTINF:1,CANAL+ GOLF HD spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1681.ts
+#EXTINF:1,CANAL+ GOLF spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/220.ts
+#EXTINF:1,BARÇA TV .CAT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/498.ts
+#EXTINF:1,BARÇA TV Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1941.ts
+#EXTINF:1,C + Real Madrid
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/50.ts
+#EXTINF:1,C+ Toros HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/178.ts
+#EXTINF:1,AMC HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1418.ts
+#EXTINF:1,National Geographic HD spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1656.ts
+#EXTINF:1,National Geographic ES
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/18.ts
+#EXTINF:1,NatGeo Wild HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/492.ts
+#EXTINF:1,Discovery Ch _Es
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1082.ts
+#EXTINF:1,Discovery CI Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1413.ts
+#EXTINF:1,Discovery MAX Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1061.ts
+#EXTINF:1,Viajar HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1680.ts
+#EXTINF:1,Viajar
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/519.ts
+#EXTINF:1,HISTORIA Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/59.ts
+#EXTINF:1,DECASA ES
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1137.ts
+#EXTINF:1,A&E
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/46.ts
+#EXTINF:1,Caza y Pesca
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/250.ts
+#EXTINF:1,Iberalia TV spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1414.ts
+#EXTINF:1,ANIMAL PLANET HD EN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/22.ts
+#EXTINF:1,ODISEA
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/538.ts
+#EXTINF:1,Hollywood HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/41.ts
+#EXTINF:1,C+ Calle 13 HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/232.ts
+#EXTINF:1,Canal+ Series HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1142.ts
+#EXTINF:1,TCM ES
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1138.ts
+#EXTINF:1,TNT HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1151.ts
+#EXTINF:1,FDF
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1068.ts
+#EXTINF:1,Xtrm spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1200.ts
+#EXTINF:1,Comedy central HD spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/520.ts
+#EXTINF:1,Comedy central spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1928.ts
+#EXTINF:1,Canal Cocina spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/43.ts
+#EXTINF:1,Syfy HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1085.ts
+#EXTINF:1,Cosmopolitan
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/251.ts
+#EXTINF:1,Cosmopolitan HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1853.ts
+#EXTINF:1,AXN HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/282.ts
+#EXTINF:1,AXN White HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1060.ts
+#EXTINF:1,Fox HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/19.ts
+#EXTINF:1,Fox Crime Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1501.ts
+#EXTINF:1,Fox Life HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/542.ts
+#EXTINF:1,Eurosport HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/7.ts
+#EXTINF:1,Eurosport Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1930.ts
+#EXTINF:1,Eurosport 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/15.ts
+#EXTINF:1,Sport 3 .cat
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1172.ts
+#EXTINF:1,Sport 3. cat HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1686.ts
+#EXTINF:1,Super3 / 33 .cat
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1305.ts
+#EXTINF:1,TV3 . CAT HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1134.ts
+#EXTINF:1,3/24 .Cat
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1184.ts
+#EXTINF:1,8 TV .CAT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1943.ts
+#EXTINF:1,La 1 Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/216.ts
+#EXTINF:1,LA 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/235.ts
+#EXTINF:1,Antena 3 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/17.ts
+#EXTINF:1,Cuatro HD spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/243.ts
+#EXTINF:1,Tele 5 HD spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/224.ts
+#EXTINF:1,La Sexta HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/63.ts
+#EXTINF:1,MEGA spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/47.ts
+#EXTINF:1,13 TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/245.ts
+#EXTINF:1,Nova tv
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/551.ts
+#EXTINF:1,CANAL SUR ANDALUCIA SPAIN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1344.ts
+#EXTINF:1,CNN Esp
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/526.ts
+#EXTINF:1,Sky 3 D
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/831.ts
+#EXTINF:1,MOTORS TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/198.ts
+#EXTINF:1,EDGE SPORTS
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1181.ts
+#EXTINF:1,AB MOTEUR -FR
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1310.ts
+#EXTINF:1,Fuel TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/516.ts
+#EXTINF:1,PT-WOOHOO
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1527.ts
+#EXTINF:1,PT: Sport TV 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1110.ts
+#EXTINF:1,PT: Sport TV 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1111.ts
+#EXTINF:1,PT: Sport TV 3
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1112.ts
+#EXTINF:1,PT: Sport TV 4
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1113.ts
+#EXTINF:1,PT: Sport.TV5
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1179.ts
+#EXTINF:1,Sport Time TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/509.ts
+#EXTINF:1,sport Time TV 2 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/510.ts
+#EXTINF:1,SPORT TIME TV 3 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1257.ts
+#EXTINF:1,SPORT TIME TV 4 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1258.ts
+#EXTINF:1,SPORT TIME TV 6 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1260.ts
+#EXTINF:1,SPORT TIME TV 5 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1259.ts
+#EXTINF:1,SPORT TIME TV 7 .de
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1261.ts
+#EXTINF:1,NBA TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/253.ts
+#EXTINF:1,RTVE 24 HORAS
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/204.ts
+#EXTINF:1,Andalucia TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/227.ts
+#EXTINF:1,IB 3
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/25.ts
+#EXTINF:1,Girona TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1149.ts
+#EXTINF:1,TV GALICIA
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/237.ts
+#EXTINF:1,Telesur
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/196.ts
+#EXTINF:1,Aragon TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/225.ts
+#EXTINF:1,Extremadura tv
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/594.ts
+#EXTINF:1,ETB
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/768.ts
+#EXTINF:1,LUX MALLORCA TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1171.ts
+#EXTINF:1,Playboy
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/491.ts
+#EXTINF:1,40 TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1139.ts
+#EXTINF:1,Solo Musica Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/541.ts
+#EXTINF:1,IBIZA ON TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/230.ts
+#EXTINF:1,CLUBBINC
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/226.ts
+#EXTINF:1,MTV Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/249.ts
+#EXTINF:1,MTV HD -EN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1299.ts
+#EXTINF:1,First Music HD 1080p
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/582.ts
+#EXTINF:1,RADIO MONTECARLO TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/233.ts
+#EXTINF:1,Kiss TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/228.ts
+#EXTINF:1,4 Music
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/544.ts
+#EXTINF:1,Travel Channel
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/515.ts
+#EXTINF:1,FASHION TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/234.ts
+#EXTINF:1,HGTV US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1560.ts
+#EXTINF:1,DISNEY CHANNEL
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/153.ts
+#EXTINF:1,DIisney Junior Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1412.ts
+#EXTINF:1,Nickelodeon HD Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1143.ts
+#EXTINF:1,Boing Spain
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1144.ts
+#EXTINF:1,Ultimate Disc TV
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/513.ts
+#EXTINF:1,HD Latino
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/195.ts
+#EXTINF:1,DISNEY JR
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/535.ts
+#EXTINF:1,EXTREME SPORTS
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/23.ts
+#EXTINF:1,SPORTS SN 360
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/229.ts
+#EXTINF:1,REAL MADRID HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/248.ts
+#EXTINF:1,TSN1 HD US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1568.ts
+#EXTINF:1,TSN2 HD US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1569.ts
+#EXTINF:1,TSN3 HD US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1571.ts
+#EXTINF:1,Fox Sports
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/8.ts
+#EXTINF:1,Fox Sports 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/9.ts
+#EXTINF:1,UK: ESPN HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/977.ts
+#EXTINF:1,ESPN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/13.ts
+#EXTINF:1,ESPN 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/14.ts
+#EXTINF:1,NL- Sport 1 Voetbal HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/565.ts
+#EXTINF:1,NL- Sport1 Select
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/159.ts
+#EXTINF:1,IT- SKY MOTO GP HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/183.ts
+#EXTINF:1,IT- SKY SPORT F1 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/182.ts
+#EXTINF:1,SKY DE _ SPORT 1 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/118.ts
+#EXTINF:1,SKY DE - SPORT 2 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/119.ts
+#EXTINF:1,SKY DE - BUNDESLIGA HD 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/120.ts
+#EXTINF:1,UK: MTV Hits
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/990.ts
+#EXTINF:1,UK: MTV Live HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/991.ts
+#EXTINF:1,SRF Eins HD _Ch
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1168.ts
+#EXTINF:1,SRF Zwei HD _Ch
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1169.ts
+#EXTINF:1,Tele Zürich HD CH
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1185.ts
+#EXTINF:1,ORF Zwei .AT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1263.ts
+#EXTINF:1,ORF EINS .AT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1262.ts
+#EXTINF:1,UK: Sky Sports 2 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1010.ts
+#EXTINF:1,UK: Sky Sports 1 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1009.ts
+#EXTINF:1,Fox HD _EN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/150.ts
+#EXTINF:1,Encore Arizona
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/11.ts
+#EXTINF:1,SE: VIASAT MOTOR
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/3.ts
+#EXTINF:1,Sky Premiere Sports US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/12.ts
+#EXTINF:1,FIGHT CHANNEL
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/512.ts
+#EXTINF:1,Sky Sports 4 HD US
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/511.ts
+#EXTINF:1,LIVE BOXING
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/517.ts
+#EXTINF:1,ESPN LATINO
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/44.ts
+#EXTINF:1,Dyscovery Ch
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1.ts
+#EXTINF:1,Nat geo Wild
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/45.ts
+#EXTINF:1,Discovery ID _EN
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/20.ts
+#EXTINF:1,Taquilla 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1506.ts
+#EXTINF:1,Taquiila 2
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/61.mkv
+#EXTINF:1,Taquiila 3
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/60.mkv
+#EXTINF:1,Taquiila 4
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/62.mkv
+#EXTINF:1,Taquilla 5
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1507.ts
+#EXTINF:1,Taquilla 7
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/185.mkv
+#EXTINF:1,Taquilla 8
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/186.mkv
+#EXTINF:1,TaquiilaX
+http://maxspeed.from-me.org:8000/movie/Oscar6/oscar6/42.mkv
+#EXTINF:1,Taquilla X a la Española
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1654.ts
+#EXTINF:1,AR- BEINSPORT 3 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/126.ts
+#EXTINF:1,AR- BEINSPORT 4 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/128.ts
+#EXTINF:1,AR- BEINSPORT 5 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/129.ts
+#EXTINF:1,AR- BEINSPORT 6 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/130.ts
+#EXTINF:1,AR- BEINSPORT 7 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/131.ts
+#EXTINF:1,AR- BEINSPORT 8 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/132.ts
+#EXTINF:1,AR- BEINSPORT 9 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/133.ts
+#EXTINF:1,AR- BEINSPORT 10 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/134.ts
+#EXTINF:1,AR- BEINSPORT 11 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/135.ts
+#EXTINF:1,AR- BEINSPORT 12 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/136.ts
+#EXTINF:1,AR- BEINSPORT 13 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/137.ts
+#EXTINF:1,AR- BEINSPORT 14 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/138.ts
+#EXTINF:1,AR- BEINSPORT 15 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/139.ts
+#EXTINF:1,BEINSPORT 16 HD -AR ES
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1440.ts
+#EXTINF:1,UK: ITV 1 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/983.ts
+#EXTINF:1,UK: ITV 2 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/984.ts
+#EXTINF:1,UK: ITV 3 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/985.ts
+#EXTINF:1,UK: ITV 4 HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/986.ts
+#EXTINF:1,SE: Svt 1
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1193.ts
+#EXTINF:1,SE: Svt 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1192.ts
+#EXTINF:1,SE: TV3
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1194.ts
+#EXTINF:1,SE: TV4
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1198.ts
+#EXTINF:1,SE: TV4 FAKTA
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1332.ts
+#EXTINF:1,SE: TV6
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1331.ts
+#EXTINF:1,SE: TV8 SW
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1563.ts
+#EXTINF:1,SE: C More Series
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1195.ts
+#EXTINF:1,SE: C More Action
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1196.ts
+#EXTINF:1,SE: C MORE SPORT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1333.ts
+#EXTINF:1,SE: C MORE LIVE 2
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1336.ts
+#EXTINF:1,SE: C MORE LIVE 3
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1335.ts
+#EXTINF:1,SE: C MORE LIVE 4
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1334.ts
+#EXTINF:1,SE: C MORE HITS
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1338.ts
+#EXTINF:1,SE: C MORE FOOTBAL HD
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1339.ts
+#EXTINF:1,SE: C MORE FIRST
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1340.ts
+#EXTINF:1,SE: VIASAT SPORT
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1197.ts
+#EXTINF:1,SE: VIASAT HOCKEY
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1509.ts
+#EXTINF:1,SE: VIASAT FILM DRAMA
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1328.ts
+#EXTINF:1,SE: VIASAT FILM
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1329.ts
+#EXTINF:1,SE: VIASAT ACTION
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1330.ts
+#EXTINF:1,SE: VIASAT HISTORY
+http://maxspeed.from-me.org:8000/live/Oscar6/oscar6/1327.ts
