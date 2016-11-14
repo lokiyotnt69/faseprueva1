@@ -1,293 +1,515 @@
 #EXTM3U
-#EXTINF:-1,[I][B][COLOR orange]------------------- JHG.MASTER --------------------[/COLOR][/B][/I]
-#EXTINF:-1,♣♣♣♣♣Spanish♣♣♣♣♣
-http://151.80.29.203:9900/live/Julian/Julian/7448.ts
+#EXTINF:-1,[I][B][COLOR blue]------------------- JHG.MASTER ------14-11-2016--------------[/COLOR][/B][/I]
+#EXTINF:-1,â™£â™£â™£â™£â™£Spanishâ™£â™£â™£â™£â™£
+http://live.softiptv.com:9900/live/3month/3month/7448.ts
 #EXTINF:-1,ES-TOROS  HD
-http://151.80.29.203:9900/live/Julian/Julian/19479.ts
+http://live.softiptv.com:9900/live/3month/3month/19479.ts
 #EXTINF:-1,ES-TOROS
-http://151.80.29.203:9900/live/Julian/Julian/19521.ts
+http://live.softiptv.com:9900/live/3month/3month/19521.ts
 #EXTINF:-1,ES-TNT
-http://151.80.29.203:9900/live/Julian/Julian/19506.ts
+http://live.softiptv.com:9900/live/3month/3month/19506.ts
 #EXTINF:-1,ES-Telesur
-http://151.80.29.203:9900/live/Julian/Julian/19507.ts
+http://live.softiptv.com:9900/live/3month/3month/19507.ts
 #EXTINF:-1,ES-SYFY
-http://151.80.29.203:9900/live/Julian/Julian/19522.ts
+http://live.softiptv.com:9900/live/3month/3month/19522.ts
 #EXTINF:-1,ES-SKY TG24
-http://151.80.29.203:9900/live/Julian/Julian/19480.ts
+http://live.softiptv.com:9900/live/3month/3month/19480.ts
 #EXTINF:-1,ES-RT DOC
-http://151.80.29.203:9900/live/Julian/Julian/19481.ts
+http://live.softiptv.com:9900/live/3month/3month/19481.ts
 #EXTINF:-1,ES-REAL MADRID TV
-http://151.80.29.203:9900/live/Julian/Julian/19508.ts
+http://live.softiptv.com:9900/live/3month/3month/19508.ts
 #EXTINF:-1,ES-RAI NEWS24
-http://151.80.29.203:9900/live/Julian/Julian/19482.ts
+http://live.softiptv.com:9900/live/3month/3month/19482.ts
 #EXTINF:-1,ES-QUATRO
-http://151.80.29.203:9900/live/Julian/Julian/19509.ts
+http://live.softiptv.com:9900/live/3month/3month/19509.ts
 #EXTINF:-1,ES-Parlamento
-http://151.80.29.203:9900/live/Julian/Julian/19510.ts
+http://live.softiptv.com:9900/live/3month/3month/19510.ts
 #EXTINF:-1,ES-PANDA
-http://151.80.29.203:9900/live/Julian/Julian/19523.ts
+http://live.softiptv.com:9900/live/3month/3month/19523.ts
 #EXTINF:-1,ES-NICK JR
-http://151.80.29.203:9900/live/Julian/Julian/19483.ts
+http://live.softiptv.com:9900/live/3month/3month/19483.ts
 #EXTINF:-1,ES-NEOX
-http://151.80.29.203:9900/live/Julian/Julian/19524.ts
+http://live.softiptv.com:9900/live/3month/3month/19524.ts
 #EXTINF:-1,ES-MULTIDEPORTE
-http://151.80.29.203:9900/live/Julian/Julian/19484.ts
+http://live.softiptv.com:9900/live/3month/3month/19484.ts
 #EXTINF:-1,ES-LOS 40
-http://151.80.29.203:9900/live/Julian/Julian/19511.ts
+http://live.softiptv.com:9900/live/3month/3month/19511.ts
 #EXTINF:-1,ES-LALIGA TV BAR HD
-http://151.80.29.203:9900/live/Julian/Julian/19512.ts
+http://live.softiptv.com:9900/live/3month/3month/19512.ts
 #EXTINF:-1,ES-LALIGA TV BAR
-http://151.80.29.203:9900/live/Julian/Julian/19513.ts
+http://live.softiptv.com:9900/live/3month/3month/19513.ts
 #EXTINF:-1,ES-IBERALIA TV
-http://151.80.29.203:9900/live/Julian/Julian/19525.ts
+http://live.softiptv.com:9900/live/3month/3month/19525.ts
 #EXTINF:-1,ES-HOLLYWOOD
-http://151.80.29.203:9900/live/Julian/Julian/19526.ts
+http://live.softiptv.com:9900/live/3month/3month/19526.ts
 #EXTINF:-1,ES-HISTORY
-http://151.80.29.203:9900/live/Julian/Julian/19485.ts
+http://live.softiptv.com:9900/live/3month/3month/19485.ts
 #EXTINF:-1,ES-GolTV
-http://151.80.29.203:9900/live/Julian/Julian/19486.ts
+http://live.softiptv.com:9900/live/3month/3month/19486.ts
 #EXTINF:-1,ES-FOX NEWS
-http://151.80.29.203:9900/live/Julian/Julian/19487.ts
+http://live.softiptv.com:9900/live/3month/3month/19487.ts
 #EXTINF:-1,ES-FDF
-http://151.80.29.203:9900/live/Julian/Julian/19488.ts
+http://live.softiptv.com:9900/live/3month/3month/19488.ts
 #EXTINF:-1,ES-eurosport hd
-http://151.80.29.203:9900/live/Julian/Julian/19489.ts
+http://live.softiptv.com:9900/live/3month/3month/19489.ts
 #EXTINF:-1,ES-ESTRELAS
-http://151.80.29.203:9900/live/Julian/Julian/19514.ts
+http://live.softiptv.com:9900/live/3month/3month/19514.ts
 #EXTINF:-1,ES-EHS
-http://151.80.29.203:9900/live/Julian/Julian/19527.ts
+http://live.softiptv.com:9900/live/3month/3month/19527.ts
 #EXTINF:-1,ES-DISNEY CHANNEL HD
-http://151.80.29.203:9900/live/Julian/Julian/19490.ts
+http://live.softiptv.com:9900/live/3month/3month/19490.ts
 #EXTINF:-1,ES-DISCOVERY CHANNEL
-http://151.80.29.203:9900/live/Julian/Julian/19491.ts
+http://live.softiptv.com:9900/live/3month/3month/19491.ts
 #EXTINF:-1,ES-CUATRO
-http://151.80.29.203:9900/live/Julian/Julian/19492.ts
+http://live.softiptv.com:9900/live/3month/3month/19492.ts
 #EXTINF:-1,ES-COMEDY CENTRAL HD
-http://151.80.29.203:9900/live/Julian/Julian/19515.ts
+http://live.softiptv.com:9900/live/3month/3month/19515.ts
 #EXTINF:-1,ES-CLASSICA
-http://151.80.29.203:9900/live/Julian/Julian/19493.ts
+http://live.softiptv.com:9900/live/3month/3month/19493.ts
 #EXTINF:-1,ES-CLAN TVE
-http://151.80.29.203:9900/live/Julian/Julian/19494.ts
+http://live.softiptv.com:9900/live/3month/3month/19494.ts
 #EXTINF:-1,ES-CAZA Y PESCA HD
-http://151.80.29.203:9900/live/Julian/Julian/19516.ts
+http://live.softiptv.com:9900/live/3month/3month/19516.ts
 #EXTINF:-1,ES-CASTILLA LA MANCHA
-http://151.80.29.203:9900/live/Julian/Julian/19495.ts
+http://live.softiptv.com:9900/live/3month/3month/19495.ts
 #EXTINF:-1,ES-CANAL DECASA
-http://151.80.29.203:9900/live/Julian/Julian/19528.ts
+http://live.softiptv.com:9900/live/3month/3month/19528.ts
 #EXTINF:-1,ES-CANAL COCINA
-http://151.80.29.203:9900/live/Julian/Julian/19517.ts
+http://live.softiptv.com:9900/live/3month/3month/19517.ts
 #EXTINF:-1,ES-CALLE 13 HD
-http://151.80.29.203:9900/live/Julian/Julian/19496.ts
+http://live.softiptv.com:9900/live/3month/3month/19496.ts
 #EXTINF:-1,ES-C XTRA
-http://151.80.29.203:9900/live/Julian/Julian/19529.ts
+http://live.softiptv.com:9900/live/3month/3month/19529.ts
 #EXTINF:-1,ES-C & I
-http://151.80.29.203:9900/live/Julian/Julian/19497.ts
+http://live.softiptv.com:9900/live/3month/3month/19497.ts
 #EXTINF:-1,ES-C  COMEDIA
-http://151.80.29.203:9900/live/Julian/Julian/19530.ts
+http://live.softiptv.com:9900/live/3month/3month/19530.ts
 #EXTINF:-1,ES-BLOOMBERG TV
-http://151.80.29.203:9900/live/Julian/Julian/19498.ts
+http://live.softiptv.com:9900/live/3month/3month/19498.ts
 #EXTINF:-1,ES-BEIN SPORT HD
-http://151.80.29.203:9900/live/Julian/Julian/19499.ts
+http://live.softiptv.com:9900/live/3month/3month/19499.ts
 #EXTINF:-1,ES-BEIN SPORT
-http://151.80.29.203:9900/live/Julian/Julian/19500.ts
+http://live.softiptv.com:9900/live/3month/3month/19500.ts
 #EXTINF:-1,ES-BEIN LALIGA HD
-http://151.80.29.203:9900/live/Julian/Julian/19518.ts
+http://live.softiptv.com:9900/live/3month/3month/19518.ts
 #EXTINF:-1,ES-BEIN LALIGA
-http://151.80.29.203:9900/live/Julian/Julian/19519.ts
+http://live.softiptv.com:9900/live/3month/3month/19519.ts
 #EXTINF:-1,ES-Bar?a TV
-http://151.80.29.203:9900/live/Julian/Julian/19501.ts
+http://live.softiptv.com:9900/live/3month/3month/19501.ts
 #EXTINF:-1,ES-AXN WHITE HD
-http://151.80.29.203:9900/live/Julian/Julian/19502.ts
+http://live.softiptv.com:9900/live/3month/3month/19502.ts
 #EXTINF:-1,ES-ARIRANG WORLD
-http://151.80.29.203:9900/live/Julian/Julian/19503.ts
+http://live.softiptv.com:9900/live/3month/3month/19503.ts
 #EXTINF:-1,ES-AMC
-http://151.80.29.203:9900/live/Julian/Julian/19520.ts
+http://live.softiptv.com:9900/live/3month/3month/19520.ts
 #EXTINF:-1,ES-Al Jazeera
-http://151.80.29.203:9900/live/Julian/Julian/19504.ts
-#EXTINF:-1,ES-#1 HD
-http://151.80.29.203:9900/live/Julian/Julian/19505.ts
+http://live.softiptv.com:9900/live/3month/3month/19504.ts
+#EXTINF:-1,ES-#0 HD
+http://live.softiptv.com:9900/live/3month/3month/19505.ts
 #EXTINF:-1,ES-TNT HD
-http://151.80.29.203:9900/live/Julian/Julian/8185.ts
+http://live.softiptv.com:9900/live/3month/3month/8185.ts
 #EXTINF:-1,ES-TELEDEPORTE
-http://151.80.29.203:9900/live/Julian/Julian/8187.ts
+http://live.softiptv.com:9900/live/3month/3month/8187.ts
 #EXTINF:-1,ES-TELECINCO HD
-http://151.80.29.203:9900/live/Julian/Julian/8188.ts
+http://live.softiptv.com:9900/live/3month/3month/8188.ts
 #EXTINF:-1,ES-TELECINCO
-http://151.80.29.203:9900/live/Julian/Julian/8189.ts
+http://live.softiptv.com:9900/live/3month/3month/8189.ts
 #EXTINF:-1,ES-TCM HD
-http://151.80.29.203:9900/live/Julian/Julian/8190.ts
+http://live.softiptv.com:9900/live/3month/3month/8190.ts
 #EXTINF:-1,ES-TCM
-http://151.80.29.203:9900/live/Julian/Julian/8191.ts
+http://live.softiptv.com:9900/live/3month/3month/8191.ts
 #EXTINF:-1,ES-RT NEWS ENG
-http://151.80.29.203:9900/live/Julian/Julian/8193.ts
+http://live.softiptv.com:9900/live/3month/3month/8193.ts
 #EXTINF:-1,ES-RT
-http://151.80.29.203:9900/live/Julian/Julian/8194.ts
+http://live.softiptv.com:9900/live/3month/3month/8194.ts
 #EXTINF:-1,ES-PLAYBOY TV
-http://151.80.29.203:9900/live/Julian/Julian/8196.ts
+http://live.softiptv.com:9900/live/3month/3month/8196.ts
 #EXTINF:-1,ES-PARAMOUNT
-http://151.80.29.203:9900/live/Julian/Julian/8197.ts
+http://live.softiptv.com:9900/live/3month/3month/8197.ts
 #EXTINF:-1,ES-NOVA
-http://151.80.29.203:9900/live/Julian/Julian/8199.ts
+http://live.softiptv.com:9900/live/3month/3month/8199.ts
 #EXTINF:-1,ES-Nickelodeon
-http://151.80.29.203:9900/live/Julian/Julian/8200.ts
+http://live.softiptv.com:9900/live/3month/3month/8200.ts
 #EXTINF:-1,ES-NHK WORLD
-http://151.80.29.203:9900/live/Julian/Julian/8201.ts
+http://live.softiptv.com:9900/live/3month/3month/8201.ts
 #EXTINF:-1,ES-NAT GEOGRAPH
-http://151.80.29.203:9900/live/Julian/Julian/8203.ts
+http://live.softiptv.com:9900/live/3month/3month/8203.ts
 #EXTINF:-1,ES-NAT GEO WILD HD
-http://151.80.29.203:9900/live/Julian/Julian/8204.ts
+http://live.softiptv.com:9900/live/3month/3month/8204.ts
 #EXTINF:-1,ES-NAT GEO WILD
-http://151.80.29.203:9900/live/Julian/Julian/8205.ts
+http://live.softiptv.com:9900/live/3month/3month/8205.ts
 #EXTINF:-1,ES-MOVISTAR F1 HD
-http://151.80.29.203:9900/live/Julian/Julian/8206.ts
+http://live.softiptv.com:9900/live/3month/3month/8206.ts
 #EXTINF:-1,ES-MOTOGP HD
-http://151.80.29.203:9900/live/Julian/Julian/8207.ts
+http://live.softiptv.com:9900/live/3month/3month/8207.ts
 #EXTINF:-1,ES-MOTO GP
-http://151.80.29.203:9900/live/Julian/Julian/8208.ts
+http://live.softiptv.com:9900/live/3month/3month/8208.ts
 #EXTINF:-1,ES-LTC
-http://151.80.29.203:9900/live/Julian/Julian/8209.ts
+http://live.softiptv.com:9900/live/3month/3month/8209.ts
 #EXTINF:-1,ES-LIGA HD
-http://151.80.29.203:9900/live/Julian/Julian/8210.ts
+http://live.softiptv.com:9900/live/3month/3month/8210.ts
 #EXTINF:-1,ES-LA SEXTA HD
-http://151.80.29.203:9900/live/Julian/Julian/8212.ts
+http://live.softiptv.com:9900/live/3month/3month/8212.ts
 #EXTINF:-1,ES-LA SEXTA
-http://151.80.29.203:9900/live/Julian/Julian/8213.ts
+http://live.softiptv.com:9900/live/3month/3month/8213.ts
 #EXTINF:-1,ES-LA 2
-http://151.80.29.203:9900/live/Julian/Julian/8214.ts
+http://live.softiptv.com:9900/live/3month/3month/8214.ts
 #EXTINF:-1,ES-LA 1 HD
-http://151.80.29.203:9900/live/Julian/Julian/8215.ts
+http://live.softiptv.com:9900/live/3month/3month/8215.ts
 #EXTINF:-1,ES-LA 1
-http://151.80.29.203:9900/live/Julian/Julian/8216.ts
+http://live.softiptv.com:9900/live/3month/3month/8216.ts
 #EXTINF:-1,ES-HOLLYWOOD HD
-http://151.80.29.203:9900/live/Julian/Julian/8217.ts
+http://live.softiptv.com:9900/live/3month/3month/8217.ts
 #EXTINF:-1,ES-HISTORIA
-http://151.80.29.203:9900/live/Julian/Julian/8219.ts
+http://live.softiptv.com:9900/live/3month/3month/8219.ts
 #EXTINF:-1,ES-FRANCE 24-EN
-http://151.80.29.203:9900/live/Julian/Julian/8220.ts
+http://live.softiptv.com:9900/live/3month/3month/8220.ts
 #EXTINF:-1,ES-FOX LIFE HD
-http://151.80.29.203:9900/live/Julian/Julian/8221.ts
+http://live.softiptv.com:9900/live/3month/3month/8221.ts
 #EXTINF:-1,ES-FOX LIFE
-http://151.80.29.203:9900/live/Julian/Julian/8222.ts
+http://live.softiptv.com:9900/live/3month/3month/8222.ts
 #EXTINF:-1,ES-FOX HD
-http://151.80.29.203:9900/live/Julian/Julian/8223.ts
+http://live.softiptv.com:9900/live/3month/3month/8223.ts
 #EXTINF:-1,ES-FOX
-http://151.80.29.203:9900/live/Julian/Julian/8224.ts
+http://live.softiptv.com:9900/live/3month/3month/8224.ts
 #EXTINF:-1,ES-EUROSPORT 2
-http://151.80.29.203:9900/live/Julian/Julian/8225.ts
+http://live.softiptv.com:9900/live/3month/3month/8225.ts
 #EXTINF:-1,ES-EUROSPORT 1
-http://151.80.29.203:9900/live/Julian/Julian/8226.ts
+http://live.softiptv.com:9900/live/3month/3month/8226.ts
 #EXTINF:-1,ES-ES-40 TV
-http://151.80.29.203:9900/live/Julian/Julian/8228.ts
+http://live.softiptv.com:9900/live/3month/3month/8228.ts
 #EXTINF:-1,ES-ENERGY
-http://151.80.29.203:9900/live/Julian/Julian/8229.ts
+http://live.softiptv.com:9900/live/3month/3month/8229.ts
 #EXTINF:-1,ES-DIVINITY
-http://151.80.29.203:9900/live/Julian/Julian/8231.ts
+http://live.softiptv.com:9900/live/3month/3month/8231.ts
 #EXTINF:-1,ES-DISNEY XD
-http://151.80.29.203:9900/live/Julian/Julian/8232.ts
+http://live.softiptv.com:9900/live/3month/3month/8232.ts
 #EXTINF:-1,ES-DISNEY JR
-http://151.80.29.203:9900/live/Julian/Julian/8233.ts
+http://live.softiptv.com:9900/live/3month/3month/8233.ts
 #EXTINF:-1,ES-DISNEY CH.
-http://151.80.29.203:9900/live/Julian/Julian/8234.ts
+http://live.softiptv.com:9900/live/3month/3month/8234.ts
 #EXTINF:-1,ES-DISCOVERY
-http://151.80.29.203:9900/live/Julian/Julian/8235.ts
+http://live.softiptv.com:9900/live/3month/3month/8235.ts
 #EXTINF:-1,ES-DEPORTES 2
-http://151.80.29.203:9900/live/Julian/Julian/8236.ts
+http://live.softiptv.com:9900/live/3month/3month/8236.ts
 #EXTINF:-1,ES-DCINE
-http://151.80.29.203:9900/live/Julian/Julian/8237.ts
+http://live.softiptv.com:9900/live/3month/3month/8237.ts
 #EXTINF:-1,ES-CUATRO HD
-http://151.80.29.203:9900/live/Julian/Julian/8238.ts
+http://live.softiptv.com:9900/live/3month/3month/8238.ts
 #EXTINF:-1,ES-COSMOPOLITAN HD
-http://151.80.29.203:9900/live/Julian/Julian/8239.ts
+http://live.softiptv.com:9900/live/3month/3month/8239.ts
 #EXTINF:-1,ES-COSMO
-http://151.80.29.203:9900/live/Julian/Julian/8240.ts
+http://live.softiptv.com:9900/live/3month/3month/8240.ts
 #EXTINF:-1,ES-CAZA Y PESCA
-http://151.80.29.203:9900/live/Julian/Julian/8242.ts
+http://live.softiptv.com:9900/live/3month/3month/8242.ts
 #EXTINF:-1,ES-CANAL SUR ANDALUCIA
-http://151.80.29.203:9900/live/Julian/Julian/8243.ts
+http://live.softiptv.com:9900/live/3month/3month/8243.ts
 #EXTINF:-1,ES-CANAL ODISEA
-http://151.80.29.203:9900/live/Julian/Julian/8244.ts
+http://live.softiptv.com:9900/live/3month/3month/8244.ts
 #EXTINF:-1,ES-Canal Extremadura SAT
-http://151.80.29.203:9900/live/Julian/Julian/8245.ts
+http://live.softiptv.com:9900/live/3month/3month/8245.ts
 #EXTINF:-1,ES-CALLE 13
-http://151.80.29.203:9900/live/Julian/Julian/8248.ts
+http://live.softiptv.com:9900/live/3month/3month/8248.ts
 #EXTINF:-1,ES-C&I
-http://151.80.29.203:9900/live/Julian/Julian/8249.ts
+http://live.softiptv.com:9900/live/3month/3month/8249.ts
 #EXTINF:-1,ES-C COMEDIA HD
-http://151.80.29.203:9900/live/Julian/Julian/8250.ts
+http://live.softiptv.com:9900/live/3month/3month/8250.ts
 #EXTINF:-1,ES-C  SERIESXTRA
-http://151.80.29.203:9900/live/Julian/Julian/8251.ts
+http://live.softiptv.com:9900/live/3month/3month/8251.ts
 #EXTINF:-1,ES-C  Series Xtra HD
-http://151.80.29.203:9900/live/Julian/Julian/8252.ts
+http://live.softiptv.com:9900/live/3month/3month/8252.ts
 #EXTINF:-1,ES-C  SERIES HD
-http://151.80.29.203:9900/live/Julian/Julian/8253.ts
+http://live.softiptv.com:9900/live/3month/3month/8253.ts
 #EXTINF:-1,ES-C  SERIES
-http://151.80.29.203:9900/live/Julian/Julian/8254.ts
+http://live.softiptv.com:9900/live/3month/3month/8254.ts
 #EXTINF:-1,ES-C  PORTADA
-http://151.80.29.203:9900/live/Julian/Julian/8255.ts
+http://live.softiptv.com:9900/live/3month/3month/8255.ts
 #EXTINF:-1,ES-C  LIGA
-http://151.80.29.203:9900/live/Julian/Julian/8256.ts
+http://live.softiptv.com:9900/live/3month/3month/8256.ts
 #EXTINF:-1,ES-C  GOLF HD
-http://151.80.29.203:9900/live/Julian/Julian/8257.ts
+http://live.softiptv.com:9900/live/3month/3month/8257.ts
 #EXTINF:-1,ES-C  GOLF
-http://151.80.29.203:9900/live/Julian/Julian/8258.ts
+http://live.softiptv.com:9900/live/3month/3month/8258.ts
 #EXTINF:-1,ES-C  FUTBOL HD
-http://151.80.29.203:9900/live/Julian/Julian/8259.ts
+http://live.softiptv.com:9900/live/3month/3month/8259.ts
 #EXTINF:-1,ES-C  FTBOL
-http://151.80.29.203:9900/live/Julian/Julian/8260.ts
+http://live.softiptv.com:9900/live/3month/3month/8260.ts
 #EXTINF:-1,ES-C  DEPORTES
-http://151.80.29.203:9900/live/Julian/Julian/8262.ts
+http://live.softiptv.com:9900/live/3month/3month/8262.ts
 #EXTINF:-1,ES-C  DCINE HD
-http://151.80.29.203:9900/live/Julian/Julian/8263.ts
-#EXTINF:-1,ES-C  ACCI©N HD
-http://151.80.29.203:9900/live/Julian/Julian/8265.ts
+http://live.softiptv.com:9900/live/3month/3month/8263.ts
+#EXTINF:-1,ES-C  ACCIÂ©N HD
+http://live.softiptv.com:9900/live/3month/3month/8265.ts
 #EXTINF:-1,ES-BOING
-http://151.80.29.203:9900/live/Julian/Julian/8267.ts
+http://live.softiptv.com:9900/live/3month/3month/8267.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 9
-http://151.80.29.203:9900/live/Julian/Julian/8268.ts
+http://live.softiptv.com:9900/live/3month/3month/8268.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 8
-http://151.80.29.203:9900/live/Julian/Julian/8269.ts
+http://live.softiptv.com:9900/live/3month/3month/8269.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 7
-http://151.80.29.203:9900/live/Julian/Julian/8270.ts
+http://live.softiptv.com:9900/live/3month/3month/8270.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 6
-http://151.80.29.203:9900/live/Julian/Julian/8271.ts
+http://live.softiptv.com:9900/live/3month/3month/8271.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 5
-http://151.80.29.203:9900/live/Julian/Julian/8272.ts
+http://live.softiptv.com:9900/live/3month/3month/8272.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 4
-http://151.80.29.203:9900/live/Julian/Julian/8273.ts
+http://live.softiptv.com:9900/live/3month/3month/8273.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 3
-http://151.80.29.203:9900/live/Julian/Julian/8274.ts
+http://live.softiptv.com:9900/live/3month/3month/8274.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 2
-http://151.80.29.203:9900/live/Julian/Julian/8275.ts
+http://live.softiptv.com:9900/live/3month/3month/8275.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 10
-http://151.80.29.203:9900/live/Julian/Julian/8276.ts
+http://live.softiptv.com:9900/live/3month/3month/8276.ts
 #EXTINF:-1,ES-BEIN SPORT MAX 1
-http://151.80.29.203:9900/live/Julian/Julian/8277.ts
+http://live.softiptv.com:9900/live/3month/3month/8277.ts
 #EXTINF:-1,ES-BAR TV
-http://151.80.29.203:9900/live/Julian/Julian/8280.ts
+http://live.softiptv.com:9900/live/3month/3month/8280.ts
 #EXTINF:-1,ES-BABY TV
-http://151.80.29.203:9900/live/Julian/Julian/8281.ts
+http://live.softiptv.com:9900/live/3month/3month/8281.ts
 #EXTINF:-1,ES-AXN WHITE
-http://151.80.29.203:9900/live/Julian/Julian/8282.ts
+http://live.softiptv.com:9900/live/3month/3month/8282.ts
 #EXTINF:-1,ES-AXN HD
-http://151.80.29.203:9900/live/Julian/Julian/8283.ts
+http://live.softiptv.com:9900/live/3month/3month/8283.ts
 #EXTINF:-1,ES-AXN
-http://151.80.29.203:9900/live/Julian/Julian/8284.ts
+http://live.softiptv.com:9900/live/3month/3month/8284.ts
 #EXTINF:-1,ES-ARAGON TV
-http://151.80.29.203:9900/live/Julian/Julian/8285.ts
+http://live.softiptv.com:9900/live/3month/3month/8285.ts
 #EXTINF:-1,ES-ANTENA 3 HD
-http://151.80.29.203:9900/live/Julian/Julian/8286.ts
+http://live.softiptv.com:9900/live/3month/3month/8286.ts
 #EXTINF:-1,ES-ANTENA 3
-http://151.80.29.203:9900/live/Julian/Julian/8287.ts
+http://live.softiptv.com:9900/live/3month/3month/8287.ts
 #EXTINF:-1,ES-AMC HD
-http://151.80.29.203:9900/live/Julian/Julian/8288.ts
+http://live.softiptv.com:9900/live/3month/3month/8288.ts
 #EXTINF:-1,ES-AJE
-http://151.80.29.203:9900/live/Julian/Julian/8290.ts
+http://live.softiptv.com:9900/live/3month/3month/8290.ts
 #EXTINF:-1,ES-A&E
-http://151.80.29.203:9900/live/Julian/Julian/8291.ts
+http://live.softiptv.com:9900/live/3month/3month/8291.ts
 #EXTINF:-1,ES-24 HORAS
-http://151.80.29.203:9900/live/Julian/Julian/8292.ts
-#EXTINF:-1,ES-#1
-http://151.80.29.203:9900/live/Julian/Julian/8293.ts
+http://live.softiptv.com:9900/live/3month/3month/8292.ts
+#EXTINF:-1,ES-#0
+http://live.softiptv.com:9900/live/3month/3month/8293.ts 
+#EXTINF:-1,====SPAIN====
+http://62.4.21.70:8000/live/987654/987654/1735.ts
+#EXTINF:-1,SP Viajar - SP Viajar
+http://62.4.21.70:8000/live/987654/987654/1829.ts
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+http://62.4.21.70:8000/live/987654/987654/1825.ts
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+http://62.4.21.70:8000/live/987654/987654/1824.ts
+#EXTINF:-1,SP TNT - SP TNT
+http://62.4.21.70:8000/live/987654/987654/1823.ts
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+http://62.4.21.70:8000/live/987654/987654/1822.ts
+#EXTINF:-1,SP Telecino - SP Telecino
+http://62.4.21.70:8000/live/987654/987654/1821.ts
+#EXTINF:-1,TCM_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1890.ts
+#EXTINF:-1,SyFy_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1889.ts
+#EXTINF:-1,Sol_Musica_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1888.ts
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+http://62.4.21.70:8000/live/987654/987654/1827.ts
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+http://62.4.21.70:8000/live/987654/987654/1851.ts
+#EXTINF:-1,SP NGC - SP NGC
+http://62.4.21.70:8000/live/987654/987654/1852.ts
+#EXTINF:-1,SP Neox - SP Neox
+http://62.4.21.70:8000/live/987654/987654/1830.ts
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+http://62.4.21.70:8000/live/987654/987654/1850.ts
+#EXTINF:-1,SP Moto GP - SP Moto GP
+http://62.4.21.70:8000/live/987654/987654/1867.ts
+#EXTINF:-1,SP Mezzo - SP Mezzo
+http://62.4.21.70:8000/live/987654/987654/1861.ts
+#EXTINF:-1,SP Ltc - SP Ltc
+http://62.4.21.70:8000/live/987654/987654/1866.ts
+#EXTINF:-1,SP La Sexta - SP La Sexta
+http://62.4.21.70:8000/live/987654/987654/1846.ts
+#EXTINF:-1,SP La 2 - SP La 2
+http://62.4.21.70:8000/live/987654/987654/1847.ts
+#EXTINF:-1,SP La 1 - SP La 1
+http://62.4.21.70:8000/live/987654/987654/1854.ts
+#EXTINF:-1,SP Hollywood - SP Hollywood
+http://62.4.21.70:8000/live/987654/987654/1855.ts
+#EXTINF:-1,SP Historia - SP Historia
+http://62.4.21.70:8000/live/987654/987654/1856.ts
+#EXTINF:-1,SP Fox News - SP Fox News
+http://62.4.21.70:8000/live/987654/987654/1857.ts
+#EXTINF:-1,SP FDF - SP FDF
+http://62.4.21.70:8000/live/987654/987654/1858.ts
+#EXTINF:-1,SP Energy - SP Energy
+http://62.4.21.70:8000/live/987654/987654/1864.ts
+#EXTINF:-1,SP Divinity - SP Divinity
+http://62.4.21.70:8000/live/987654/987654/1863.ts
+#EXTINF:-1,SP Disney xd - SP Disney xd
+http://62.4.21.70:8000/live/987654/987654/1862.ts
+#EXTINF:-1,SP Disney Ch - SP Disney Ch
+http://62.4.21.70:8000/live/987654/987654/1820.ts
+#EXTINF:-1,SP Discovery - SP Discovery
+http://62.4.21.70:8000/live/987654/987654/1837.ts
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+http://62.4.21.70:8000/live/987654/987654/1840.ts
+#EXTINF:-1,SP Cuatro - SP Cuatro
+http://62.4.21.70:8000/live/987654/987654/1871.ts
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+http://62.4.21.70:8000/live/987654/987654/1833.ts
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+http://62.4.21.70:8000/live/987654/987654/1859.ts
+#EXTINF:-1,SP Classica - SP Classica
+http://62.4.21.70:8000/live/987654/987654/1836.ts
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+http://62.4.21.70:8000/live/987654/987654/1848.ts
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+http://62.4.21.70:8000/live/987654/987654/1841.ts
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+http://62.4.21.70:8000/live/987654/987654/1839.ts
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+http://62.4.21.70:8000/live/987654/987654/1842.ts
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+http://62.4.21.70:8000/live/987654/987654/1870.ts
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+http://62.4.21.70:8000/live/987654/987654/1869.ts
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1868.ts
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+http://62.4.21.70:8000/live/987654/987654/1843.ts
+#EXTINF:-1,SP C  Toros - SP C  Toros
+http://62.4.21.70:8000/live/987654/987654/1828.ts
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+http://62.4.21.70:8000/live/987654/987654/1874.ts
+#EXTINF:-1,SP C  Series - SP C  Series
+http://62.4.21.70:8000/live/987654/987654/1834.ts
+#EXTINF:-1,SP C  Liga - SP C  Liga
+http://62.4.21.70:8000/live/987654/987654/1878.ts
+#EXTINF:-1,C+Golf _SPAIN
+http://62.4.21.70:8000/live/987654/987654/1887.ts
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+http://62.4.21.70:8000/live/987654/987654/1832.ts
+#EXTINF:-1,C+Footbol_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1886.ts
+#EXTINF:-1,C+Estrenos_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1885.ts
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+http://62.4.21.70:8000/live/987654/987654/1882.ts
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+http://62.4.21.70:8000/live/987654/987654/1883.ts
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+http://62.4.21.70:8000/live/987654/987654/1884.ts
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+http://62.4.21.70:8000/live/987654/987654/1838.ts
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+http://62.4.21.70:8000/live/987654/987654/1831.ts
+#EXTINF:-1,SP Boing - SP Boing
+http://62.4.21.70:8000/live/987654/987654/1881.ts
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+http://62.4.21.70:8000/live/987654/987654/1826.ts
+#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
+http://62.4.21.70:8000/live/987654/987654/1845.ts
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+http://62.4.21.70:8000/live/987654/987654/1860.ts
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+http://62.4.21.70:8000/live/987654/987654/1844.ts
+#EXTINF:-1,SP AXN HD - SP AXN HD
+http://62.4.21.70:8000/live/987654/987654/1853.ts
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+http://62.4.21.70:8000/live/987654/987654/1872.ts
+#EXTINF:-1,SP AMC - SP AMC
+http://62.4.21.70:8000/live/987654/987654/1880.ts
+#EXTINF:-1,SP AE - SP AE
+http://62.4.21.70:8000/live/987654/987654/1875.ts
+#EXTINF:-1,SP 40 TV - SP 40 TV
+http://62.4.21.70:8000/live/987654/987654/1877.ts
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1876.ts
+#EXTINF:-1,SP_TAQUILLA_1
+http://62.4.21.70:8000/live/987654/987654/2621.ts
+#EXTINF:-1,SP_TAQUILLA_2
+http://62.4.21.70:8000/live/987654/987654/2622.ts
+#EXTINF:-1,SP-TAQUILLA-3
+http://62.4.21.70:8000/live/987654/987654/2623.ts
+#EXTINF:-1,SP_TAQUILLA_4
+http://62.4.21.70:8000/live/987654/987654/2624.ts
+#EXTINF:-1,SP_TAQUILLA_5
+http://62.4.21.70:8000/live/987654/987654/2625.ts
+#EXTINF:-1,SP_TAQUILLA_6
+http://62.4.21.70:8000/live/987654/987654/2626.ts
+#EXTINF:-1,SP_TAQUILLA_7
+http://62.4.21.70:8000/live/987654/987654/2627.ts
+#EXTINF:-1,SP_TAQUILLA_8
+http://62.4.21.70:8000/live/987654/987654/2628.ts
+#EXTINF:-1,SP_TAQUILLA_9
+http://62.4.21.70:8000/live/987654/987654/2629.ts
+#EXTINF:-1,SP_TAQUILLA_10
+http://62.4.21.70:8000/live/987654/987654/2630.ts
+#EXTINF:-1,TAQUILLA_11_HD
+http://62.4.21.70:8000/live/987654/987654/2658.ts
+#EXTINF:-1,TAQUILLA_12_HD
+http://62.4.21.70:8000/live/987654/987654/2659.ts
+#EXTINF:-1,TAQUILLA_13_HD
+http://62.4.21.70:8000/live/987654/987654/2660.ts
+#EXTINF:-1,TAQUILLA_14_HD
+http://62.4.21.70:8000/live/987654/987654/2661.ts
+#EXTINF:-1,TAQUILLA_15_HD
+http://62.4.21.70:8000/live/987654/987654/2662.ts
+#EXTINF:-1,TAQUILLA_16_HD
+http://62.4.21.70:8000/live/987654/987654/2663.ts
+#EXTINF:-1,PORTUGAL:TVCINE 1 HD
+http://62.4.21.70:8000/live/987654/987654/511.ts
+#EXTINF:-1,PORTUGAL:TVCINE 2 HD
+http://62.4.21.70:8000/live/987654/987654/512.ts
+#EXTINF:-1,PORTUGAL:TVCINE 3 HD
+http://62.4.21.70:8000/live/987654/987654/513.ts
+#EXTINF:-1,PORTUGAL:TVCINE 4 HD
+http://62.4.21.70:8000/live/987654/987654/514.ts
+#EXTINF:-1,PORTUGAL:TLC
+http://62.4.21.70:8000/live/987654/987654/604.ts
+#EXTINF:-1,PORTUGAL:SPORT TV1
+http://62.4.21.70:8000/live/987654/987654/515.ts
+#EXTINF:-1,PORTUGAL:SPORT TV2
+http://62.4.21.70:8000/live/987654/987654/516.ts
+#EXTINF:-1,PORTUGAL:SPORT TV3
+http://62.4.21.70:8000/live/987654/987654/517.ts
+#EXTINF:-1,PORTUGAL:SPORT TV4
+http://62.4.21.70:8000/live/987654/987654/518.ts
+#EXTINF:-1,PORTUGAL:SPORT TV5
+http://62.4.21.70:8000/live/987654/987654/519.ts
+#EXTINF:-1,PORTUGAL:Sic Radical
+http://62.4.21.70:8000/live/987654/987654/609.ts
+#EXTINF:-1,PORTUGAL:SIC
+http://62.4.21.70:8000/live/987654/987654/596.ts
+#EXTINF:-1,PORTUGAL:RTP1
+http://62.4.21.70:8000/live/987654/987654/606.ts
+#EXTINF:-1,PORTUGAL:RTP 2
+http://62.4.21.70:8000/live/987654/987654/607.ts
+#EXTINF:-1,PORTUGAL:RTP 3
+http://62.4.21.70:8000/live/987654/987654/608.ts
+#EXTINF:-1,PORTUGAL:PANDA
+http://62.4.21.70:8000/live/987654/987654/597.ts
+#EXTINF:-1,PORTUGAL:CMTV
+http://62.4.21.70:8000/live/987654/987654/598.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
+http://62.4.21.70:8000/live/987654/987654/520.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 2 HD
+http://62.4.21.70:8000/live/987654/987654/599.ts
+#EXTINF:-1,Cartoon Network
+http://62.4.21.70:8000/live/987654/987654/373.ts
+#EXTINF:-1,PORTUGAL:_TVsÃ©ries HD
+http://62.4.21.70:8000/live/987654/987654/600.ts
+#EXTINF:-1,PORTUGAL:_TVI
+http://62.4.21.70:8000/live/987654/987654/601.ts
+#EXTINF:-1,PORTUGAL: TV record
+http://62.4.21.70:8000/live/987654/987654/602.ts
+#EXTINF:-1,BOOMERANG
+http://62.4.21.70:8000/live/987654/987654/378.ts
+#EXTINF:-1,PORTUGAL: TV GLOBO PREMIUM
+http://62.4.21.70:8000/live/987654/987654/603.ts
+#EXTINF:-1,PORTUGAL: SPORTING TV HD
+http://62.4.21.70:8000/live/987654/987654/605.ts
+#EXTINF:-1,PORTUGAL: SIC Mulher
+http://62.4.21.70:8000/live/987654/987654/610.ts
+
+
 #EXTINF:-1,♣♣♣♣♣United Kingdom♣♣♣♣♣
 
 http://151.80.29.203:9900/live/Julian/Julian/12480.ts
@@ -4753,337 +4975,511 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 
 #EXTINF:-1 tvg-logo="UFC china.png" group-title=“DESPORTO”, UFC (CHI)
 rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
-#EXTINF:-1,------- beIN SPORTS CH --------
-http://www.zeebra.tv:8000/live/feras1/feras1/2380.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1675.ts
-#EXTINF:-1,beIN SPORTS 1HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1791.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1674.ts
-#EXTINF:-1,beIN SPORTS 2HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1777.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1566.ts
-#EXTINF:-1,beIN SPORTS 3HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1776.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1565.ts
-#EXTINF:-1,beIN SPORTS 4HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1775.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1564.ts
-#EXTINF:-1,beIN SPORTS 5HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1773.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1563.ts
-#EXTINF:-1,beIN SPORTS 6HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1772.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://www.zeebra.tv:8000/live/feras1/feras1/487.ts
-#EXTINF:-1,beIN SPORTS 7HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1679.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://www.zeebra.tv:8000/live/feras1/feras1/10.ts
-#EXTINF:-1,beIN SPORTS 8HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1678.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://www.zeebra.tv:8000/live/feras1/feras1/9.ts
-#EXTINF:-1,beIN SPORTS 9HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1677.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://www.zeebra.tv:8000/live/feras1/feras1/8.ts
-#EXTINF:-1,beIN SPORTS 10HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/1676.ts
-#EXTINF:-1,beIN SPORTS 11 EN HD
-http://www.zeebra.tv:8000/live/feras1/feras1/7.ts
-#EXTINF:-1,beIN SPORTS 12 EN HD
-http://www.zeebra.tv:8000/live/feras1/feras1/6.ts
-#EXTINF:-1,beIN SPORTS 13 FR HD
-http://www.zeebra.tv:8000/live/feras1/feras1/5.ts
-#EXTINF:-1,beIN SPORTS 14 FR HD
-http://www.zeebra.tv:8000/live/feras1/feras1/4.ts
-#EXTINF:-1,beIN SPORTS 15 ES HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3.ts
-#EXTINF:-1,beIN SPORTS 16 FR HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2.ts
-#EXTINF:-1,beIN SPORTS 17 ES HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2917.ts
-#EXTINF:-1,beIN SPORTS NBA HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3066.ts
-#EXTINF:-1,beIN MOVIES 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2388.ts
-#EXTINF:-1,beIN MOVIES 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2459.ts
-#EXTINF:-1,beIN MOVIES 3HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2617.ts
-#EXTINF:-1,beIN MOVIES 4HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2835.ts
-#EXTINF:-1,beIN SERIES 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3084.ts
-#EXTINF:-1,beIN Fatafeat HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2683.ts
-#EXTINF:-1,beIN Baraem HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2837.ts
-#EXTINF:-1,beIN Jeem HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2583.ts
-#EXTINF:-1,beIN Dream Works HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2998.ts
-#EXTINF:-1,beIN JUNIOR KIDS HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2867.ts
-#EXTINF:-1,beIN SPORTS NEWS
-http://www.zeebra.tv:8000/live/feras1/feras1/2673.ts
-#EXTINF:-1,beIN SPORTS
-http://www.zeebra.tv:8000/live/feras1/feras1/2674.ts
-#EXTINF:-1,beIN SPORTS 1
-http://www.zeebra.tv:8000/live/feras1/feras1/3069.ts
-#EXTINF:-1,beIN SPORTS 2
-http://www.zeebra.tv:8000/live/feras1/feras1/3070.ts
-#EXTINF:-1,beIN SPORTS 3
-http://www.zeebra.tv:8000/live/feras1/feras1/3071.ts
-#EXTINF:-1,beIN SPORTS 4
-http://www.zeebra.tv:8000/live/feras1/feras1/3072.ts
-#EXTINF:-1,beIN SPORTS 5
-http://www.zeebra.tv:8000/live/feras1/feras1/3073.ts
-#EXTINF:-1,beIN SPORTS 6
-http://www.zeebra.tv:8000/live/feras1/feras1/3076.ts
-#EXTINF:-1,beIN SPORTS 7
-http://www.zeebra.tv:8000/live/feras1/feras1/3077.ts
-#EXTINF:-1,beIN SPORTS 8
-http://www.zeebra.tv:8000/live/feras1/feras1/3078.ts
-#EXTINF:-1,beIN SPORTS 9
-http://www.zeebra.tv:8000/live/feras1/feras1/3079.ts
-#EXTINF:-1,beIN SPORTS 10
-http://www.zeebra.tv:8000/live/feras1/feras1/3080.ts
-#EXTINF:-1,beIN MOVIES 1
-http://www.zeebra.tv:8000/live/feras1/feras1/2549.ts
-#EXTINF:-1,beIN MOVIES 2
-http://www.zeebra.tv:8000/live/feras1/feras1/2548.ts
-#EXTINF:-1,Al Fajer
-http://www.zeebra.tv:8000/live/feras1/feras1/2601.ts
-#EXTINF:-1,-------  AlKASS TV CH -------
-http://www.zeebra.tv:8000/live/feras1/feras1/2573.ts
-#EXTINF:-1,AlKASS 1 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2569.ts
-#EXTINF:-1,AlKASS 2 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2570.ts
-#EXTINF:-1,AlKASS 3 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2571.ts
-#EXTINF:-1,AlKASS 4 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2572.ts
-#EXTINF:-1,-------  MBC PRO SPORT CH -------
-http://www.zeebra.tv:8000/live/feras1/feras1/2595.ts
-#EXTINF:-1,MBC Pro Sports 1 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2594.ts
-#EXTINF:-1,MBC Pro Sports 2 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2593.ts
-#EXTINF:-1,MBC Pro Sports 3 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2592.ts
-#EXTINF:-1,------- OSN SPORTS CH -------
-http://www.zeebra.tv:8000/live/feras1/feras1/2410.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2411.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2412.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 3HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2413.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 4HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2415.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 5HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2895.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 6HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2523.ts
-#EXTINF:-1,OSN SPORTS 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3029.ts
-#EXTINF:-1,OSN SPORTS 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2295.ts
-#EXTINF:-1,OSN SPORTS 3HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3030.ts
-#EXTINF:-1,OSN SPORTS 4HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2416.ts
-#EXTINF:-1,OSN SPORTS CRICKET HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3082.ts
-#EXTINF:-1,OSN WWE Network HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2417.ts
-#EXTINF:-1,OSN WWE Network HD+
-http://www.zeebra.tv:8000/live/feras1/feras1/2483.ts
-#EXTINF:-1,OSN Fight Network
-http://www.zeebra.tv:8000/live/feras1/feras1/2848.ts
-#EXTINF:-1,------- OSN CH --------
-http://www.zeebra.tv:8000/live/feras1/feras1/2381.ts
-#EXTINF:-1,OSN DISCOVERY HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2291.ts
-#EXTINF:-1,OSN Discovery Sc HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1800.ts
-#EXTINF:-1,OSN Discovery Life HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3042.ts
-#EXTINF:-1,OSN DISCOVERY ID HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2894.ts
-#EXTINF:-1,OSN DISCOVERY FAMILY HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2836.ts
-#EXTINF:-1,OSN Nat People HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2586.ts
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2241.ts
-#EXTINF:-1,OSN Animal Planet HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1927.ts
-#EXTINF:-1,OSN Outdoor HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2892.ts
-#EXTINF:-1,OSN History HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2768.ts
-#EXTINF:-1,OSN H2
-http://www.zeebra.tv:8000/live/feras1/feras1/2765.ts
-#EXTINF:-1,OSN DMAX
-http://www.zeebra.tv:8000/live/feras1/feras1/2766.ts
-#EXTINF:-1,OSN Travel
-http://www.zeebra.tv:8000/live/feras1/feras1/2585.ts
-#EXTINF:-1,OSN News
-http://www.zeebra.tv:8000/live/feras1/feras1/3081.ts
-#EXTINF:-1,OSN Ya Hala! HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1823.ts
-#EXTINF:-1,OSN Yahala HD+2
-http://www.zeebra.tv:8000/live/feras1/feras1/2582.ts
-#EXTINF:-1,OSN Yahala Shabab HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2242.ts
-#EXTINF:-1,OSN Ya Hala! Drama HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2239.ts
-#EXTINF:-1,OSN Yahala Cinema HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2616.ts
-#EXTINF:-1,OSN SeeVii Al Aoula HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2843.ts
-#EXTINF:-1,OSN SeeVii Drama HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2581.ts
-#EXTINF:-1,OSN SeeVii Shamiya HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2596.ts
-#EXTINF:-1,OSN SeeVii Beelink HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2767.ts
-#EXTINF:-1,OSN MBC+ Drama HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1798.ts
-#EXTINF:-1,OSN MBC P Variety HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2618.ts
-#EXTINF:-1,OSN Series HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3038.ts
-#EXTINF:-1,OSN Series +2 HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3083.ts
-#EXTINF:-1,OSN Fann
-http://www.zeebra.tv:8000/live/feras1/feras1/3068.ts
-#EXTINF:-1,OSN Al Yawm
-http://www.zeebra.tv:8000/live/feras1/feras1/2482.ts
-#EXTINF:-1,OSN Al Safwa
-http://www.zeebra.tv:8000/live/feras1/feras1/2881.ts
-#EXTINF:-1,OSN CINEMA 1
-http://www.zeebra.tv:8000/live/feras1/feras1/1910.ts
-#EXTINF:-1,OSN CINEMA 2
-http://www.zeebra.tv:8000/live/feras1/feras1/1909.ts
-#EXTINF:-1,OSN ART Aflam 1
-http://www.zeebra.tv:8000/live/feras1/feras1/2405.ts
-#EXTINF:-1,OSN ART Aflam 2
-http://www.zeebra.tv:8000/live/feras1/feras1/2406.ts
-#EXTINF:-1,OSN ART Cinema
-http://www.zeebra.tv:8000/live/feras1/feras1/2409.ts
-#EXTINF:-1,OSN ART Hekayat 1
-http://www.zeebra.tv:8000/live/feras1/feras1/2407.ts
-#EXTINF:-1,OSN ART Hekayat 2
-http://www.zeebra.tv:8000/live/feras1/feras1/2408.ts
-#EXTINF:-1,OSN Movies HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2289.ts
-#EXTINF:-1,OSN Movies 2+HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2615.ts
-#EXTINF:-1,OSN Movies Action HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2245.ts
-#EXTINF:-1,OSN Movies  Action +2
-http://www.zeebra.tv:8000/live/feras1/feras1/1827.ts
-#EXTINF:-1,OSN Movies Premiere HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2246.ts
-#EXTINF:-1,OSN Movies Premier +2
-http://www.zeebra.tv:8000/live/feras1/feras1/2205.ts
-#EXTINF:-1,OSN Movies Comedy HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1915.ts
-#EXTINF:-1,OSN MOVIES COMEDY +2
-http://www.zeebra.tv:8000/live/feras1/feras1/3037.ts
-#EXTINF:-1,OSN Movies Drama HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1877.ts
-#EXTINF:-1,OSN MOVIES FESTIVAL HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2244.ts
-#EXTINF:-1,OSN MOVIES Kids HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1914.ts
-#EXTINF:-1,OSN Movies Family HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2995.ts
-#EXTINF:-1,OSN Comedy Central
-http://www.zeebra.tv:8000/live/feras1/feras1/3041.ts
-#EXTINF:-1,OSN Syfy HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3039.ts
-#EXTINF:-1,OSN AMC HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3007.ts
-#EXTINF:-1,OSN FX HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2908.ts
-#EXTINF:-1,OSN FOX HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3074.ts
-#EXTINF:-1,OSN Fox Movies HD
-http://www.zeebra.tv:8000/live/feras1/feras1/3075.ts
-#EXTINF:-1,OSN Fox Movies Action HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2598.ts
-#EXTINF:-1,OSN Fox Family Movies HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2566.ts
-#EXTINF:-1,OSN Star movies
-http://www.zeebra.tv:8000/live/feras1/feras1/2529.ts
-#EXTINF:-1,OSN Star movies+
-http://www.zeebra.tv:8000/live/feras1/feras1/2574.ts
-#EXTINF:-1,OSN Star world
-http://www.zeebra.tv:8000/live/feras1/feras1/2905.ts
-#EXTINF:-1,OSN Star world+
-http://www.zeebra.tv:8000/live/feras1/feras1/2528.ts
-#EXTINF:-1,OSN First HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1916.ts
-#EXTINF:-1,OSN First HBO HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2912.ts
-#EXTINF:-1,OSN First Comedy HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2292.ts
-#EXTINF:-1,OSN Music Now
-http://www.zeebra.tv:8000/live/feras1/feras1/2588.ts
-#EXTINF:-1,OSN Baby tv
-http://www.zeebra.tv:8000/live/feras1/feras1/2821.ts
-#EXTINF:-1,OSN Disney XD
-http://www.zeebra.tv:8000/live/feras1/feras1/2525.ts
-#EXTINF:-1,OSN Disney Junior
-http://www.zeebra.tv:8000/live/feras1/feras1/2526.ts
-#EXTINF:-1,OSN Disney Channel HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2488.ts
-#EXTINF:-1,OSN Nick Junior
-http://www.zeebra.tv:8000/live/feras1/feras1/2829.ts
-#EXTINF:-1,OSN Nickelodeon
-http://www.zeebra.tv:8000/live/feras1/feras1/2828.ts
-#EXTINF:-1,OSN CARTOON NETWORK
-http://www.zeebra.tv:8000/live/feras1/feras1/2842.ts
-#EXTINF:-1,OSN Boomerang
-http://www.zeebra.tv:8000/live/feras1/feras1/2997.ts
-#EXTINF:-1,OSN E!
-http://www.zeebra.tv:8000/live/feras1/feras1/2565.ts
-#EXTINF:-1,OSN Fine Living HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2815.ts
-#EXTINF:-1,OSN Food Network
-http://www.zeebra.tv:8000/live/feras1/feras1/2713.ts
-#EXTINF:-1,OSN CBS Reality
-http://www.zeebra.tv:8000/live/feras1/feras1/2597.ts
-#EXTINF:-1,OSN Box Office 1
-http://www.zeebra.tv:8000/live/feras1/feras1/1917.ts
-#EXTINF:-1,OSN Box Office 2
-http://www.zeebra.tv:8000/live/feras1/feras1/1878.ts
-#EXTINF:-1,OSN Box Office 3
-http://www.zeebra.tv:8000/live/feras1/feras1/1918.ts
-#EXTINF:-1,OSN On Demand HD
-http://www.zeebra.tv:8000/live/feras1/feras1/1802.ts
-#EXTINF:-1,OSN On Demand Extra 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2182.ts
-#EXTINF:-1,OSN On Demand Extra 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2996.ts
-#EXTINF:-1,PPV 1HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2460.ts
-#EXTINF:-1,PPV 2HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2461.ts
-#EXTINF:-1,PPV 3HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2462.ts
-#EXTINF:-1,PPV 4HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2463.ts
-#EXTINF:-1,PPV WWE HD
-http://www.zeebra.tv:8000/live/feras1/feras1/2464.ts
+INF:-1,â™£â™£â™£â™£â™£Spanishâ™£â™£â™£â™£â™£
+http://live.softiptv.com:9900/live/3month/3month/7448.ts
+#EXTINF:-1,ES-TOROS  HD
+http://live.softiptv.com:9900/live/3month/3month/19479.ts
+#EXTINF:-1,ES-TOROS
+http://live.softiptv.com:9900/live/3month/3month/19521.ts
+#EXTINF:-1,ES-TNT
+http://live.softiptv.com:9900/live/3month/3month/19506.ts
+#EXTINF:-1,ES-Telesur
+http://live.softiptv.com:9900/live/3month/3month/19507.ts
+#EXTINF:-1,ES-SYFY
+http://live.softiptv.com:9900/live/3month/3month/19522.ts
+#EXTINF:-1,ES-SKY TG24
+http://live.softiptv.com:9900/live/3month/3month/19480.ts
+#EXTINF:-1,ES-RT DOC
+http://live.softiptv.com:9900/live/3month/3month/19481.ts
+#EXTINF:-1,ES-REAL MADRID TV
+http://live.softiptv.com:9900/live/3month/3month/19508.ts
+#EXTINF:-1,ES-RAI NEWS24
+http://live.softiptv.com:9900/live/3month/3month/19482.ts
+#EXTINF:-1,ES-QUATRO
+http://live.softiptv.com:9900/live/3month/3month/19509.ts
+#EXTINF:-1,ES-Parlamento
+http://live.softiptv.com:9900/live/3month/3month/19510.ts
+#EXTINF:-1,ES-PANDA
+http://live.softiptv.com:9900/live/3month/3month/19523.ts
+#EXTINF:-1,ES-NICK JR
+http://live.softiptv.com:9900/live/3month/3month/19483.ts
+#EXTINF:-1,ES-NEOX
+http://live.softiptv.com:9900/live/3month/3month/19524.ts
+#EXTINF:-1,ES-MULTIDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/19484.ts
+#EXTINF:-1,ES-LOS 40
+http://live.softiptv.com:9900/live/3month/3month/19511.ts
+#EXTINF:-1,ES-LALIGA TV BAR HD
+http://live.softiptv.com:9900/live/3month/3month/19512.ts
+#EXTINF:-1,ES-LALIGA TV BAR
+http://live.softiptv.com:9900/live/3month/3month/19513.ts
+#EXTINF:-1,ES-IBERALIA TV
+http://live.softiptv.com:9900/live/3month/3month/19525.ts
+#EXTINF:-1,ES-HOLLYWOOD
+http://live.softiptv.com:9900/live/3month/3month/19526.ts
+#EXTINF:-1,ES-HISTORY
+http://live.softiptv.com:9900/live/3month/3month/19485.ts
+#EXTINF:-1,ES-GolTV
+http://live.softiptv.com:9900/live/3month/3month/19486.ts
+#EXTINF:-1,ES-FOX NEWS
+http://live.softiptv.com:9900/live/3month/3month/19487.ts
+#EXTINF:-1,ES-FDF
+http://live.softiptv.com:9900/live/3month/3month/19488.ts
+#EXTINF:-1,ES-eurosport hd
+http://live.softiptv.com:9900/live/3month/3month/19489.ts
+#EXTINF:-1,ES-ESTRELAS
+http://live.softiptv.com:9900/live/3month/3month/19514.ts
+#EXTINF:-1,ES-EHS
+http://live.softiptv.com:9900/live/3month/3month/19527.ts
+#EXTINF:-1,ES-DISNEY CHANNEL HD
+http://live.softiptv.com:9900/live/3month/3month/19490.ts
+#EXTINF:-1,ES-DISCOVERY CHANNEL
+http://live.softiptv.com:9900/live/3month/3month/19491.ts
+#EXTINF:-1,ES-CUATRO
+http://live.softiptv.com:9900/live/3month/3month/19492.ts
+#EXTINF:-1,ES-COMEDY CENTRAL HD
+http://live.softiptv.com:9900/live/3month/3month/19515.ts
+#EXTINF:-1,ES-CLASSICA
+http://live.softiptv.com:9900/live/3month/3month/19493.ts
+#EXTINF:-1,ES-CLAN TVE
+http://live.softiptv.com:9900/live/3month/3month/19494.ts
+#EXTINF:-1,ES-CAZA Y PESCA HD
+http://live.softiptv.com:9900/live/3month/3month/19516.ts
+#EXTINF:-1,ES-CASTILLA LA MANCHA
+http://live.softiptv.com:9900/live/3month/3month/19495.ts
+#EXTINF:-1,ES-CANAL DECASA
+http://live.softiptv.com:9900/live/3month/3month/19528.ts
+#EXTINF:-1,ES-CANAL COCINA
+http://live.softiptv.com:9900/live/3month/3month/19517.ts
+#EXTINF:-1,ES-CALLE 13 HD
+http://live.softiptv.com:9900/live/3month/3month/19496.ts
+#EXTINF:-1,ES-C XTRA
+http://live.softiptv.com:9900/live/3month/3month/19529.ts
+#EXTINF:-1,ES-C & I
+http://live.softiptv.com:9900/live/3month/3month/19497.ts
+#EXTINF:-1,ES-C  COMEDIA
+http://live.softiptv.com:9900/live/3month/3month/19530.ts
+#EXTINF:-1,ES-BLOOMBERG TV
+http://live.softiptv.com:9900/live/3month/3month/19498.ts
+#EXTINF:-1,ES-BEIN SPORT HD
+http://live.softiptv.com:9900/live/3month/3month/19499.ts
+#EXTINF:-1,ES-BEIN SPORT
+http://live.softiptv.com:9900/live/3month/3month/19500.ts
+#EXTINF:-1,ES-BEIN LALIGA HD
+http://live.softiptv.com:9900/live/3month/3month/19518.ts
+#EXTINF:-1,ES-BEIN LALIGA
+http://live.softiptv.com:9900/live/3month/3month/19519.ts
+#EXTINF:-1,ES-Bar?a TV
+http://live.softiptv.com:9900/live/3month/3month/19501.ts
+#EXTINF:-1,ES-AXN WHITE HD
+http://live.softiptv.com:9900/live/3month/3month/19502.ts
+#EXTINF:-1,ES-ARIRANG WORLD
+http://live.softiptv.com:9900/live/3month/3month/19503.ts
+#EXTINF:-1,ES-AMC
+http://live.softiptv.com:9900/live/3month/3month/19520.ts
+#EXTINF:-1,ES-Al Jazeera
+http://live.softiptv.com:9900/live/3month/3month/19504.ts
+#EXTINF:-1,ES-#0 HD
+http://live.softiptv.com:9900/live/3month/3month/19505.ts
+#EXTINF:-1,ES-TNT HD
+http://live.softiptv.com:9900/live/3month/3month/8185.ts
+#EXTINF:-1,ES-TELEDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/8187.ts
+#EXTINF:-1,ES-TELECINCO HD
+http://live.softiptv.com:9900/live/3month/3month/8188.ts
+#EXTINF:-1,ES-TELECINCO
+http://live.softiptv.com:9900/live/3month/3month/8189.ts
+#EXTINF:-1,ES-TCM HD
+http://live.softiptv.com:9900/live/3month/3month/8190.ts
+#EXTINF:-1,ES-TCM
+http://live.softiptv.com:9900/live/3month/3month/8191.ts
+#EXTINF:-1,ES-RT NEWS ENG
+http://live.softiptv.com:9900/live/3month/3month/8193.ts
+#EXTINF:-1,ES-RT
+http://live.softiptv.com:9900/live/3month/3month/8194.ts
+#EXTINF:-1,ES-PLAYBOY TV
+http://live.softiptv.com:9900/live/3month/3month/8196.ts
+#EXTINF:-1,ES-PARAMOUNT
+http://live.softiptv.com:9900/live/3month/3month/8197.ts
+#EXTINF:-1,ES-NOVA
+http://live.softiptv.com:9900/live/3month/3month/8199.ts
+#EXTINF:-1,ES-Nickelodeon
+http://live.softiptv.com:9900/live/3month/3month/8200.ts
+#EXTINF:-1,ES-NHK WORLD
+http://live.softiptv.com:9900/live/3month/3month/8201.ts
+#EXTINF:-1,ES-NAT GEOGRAPH
+http://live.softiptv.com:9900/live/3month/3month/8203.ts
+#EXTINF:-1,ES-NAT GEO WILD HD
+http://live.softiptv.com:9900/live/3month/3month/8204.ts
+#EXTINF:-1,ES-NAT GEO WILD
+http://live.softiptv.com:9900/live/3month/3month/8205.ts
+#EXTINF:-1,ES-MOVISTAR F1 HD
+http://live.softiptv.com:9900/live/3month/3month/8206.ts
+#EXTINF:-1,ES-MOTOGP HD
+http://live.softiptv.com:9900/live/3month/3month/8207.ts
+#EXTINF:-1,ES-MOTO GP
+http://live.softiptv.com:9900/live/3month/3month/8208.ts
+#EXTINF:-1,ES-LTC
+http://live.softiptv.com:9900/live/3month/3month/8209.ts
+#EXTINF:-1,ES-LIGA HD
+http://live.softiptv.com:9900/live/3month/3month/8210.ts
+#EXTINF:-1,ES-LA SEXTA HD
+http://live.softiptv.com:9900/live/3month/3month/8212.ts
+#EXTINF:-1,ES-LA SEXTA
+http://live.softiptv.com:9900/live/3month/3month/8213.ts
+#EXTINF:-1,ES-LA 2
+http://live.softiptv.com:9900/live/3month/3month/8214.ts
+#EXTINF:-1,ES-LA 1 HD
+http://live.softiptv.com:9900/live/3month/3month/8215.ts
+#EXTINF:-1,ES-LA 1
+http://live.softiptv.com:9900/live/3month/3month/8216.ts
+#EXTINF:-1,ES-HOLLYWOOD HD
+http://live.softiptv.com:9900/live/3month/3month/8217.ts
+#EXTINF:-1,ES-HISTORIA
+http://live.softiptv.com:9900/live/3month/3month/8219.ts
+#EXTINF:-1,ES-FRANCE 24-EN
+http://live.softiptv.com:9900/live/3month/3month/8220.ts
+#EXTINF:-1,ES-FOX LIFE HD
+http://live.softiptv.com:9900/live/3month/3month/8221.ts
+#EXTINF:-1,ES-FOX LIFE
+http://live.softiptv.com:9900/live/3month/3month/8222.ts
+#EXTINF:-1,ES-FOX HD
+http://live.softiptv.com:9900/live/3month/3month/8223.ts
+#EXTINF:-1,ES-FOX
+http://live.softiptv.com:9900/live/3month/3month/8224.ts
+#EXTINF:-1,ES-EUROSPORT 2
+http://live.softiptv.com:9900/live/3month/3month/8225.ts
+#EXTINF:-1,ES-EUROSPORT 1
+http://live.softiptv.com:9900/live/3month/3month/8226.ts
+#EXTINF:-1,ES-ES-40 TV
+http://live.softiptv.com:9900/live/3month/3month/8228.ts
+#EXTINF:-1,ES-ENERGY
+http://live.softiptv.com:9900/live/3month/3month/8229.ts
+#EXTINF:-1,ES-DIVINITY
+http://live.softiptv.com:9900/live/3month/3month/8231.ts
+#EXTINF:-1,ES-DISNEY XD
+http://live.softiptv.com:9900/live/3month/3month/8232.ts
+#EXTINF:-1,ES-DISNEY JR
+http://live.softiptv.com:9900/live/3month/3month/8233.ts
+#EXTINF:-1,ES-DISNEY CH.
+http://live.softiptv.com:9900/live/3month/3month/8234.ts
+#EXTINF:-1,ES-DISCOVERY
+http://live.softiptv.com:9900/live/3month/3month/8235.ts
+#EXTINF:-1,ES-DEPORTES 2
+http://live.softiptv.com:9900/live/3month/3month/8236.ts
+#EXTINF:-1,ES-DCINE
+http://live.softiptv.com:9900/live/3month/3month/8237.ts
+#EXTINF:-1,ES-CUATRO HD
+http://live.softiptv.com:9900/live/3month/3month/8238.ts
+#EXTINF:-1,ES-COSMOPOLITAN HD
+http://live.softiptv.com:9900/live/3month/3month/8239.ts
+#EXTINF:-1,ES-COSMO
+http://live.softiptv.com:9900/live/3month/3month/8240.ts
+#EXTINF:-1,ES-CAZA Y PESCA
+http://live.softiptv.com:9900/live/3month/3month/8242.ts
+#EXTINF:-1,ES-CANAL SUR ANDALUCIA
+http://live.softiptv.com:9900/live/3month/3month/8243.ts
+#EXTINF:-1,ES-CANAL ODISEA
+http://live.softiptv.com:9900/live/3month/3month/8244.ts
+#EXTINF:-1,ES-Canal Extremadura SAT
+http://live.softiptv.com:9900/live/3month/3month/8245.ts
+#EXTINF:-1,ES-CALLE 13
+http://live.softiptv.com:9900/live/3month/3month/8248.ts
+#EXTINF:-1,ES-C&I
+http://live.softiptv.com:9900/live/3month/3month/8249.ts
+#EXTINF:-1,ES-C COMEDIA HD
+http://live.softiptv.com:9900/live/3month/3month/8250.ts
+#EXTINF:-1,ES-C  SERIESXTRA
+http://live.softiptv.com:9900/live/3month/3month/8251.ts
+#EXTINF:-1,ES-C  Series Xtra HD
+http://live.softiptv.com:9900/live/3month/3month/8252.ts
+#EXTINF:-1,ES-C  SERIES HD
+http://live.softiptv.com:9900/live/3month/3month/8253.ts
+#EXTINF:-1,ES-C  SERIES
+http://live.softiptv.com:9900/live/3month/3month/8254.ts
+#EXTINF:-1,ES-C  PORTADA
+http://live.softiptv.com:9900/live/3month/3month/8255.ts
+#EXTINF:-1,ES-C  LIGA
+http://live.softiptv.com:9900/live/3month/3month/8256.ts
+#EXTINF:-1,ES-C  GOLF HD
+http://live.softiptv.com:9900/live/3month/3month/8257.ts
+#EXTINF:-1,ES-C  GOLF
+http://live.softiptv.com:9900/live/3month/3month/8258.ts
+#EXTINF:-1,ES-C  FUTBOL HD
+http://live.softiptv.com:9900/live/3month/3month/8259.ts
+#EXTINF:-1,ES-C  FTBOL
+http://live.softiptv.com:9900/live/3month/3month/8260.ts
+#EXTINF:-1,ES-C  DEPORTES
+http://live.softiptv.com:9900/live/3month/3month/8262.ts
+#EXTINF:-1,ES-C  DCINE HD
+http://live.softiptv.com:9900/live/3month/3month/8263.ts
+#EXTINF:-1,ES-C  ACCIÂ©N HD
+http://live.softiptv.com:9900/live/3month/3month/8265.ts
+#EXTINF:-1,ES-BOING
+http://live.softiptv.com:9900/live/3month/3month/8267.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 9
+http://live.softiptv.com:9900/live/3month/3month/8268.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 8
+http://live.softiptv.com:9900/live/3month/3month/8269.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 7
+http://live.softiptv.com:9900/live/3month/3month/8270.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 6
+http://live.softiptv.com:9900/live/3month/3month/8271.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 5
+http://live.softiptv.com:9900/live/3month/3month/8272.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 4
+http://live.softiptv.com:9900/live/3month/3month/8273.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 3
+http://live.softiptv.com:9900/live/3month/3month/8274.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 2
+http://live.softiptv.com:9900/live/3month/3month/8275.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 10
+http://live.softiptv.com:9900/live/3month/3month/8276.ts
+#EXTINF:-1,ES-BEIN SPORT MAX 1
+http://live.softiptv.com:9900/live/3month/3month/8277.ts
+#EXTINF:-1,ES-BAR TV
+http://live.softiptv.com:9900/live/3month/3month/8280.ts
+#EXTINF:-1,ES-BABY TV
+http://live.softiptv.com:9900/live/3month/3month/8281.ts
+#EXTINF:-1,ES-AXN WHITE
+http://live.softiptv.com:9900/live/3month/3month/8282.ts
+#EXTINF:-1,ES-AXN HD
+http://live.softiptv.com:9900/live/3month/3month/8283.ts
+#EXTINF:-1,ES-AXN
+http://live.softiptv.com:9900/live/3month/3month/8284.ts
+#EXTINF:-1,ES-ARAGON TV
+http://live.softiptv.com:9900/live/3month/3month/8285.ts
+#EXTINF:-1,ES-ANTENA 3 HD
+http://live.softiptv.com:9900/live/3month/3month/8286.ts
+#EXTINF:-1,ES-ANTENA 3
+http://live.softiptv.com:9900/live/3month/3month/8287.ts
+#EXTINF:-1,ES-AMC HD
+http://live.softiptv.com:9900/live/3month/3month/8288.ts
+#EXTINF:-1,ES-AJE
+http://live.softiptv.com:9900/live/3month/3month/8290.ts
+#EXTINF:-1,ES-A&E
+http://live.softiptv.com:9900/live/3month/3month/8291.ts
+#EXTINF:-1,ES-24 HORAS
+http://live.softiptv.com:9900/live/3month/3month/8292.ts
+#EXTINF:-1,ES-#0
+http://live.softiptv.com:9900/live/3month/3month/8293.ts 
+#EXTINF:-1,====SPAIN====
+http://62.4.21.70:8000/live/987654/987654/1735.ts
+#EXTINF:-1,SP Viajar - SP Viajar
+http://62.4.21.70:8000/live/987654/987654/1829.ts
+#EXTINF:-1,SP TVI Inter - SP TVI Inter
+http://62.4.21.70:8000/live/987654/987654/1825.ts
+#EXTINF:-1,SP TV Internacional Europa - SP TV Internacional Europa
+http://62.4.21.70:8000/live/987654/987654/1824.ts
+#EXTINF:-1,SP TNT - SP TNT
+http://62.4.21.70:8000/live/987654/987654/1823.ts
+#EXTINF:-1,SP Teledeporte - SP Teledeporte
+http://62.4.21.70:8000/live/987654/987654/1822.ts
+#EXTINF:-1,SP Telecino - SP Telecino
+http://62.4.21.70:8000/live/987654/987654/1821.ts
+#EXTINF:-1,TCM_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1890.ts
+#EXTINF:-1,SyFy_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1889.ts
+#EXTINF:-1,Sol_Musica_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1888.ts
+#EXTINF:-1,SP Real Madrid TV - SP Real Madrid TV
+http://62.4.21.70:8000/live/987654/987654/1827.ts
+#EXTINF:-1,SP NGC Wild - SP NGC Wild
+http://62.4.21.70:8000/live/987654/987654/1851.ts
+#EXTINF:-1,SP NGC - SP NGC
+http://62.4.21.70:8000/live/987654/987654/1852.ts
+#EXTINF:-1,SP Neox - SP Neox
+http://62.4.21.70:8000/live/987654/987654/1830.ts
+#EXTINF:-1,SP MTV Espana - SP MTV Espana
+http://62.4.21.70:8000/live/987654/987654/1850.ts
+#EXTINF:-1,SP Moto GP - SP Moto GP
+http://62.4.21.70:8000/live/987654/987654/1867.ts
+#EXTINF:-1,SP Mezzo - SP Mezzo
+http://62.4.21.70:8000/live/987654/987654/1861.ts
+#EXTINF:-1,SP Ltc - SP Ltc
+http://62.4.21.70:8000/live/987654/987654/1866.ts
+#EXTINF:-1,SP La Sexta - SP La Sexta
+http://62.4.21.70:8000/live/987654/987654/1846.ts
+#EXTINF:-1,SP La 2 - SP La 2
+http://62.4.21.70:8000/live/987654/987654/1847.ts
+#EXTINF:-1,SP La 1 - SP La 1
+http://62.4.21.70:8000/live/987654/987654/1854.ts
+#EXTINF:-1,SP Hollywood - SP Hollywood
+http://62.4.21.70:8000/live/987654/987654/1855.ts
+#EXTINF:-1,SP Historia - SP Historia
+http://62.4.21.70:8000/live/987654/987654/1856.ts
+#EXTINF:-1,SP Fox News - SP Fox News
+http://62.4.21.70:8000/live/987654/987654/1857.ts
+#EXTINF:-1,SP FDF - SP FDF
+http://62.4.21.70:8000/live/987654/987654/1858.ts
+#EXTINF:-1,SP Energy - SP Energy
+http://62.4.21.70:8000/live/987654/987654/1864.ts
+#EXTINF:-1,SP Divinity - SP Divinity
+http://62.4.21.70:8000/live/987654/987654/1863.ts
+#EXTINF:-1,SP Disney xd - SP Disney xd
+http://62.4.21.70:8000/live/987654/987654/1862.ts
+#EXTINF:-1,SP Disney Ch - SP Disney Ch
+http://62.4.21.70:8000/live/987654/987654/1820.ts
+#EXTINF:-1,SP Discovery - SP Discovery
+http://62.4.21.70:8000/live/987654/987654/1837.ts
+#EXTINF:-1,SP Dcine Espanol - SP Dcine Espanol
+http://62.4.21.70:8000/live/987654/987654/1840.ts
+#EXTINF:-1,SP Cuatro - SP Cuatro
+http://62.4.21.70:8000/live/987654/987654/1871.ts
+#EXTINF:-1,SP Comedy Central - SP Comedy Central
+http://62.4.21.70:8000/live/987654/987654/1833.ts
+#EXTINF:-1,SP Comedia HD - SP Comedia HD
+http://62.4.21.70:8000/live/987654/987654/1859.ts
+#EXTINF:-1,SP Classica - SP Classica
+http://62.4.21.70:8000/live/987654/987654/1836.ts
+#EXTINF:-1,SP Clan TVe - SP Clan TVe
+http://62.4.21.70:8000/live/987654/987654/1848.ts
+#EXTINF:-1,SP Canal Sur - SP Canal Sur
+http://62.4.21.70:8000/live/987654/987654/1841.ts
+#EXTINF:-1,SP Canal Panda - SP Canal Panda
+http://62.4.21.70:8000/live/987654/987654/1839.ts
+#EXTINF:-1,SP Canal Odisea - SP Canal Odisea
+http://62.4.21.70:8000/live/987654/987654/1842.ts
+#EXTINF:-1,SP Canal Decasa - SP Canal Decasa
+http://62.4.21.70:8000/live/987654/987654/1870.ts
+#EXTINF:-1,SP Canal Cocina - SP Canal Cocina
+http://62.4.21.70:8000/live/987654/987654/1869.ts
+#EXTINF:-1,SP Canal 24 Horas - SP Canal 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1868.ts
+#EXTINF:-1,SP Calle 13 - SP Calle 13
+http://62.4.21.70:8000/live/987654/987654/1843.ts
+#EXTINF:-1,SP C  Toros - SP C  Toros
+http://62.4.21.70:8000/live/987654/987654/1828.ts
+#EXTINF:-1,SP C  Series Xtra - SP C  Series Xtra
+http://62.4.21.70:8000/live/987654/987654/1874.ts
+#EXTINF:-1,SP C  Series - SP C  Series
+http://62.4.21.70:8000/live/987654/987654/1834.ts
+#EXTINF:-1,SP C  Liga - SP C  Liga
+http://62.4.21.70:8000/live/987654/987654/1878.ts
+#EXTINF:-1,C+Golf _SPAIN
+http://62.4.21.70:8000/live/987654/987654/1887.ts
+#EXTINF:-1,SP C  Fotbol HD - SP C  Fotbol HD
+http://62.4.21.70:8000/live/987654/987654/1832.ts
+#EXTINF:-1,C+Footbol_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1886.ts
+#EXTINF:-1,C+Estrenos_SPAIN
+http://62.4.21.70:8000/live/987654/987654/1885.ts
+#EXTINF:-1,SP C  Estrellas - SP C  Estrellas
+http://62.4.21.70:8000/live/987654/987654/1882.ts
+#EXTINF:-1,SP C  Deportes 2 - SP C  Deportes 2
+http://62.4.21.70:8000/live/987654/987654/1883.ts
+#EXTINF:-1,SP C  Deportes - SP C  Deportes
+http://62.4.21.70:8000/live/987654/987654/1884.ts
+#EXTINF:-1,SP C  Dcine HD - SP C  Dcine HD
+http://62.4.21.70:8000/live/987654/987654/1838.ts
+#EXTINF:-1,SP C  Accion HD - SP C  Accion HD
+http://62.4.21.70:8000/live/987654/987654/1831.ts
+#EXTINF:-1,SP Boing - SP Boing
+http://62.4.21.70:8000/live/987654/987654/1881.ts
+#EXTINF:-1,SP Bein Sports - SP Bein Sports
+http://62.4.21.70:8000/live/987654/987654/1826.ts
+#EXTINF:-1,SP bCaza Y Pesca - SP bCaza Y Pesca
+http://62.4.21.70:8000/live/987654/987654/1845.ts
+#EXTINF:-1,SP Barca Tv - SP Barca Tv
+http://62.4.21.70:8000/live/987654/987654/1860.ts
+#EXTINF:-1,SP Baby Tv - SP Baby Tv
+http://62.4.21.70:8000/live/987654/987654/1844.ts
+#EXTINF:-1,SP AXN HD - SP AXN HD
+http://62.4.21.70:8000/live/987654/987654/1853.ts
+#EXTINF:-1,SP Antena 3 - SP Antena 3
+http://62.4.21.70:8000/live/987654/987654/1872.ts
+#EXTINF:-1,SP AMC - SP AMC
+http://62.4.21.70:8000/live/987654/987654/1880.ts
+#EXTINF:-1,SP AE - SP AE
+http://62.4.21.70:8000/live/987654/987654/1875.ts
+#EXTINF:-1,SP 40 TV - SP 40 TV
+http://62.4.21.70:8000/live/987654/987654/1877.ts
+#EXTINF:-1,SP 24 Horas - SP 24 Horas
+http://62.4.21.70:8000/live/987654/987654/1876.ts
+#EXTINF:-1,SP_TAQUILLA_1
+http://62.4.21.70:8000/live/987654/987654/2621.ts
+#EXTINF:-1,SP_TAQUILLA_2
+http://62.4.21.70:8000/live/987654/987654/2622.ts
+#EXTINF:-1,SP-TAQUILLA-3
+http://62.4.21.70:8000/live/987654/987654/2623.ts
+#EXTINF:-1,SP_TAQUILLA_4
+http://62.4.21.70:8000/live/987654/987654/2624.ts
+#EXTINF:-1,SP_TAQUILLA_5
+http://62.4.21.70:8000/live/987654/987654/2625.ts
+#EXTINF:-1,SP_TAQUILLA_6
+http://62.4.21.70:8000/live/987654/987654/2626.ts
+#EXTINF:-1,SP_TAQUILLA_7
+http://62.4.21.70:8000/live/987654/987654/2627.ts
+#EXTINF:-1,SP_TAQUILLA_8
+http://62.4.21.70:8000/live/987654/987654/2628.ts
+#EXTINF:-1,SP_TAQUILLA_9
+http://62.4.21.70:8000/live/987654/987654/2629.ts
+#EXTINF:-1,SP_TAQUILLA_10
+http://62.4.21.70:8000/live/987654/987654/2630.ts
+#EXTINF:-1,TAQUILLA_11_HD
+http://62.4.21.70:8000/live/987654/987654/2658.ts
+#EXTINF:-1,TAQUILLA_12_HD
+http://62.4.21.70:8000/live/987654/987654/2659.ts
+#EXTINF:-1,TAQUILLA_13_HD
+http://62.4.21.70:8000/live/987654/987654/2660.ts
+#EXTINF:-1,TAQUILLA_14_HD
+http://62.4.21.70:8000/live/987654/987654/2661.ts
+#EXTINF:-1,TAQUILLA_15_HD
+http://62.4.21.70:8000/live/987654/987654/2662.ts
+#EXTINF:-1,TAQUILLA_16_HD
+http://62.4.21.70:8000/live/987654/987654/2663.ts
+#EXTINF:-1,PORTUGAL:TVCINE 1 HD
+http://62.4.21.70:8000/live/987654/987654/511.ts
+#EXTINF:-1,PORTUGAL:TVCINE 2 HD
+http://62.4.21.70:8000/live/987654/987654/512.ts
+#EXTINF:-1,PORTUGAL:TVCINE 3 HD
+http://62.4.21.70:8000/live/987654/987654/513.ts
+#EXTINF:-1,PORTUGAL:TVCINE 4 HD
+http://62.4.21.70:8000/live/987654/987654/514.ts
+#EXTINF:-1,PORTUGAL:TLC
+http://62.4.21.70:8000/live/987654/987654/604.ts
+#EXTINF:-1,PORTUGAL:SPORT TV1
+http://62.4.21.70:8000/live/987654/987654/515.ts
+#EXTINF:-1,PORTUGAL:SPORT TV2
+http://62.4.21.70:8000/live/987654/987654/516.ts
+#EXTINF:-1,PORTUGAL:SPORT TV3
+http://62.4.21.70:8000/live/987654/987654/517.ts
+#EXTINF:-1,PORTUGAL:SPORT TV4
+http://62.4.21.70:8000/live/987654/987654/518.ts
+#EXTINF:-1,PORTUGAL:SPORT TV5
+http://62.4.21.70:8000/live/987654/987654/519.ts
+#EXTINF:-1,PORTUGAL:Sic Radical
+http://62.4.21.70:8000/live/987654/987654/609.ts
+#EXTINF:-1,PORTUGAL:SIC
+http://62.4.21.70:8000/live/987654/987654/596.ts
+#EXTINF:-1,PORTUGAL:RTP1
+http://62.4.21.70:8000/live/987654/987654/606.ts
+#EXTINF:-1,PORTUGAL:RTP 2
+http://62.4.21.70:8000/live/987654/987654/607.ts
+#EXTINF:-1,PORTUGAL:RTP 3
+http://62.4.21.70:8000/live/987654/987654/608.ts
+#EXTINF:-1,PORTUGAL:PANDA
+http://62.4.21.70:8000/live/987654/987654/597.ts
+#EXTINF:-1,PORTUGAL:CMTV
+http://62.4.21.70:8000/live/987654/987654/598.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 1 HD
+http://62.4.21.70:8000/live/987654/987654/520.ts
+#EXTINF:-1,PORTUGAL:BENFICA TV 2 HD
+http://62.4.21.70:8000/live/987654/987654/599.ts
+#EXTINF:-1,Cartoon Network
+http://62.4.21.70:8000/live/987654/987654/373.ts
+#EXTINF:-1,PORTUGAL:_TVsÃ©ries HD
+http://62.4.21.70:8000/live/987654/987654/600.ts
+#EXTINF:-1,PORTUGAL:_TVI
+http://62.4.21.70:8000/live/987654/987654/601.ts
+#EXTINF:-1,PORTUGAL: TV record
+http://62.4.21.70:8000/live/987654/987654/602.ts
+#EXTINF:-1,BOOMERANG
+http://62.4.21.70:8000/live/987654/987654/378.ts
+#EXTINF:-1,PORTUGAL: TV GLOBO PREMIUM
+http://62.4.21.70:8000/live/987654/987654/603.ts
+#EXTINF:-1,PORTUGAL: SPORTING TV HD
+http://62.4.21.70:8000/live/987654/987654/605.ts
+#EXTINF:-1,PORTUGAL: SIC Mulher
+http://62.4.21.70:8000/live/987654/987654/610.ts
