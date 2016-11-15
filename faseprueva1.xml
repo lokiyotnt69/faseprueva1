@@ -1,139 +1,169 @@
 #EXTM3U
-#EXTINF:-1,BeinSport-HD1
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1033.ts
-#EXTINF:-1,BeinSport-HD2
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1031.ts
-#EXTINF:-1,BeinSport-HD3
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1030.ts
-#EXTINF:-1,BeinSport-HD4
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1029.ts
-#EXTINF:-1,BeinSport-HD5
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1028.ts
-#EXTINF:-1,BeinSport-HD6
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1027.ts
-#EXTINF:-1,BeinSport-HD7
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1026.ts
-#EXTINF:-1,BeinSport-HD8
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1025.ts
-#EXTINF:-1,BeinSport-HD9
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1024.ts
-#EXTINF:-1,BeinSport-HD10
-http://149.202.77.226:7500/live/ahmed1/ahmed1/1032.ts
-#EXTINF:-1,BEIN-S1
-http://149.202.77.226:7500/live/ahmed1/ahmed1/528.ts
-#EXTINF:-1,BEIN-S2
-http://149.202.77.226:7500/live/ahmed1/ahmed1/529.ts
-#EXTINF:-1,BEIN-S3
-http://149.202.77.226:7500/live/ahmed1/ahmed1/530.ts
-#EXTINF:-1,BEIN-S4
-http://149.202.77.226:7500/live/ahmed1/ahmed1/531.ts
-#EXTINF:-1,BEIN-S5
-http://149.202.77.226:7500/live/ahmed1/ahmed1/532.ts
-#EXTINF:-1,BEIN-S6
-http://149.202.77.226:7500/live/ahmed1/ahmed1/533.ts
-#EXTINF:-1,BEIN-S7
-http://149.202.77.226:7500/live/ahmed1/ahmed1/534.ts
-#EXTINF:-1,BEIN-S8
-http://149.202.77.226:7500/live/ahmed1/ahmed1/535.ts
-#EXTINF:-1,BEIN-S9
-http://149.202.77.226:7500/live/ahmed1/ahmed1/536.ts
-#EXTINF:-1,BEIN-S10
-http://149.202.77.226:7500/live/ahmed1/ahmed1/537.ts
-#EXTINF:-1,BEIN_MOVIES_1HD
-http://149.202.77.226:7500/live/ahmed1/ahmed1/952.ts
-#EXTINF:-1,BEIN_MOVIES_2HD
-http://149.202.77.226:7500/live/ahmed1/ahmed1/953.ts
-#EXTINF:-1,Bein-Sport1
-http://149.202.77.226:7500/live/ahmed1/ahmed1/603.ts
-#EXTINF:-1,Bein-Sport2
-http://149.202.77.226:7500/live/ahmed1/ahmed1/604.ts
-#EXTINF:-1,Bein-Sport3
-http://149.202.77.226:7500/live/ahmed1/ahmed1/605.ts
-#EXTINF:-1,AR | BEIN SPORT 1 HD
-http://biwsat.com:8080/live/testxxx77/0111/3195.ts
-#EXTINF:-1,AR | BEIN SPORT 2 HD
-http://biwsat.com:8080/live/testxxx77/0111/3196.ts
-#EXTINF:-1,BEIN SPORT 1 FR HD
-http://biwsat.com:8080/live/testxxx77/0111/954.ts
-#EXTINF:-1,BEIN SPORT 2 FR
-http://biwsat.com:8080/live/testxxx77/0111/953.ts
-#EXTINF:-1,BEIN SPORT 3 FR
-http://biwsat.com:8080/live/testxxx77/0111/952.ts
-#EXTINF:-1,BEIN 1 HD
-http://biwsat.com:8080/live/testxxx77/0111/942.ts
-#EXTINF:-1,BEIN 2 HD
-http://biwsat.com:8080/live/testxxx77/0111/941.ts
-#EXTINF:-1,BEIN 3 HD
-http://biwsat.com:8080/live/testxxx77/0111/940.ts
-#EXTINF:-1,BEIN 4 HD
-http://biwsat.com:8080/live/testxxx77/0111/939.ts
-#EXTINF:-1,BEIN 5 HD
-http://biwsat.com:8080/live/testxxx77/0111/938.ts
-#EXTINF:-1,BEIN 6 HD
-http://biwsat.com:8080/live/testxxx77/0111/937.ts
-#EXTINF:-1,BEIN 7 HD
-http://biwsat.com:8080/live/testxxx77/0111/936.ts
-#EXTINF:-1,BEIN 8 HD
-http://biwsat.com:8080/live/testxxx77/0111/935.ts
-#EXTINF:-1,BEIN 9 HD
-http://biwsat.com:8080/live/testxxx77/0111/934.ts
-#EXTINF:-1,La 1 HD.
-http://37.134.190.136:9981/stream/channelid/1809011844?ticket=2C15579EDBB7C7C0481FEAA7FD2340DD374D9297&profile=pass
-#EXTINF:-1,La 2
-http://37.134.190.136:9981/stream/channelid/58826638?ticket=E97DCB6C547C73DEB5627BF0657F6E0ECA905E59&profile=pass
-#EXTINF:-1,antena3 HD
-http://37.134.190.136:9981/stream/channelid/369952653?ticket=45D94C044CC41EEDC8C9257993E82A6E8A12FDD3&profile=pass
-#EXTINF:-1,Cuatro HD
-http://37.134.190.136:9981/stream/channelid/160423494?ticket=85B812073F201A946D67049C602FD3A67233C46C&profile=pass
-#EXTINF:-1,Telecinco HD
-http://37.134.190.136:9981/stream/channelid/1934387701?ticket=F4B78A85123260DEA7688EED96229E4A1F1A716A&profile=pass
-#EXTINF:-1,laSexta HD
-http://37.134.190.136:9981/stream/channelid/1060149207?ticket=3AB1FEB3696C25949E90704CB2AF73E5BAB76816&profile=pass
-#EXTINF:-1,Telemadrid HD
-http://37.134.190.136:9981/stream/channelid/972019527?ticket=802DC970EA893467CA369A7FCC3FB7CB8F3E2AFB&profile=pass
-#EXTINF:-1,Clan
-http://37.134.190.136:9981/stream/channelid/913743849?ticket=C8B4B1002E583D2FD74A1EF9A930B0D834E14224&profile=pass
-#EXTINF:-1,7Discovery MAX
-http://37.134.190.136:9981/stream/channelid/1067733908?ticket=AA1B6908BCAB3FE721E7B91B5922CB4D404D0466&profile=pass
-#EXTINF:-1,tdp HD
-http://37.134.190.136:9981/stream/channelid/505464770?ticket=14442010D03B985264F7A18FD3365AF74086D336&profile=pass
-#EXTINF:-1,FDF
-http://37.134.190.136:9981/stream/channelid/752761120?ticket=97389651C57CF76D645D98B09DA7DA31239A6EA7&profile=pass
-#EXTINF:-1,13 Tv Definitivo
-http://37.134.190.136:9981/stream/channelid/1391758822?ticket=E160E2339FFEB0EEBFAB7210639CD75A8215EFB3&profile=pass
-#EXTINF:-1,Disney Channel
-http://37.134.190.136:9981/stream/channelid/1359663572?ticket=245A36470CD91199E86F2FBCB474B067C9AF9AAD&profile=pass
-#EXTINF:-1,atreseries HD
-http://37.134.190.136:9981/stream/channelid/1311192516?ticket=E4BFD0F7135831AADC244F1E70107323189C1590&profile=pass
-#EXTINF:-1,neox
-http://37.134.190.136:9981/stream/channelid/1401874684?ticket=C7917C294160616B3A340F2C67C4FF68CA21890D&profile=pass
-#EXTINF:-1,Energy
-http://37.134.190.136:9981/stream/channelid/1523425294?ticket=ADA6E11202A4DC7DAC99F0C09D020AE7299D84B2&profile=pass
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://37.134.190.136:9981/stream/channelid/1793840007?ticket=730F858C41C1E347225AFFC10F9E67AF3F1A880D&profile=pass
-#EXTINF:-1,Boing
-http://37.134.190.136:9981/stream/channelid/125328594?ticket=D33AF9106C2AF5BD5AA594E8B06D3A29962A80CA&profile=pass
-#EXTINF:-1,LA OTRA
-http://37.134.190.136:9981/stream/channelid/305869934?ticket=241F91FA198C69872E95B5F197369786C8D9B591&profile=pass
-#EXTINF:-1,Kiss FM
-http://37.134.190.136:9981/stream/channelid/1266532194?ticket=ABC3DA6585DC6231A870409134D20F856D6A71FC&profile=pass
-#EXTINF:-1,BeMad tv HD
-http://37.134.190.136:9981/stream/channelid/453227743?ticket=147333C67138588E0C04D98A831ABFFCDB47D4DE&profile=pass
-#EXTINF:-1,24h
-http://37.134.190.136:9981/stream/channelid/2018911770?ticket=F68EB8944FDAF8DFDB5A3441506D74F3A8BEFB7C&profile=pass
-#EXTINF:-1,8madrid
-http://37.134.190.136:9981/stream/channelid/1063017181?ticket=8BCDEFC4EE3761574A18E29A17C9DC55881DFEB8&profile=pass
-#EXTINF:-1,Canal Galería
-http://37.134.190.136:9981/stream/channelid/1972677992?ticket=D64B8EEEFA3C750EEEA5E656BE0864FFA1121216&profile=pass
-#EXTINF:-1,Divinity
-http://37.134.190.136:9981/stream/channelid/1955352668?ticket=89AC7716A992C80CDB39826200A3B5546A5B3665&profile=pass
-#EXTINF:-1,EHS.TV
-http://37.134.190.136:9981/stream/channelid/147441191?ticket=9ADB84CEFEAFD93D0FF3A1AD32FF3FE5B65B5B4B&profile=pass
-#EXTINF:-1,Hit FM
-http://37.134.190.136:9981/stream/channelid/125628025?ticket=A84837421EDBB5D00B86B0450DE849C010C45C6B&profile=pass
-#EXTINF:-1,nova
-http://37.134.190.136:9981/stream/channelid/2036689528?ticket=780E128EE1F071EEF4322989FEF79280782F3F08&profile=pass
-#EXTINF:-1,ONDA MADRID
-http://37.134.190.136:9981/stream/channelid/1227227837?ticket=9EF8FB1D44303659FF3C414FB2499DCA0DD7392A&profile=pass
-#EXTINF:-1,proximamente
-http://37.134.190.136:9981/stream/channelid/1250936216?ticket=8CAAB5A3AD4A7FE712B3898C3C85113532BFF04B&profile=pass
+#EXTINF:-1,#### BEINSPORT ARABIC SD ####
+http://iptvtop.com:8888/live/nedned/nedned/1.ts
+#EXTINF:-1,AR: BeinSport1_SD
+http://iptvtop.com:8888/live/nedned/nedned/2.ts
+#EXTINF:-1,AR: BeinSport2_SD
+http://iptvtop.com:8888/live/nedned/nedned/3.ts
+#EXTINF:-1,AR: BeinSport3_SD
+http://iptvtop.com:8888/live/nedned/nedned/4.ts
+#EXTINF:-1,AR: BeinSport4_SD
+http://iptvtop.com:8888/live/nedned/nedned/5.ts
+#EXTINF:-1,AR: BeinSport5_SD
+http://iptvtop.com:8888/live/nedned/nedned/6.ts
+#EXTINF:-1,AR: BeinSport6_SD
+http://iptvtop.com:8888/live/nedned/nedned/7.ts
+#EXTINF:-1,AR: BeinSport7_SD
+http://iptvtop.com:8888/live/nedned/nedned/8.ts
+#EXTINF:-1,AR: BeinSport8_SD
+http://iptvtop.com:8888/live/nedned/nedned/9.ts
+#EXTINF:-1,AR: BeinSport9_SD
+http://iptvtop.com:8888/live/nedned/nedned/10.ts
+#EXTINF:-1,AR: BeinSport10_SD
+http://iptvtop.com:8888/live/nedned/nedned/11.ts
+#EXTINF:-1,#### BEINSPORT ARABIC_HD #####
+http://iptvtop.com:8888/live/nedned/nedned/12.ts
+#EXTINF:-1,AR: BeinSport_News_HD
+http://iptvtop.com:8888/live/nedned/nedned/242.ts
+#EXTINF:-1,AR: BeinSport1_HD
+http://iptvtop.com:8888/live/nedned/nedned/13.ts
+#EXTINF:-1,AR: BeinSport2_HD
+http://iptvtop.com:8888/live/nedned/nedned/14.ts
+#EXTINF:-1,AR: BeinSport3_HD
+http://iptvtop.com:8888/live/nedned/nedned/15.ts
+#EXTINF:-1,AR: BeinSport4_HD
+http://iptvtop.com:8888/live/nedned/nedned/16.ts
+#EXTINF:-1,AR: BeinSport5_HD
+http://iptvtop.com:8888/live/nedned/nedned/17.ts
+#EXTINF:-1,AR: BeinSport6_HD
+http://iptvtop.com:8888/live/nedned/nedned/18.ts
+#EXTINF:-1,AR: BeinSport7_HD
+http://iptvtop.com:8888/live/nedned/nedned/19.ts
+#EXTINF:-1,AR: BeinSport8_HD
+http://iptvtop.com:8888/live/nedned/nedned/20.ts
+#EXTINF:-1,AR: BeinSport9_HD
+http://iptvtop.com:8888/live/nedned/nedned/21.ts
+#EXTINF:-1,AR: BeinSport10_HD
+http://iptvtop.com:8888/live/nedned/nedned/22.ts
+#EXTINF:-1,AR: BeinSport11_HD
+http://iptvtop.com:8888/live/nedned/nedned/23.ts
+#EXTINF:-1,AR: BeinSport12_HD
+http://iptvtop.com:8888/live/nedned/nedned/24.ts
+#EXTINF:-1,AR: BeinSport13_HD
+http://iptvtop.com:8888/live/nedned/nedned/25.ts
+#EXTINF:-1,#### BEINSPORT ARABIC_HD Backup ####
+http://iptvtop.com:8888/live/nedned/nedned/26.ts
+#EXTINF:-1,AR: Beinsport-1_HD
+http://iptvtop.com:8888/live/nedned/nedned/27.ts
+#EXTINF:-1,AR: Beinsport-2_HD
+http://iptvtop.com:8888/live/nedned/nedned/28.ts
+#EXTINF:-1,AR: Beinsport-3_HD
+http://iptvtop.com:8888/live/nedned/nedned/29.ts
+#EXTINF:-1,AR: Beinsport-4_HD
+http://iptvtop.com:8888/live/nedned/nedned/30.ts
+#EXTINF:-1,AR: Beinsport-5_HD
+http://iptvtop.com:8888/live/nedned/nedned/31.ts
+#EXTINF:-1,AR: Beinsport-6_HD
+http://iptvtop.com:8888/live/nedned/nedned/32.ts
+#EXTINF:-1,AR: Beinsport-7_HD
+http://iptvtop.com:8888/live/nedned/nedned/33.ts
+#EXTINF:-1,AR: Beinsport-8_HD
+http://iptvtop.com:8888/live/nedned/nedned/34.ts
+#EXTINF:-1,AR: Beinsport-9_HD
+http://iptvtop.com:8888/live/nedned/nedned/35.ts
+#EXTINF:-1,AR: Beinsport-10_HD
+http://iptvtop.com:8888/live/nedned/nedned/36.ts
+#EXTINF:-1,beIN SPORTS News
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1042.ts
+#EXTINF:-1,beIN SPORTS HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1603.ts
+#EXTINF:-1,beinHD Sports HD1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/1.ts
+#EXTINF:-1,BeinHD Sports HD2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/3.ts
+#EXTINF:-1,beinHD Sports HD3
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/5.ts
+#EXTINF:-1,beinHD Sports HD4
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/7.ts
+#EXTINF:-1,beinHD Sports HD5
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/9.ts
+#EXTINF:-1,beinHD Sports HD6
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/11.ts
+#EXTINF:-1,beinHD Sports HD7
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/13.ts
+#EXTINF:-1,beinHD Sports HD8
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/15.ts
+#EXTINF:-1,beinHD Sports HD9
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/17.ts
+#EXTINF:-1,beinHD Sports HD10
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/19.ts
+#EXTINF:-1,beinHD Sports HD11
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2654.ts
+#EXTINF:-1,beinHD Sports HD12
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2655.ts
+#EXTINF:-1,FR: BEIN-SPORT-3HD
+http://live.softiptv.com:9900/live/3month/3month/18388.ts
+#EXTINF:-1,FR: BEIN-SPORT-2HD
+http://live.softiptv.com:9900/live/3month/3month/18389.ts
+#EXTINF:-1,FR: BEIN-SPORT-1HD
+http://live.softiptv.com:9900/live/3month/3month/18390.ts
+#EXTINF:-1,FR: Bein Sports 3
+http://164.132.182.253:22921/live/Miguel/skype/180.ts
+#EXTINF:-1,FR: Bein Sports 2
+http://164.132.182.253:22921/live/Miguel/skype/179.ts
+#EXTINF:-1,FR: Bein Sports 1
+http://164.132.182.253:22921/live/Miguel/skype/178.ts
+#EXTINF:-1,AR: BEIN SPORTS 1HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1585.ts
+#EXTINF:-1,AR: BEIN SPORTS 2HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1586.ts
+#EXTINF:-1,AR: BEIN SPORTS 3HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1587.ts
+#EXTINF:-1,beIN Sports HD 4
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/773.ts
+#EXTINF:-1,AR:BeIN SPORTS 5 HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1054.ts
+#EXTINF:-1,AR:BeIN SPORTS 6 HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1055.ts
+#EXTINF:-1,AR:BEIN SPORTS 7 HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1056.ts
+#EXTINF:-1,Arabic: Bein Sports 10 HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/885.ts
+#EXTINF:-1,AR: BEIN SPORTS 7HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1575.ts
+#EXTINF:-1,AR: BEIN SPORTS 8HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1576.ts
+#EXTINF:-1,AR: BEIN SPORTS 9HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1577.ts
+#EXTINF:-1,AR: BEIN SPORTS 10HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1578.ts
+#EXTINF:-1,AR: BEIN SPORTS 11HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1579.ts
+#EXTINF:-1,AR: BEIN SPORTS 12HD
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1580.ts
+#EXTINF:-1,beIN SPORTS HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/1603.ts
+#EXTINF:-1,beinHD Sports HD1
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/1.ts
+#EXTINF:-1,BeinHD Sports HD2
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/3.ts
+#EXTINF:-1,beinHD Sports HD3
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/5.ts
+#EXTINF:-1,beinHD Sports HD4
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/7.ts
+#EXTINF:-1,beinHD Sports HD5
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/9.ts
+#EXTINF:-1,beinHD Sports HD6
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/11.ts
+#EXTINF:-1,beinHD Sports HD7
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/13.ts
+#EXTINF:-1,beinHD Sports HD8
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/15.ts
+#EXTINF:-1,beinHD Sports HD9
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/17.ts
+#EXTINF:-1,beinHD Sports HD10
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/19.ts
+#EXTINF:-1,beinHD Sports HD11
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2654.ts
+#EXTINF:-1,beinHD Sports HD12
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2655.ts
