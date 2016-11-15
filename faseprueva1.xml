@@ -1,336 +1,803 @@
 #EXTM3U
-#EXTINF:-1 group-title="SimpleTV Spain",ESTRENOS
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=jfbp09b2g1avamr swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",AMC
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",FOX
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",AXN
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",SYFY
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",AXN White
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.63:1935/privatestream playpath=axnwh?keys=qzWVf8lEgvQOA2kx8GXePw&keyt=k3z swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="SimpleTV Spain",BeinSport
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=9lzkqxoo910s9l9 swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/privatestream playpath=soless?keys=g40jEYWMO9x_7YAOZdEwfQ&keyt=1471914403 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
-#EXTINF:-1 group-title="SimpleTV Spain",Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61/privatestream playpath=soless?keys=g40jEYWMO9x_7YAOZdEwfQ&keyt=1471914403 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/
-#EXTINF:-1 group-title="SimpleTV Spain",Bein Laliga
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide playpath=ukrfo4f4yx35kpl swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",Nat Geographic
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=61hgmxjxs5jryot swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",Nat Geo Wild
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to/iguide playpath=1f9uors7t72rune swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",A/E--
-rtmp://$OPT:rtmp-raw=rtmp://www1.iguide.to:1935/iguide playpath=a94301d9dma2hc8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsdk3z
-#EXTINF:-1 group-title="SimpleTV Spain",Canal Cocina
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.201:1935/privatestream playpath=cocinach?keys=KVy2ic9xb7S9eFoeQX88ag&keyt=1472754307 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="SimpleTV Spain",DISNEY CHANNEL
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.62:1935/privatestream playpath=disneychh?keys=Tiip69iq1k6IGmSnIhVm_Q&keyt=1472754701 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="SimpleTV Spain",La 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-1 group-title="SimpleTV Spain",La 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61:1935/pull playpath=launotve?keys=92gBwjIR_JfpcJroXOPHAg&keyt=1472752030 swfUrl=http://leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv
-#EXTINF:-1 group-title="SimpleTV Spain",TELECINCO
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.61:1935/privatestream playpath=teleinco?keys=ZUuEu5u7IZx7773sh0fqDg&keyt=1472756501 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="SimpleTV Spain",NOVA
-rtmp://$OPT:rtmp-raw=rtmp://31.220.40.63:1935/privatestream playpath=novach?keys=stCaqq2dOgh3DQJlUkWNqg&keyt=1472756918 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="SimpleTV Spain",FDF
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.201:1935/privatestream playpath=fddf?keys=I4WY6Eeo088kZoP9pzqq8w&keyt=1472756794 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 group-title="All Players Spain",CANAL RURAL(Nuevo)
-rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
-#EXTINF:-1 group-title="All Players Spain",GRAN HERMANO 17
-http://tinyurl.com/gn2utmy
-#EXTINF:-1 group-title="All Players Spain",La 1
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
-#EXTINF:-1 group-title="All Players Spain",LA 2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="All Players Spain",TELEDEPORTE
-http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_1.m3u8
-#EXTINF:-1 group-title="All Players Spain",24H
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
-#EXTINF:-1 group-title="All Players Spain",ANTENA 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 group-title="All Players Spain",ANTENA 3 SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 group-title="All Players Spain",CUATRO con geolocalizacion gran calidad
-http://bit.ly/2dPmofE
-#EXTINF:-1 group-title="All Players Spain",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-#EXTINF:-1 group-title="All Players Spain",MEGA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="All Players Spain",BE MAD
-http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8
-#EXTINF:-1 group-title="All Players Spain",Intereconomia
-http://edge3.adnstream.com:81/hls/intereconomia.m3u8
-#EXTINF:-1 group-title="All Players Spain",13tv
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/chunklist.m3u8
-#EXTINF:-1 group-title="All Players Spain",Canal Sur
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 group-title="All Players Spain",RTP Asturias
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:-1 group-title="All Players Spain",ANDALUCIA TV
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1 group-title="All Players Spain",VIRGIN TV
-http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
-#EXTINF:-1 group-title="All Players Spain",TELEDEPORTE
-http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title="All Players Spain",NBA TV
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1 group-title="All Players Spain",CANAL RURAL(Nuevo)
-rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
-#EXTINF:-1 group-title="All Players Spain",LA 2
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="All Players Spain",TELEDEPORTE
-http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
-#EXTINF:-1 group-title="All Players Spain",ANTENA 3 OPCION 2
-http://a3live-lh.akamaihd.net/i/a3hls/antena3_1@35248/master.m3u8
-#EXTINF:-1 group-title="All Players Spain",ANTENA 3 SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1 group-title="All Players Spain",LA SEXTA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="All Players Spain",NOVA
-http://videog3-live.hls.adaptive.level3.net/hls-live/video-geonova/_definst_/live.m3u8
-#EXTINF:-1 group-title="All Players Spain",Bemad
-http://mediasethls-lh.akamaihd.net/i/mitele/bemad_g@320708/index_500_av-p.m3u8
-#EXTINF:-1 group-title="All Players Spain",Real Madrid tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="All Players Spain",LaLigatv
-http://tinyurl.com/zuqtenf
-#EXTINF:-1 group-title="All Players Spain",LaLigatv
-http://bit.ly/2cJrPai
-#EXTINF:-1 group-title="All Players Spain",DEPORTES 1
-http://bit.ly/2dOCarb
-#EXTINF:-1 group-title="All Players Spain",Real Madrid tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 channelId="1320" , La 1
-http://comunidadiptv.org/online/estable/?sintonizador=TVE1
-#EXTINF:-1 channelId="1321" , La 2
-http://comunidadiptv.org/online/estable/?sintonizador=TVE2
-#EXTINF:-1 channelId="2124" , Antena 3
-http://comunidadiptv.org/online/estable/?sintonizador=A3HD
-#EXTINF:-1 channelId="2527" , Telecinco
-http://comunidadiptv.org/online/estable/?sintonizador=Telecinco
-#EXTINF:-1 channelId="1692" , La ***ta
-http://comunidadiptv.org/online/estable/?sintonizador=La***taHD
-#EXTINF:-1 channelId="1323" , 24 Horas
-http://comunidadiptv.org/online/estable/?sintonizador=TVE24HHD
-#EXTINF:-1 channelId="1691" , Intereconomia Television
-http://comunidadiptv.org/online/estable/?sintonizador=IntereconomiaTV
-#EXTINF:-1 channelId="-1" , A3Series HD
-http://comunidadiptv.org/online/estable/?sintonizador=A3Series
-#EXTINF:-1 channelId="1332" , Realmadrid TV
-http://comunidadiptv.org/online/estable/?sintonizador=RealMadridTVHD
-#EXTINF:-1 channelId="-1" , Ribera TV
-http://comunidadiptv.org/online/estable/?sintonizador=RiberaTV
-#EXTINF:-1 channelId="-1" , TV Galicia
-http://comunidadiptv.org/online/estable/?sintonizador=TVGalicia
-#EXTINF:-1 channelId="-1" , TV Galicia America
-http://comunidadiptv.org/online/estable/?sintonizador=TVGaliciaAmerica
-#EXTINF:-1 channelId="-1" , Canal Extremadura
-http://comunidadiptv.org/online/estable/?sintonizador=ExtremaduraTV
-#EXTINF:-1 channelId="1693" , Levante TV
-http://comunidadiptv.org/online/estable/?sintonizador=LevanteTV
-#EXTINF:-1 channelId="-1" , El Dia TV
-http://comunidadiptv.org/online/estable/?sintonizador=ElDiaTV
-#EXTINF:-1 channelId="-1" , RTV Andorra
-http://comunidadiptv.org/online/estable/?sintonizador=Andorra10TV
-#EXTINF:-1 channelId="2663" , teleSUR
-http://comunidadiptv.org/online/estable/?sintonizador=VenezuelaTelesur
-#EXTINF:-1 channelId="-1" , Telefuturo Canal 23
-http://comunidadiptv.org/online/estable/?sintonizador=TFCanal23
-#EXTINF:-1 channelId="-1" , Guatevision TV
-http://comunidadiptv.org/online/estable/?sintonizador=GuatevisionTV
-#EXTINF:-1 channelId="-1" , El Correo TV
-http://comunidadiptv.org/online/estable/?sintonizador=ElCorreoTV
-#EXTINF:-1 channelId="-1" , BYU TV
-http://comunidadiptv.org/online/estable/?sintonizador=BYUTV
-#EXTINF:-1 channelId="-1" , RTPAsturias
-http://comunidadiptv.org/online/estable/?sintonizador=RTPAsturias
-#EXTINF:-1 channelId="-1" , Canal Costa
-http://comunidadiptv.org/online/estable/?sintonizador=CanalCostaHuelva
-#EXTINF:-1 channelId="1661" , 13 TV
-http://comunidadiptv.org/online/estable/?sintonizador=13TV
-#EXTINF:-1 channelId="1382" , Canal Parlamento
-http://comunidadiptv.org/online/estable/?sintonizador=CanalParlamento
-#EXTINF:-1 channelId="-1" , Tateti
-http://comunidadiptv.org/online/estable/?sintonizador=TaTeTi
-#EXTINF:-1 channelId="2817" , TV8
-http://comunidadiptv.org/online/estable/?sintonizador=TV8
-#EXTINF:-1 channelId="-1" , BTV
-http://comunidadiptv.org/online/estable/?sintonizador=BTV
-#EXTINF:-1 channelId="-1" , ATV Cadiz
-http://comunidadiptv.org/online/estable/?sintonizador=ATVCadiz
-#EXTINF:-1 channelId="-1" , EITB
-http://comunidadiptv.org/online/estable/?sintonizador=EITBEus
-#EXTINF:-1 channelId="-1" , Ol Cadiz
-http://comunidadiptv.org/online/estable/?sintonizador=OlCadiz
-#EXTINF:-1 channelId="-1" , Ol Costa
-http://comunidadiptv.org/online/estable/?sintonizador=OlCosta
-#EXTINF:-1 channelId="-1" , Girona TV
-http://comunidadiptv.org/online/estable/?sintonizador=GironaTV
-#EXTINF:-1 channelId="-1" , Mirame TV
-http://comunidadiptv.org/online/estable/?sintonizador=MirameTV
-#EXTINF:-1 channelId="-1" , Canal 7 Murcia
-http://comunidadiptv.org/online/estable/?sintonizador=La7RMurcia
-#EXTINF:-1 channelId="1689" , Huelva TV
-http://comunidadiptv.org/online/estable/?sintonizador=HuelvaTV
-#EXTINF:-1 channelId="-1" , Onda Azul
-http://comunidadiptv.org/online/estable/?sintonizador=OndaAzul
-#EXTINF:-1 channelId="-1" , Ceuta TV
-http://comunidadiptv.org/online/estable/?sintonizador=CeutaTV
-#EXTINF:-1 channelId="1675" , Castilla-La Mancha
-http://comunidadiptv.org/online/estable/?sintonizador=CLM
-#EXTINF:-1 channelId="-1" , Informacion TV
-http://comunidadiptv.org/online/estable/?sintonizador=InformacionTV
-#EXTINF:-1 channelId="-1" , TeleB
-http://comunidadiptv.org/online/estable/?sintonizador=TeleB
-#EXTINF:-1 channelId="-1" , Popular TV
-http://comunidadiptv.org/online/estable/?sintonizador=PopularTVCantabria
-#EXTINF:-1 channelId="-1" , M1 Maresme
-http://comunidadiptv.org/online/estable/?sintonizador=M1Maresme
-#EXTINF:-1 channelId="-1" , TeleBilbao
-http://comunidadiptv.org/online/estable/?sintonizador=TeleBilbao
-#EXTINF:-1 channelId="-1" , RTVCE
-http://comunidadiptv.org/online/estable/?sintonizador=RTVCeuta
-#EXTINF:-1 channelId="-1" , TerrassaValles
-http://comunidadiptv.org/online/estable/?sintonizador=TerrassaValles
-#EXTINF:-1 channelId="-1" , Onda Jaen
-http://comunidadiptv.org/online/estable/?sintonizador=OndaJaen
-#EXTINF:-1 channelId="-1" , Castilla y Leon TV
-http://comunidadiptv.org/online/estable/?sintonizador=CYL
-#EXTINF:-1 channelId="-1" , RTVida
-http://comunidadiptv.org/online/estable/?sintonizador=RTVida
-#EXTINF:-1 channelId="-1" , Navarra TV
-http://comunidadiptv.org/online/estable/?sintonizador=NavarraTV
-#EXTINF:-1 channelId="-1" , IMas TV
-http://comunidadiptv.org/online/estable/?sintonizador=IMasTV
-#EXTINF:-1 channelId="-1" , LebrijaTV
-http://comunidadiptv.org/online/estable/?sintonizador=LebrijaTV
-#EXTINF:-1 channelId="-1" , Mola TV
-http://comunidadiptv.org/online/estable/?sintonizador=MolaTV
-#EXTINF:-1 channelId="-1" , VallesOrientalTV
-http://comunidadiptv.org/online/estable/?sintonizador=VallesOrientalTV
-#EXTINF:-1 channelId="-1" , 101 TV
-http://comunidadiptv.org/online/estable/?sintonizador=TV101
-#EXTINF:-1 channelId="-1" , Canal 25
-http://comunidadiptv.org/online/estable/?sintonizador=C25
-#EXTINF:-1 channelId="-1" , TV Elche
-http://comunidadiptv.org/online/estable/?sintonizador=TeleElx
-#EXTINF:-1 channelId="-1" , 25 TV
-http://comunidadiptv.org/online/estable/?sintonizador=TV25
-#EXTINF:-1 channelId="-1" , TCS
-http://comunidadiptv.org/online/estable/?sintonizador=TVCS
-#EXTINF:-1 channelId="-1" , Canal Diocesano
-http://comunidadiptv.org/online/estable/?sintonizador=Diocesano
-#EXTINF:-1 channelId="-1" , Hit TV
-http://comunidadiptv.org/online/estable/?sintonizador=HitTV
-#EXTINF:-1 channelId="-1" , Willax
-http://comunidadiptv.org/online/estable/?sintonizador=WillaxTV
-#EXTINF:-1 channelId="255" , Azteca 7
-http://comunidadiptv.org/online/estable/?sintonizador=Azteca7
-#EXTINF:-1 channelId="1971" , Azteca 13
-http://comunidadiptv.org/online/estable/?sintonizador=Azteca13
-#EXTINF:-1 channelId="-1" , Azteca Noticias
-http://comunidadiptv.org/online/estable/?sintonizador=AztecaNoticias
-#EXTINF:-1 channelId="-1" , LatinaTV
-http://comunidadiptv.org/online/estable/?sintonizador=LatinaTV
-#EXTINF:-1 channelId="-1" , TVP Argentina
-http://comunidadiptv.org/online/estable/?sintonizador=TVPublica
-#EXTINF:-1 channelId="-1" , Telemetro
-http://comunidadiptv.org/online/estable/?sintonizador=Telemetro
-#EXTINF:-1 channelId="2533" , RT Español
-http://comunidadiptv.org/online/estable/?sintonizador=RTSpanish
-#EXTINF:-1 channelId="2689" , Proyecto 40
-http://comunidadiptv.org/online/estable/?sintonizador=ProyectoCuarenta
-#EXTINF:-1 channelId="-1" , Orbe21
-http://comunidadiptv.org/online/estable/?sintonizador=Orbe21
-#EXTINF:-1 channelId="-1" , ATV Peru
-http://comunidadiptv.org/online/estable/?sintonizador=ATVPeru
-#EXTINF:-1 channelId="1709" , Viajar
-http://comunidadiptv.org/online/estable/?sintonizador=Viajar
-#EXTINF:-1 channelId="-1" , Vevo EU
-http://comunidadiptv.org/online/estable/?sintonizador=VevoEU
-#EXTINF:-1 channelId="-1" , Vevo Flow
-http://comunidadiptv.org/online/estable/?sintonizador=VevoFlow
-#EXTINF:-1 channelId="-1" , Vevo Hits
-http://comunidadiptv.org/online/estable/?sintonizador=VevoHits
-#EXTINF:-1 channelId="-1" , Vevo Country
-http://comunidadiptv.org/online/estable/?sintonizador=VevoCountry
-#EXTINF:-1 channelId="328" , Foro TV
-http://comunidadiptv.org/online/estable/?sintonizador=ForoTV
-#EXTINF:-1 channelId="-1" , CanalI
-http://comunidadiptv.org/online/estable/?sintonizador=CanalI
-#EXTINF:-1 channelId="1710" , Virgin TV
-http://comunidadiptv.org/online/estable/?sintonizador=VirginTV
-#EXTINF:-1 channelId="1930" , 360 TV
-http://comunidadiptv.org/online/estable/?sintonizador=TV360
-#EXTINF:-1 channelId="-1" , Canal 9 Argentina
-http://comunidadiptv.org/online/estable/?sintonizador=Canal9Ar
-#EXTINF:-1 channelId="293" , Efekto TV
-http://comunidadiptv.org/online/estable/?sintonizador=EfektoTV
-#EXTINF:-1 channelId="-1" , Miami TV
-http://comunidadiptv.org/online/estable/?sintonizador=MiamiTV
-#EXTINF:-1 channelId="-1" , Miami TV Life
-http://comunidadiptv.org/online/estable/?sintonizador=MiamiTVLife
-#EXTINF:-1 channelId="-1" , RTS Ecuador
-http://comunidadiptv.org/online/estable/?sintonizador=RTSEcuador
-#EXTINF:-1 channelId="-1" , TeleCaribe
-http://comunidadiptv.org/online/estable/?sintonizador=TeleCaribe
-#EXTINF:-1 channelId="-1" , Culiacan
-http://comunidadiptv.org/online/estable/?sintonizador=Culiacan
-#EXTINF:-1 channelId="-1" , Los Mochis
-http://comunidadiptv.org/online/estable/?sintonizador=LosMochis
-#EXTINF:-1 channelId="-1" , 1HD Music TV
-http://comunidadiptv.org/online/estable/?sintonizador=R1HD
-#EXTINF:-1 channelId="-1" , DXTV
-http://comunidadiptv.org/online/estable/?sintonizador=DXTV
-#EXTINF:-1 channelId="2497" , TVMÁS
-http://comunidadiptv.org/online/estable/?sintonizador=TVMas
-#EXTINF:-1 channelId="-1" , Canal 26
-http://comunidadiptv.org/online/estable/?sintonizador=Canal26
-#EXTINF:-1 channelId="2284" , Onda Latina
-http://comunidadiptv.org/online/estable/?sintonizador=OndaLatina
-#EXTINF:-1 channelId="-1" , TVES
-http://comunidadiptv.org/online/estable/?sintonizador=TVES
-#EXTINF:-1 channelId="-1" , Chapin TV C3
-http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC3
-#EXTINF:-1 channelId="-1" , Chapin TV C7
-http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC7
-#EXTINF:-1 channelId="-1" , Chapin TV C23
-http://comunidadiptv.org/online/estable/?sintonizador=ChapinTVC23
-#EXTINF:-1 channelId="-1" , SNT
-http://comunidadiptv.org/online/estable/?sintonizador=SNT
-#EXTINF:-1 channelId="-1" , Una Voz Con Todos
-http://comunidadiptv.org/online/estable/?sintonizador=UnaVozConTodos
-#EXTINF:-1 channelId="-1" , Canal 12
-http://comunidadiptv.org/online/estable/?sintonizador=Canal12
-#EXTINF:-1 channelId="-1" , Condavision
-http://comunidadiptv.org/online/estable/?sintonizador=Condavision
-#EXTINF:-1 channelId="-1" , CDN
-http://comunidadiptv.org/online/estable/?sintonizador=CDN
-#EXTINF:-1 channelId="1324" , Telemadrid
-http://comunidadiptv.org/online/estable/?sintonizador=TeleMadrid
-#EXTINF:-1 channelId="2528" , LaOtra
-http://comunidadiptv.org/online/estable/?sintonizador=LaOtra
-#EXTINF:-1 channelId="352" , DWTV
-http://comunidadiptv.org/online/estable/?sintonizador=DW
-#EXTINF:-1 channelId="1949" , For Music TV
-http://comunidadiptv.org/online/estable/?sintonizador=FORMusicTV
-#EXTINF:-1 channelId="-1" , Enlace Juvenil
-http://comunidadiptv.org/online/estable/?sintonizador=EnlaceJV
-#EXTINF:-1 channelId="-1" , Aliento Vision
-http://comunidadiptv.org/online/estable/?sintonizador=AlientoVision
-#EXTINF:-1 channelId="-1" , Canal 44
-http://comunidadiptv.org/online/estable/?sintonizador=Canal44
-#EXTINF:-1 channelId="-1" , El Pinguino
-http://comunidadiptv.org/online/estable/?sintonizador=ElPinguino
-#EXTINF:-1 channelId="2800" , Travel TV
-http://comunidadiptv.org/online/estable/?sintonizador=TravelTV
-#EXTINF:-1 channelId="217" , Euronews
-http://comunidadiptv.org/online/estable/?sintonizador=EuroNewsES
-#EXTINF:-1 channelId="2818" , 324
-http://comunidadiptv.org/online/estable/?sintonizador=3-24
+#EXTINF:-0,New List Here
+http://iptvhits.blogspot.com/2015/11/playlist-espana-list-27112015.html
 
+#EXTINF:-1,Nat Wild
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/wild_aza5rz7/chunklist.m3u8
+
+#EXTINF:-1,TNT
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8
+
+#EXTINF:-1,FOX Life
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/foxlife_bicz47o/chunklist.m3u8
+
+#EXTINF:-1,FOX
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/fox_alwk17k/chunklist.m3u8
+
+#EXTINF:-1,Calle 13
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8
+
+#EXTINF:-1,AXN White
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/axnwhite_bicz8yn/chunklist.m3u8
+
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/axn_alwla94/playlist.m3u8
+
+#EXTINF:-1,MTV España
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/mtv_bijdrwm/chunklist.m3u8
+
+#EXTINF:-1,Movistar Series xtra
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/seriesxtra_bicykxa/chunklist.m3u8
+
+#EXTINF:-1,Movistar Series
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/series_aw3d82v/chunklist.m3u8
+
+#EXTINF:-1,COSMO 
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/cosmo_15fp4zr/chunklist.m3u8
+
+#EXTINF:-1,Divinity
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8
+
+#EXTINF:-1,FDF HD 
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
+
+#EXTINF:-1,Energy
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/energy_azhls60/chunklist.m3u8
+
+#EXTINF:-1,Nova
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/nova2_acolsfq/chunklist.m3u8
+
+#EXTINF:-1,Neox
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/neox_alwkw2n/chunklist.m3u8
+
+#EXTINF:-1,A3Series
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/A3Series_11zwyox/chunklist.m3u8
+
+#EXTINF:-1,#0
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/plus0_b0xk990/chunklist.m3u8
+
+#EXTINF:-1,Telecinco
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8
+
+#EXTINF:-1,Cuatro
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8
+
+#EXTINF:-1,Antena 3
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/antena3_9dm4nop/chunklist.m3u8
+
+#EXTINF:-1,LA 2
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tv2_bl58c8j/chunklist.m3u8
+
+#EXTINF:-1,La 1
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tve1_b0bqgib/chunklist.m3u8
+
+#EXTINF:-1,Comedy Central
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/comedycentral_15fp5nt/chunklist.m3u8
+
+#EXTINF:-1,Syfy
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/syfy_aw3eq7m/chunklist.m3u8
+
+#EXTINF:-1,Paramount Channel
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/paramountchannel_bicvdui/chunklist.m3u8
+
+#EXTINF:-1,Movistar Acción
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/accion_bitzwzh/chunklist.m3u8
+
+#EXTINF:-1,Movistar DCine
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/dcine_bijdglp/chunklist.m3u8
+
+#EXTINF:-1,Movistar Estrenos
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8
+
+#EXTINF:-1,Movistar Comedia
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/comedia_bijdn79/chunklist.m3u8
+
+#EXTINF:-1,Movistar Cine Español
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/dcinen_15fp2m5/chunklist.m3u8
+
+#EXTINF:-1,Holliwood
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/holliwood_bawwczi/chunklist.m3u8
+
+#EXTINF:-1,TCM
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tcm_bicyylb/chunklist.m3u8
+
+#EXTINF:-1,AMC
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/amc_aw3dyqm/chunklist.m3u8
+
+#EXTINF:-1,Ten
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/ten_azj987s/chunklist.m3u8
+
+#EXTINF:-1,BEMAD
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/bemad_azhj93f/chunklist.m3u8
+
+#EXTINF:-1,Discovery Channel
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/discoverydino_9dm3fgv/chunklist.m3u8
+
+#EXTINF:-1,Discovery MAX
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/dismax_9c7n25t/chunklist.m3u8
+
+#EXTINF:-1,Crimen Investigación
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/CI_b0ejsje/chunklist.m3u8
+
+#EXTINF:-1,National Geographic
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/national_alwka53/chunklist.m3u8
+
+#EXTINF:-1,National Geographic Wild
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/wild_aza5rz7/chunklist.m3u8
+
+#EXTINF:-1,Caza y Pesca
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/cazaypesca_bawvnvf/chunklist.m3u8
+
+#EXTINF:-1,A&E
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/AE_13mz39m/chunklist.m3u8
+
+#EXTINF:-1,Odisea
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/odisea_biczpxs/chunklist.m3u8
+
+#EXTINF:-1,Viajar
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/viajar_15fp7iq/chunklist.m3u8
+
+#EXTINF:-1,#EXTINF:-1,Decasa
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/decasa_bid0c6q/chunklist.m3u8
+
+#EXTINF:-1,Canal Cocina
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/cocina_bid07f8/chunklist.m3u8
+
+#EXTINF:-1,Toros TV
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/toro_axgsyxl/chunklist.m3u8
+
+#EXTINF:-1,Gol TV
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/goltv_b2kycdj/chunklist.m3u8
+
+#EXTINF:-1,Barca TV
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/barcatv_aw3h4aq/chunklist.m3u8
+
+#EXTINF:-1,Movistar Partidazó
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/partidazo_bb1r7mx/chunklist.m3u8
+
+#EXTINF:-1,Movistar Fútbol
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb112/chunklist.m3u8
+
+#EXTINF:-1,La Liga
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb141/chunklist.m3u8
+
+#EXTINF:-1,Liga 2
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb142/chunklist.m3u8
+
+#EXTINF:-1,Liga 3
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb143/chunklist.m3u8
+
+#EXTINF:-1,La liga 4
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb144/chunklist.m3u8
+
+#EXTINF:-1,beIN Sports
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/bein_alwkqfq/chunklist.m3u8
+
+#EXTINF:-1,beIN Sports la liga
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
+
+#EXTINF:-1,BEIN sport 2
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb122/chunklist.m3u8
+
+#EXTINF:-1,BEIN sport 3
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb124/chunklist.m3u8
+
+#EXTINF:-1,Movistar Deportes 2
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/deportes2_ardgdvv/chunklist.m3u8
+
+#EXTINF:-1,Movistar Golf
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/golf_asn535f/chunklist.m3u8
+
+#EXTINF:-1,Movistar Formula 1
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb116/chunklist.m3u8
+
+#EXTINF:-1,MotoGP
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/tvb117/chunklist.m3u8
+
+#EXTINF:-1,Eurosport 1
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/eurosport1_b8omvr8/chunklist.m3u8
+
+#EXTINF:-1,Eurosport 2
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/eurosport2_bijr9eh/chunklist.m3u8
+
+#EXTINF:-1,sol musica
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/solmusica_bk96duy/chunklist.m3u8
+
+#EXTINF:-1,los 40
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/40PRINCIPALES_bkyrn6x/chunklist.m3u8
+
+#EXTINF:-1,Panda
+#EXTVLCOPT:http-referrer=http://www.ponlatv.com/jwplayer6.5.swf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/panda_bicy4aj/chunklist.m3u8
+
+#EXTINF:-0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb145/chunklist.m3u8
+
+
+#EXTINF:-1,DEPORTES 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/deportes_avylh70/chunklist.m3u8
+
+
+#EXTINF:-0,#0
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/plus0_b0xk990/chunklist.m3u8
+
+#EXTINF:-1,accion
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/accion_bitzwzh/chunklist.m3u8
+
+
+#EXTINF:-1,A/E
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/AE_13mz39m/chunklist.m3u8
+
+
+
+#EXTINF:-1,AMC
+#EXTVLCOPT:http-referrer=http://www.playerhd1.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/amc_aw3dyqm/chunklist.m3u8
+
+
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/axn_alwla94/chunklist.m3u8
+
+#EXTINF:-1,AXN_White_HD.png",AxnWhite
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/axnwhite_aap5cqs/chunklist.m3u8
+
+
+#EXTINF:-1,BARCATV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/barcatv_aw3h4aq/chunklist.m3u8
+
+
+#EXTINF:-0,BE MAD
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/bemad_azhj93f/chunklist.m3u8
+
+
+#EXTINF:-0,Beinliga
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
+
+
+#EXTINF:-0,Bein Max 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb141/chunklist.m3u8
+
+
+#EXTINF:-0,Bein Max 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb142/chunklist.m3u8
+
+
+#EXTINF:-0,Bein Max 3
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb143/chunklist.m3u8
+
+
+#EXTINF:-0,Bein Max 4
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb144/chunklist.m3u8
+
+
+
+#EXTINF:-0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb145/chunklist.m3u8
+
+
+
+#EXTINF:-0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb146/chunklist.m3u8
+
+
+
+#EXTINF:-0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb147/chunklist.m3u8
+
+
+#EXTINF:-0,MOTO GP
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb148/chunklist.m3u8
+
+
+#EXTINF:-0,BEIN SPORT 1 FRANCIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb122/chunklist.m3u8
+
+#EXTINF:-0,BEIN SPORT 2 FRANCIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb123/chunklist.m3u8
+
+
+#EXTINF:-0,BEIN SPORT 3 FRANCIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb124/chunklist.m3u8
+
+
+#EXTINF:-0,BEIN SPORT 3 FRANCIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb124/chunklist.m3u8
+
+
+#EXTINF:-0,Bein
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8
+
+#EXTINF:-0,Bein
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/bein_alwkqfq/chunklist.m3u8
+
+#EXTINF:-0,CALLE13
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8
+
+#EXTINF:-0,Canal Cocina
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cocina_am9cifh/chunklist.m3u8
+
+
+#EXTINF:-0,Caza y Pesca
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cazaypesca_bawvnv/chunklist.m3u8
+
+
+#EXTINF:-0,ci(crimen/Investigacion)
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/ci_aaqtqg7/chunklist.m3u8
+
+#EXTINF:-0,COMEDIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/comedia_bijdn79/chunklist.m3u8
+
+#EXTINF:-0,COMEDY CENTRAL
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/camedycentral_aza0tov/chunklist.m3u8
+
+#EXTINF:-0,COSMO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cosmo_15fp4zr/chunklist.m3u8
+
+#EXTINF:-0,CUATRO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cuatro_xrf2a3/chunklist.m3u8
+
+
+#EXTINF:-0,DCine
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/dcine_bijdglp/chunklist.m3u8
+
+
+#EXTINF:-0,Nat Geo Wild
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/dcinen_15fp2m5/chunklist.m3u8
+
+
+#EXTINF:-0,DEPORTES 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/deportes_avylh70/chunklist.m3u8
+
+#EXTINF:-0,DEPORTES 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/deportes_bijr3le/chunklist.m3u8
+
+
+#EXTINF:-0,DEPORTES 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/deportes2_ardgdvv/chunklist.m3u8
+
+
+#EXTINF:-0,DISCOVERY CHANNEL
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/discoverydino_9dm3fgv/chunklist.m3u8
+
+#EXTINF:-0,DISCOVERY MAX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/dismax_9c7n25t/chunklist.m3u8
+
+#EXTINF:-0,DIVINITY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/diniiiii_9fil4ag/chunklist.m3u8
+
+
+#EXTINF:-0,ENERGY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/energy_azhls60/chunklist.m3u8
+
+
+#EXTINF:-0,ESTRENOS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8
+
+
+#EXTINF:-0,EUROSPOT
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/eurosport1_b8omvr8/chunklist.m3u8
+
+
+#EXTINF:-0,EUROSPOT 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/eurosport2_bijr9eh/chunklist.m3u8
+
+#EXTINF:-0,FDF
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/fdfhd_xrewtt/chunklist.m3u8
+
+#EXTINF:-0,FORMULA1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb116/chunklist.m3u8
+
+
+#EXTINF:-0,FOX Life
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/foxlive_au8xxzz/chunklist.m3u8
+
+#EXTINF:-0,FOX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/fox_alwk17k/chunklist.m3u8
+
+#EXTINF:-0,FUTBOL
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb112/chunklist.m3u8
+
+#EXTINF:-0,MOVI GOLF
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/golf_asn535f/chunklist.m3u8
+
+#EXTINF:-0,GOLTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/goltv_b2kycdj/chunklist.m3u8
+
+
+#EXTINF:-0,GRAN HERMANO 17
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/cinestrenostvgh17_bfo6ov9/chunklist.m3u8
+
+
+#EXTINF:-0,HISTORIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/historia_9dm8skt/chunklist.m3u8
+
+
+#EXTINF:-0,HOLLYWOOD
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/holliwood_bawwczi/chunklist.m3u8
+
+
+#EXTINF:-0,HustlerTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/hustlertv_9c7o2m2/chunklist.m3u8
+
+
+#EXTINF:-0,LaLiga123
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb151/playlist.m3u8
+
+
+#EXTINF:-0,LaLiga123
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb152/playlist.m3u8
+
+
+#EXTINF:-0,LaLiga123
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb153/playlist.m3u8
+
+
+#EXTINF:-0,LaLiga 1|2|3
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/verliga_bbsglgi/playlist.m3u8
+
+#EXTINF:-0,MEGA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/megatdt_9o35160/chunklist.m3u8
+
+#EXTINF:-0,MOTO GP
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tvb117/chunklist.m3u8
+
+#EXTINF:-0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/mtv_bijdrwm/chunklist.m3u8
+
+#EXTINF:-0,Nat Geo Wild
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/natgeowill_azu3urx/chunklist.m3u8
+
+#EXTINF:-0,Nat Geographic
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/national_alwka53/chunklist.m3u8
+
+
+#EXTINF:-0,NEOX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/neox_alwkw2n/chunklist.m3u8
+
+
+#EXTINF:-0,NOVA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/nova2_acolsfq/chunklist.m3u8
+
+
+#EXTINF:-0,ODISEA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/odiseass_ab1rhro/chunklist.m3u8
+
+
+#EXTINF:-0,PARTIDAZO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/partidazo_bb1r7mx/chunklist.m3u8
+
+
+#EXTINF:-0,SERIES XTRA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/seriesxtra_axgtru5/chunklist.m3u8
+
+#EXTINF:-0,SERIES
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/series_aw3d82v/chunklist.m3u8
+
+
+#EXTINF:-0,SYFY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/syfy_aw3eq7m/chunklist.m3u8
+
+
+#EXTINF:-0,TCM
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tcm_bicyylb/chunklist.m3u8
+
+#EXTINF:-0,TELEDEPORTE
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8
+
+
+#EXTINF:-1,TELECINCO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8
+
+#EXTINF:-0 ,TELEDEPORTE
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8
+
+
+#EXTINF:-0,TEN
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
+
+
+#EXTINF:-1,TNT
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8
+
+#EXTINF:-1,TOROS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/toro_axgsyxl/chunklist.m3u8
+
+
+#EXTINF:-0,VENUS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8
