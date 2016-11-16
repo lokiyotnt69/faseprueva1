@@ -24,3 +24,47 @@ http://78.56.221.9:7059/skysp2
 http://78.56.221.9:7059/skysp3
 #EXTINF:-1,Sky Sports F1 SD
 http://78.56.221.9:7059/skyspf1
+#EXTINF:-1,[044] Deportes
+http://83.53.32.85:4022/udp/239.0.3.33:8208
+#EXTINF:-1,https://iptv.zone/en [044] Deportes HD
+http://83.53.32.85:4022/udp/239.0.0.180:8208
+#EXTINF:-1,[045] Movistar Futbol
+http://83.53.32.85:4022/udp/239.0.6.8:8208
+#EXTINF:-1,[045] Movistar Futbol HD
+http://83.53.32.85:4022/udp/239.0.6.14:8208
+#EXTINF:-1,[046] Movistar Partidazo
+http://83.53.32.85:4022/udp/239.0.4.129:8208
+#EXTINF:-1,[046] Movistar Partidazo HD
+http://83.53.32.85:4022/udp/239.0.5.84:8208
+#EXTINF:-1,[047] beIN La Liga
+http://83.53.32.85:4022/udp/239.0.0.46:8208
+#EXTINF:-1,[047] beIN La Liga HD
+http://83.53.32.85:4022/udp/239.0.5.106:8208
+#EXTINF:-1,[048] beIN La Liga 1
+http://83.53.32.85:4022/udp/239.0.0.47:8208
+#EXTINF:-1,[048] beIN La Liga 1 HD
+http://83.53.32.85:4022/udp/239.0.5.179:8208
+#EXTINF:-1,[049] beIN La Liga 2
+http://83.53.32.85:4022/udp/239.0.0.67:8208
+#EXTINF:-1,[049] beIN La Liga 2 HD
+http://83.53.32.85:4022/udp/239.0.5.180:8208
+#EXTINF:-1,[050] beIN SPORTS
+http://83.53.32.85:4022/udp/239.0.3.100:8208
+#EXTINF:-1,[050] beIN SPORTS HD
+http://83.53.32.85:4022/udp/239.0.9.80:8208
+#EXTINF:-1,[050] Futbol Replay
+http://83.53.32.85:4022/udp/239.0.0.97:8208
+#EXTINF:-1,[051] beIN MAX 1
+http://83.53.32.85:4022/udp/239.0.6.7:8208
+#EXTINF:-1,[051] beIN MAX 1 HD
+http://83.53.32.85:4022/udp/239.0.5.177:8208
+#EXTINF:-1,[052] beIN MAX 2
+http://83.53.32.85:4022/udp/239.0.6.13:8208
+#EXTINF:-1,[055] Movistar Deportes 1
+http://83.53.32.85:4022/udp/239.0.4.193:8208
+#EXTINF:-1,[055] Movistar Deportes 1 HD
+http://83.53.32.85:4022/udp/239.0.5.248:8208
+#EXTINF:-1,[056] Movistar Deportes 2
+http://83.53.32.85:4022/udp/239.0.5.5:8208
+#EXTINF:-1,[056] Movistar Deportes 2 HD
+http://83.53.32.85:4022/udp/239.0.5.245:8208
