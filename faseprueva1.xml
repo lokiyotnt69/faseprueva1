@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-0,New List Here
+
+#EXTINF:-1,New List Here
 http://iptvhits.blogspot.com/2015/11/playlist-espana-list-27112015.html
 
 #EXTINF:-1,Nat Wild
@@ -347,7 +348,7 @@ http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/40PRINCIPALES_bkyrn6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://kdsajkldsadjsad77576dsa99saghdshhdds.sitenow.me/live/panda_bicy4aj/chunklist.m3u8
 
-#EXTINF:-0,MTV
+#EXTINF:-1,MTV
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb145/chunklist.m3u8
@@ -359,7 +360,7 @@ http://cdn.sitenow.me/live/tvb145/chunklist.m3u8
 http://cdn.sitenow.me/live/deportes_avylh70/chunklist.m3u8
 
 
-#EXTINF:-0,#0
+#EXTINF:-1,#0
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/plus0_b0xk990/chunklist.m3u8
@@ -388,7 +389,7 @@ http://cdn.sitenow.me/live/amc_aw3dyqm/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/axn_alwla94/chunklist.m3u8
 
-#EXTINF:-1,AXN_White_HD.png",AxnWhite
+#EXTINF:-1,  AXN_White_HD.png",AxnWhite
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/axnwhite_aap5cqs/chunklist.m3u8
@@ -400,158 +401,158 @@ http://cdn.sitenow.me/live/axnwhite_aap5cqs/chunklist.m3u8
 http://cdn.sitenow.me/live/barcatv_aw3h4aq/chunklist.m3u8
 
 
-#EXTINF:-0,BE MAD
+#EXTINF:-1,BE MAD
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/bemad_azhj93f/chunklist.m3u8
 
 
-#EXTINF:-0,Beinliga
+#EXTINF:-1,Beinliga
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
 
 
-#EXTINF:-0,Bein Max 1
+#EXTINF:-1,Bein Max 1
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb141/chunklist.m3u8
 
 
-#EXTINF:-0,Bein Max 2
+#EXTINF:-1,Bein Max 2
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb142/chunklist.m3u8
 
 
-#EXTINF:-0,Bein Max 3
+#EXTINF:-1,Bein Max 3
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb143/chunklist.m3u8
 
 
-#EXTINF:-0,Bein Max 4
+#EXTINF:-1,Bein Max 4
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb144/chunklist.m3u8
 
 
 
-#EXTINF:-0,MTV
+#EXTINF:-1,MTV
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb145/chunklist.m3u8
 
 
 
-#EXTINF:-0,MTV
+#EXTINF:-1,MTV
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb146/chunklist.m3u8
 
 
 
-#EXTINF:-0,MTV
+#EXTINF:-1,MTV
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb147/chunklist.m3u8
 
 
-#EXTINF:-0,MOTO GP
+#EXTINF:-1,MOTO GP
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb148/chunklist.m3u8
 
 
-#EXTINF:-0,BEIN SPORT 1 FRANCIA
+#EXTINF:-1,BEIN SPORT 1 FRANCIA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb122/chunklist.m3u8
 
-#EXTINF:-0,BEIN SPORT 2 FRANCIA
+#EXTINF:-1,BEIN SPORT 2 FRANCIA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb123/chunklist.m3u8
 
 
-#EXTINF:-0,BEIN SPORT 3 FRANCIA
+#EXTINF:-1,BEIN SPORT 3 FRANCIA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb124/chunklist.m3u8
 
 
-#EXTINF:-0,BEIN SPORT 3 FRANCIA
+#EXTINF:-1,BEIN SPORT 3 FRANCIA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tvb124/chunklist.m3u8
 
 
-#EXTINF:-0,Bein
+#EXTINF:-1,Bein
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/verliga_bbsglgi/chunklist.m3u8
 
-#EXTINF:-0,Bein
+#EXTINF:-1,Bein
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/bein_alwkqfq/chunklist.m3u8
 
-#EXTINF:-0,CALLE13
+#EXTINF:-1,CALLE13
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/calle13_aw3fo9w/chunklist.m3u8
 
-#EXTINF:-0,Canal Cocina
+#EXTINF:-1,Canal Cocina
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/cocina_am9cifh/chunklist.m3u8
 
 
-#EXTINF:-0,Caza y Pesca
+#EXTINF:-1,Caza y Pesca
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/cazaypesca_bawvnv/chunklist.m3u8
 
 
-#EXTINF:-0,ci(crimen/Investigacion)
+#EXTINF:-1,ci(crimen/Investigacion)
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/ci_aaqtqg7/chunklist.m3u8
 
-#EXTINF:-0,COMEDIA
+#EXTINF:-1,COMEDIA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/comedia_bijdn79/chunklist.m3u8
 
-#EXTINF:-0,COMEDY CENTRAL
+#EXTINF:-1,COMEDY CENTRAL
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/camedycentral_aza0tov/chunklist.m3u8
 
-#EXTINF:-0,COSMO
+#EXTINF:-1,COSMO
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/cosmo_15fp4zr/chunklist.m3u8
 
-#EXTINF:-0,CUATRO
+#EXTINF:-1,CUATRO
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/cuatro_xrf2a3/chunklist.m3u8
 
 
-#EXTINF:-0,DCine
+#EXTINF:-1,DCine
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/dcine_bijdglp/chunklist.m3u8
 
 
-#EXTINF:-0,Nat Geo Wild
+#EXTINF:-1,Nat Geo Wild
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/dcinen_15fp2m5/chunklist.m3u8
 
 
-#EXTINF:-0,DEPORTES 1
+#EXTINF:-1,DEPORTES 1
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/deportes_avylh70/chunklist.m3u8
@@ -717,7 +718,7 @@ http://cdn.sitenow.me/live/natgeowill_azu3urx/chunklist.m3u8
 http://cdn.sitenow.me/live/national_alwka53/chunklist.m3u8
 
 
-#EXTINF:-0,NEOX
+#EXTINF:-1,NEOX
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/neox_alwkw2n/chunklist.m3u8
@@ -735,35 +736,35 @@ http://cdn.sitenow.me/live/nova2_acolsfq/chunklist.m3u8
 http://cdn.sitenow.me/live/odiseass_ab1rhro/chunklist.m3u8
 
 
-#EXTINF:-0,PARTIDAZO
+#EXTINF:-1,PARTIDAZO
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/partidazo_bb1r7mx/chunklist.m3u8
 
 
-#EXTINF:-0,SERIES XTRA
+#EXTINF:-1,SERIES XTRA
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/seriesxtra_axgtru5/chunklist.m3u8
 
-#EXTINF:-0,SERIES
+#EXTINF:-1,SERIES
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/series_aw3d82v/chunklist.m3u8
 
 
-#EXTINF:-0,SYFY
+#EXTINF:-1,SYFY
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/syfy_aw3eq7m/chunklist.m3u8
 
 
-#EXTINF:-0,TCM
+#EXTINF:-1,TCM
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/tcm_bicyylb/chunklist.m3u8
 
-#EXTINF:-0,TELEDEPORTE
+#EXTINF:-1,TELEDEPORTE
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8
@@ -774,13 +775,13 @@ http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/telecinco55_ao7nqiq/chunklist.m3u8
 
-#EXTINF:-0 ,TELEDEPORTE
+#EXTINF:-1 ,TELEDEPORTE
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/teledeporte_aw3kx97/chunklist.m3u8
 
 
-#EXTINF:-0,TEN
+#EXTINF:-1,TEN
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/ten_azj987s/chunklist.m3u8
@@ -797,885 +798,7 @@ http://cdn.sitenow.me/live/tnt_alwl3qm/chunklist.m3u8
 http://cdn.sitenow.me/live/toro_axgsyxl/chunklist.m3u8
 
 
-#EXTINF:-0,VENUS
+#EXTINF:-1,VENUS
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
 http://cdn.sitenow.me/live/venus_157y379/chunklist.m3u8
-Home » Playlist » IPTVHITS PACK Playlist 12.11.2016
-
-12.11.2016
-
-http://148.251.1.69:8000/get.php?username=hakami&password=hakami&type=m3u
-http://151.80.29.203:9900/get.php?username=Julian&password=Julian&type=m3u
-http://163.172.210.211:8000/get.php?username=Star-arab-iptv&password=arab.iptv.server&type=m3u
-http://163.172.44.147:8082/get.php?username=pharm&password=pharm&type=m3u
-http://176.114.202.140:7781/status
-http://185.58.204.44:8000/playlist.m3u8
-http://192.99.148.73:8080/get.php?username=ribeiro&password=112233&type=m3u
-http://37.187.158.203:9514/get.php?username=1020304050&password=1020304050&type=m3u
-http://37.187.158.203:9514/live/1020304050/1020304050/1742.ts
-http://45.120.188.172:8001/playlist.m3u8
-http://5.255.90.244:5000/playlist.m3u8
-http://5.9.37.53:1795/get.php?username=omer&password=omer01&type=m3u
-http://biwsat.com:8080/get.php?username=test34&password=0711&type=m3u
-http://dgimedia.ddns.net:9898/get.php?username=Andrearaujo&password=araujo&type=m3u
-http://iptvtt.ddns.net:8000/get.php?username=fabrica&password=fabrica&type=m3u
-http://istream.hypervm.tk:8000/get.php?username=omar&password=123456&type=m3u
-http://live.softiptv.com:9900/get.php?username=525&password=525&type=m3u
-http://mywebpage.gotdns.ch:9511/get.php?username=Ricardosantos&password=2016santoo222&type=m3u
-http://sasuketv.iptvitalia.eu:2300/get.php?username=misterx&password=misterx&type=m3u
-http://sat.hitech0iptv.com:8000/get.php?username=lodewijk&password=lodewijk&type=m3u
-http://selling-team.net:8000/get.php?username=chiristx&password=46746673&type=m3u
-http://skyeg.dyndns.org:8000/get.php?username=soso&password=123456&type=m3u
-
-
-
-18.10.2016
-
-http://149.202.77.226:7500/get.php?username=2014&password=2014&type=m3u
-
-http://ipsatpro.com:8000/get.php?username=arabian1&password=arabian1&type=m3u
-
-http://iptvfree1.com:6969/get.php?username=1&password=www.iptvrestream.net&type=m3u
-
-http://149.202.82.73:8000/get.php?username=pierino&password=pierino&type=m3u
-
-http://s0.streaming-hub.tv:25461/get.php?username=DJBEST&password=STARsat&type=m3u
-
-http://nlrapid.ddns.net:8080/get.php?username=nl2sxm&password=AgRyJhBvCtRsSiP&type=m3u
-
-http://nlrapid.ddns.net:8080/get.php?username=retailersuriname&password=parbo&type=m3u
-
-http://62.210.78.85:6500/get.php?username=Nandivlore&password=Ajka73Y4aI&type=m3u
-
-http://62.210.78.85:6500/get.php?username=MiguelFalzon&password=FalzonMiguel&type=m3u
-
-http://tvohnekabelundsat.levbus.de:8000/get.php?username=a.k&password=a.k&type=m3u
-
-http://iptv.64tv.info:8000/get.php?username=fu&password=fu&type=m3u
-
-http://speedymomy2.com:8000/get.php?username=abc&password=cba&type=m3u
-
-http://89.163.148.31:8000/get.php?username=liverpool&password=liverpool&type=m3u
-
-http://89.163.148.31:8000/get.php?username=billy&password=billy&type=m3u
-
-http://89.163.148.31:8000/get.php?username=paul&password=paul&type=m3u
-
-http://89.163.148.31:8000/get.php?username=norman&password=norman&type=m3u
-
-http://89.163.148.31:8000/get.php?username=home&password=home&type=m3u
-
-http://s0.streaming-hub.tv:25461/get.php?username=DJBEST&password=STARsat&type=m3u
-
-http://163.172.30.85:8000/get.php?username=reb&password=reb&type=m3u
-
-http://dmiptv.noip.me:8000/get.php?username=star7&password=star7&type=m3u
-
-http://89.163.148.31:8000/get.php?username=derek1&password=derek1&type=m3u
-
-http://89.163.148.31:8000/get.php?username=fernando&password=fernando&type=m3u
-
-http://163.172.23.24:1557/get.php?username=enigma17&password=XKEALaBpDm&type=m3u
-
-http://163.172.23.24:1557/get.php?username=drenbox017&password=DTOGs6I1X0&type=m3u
-
-http://163.172.23.24:1557/get.php?username=sparak017&password=xGIw2nYPsE&type=m3u
-
-http://ksportiptv.com:1557/get.php?username=mix17&password=qI7C4NwjTT&type=m3u
-
-http://gradina1.info/get.php?username=satvenuselvis&password=elvis&type=m3u
-
-http://gradina1.info/get.php?username=satvenuskris&password=kris&type=m3u
-
-http://gradina1.info/get.php?username=satvenusivancic&password=ivancic&type=m3u
-
-http://87.106.252.50:8000/get.php?username=facebook.com/AlbaniaIptvCom&password=albaniaiptv.com&type=m3u
-
-http://87.106.252.50:8000/get.php?username=fb.com/AlbaniaIptvCom&password=albaniaiptv.com&type=m3u
-
-http://87.106.252.50:8000/get.php?username=share&password=albaniaiptv.com&type=m3u
-
-http://149.202.77.226:7500/get.php?username=premier&password=premier&type=m3u
-
-http://149.202.77.226:7500/get.php?username=hamza04&password=hamza04&type=m3u
-
-http://164.132.171.155:8000/get.php?username=1&password=123456&type=m3u
-
-
-3.10.2016
-
-http://giant-iptv.com:5477/get.php?username=123456&password=123456&type=m3u
-http://giant-iptv.com:5477/get.php?username=12345678&password=12345678&type=m3u
-http://giant-iptv.com:5477/get.php?username=1234567&password=1234567&type=m3u
-http://giant-iptv.com:5477/get.php?username=000000&password=000000&type=m3u
-http://giant-iptv.com:5477/get.php?username=1111&password=1111&type=m3u
-http://giant-iptv.com:5477/get.php?username=55555&password=55555&type=m3u
-http://giant-iptv.com:5477/get.php?username=11223344&password=11223344&type=m3u
-http://giant-iptv.com:5477/get.php?username=111222&password=111222&type=m3u
-http://giant-iptv.com:5477/get.php?username=555666&password=555666&type=m3u
-http://giant-iptv.com:5477/get.php?username=1234512345&password=1234512345&type=m3u
-http://giant-iptv.com:5477/get.php?username=camille&password=camille&type=m3u
-http://giant-iptv.com:5477/get.php?username=898989&password=898989&type=m3u
-http://giant-iptv.com:5477/get.php?username=1122334455&password=1122334455&type=m3u
-http://giant-iptv.com:5477/get.php?username=dada&password=dada&type=m3u
-http://giant-iptv.com:5477/get.php?username=2580&password=2580&type=m3u
-http://giant-iptv.com:5477/get.php?username=hassan&password=hassan&type=m3u
-http://giant-iptv.com:5477/get.php?username=111000&password=111000&type=m3u
-http://giant-iptv.com:5477/get.php?username=8989&password=8989&type=m3u
-http://giant-iptv.com:5477/get.php?username=shady&password=shady&type=m3u
-http://giant-iptv.com:5477/get.php?username=999888&password=999888&type=m3u
-http://giant-iptv.com:5477/get.php?username=0909&password=0909&type=m3u
-http://giant-iptv.com:5477/get.php?username=9090&password=9090&type=m3u
-http://giant-iptv.com:5477/get.php?username=faisal&password=faisal&type=m3u
-http://giant-iptv.com:5477/get.php?username=4343&password=4343&type=m3u
-http://giant-iptv.com:5477/get.php?username=0077&password=0077&type=m3u
-http://giant-iptv.com:5477/get.php?username=toni&password=toni&type=m3u
-http://giant-iptv.com:5477/get.php?username=7676&password=7676&type=m3u
-http://giant-iptv.com:5477/get.php?username=99887766&password=99887766&type=m3u
-http://giant-iptv.com:5477/get.php?username=9797&password=9797&type=m3u
-http://giant-iptv.com:5477/get.php?username=1188&password=1188&type=m3u
-
-
-
-24.9.2016
-
-http://pies.ddns.net:8000/get.php?username=aaa&password=bbb&type=m3u
-http://tvdreams.org:50100/get.php?username=kamal&password=kamal&type=m3u
-http://51.254.108.182:8000/get.php?username=isofruit&password=tekinizgi&type=m3u
-http://89.163.148.31:8000/get.php?username=craig&password=craig&type=m3u
-http://virtualgameslive.com:41300/get.php?username=michael&password=michael&type=m3u
-http://tvdreams.org:50100/get.php?username=zaid&password=zaid&type=m3u
-http://185.8.176.227:25461/get.php?username=sangeev&password=sangeev&type=m3u
-http://painel.soeu.ws:8000/get.php?username=manuel&password=manuel&type=m3u
-http://89.163.148.31:8000/get.php?username=salvatore&password=salvatore&type=m3u
-http://dmtn-iptv.com:8080/get.php?username=vip&password=vip&type=m3u
-http://fango.sytes.net:8000/get.php?username=Ljilja&password=Ljilja1234&type=m3u
-http://89.163.148.31:8000/get.php?username=ramon&password=ramon&type=m3u
-http://89.163.148.31:8000/get.php?username=juha&password=juha&type=m3u
-http://89.163.148.31:8000/get.php?username=alessandro&password=alessandro&type=m3u
-http://89.163.148.31:8000/get.php?username=giorgio&password=giorgio&type=m3u
-http://89.163.148.31:8000/get.php?username=enea&password=enea&type=m3u
-http://iptvstarpro.starynos.com:8000/get.php?username=TDkLYVIDHf&password=WflW7AfiT6&type=m3u
-http://163.172.220.121:1557/get.php?username=mix240&password=9bU55kq5m2&type=m3u
-http://163.172.220.121:1557/get.php?username=Enigm2024&password=BCockt4HOn&type=m3u
-http://89.163.148.31:8000/get.php?username=rosario&password=rosario&type=m3u
-http://89.163.148.31:8000/get.php?username=michele&password=michele&type=m3u
-http://painel.soeu.ws:8000/get.php?username=Sergio&password=Sergio&type=m3u
-http://ju031.jupiter.fastwebserver.de:8000/get.php?username=kris&password=kris&type=m3u
-http://89.163.148.31:8000/get.php?username=michael1&password=michael1&type=m3u
-http://89.163.148.31:8000/get.php?username=francesco2&password=francesco2&type=m3u
-
-17.9.2016
-
-
-PlaylistM3u
-http://pastebin.com/raw/EDaXjBAt
-
-http://notes.io/ev1v TR
-http://notes.io/ev27 SPORT
-http://notes.io/ev29 AR  SPORT
-http://notes.io/ev2h RU
-http://notes.io/ev15 ALB
-http://notes.io/ev1Z EX YU
-http://notes.io/ev1K FR
-http://notes.io/ev16 ARABİC
-http://notes.io/ev1W OSN
-http://notes.io/ev2m ES -XXX
-http://notes.io/ev18 Brazil
-http://notes.io/ev1A IT
-http://notes.io/ev1Y NL
-http://notes.io/ev1C DE
-http://notes.io/ev1V XXX
-http://notes.io/ev2z PL
-http://notes.io/ev2q PK
-http://notes.io/ev1D HİN
-http://notes.io/ev2t PİNK
-http://notes.io/ev2M US
-http://notes.io/ev2C UK
-http://notes.io/evnU IT UK ES NL
-
-
-10.9.2016
-
-
-Server:"306 http://iptvfullhd.info:8000/get.php?username=chris28de&password=TNKXmSgQSn&type=m3u
-Server:"311 http://swebstreamer.hopto.me:2709/get.php?username=Seil001apo&password=8mc9Z6c9yB&type=m3u
-Server:"312 http://iptvportal.online:2500/get.php?username=mana&password=mana&type=m3u
-Server:"313 http://ns3045782.ip-5-135-142.eu:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u
-Server:"316 http://arabic1.mickypizza1.com:80/get.php?username=clinic&password=clinic&type=m3u
-Server:"317 http://arabic1.mickypizza1.com:80/get.php?username=mama&password=mama&type=m3u
-Server:"302 http://swebstreamer.hopto.me:2709/get.php?username=Seil001apo&password=8mc9Z6c9yB&type=m3u
-
-Server:"295 http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u
-Server:"296 http://iptvx.starynos.com:8000/get.php?username=portughesezaza&password=tvstarcccam.com&type=m3u
-Server:"297 http://91.134.217.235:1557/get.php?username=gh&password=gh&type=m3u
-Server:"298 http://iptv24.zapto.org:4600/get.php?username=yassin&password=yassin&type=m3u
-Server:"299 http://tv.supertv4u.eu:8000/get.php?username=Patricia&password=Patricia&type=m3u
-Server:"300 http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&password=10&type=m3u
-
-Server:"291 http://topiptv.net:5890/get.php?username=adamo3&password=adamo3&type=m3u
-Server:"292 http://cp.dmbshare.net:8000/get.php?username=uapgodi&password=uapgodi&type=m3u
-Server:"293 http://cp.dmbshare.net:8000/get.php?username=gwyndaf&password=gwyndaf&type=m3u
-
-Server:"282 http://d4life.dtdns.net:8000/get.php?username=services.remote&password=skype&type=m3u
-Server:"286 http://yayin.canlitvplay.com:8000/get.php?username=testyayin&password=testyayin&type=m3u
-
-Server:"271 http://151.80.101.14:8000/get.php?username=00009&password=00009&type=m3u
-Server:"278 http://camerta.com:8000/get.php?username=riadh1681&password=chaaben1681&type=m3u
-
-Server:"262 http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u
-Server:"264 http://topiptv.net:5890/get.php?username=adil&password=adil2016&type=m3u
-Server:"266 http://live1.livetvindia.co.in:8000/get.php?username=SportsTv132&password=sports145214&type=m3u
-Server:"267 http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u
-Server:"268 http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u
-
-Server:"250 http://iptv-supplier.com:8000/get.php?username=210070886404&password=566a94fd44fc2&type=m3u
-Server:"253 http://orbit-iptv.com:2500/get.php?username=Jacques2&password=Jacques2&type=m3u
-Server:"255 http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u
-Server:"256 http://cp.dmbshare.net:8000/get.php?username=steven&password=steven&type=m3u
-Server:"257 http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u
-
-Server:"246 http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u
-Server:"247 http://cp.dmbshare.net:8000/get.php?username=steven&password=steven&type=m3u
-Server:"248 http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u
-
-Server:"224 http://178.33.237.109:8600/get.php?username=lexar&password=lexar&type=m3u
-Server:"227 http://camerta.com:8000/get.php?username=55239&password=55239&type=m3u
-Server:"228 http://globiptv.com:8000/get.php?username=CLIENTX103&password=65sijod&type=m3u
-Server:"229 http://topiptv.net:5890/get.php?username=adamo3&password=adamo3&type=m3u
-Server:"234 http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=es2&password=es2&type=m3u
-Server:"237 http://cp.dmbshare.net:8000/get.php?username=tullio&password=tullio&type=m3u
-Server:"238 http://cp.dmbshare.net:8000/get.php?username=francesco&password=francesco&type=m3u
-Server:"239 http://cp.dmbshare.net:8000/get.php?username=ramon&password=ramon&type=m3u
-Server:"240 http://cp.dmbshare.net:8000/get.php?username=fernando&password=fernando&type=m3u
-Server:"241 http://cp.dmbshare.net:8000/get.php?username=viktor12&password=viktor12&type=m3u
-
-Server:"217 http://89.163.148.31:8000/get.php?username=zitouni&password=zitouni&type=m3u
-Server:"223 http://151.80.25.132:8000/get.php?username=nour3&password=nour3&type=m3u
-http://nflioslivesvg2-i.akamaihd.ne...HackerNow_w99d9_h.m3u8|User-Agent=Version/4.0 Mobile Safari/534.30
-http://149.255.152.110/cnn/index.m3u8
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8|User-Agent=iPhone
-Server:"208 http://gtv.tn:8000/get.php?username=nour3&password=nour3&type=m3u
-Server:"210 http://149.202.194.36:8000/get.php?username=dary&password=dary&type=m3u
-Server:"196 http://topiptv.net:5890/get.php?username=es4&password=es4&type=m3u
-Server:"198 http://cp.dmbshare.net:8000/get.php?username=stakenborg&password=stakenborg&type=m3u
-Server:"199 http://cp.dmbshare.net:8000/get.php?username=josok&password=josok&type=m3u
-Server:"200 http://178.33.237.109:8600/get.php?username=lexar&password=lexar&type=m3u
-Server:"202 http://iptv.am000.tv:8000/get.php?username=naser1&password=naser1&type=m3u
-Server:"191 http://149.202.201.221:8000/get.php?username=fr443500&password=75019pa&type=m3u
-Server:"192 http://212.129.54.196:8000/get.php?username=luca&password=luca&type=m3u
-Server:"194 http://212.129.54.196:8000/get.php?username=capurso&password=capurso&type=m3u
-Server:"174 http://37.59.19.124:88/get.php?username=2kYd4PRkfv&password=fsqMs9m8pg&type=m3u
-Server:"176 http://globiptv.com:8000/get.php?username=CLIENTX484&password=3222065487&type=m3u
-Server:"166 http://globiptv.com:8000/get.php?username=CLIENTX484&password=3222065487&type=m3u
-Server:"168 http://176.222.67.2:9001/playlist.m3u8
-Server:"169 http://149.202.201.221:8000/get.php?username=fr443500&password=75019pa&type=m3u
-Server:"170 http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=es2&password=es2&type=m3u
-Server:"171 http://iptv-world.ddns.me:8000/get.php?username=luca&password=luca&type=m3u
-Server:"172 http://iptv-world.ddns.me:8000/get.php?username=manuele&password=manuele&type=m3u
-Server:"157 http://grandiptv.myftp.org:8000/get.php?username=5grandiptv915&password=67863345&type=m3u
-Server:"160 http://151.80.102.59:8000/get.php?username=5grandiptv915&password=67863345&type=m3u
-Server:"162 http://satligneteam.hopto.org:8000/get.php?username=khalid&password=khalid&type=m3u
-Server:"148 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=master99&password=master99&type=m3u
-Server:"126 http://iptv.nbrz.ru:9705/get.php?username=fcb:ALB_TV_SYSTEMS&password=TESTIPVFULL.&type=m3u
-Server:"128 http://satligneteam.hopto.org:8000/get.php?username=PT8rYBh64m&password=4cSXLNRppe&type=m3u
-Server:"130 http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u
-Server:"131 http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u
-Server:"132 http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u
-Server:"106 http://cp.dmbshare.net:8000/get.php?username=eminem61&password=eminem61&type=m3u
-Server:"107 http://cp.dmbshare.net:8000/get.php?username=siman&password=siman&type=m3u
-Server:"108 http://cp.dmbshare.net:8000/get.php?username=hemen1&password=hemen1&type=m3u
-Server:"109 http://service1.astrovida.tv:8000/get.php?username=testa&password=testa&type=m3u
-Server:"112 http://199.180.114.174:8000/get.php?username=pHLNcv9ov1&password=Vs49hliLxi&type=m3u
-Server:"113 http://cp.dmbshare.net:8000/get.php?username=dano6570&password=dano6570&type=m3u
-Server:"114 http://cp.dmbshare.net:8000/get.php?username=eminem61&password=eminem61&type=m3u
-Server:"116 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=holzman&password=holzman&type=m3u
-Server:"117 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=master99&password=master99&type=m3u
-Server:"095 http://51.254.42.220:8000/get.php?username=ncxGSWShRz5&password=NJCVhLk302p&type=m3u
-Server:"078 http://cp.dmbshare.net:8000/get.php?username=master99&password=master99&type=m3u
-Server:"083 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=alopecia&password=alopecia&type=m3u
-Server:"073 http://151.80.101.14:8000/get.php?username=00003&password=00003&type=m3u
-Server:"074 http://151.80.101.14:8000/get.php?username=00006&password=00006&type=m3u
-Server:"077 http://cp.dmbshare.net:8000/get.php?username=tayo&password=tayo&type=m3u
-Server:"066 http://89.163.148.31:8000/get.php?username=tomeko&password=tomeko&type=m3u
-Server:"067 http://89.163.148.31:8000/get.php?username=mark2&password=mark2&type=m3u
-Server:"068 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=alopecia&password=alopecia&type=m3u
-Server:"069 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=gianfranco&password=gianfranco&type=m3u
-Server:"070 http://ju031.jupiter.fastwebserver.de:8000/get.php?username=saban&password=saban&type=m3u
-Server:"072 http://pro.panel2cc101.us:8000/get.php?username=mahmutbilge4&password=23082015&type=m3u
-Server:"051 http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u
-Server:"052 http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u
-Server:"053 http://www.q7t1.com:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u
-Server:"033 http://cp.dmbshare.net:8000/get.php?username=zitouni&password=zitouni&type=m3u
-Server:"047 http://bb1.sendevric.com:8000/get.php?username=marksat380&password=mQS7OiuFY9&type=m3u
-Server:"048 http://www.q7t1.com:8000/get.php?username=sliti&password=dmV9FUkIpn&type=m3u
-Server:"023 http://89.163.148.31:8000/get.php?username=mark2&password=mark2&type=m3u
-Server:"024 http://37.187.175.177:8000/get.php?username=thomas&password=thomas&type=m3u
-Server:"007 http://iptv.re:80/get.php?username=ricardo&password=ricardo&type=m3u
-Server:"015 http://pro.panel2cc101.us:8080/get.php?username=ozg1&password=ozg1&type=m3u
-Server:"018 http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u
-Server:"005 http://look01.vipid.org:8000/get.php?username=test1&password=test1&type=m3u
-Server:"006 http://www.q7t1.com:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u
-
-Server:"486 http://codeiptv.hopto.org:8000/get.php?username=test&password=pQJ1GLk1TU&type=m3u
-Server:"487 http://iptv-supplier.com:8000/get.php?username=bouzaher&password=ryade&type=m3u
-Server:"488 http://5.9.118.115:8000/get.php?username=radwan&password=radwan&type=m3u
-Server:"489 http://iptv.amrocomputers.com:25461/get.php?username=star7arab&password=09Ld96apXA&type=m3u
-Server:"490 http://iptvsale.info:8889/get.php?username=EvKJak8ays&password=pfUTdQ6a4I&type=m3u
-Server:"491 http://5.9.118.115:8000/get.php?username=mohaned&password=mohaned&type=m3u
-Server:"492 http://cp.dmbshare.net:8000/get.php?username=jase&password=jase&type=m3u
-Server:"493 http://87.106.252.50:8000/get.php?username=albaniaiptv.com&password=www.albaniaiptv.com&type=m3u
-Server:"494 http://lookmytv.ddns.net:8000/get.php?username=sharif&password=sharif&type=m3u
-Server:"495 http://sender.dyndns.biz:8000/get.php?username=oADdzK6f4W&password=UswG3exEgXxcXx&type=m3u
-Server:"496 http://nlxiptv.no-ip.biz:1994/get.php?username=jens-richter-dd@web.de&password=25y0KL4kbj&type=m3u
-Server:"497 http://iptvfullhd.info:8000/get.php?username=chris28de&password=TNKXmSgQSn&type=m3u
-http://stream.zetatv.cf/pw/bein_alwkqfq/chunklist.m3u8
-
-Server:"464 http://167.114.157.210:80/get.php?username=iptv-salah&password=JFGOdlfadfs058712&type=m3u
-Server:"465 http://5.9.118.115:8000/get.php?username=mohaned&password=mohaned&type=m3u
-Server:"466 http://cp.dmbshare.net:8000/get.php?username=khe&password=khe&type=m3u
-Server:"467 http://cp.dmbshare.net:8000/get.php?username=alessandro&password=alessandro&type=m3u
-Server:"468 http://cp.dmbshare.net:8000/get.php?username=salvatore&password=salvatore&type=m3u
-Server:"469 http://cp.dmbshare.net:8000/get.php?username=tullio&password=tullio&type=m3u
-Server:"470 http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u
-Server:"471 http://cp.dmbshare.net:8000/get.php?username=michele&password=michele&type=m3u
-Server:"472 http://cp.dmbshare.net:8000/get.php?username=shane1&password=shane1&type=m3u
-Server:"473 http://163.172.218.107:8181/get.php?username=iosandroid&password=a2fbb574ac&type=m3u
-Server:"474 http://51.255.70.112:8000/get.php?username=Jason&password=Jason&type=m3u
-Server:"475 http://87.106.252.50:8000/get.php?username=MollaKuqeOvariKARS&password=albaniaiptv.com&type=m3u
-Server:"476" http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=101158&password=101158&type=m3u
-Server:"477"http://ju031.jupiter.fastwebserver.de:8000/get.php?username=francesco&password=francesco&type=m3u
-Server:"478"http://service1.astrovida.tv:8000/get.php?username=testapp&password=testapp&type=m3u
-Server:"479"http://service1.astrovida.tv:8000/get.php?username=efILR0i2c8q&password=BZO1TvpPGDv&type=m3u
-Server:"480"http://orbit-iptv.com:2500/get.php?username=hansie&password=hansie&type=m3u
-Server:"481"http://ipstream.skyvps.org:8000/get.php?username=uaug0607x&password=vS7vk43q4o&type=m3u
-Server:"482"http://iptvstarpro.starynos.com:8000/get.php?username=hxivQF7AJG&password=pwbi6v5ENc&type=m3u
-Server:"483 http://IPTV-VOLKAN.NET:8000/get.php?username=stream3-iptv&password=test12&type=m3u
-Server:"484 http://ns3045782.ip-5-135-142.eu:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u
-Server:"485 http://globiptv.com:8000/get.php?username=CLIENTX103&password=65sijod&type=m3u
-
-Server:"459 http://iptvstarpro.starynos.com:8000/get.php?username=H062Bhl7Wp&password=Kvn9z7defj&type=m3u
-Server:"460 http://sender.dyndns.biz:8000/get.php?username=oADdzK6f4W&password=UswG3exEgXxcXx&type=m3u
-Server:"461 http://5.9.118.115:8000/get.php?username=hamada&password=hamada&type=m3u
-Server:"462 http://sender.dyndns.biz:8000/get.php?username=oADdzK6f4W&password=UswG3exEgXxcXx&type=m3u
-Server:"463 http://orbit-iptv.com:2500/get.php?username=ital&password=ital1&type=m3u
-
-Server:"452 http://51.255.70.112:8000/get.php?username=Jason&password=Jason&type=m3u
-Server:"453 http://185.53.8.145:8000/get.php?username=uaug0607xvS7vk43q4o&type=m3u
-Server:"454 http://185.2.83.15:58080/get.php?username=theglades&password=zXVwdI6Al5&type=m3u
-Server:"455 http://sat.010e.net:8000/get.php?username=shairng047&password=x57oKzEvfu&type=m3u
-Server:"457 http://ksportiptv.com:1557/get.php?username=mix03&password=A0zMpUDJ3b&type=m3u
-Server:"458 http://163.172.218.107:8181/get.php?username=iosandroid&password=86c0bfcea3&type=m3u
-
-Server:"447 http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u
-Server:"448 http://51.255.74.186:9900/get.php?username=kamran&password=kamran&type=m3u
-Server:"449 http://globe2.midomed.com:80/get.php?username=joseph&password=joseph&type=m3u
-Server:"450 http://tv2iptv.com:8000/get.php?username=bkr&password=bkr&type=m3u
-Server:"451 http://cp.dmbshare.net:8000/get.php?username=uapgodi&password=uapgodi&type=m3u
-
-Server:"430 http://163.172.218.107:8181/get.php?username=iosandroid&password=4f33162df4&type=m3u
-Server:"432 http://space-iptv.ddns.net:8112/get.php?username=karim&password=karim&type=m3u
-Server:"433 http://lookmytv.ddns.net:8000/get.php?username=sharif&password=sharif&type=m3u
-Server:"434 http://iptv-gold.dyndns.tv:25461/get.php?username=osn&password=osn1&type=m3u
-Server:"435 http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u
-Server:"436 http://195.154.183.48:8000/get.php?username=miguel&password=miguel&type=m3u
-Server:"437 http://lookmytv.ddns.net:8000/get.php?username=juju&password=juju&type=m3u
-Server:"438 http://lookmytv.ddns.net:8000/get.php?username=lapin&password=lapin&type=m3u
-Server:"439 http://lookmytv.ddns.net:8000/get.php?username=me&password=me&type=m3u
-Server:"440 http://lookmytv.ddns.net:8000/get.php?username=moi&password=moi&type=m3u
-Server:"441 http://lookmytv.ddns.net:8000/get.php?username=orange&password=orange&type=m3u
-Server:"442 http://space-iptv.ddns.net:8112/get.php?username=karim&password=karim&type=m3u
-Server:"443 http://orbit-iptv.com:2500/get.php?username=naa&password=naa&type=m3u
-Server:"444 http://orbit-iptv.com:2500/get.php?username=myline&password=myline&type=m3u
-Server:"445 http://orbit-iptv.com:2500/get.php?username=hansie&password=hansie&type=m3u
-Server:"446 http://shar-iptv.dynu.com:25461/get.php?username=si-moussa_errifi&password=startimes-2&type=m3u
-
-Server:"416 http://195.154.183.48:8000/get.php?username=miguel&password=miguel&type=m3u
-Server:"417 http://iptv.hack-sat.org:8000/get.php?username=h0FpfEsesi&password=hTHo1iTF34&type=m3u
-Server:"418 http://149.202.208.43:50100/get.php?username=fahad&password=fahad&type=m3u
-Server:"419 http://lookmytv.ddns.net:8000/get.php?username=engin&password=engin&type=m3u
-Server:"420 http://lookmytv.ddns.net:8000/get.php?username=magasin&password=magasin&type=m3u
-Server:"421 http://tvdreams.org:50100/get.php?username=fahad&password=fahad&type=m3u
-Server:"422 http://91.134.217.235:1557/get.php?username=MOTHER-TERESA&password=THE-ALBANIAN-SAINT&type=m3u
-Server:"423 http://iptv.amrocomputers.com:8000/get.php?username=iptv&password=nail&type=m3u
-Server:"424 http://lookmytv.ddns.net:8000/get.php?username=romu&password=romu&type=m3u
-Server:"425 http://lookmytv.ddns.net:8000/get.php?username=roba&password=roba&type=m3u
-Server:"426 http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u
-Server:"427 http://tvdreams.org:50100/get.php?username=Gamal&password=Gamal&type=m3u
-Server:"428 http://tv2iptv.com:8000/get.php?username=os1&password=os1&type=m3u
-Server:"429 http://62.210.107.58:8000//get.php?username=prueba&password=prueba&type=m3u
-
-Server:"409 http://tvdreams.org:50100/get.php?username=Gamal&password=Gamal&type=m3u
-Server:"410 http://satligneteam.hopto.org:8000/get.php?username=kako&password=kako&type=m3u
-Server:"412 http://tv2iptv.com:8000/get.php?username=os1&password=os1&type=m3u
-Server:"414 http://163.172.52.61:8000/get.php?username=cloyK9tdi5&password=MGoh540Gr3&type=m3u
-
-Server:"402 http://149.202.195.182:2500/get.php?username=YvIODZDTbl&password=OmjuWqIxTM&type=m3u
-Server:"408 http://dmtn-iptv.com:8080/get.php?username=98nad2503m&password=98nad2503m&type=m3u
-
-Server:"384 http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=orphee&password=orphee&type=m3u
-Server:"385 http://live.softiptv.com:9900/get.php?username=3m&password=3m&type=m3u regex"SP="
-Server:"386 http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u
-Server:"387 http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u
-Server:"388 http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=101158&password=101158&type=m3u
-Server:"389 http://iptvfullhd.info:8000/get.php?username=chris28de&password=TNKXmSgQSn&type=m3u
-Server:"391 http://5.196.78.166:8000/get.php?username=alfredomobile&password=Twk5IfVMBr&type=m3u
-Server:"394 http://cp.dmbshare.net:8000/get.php?username=viktor12&password=viktor12&type=m3u
-Server:"395 http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u
-
-Server:"379 http://zial.dyndns.tv:8000/get.php?username=prueba&password=prueba&type=m3u
-Server:"380 http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u
-Server:"382 http://globiptv.com:8000/get.php?username=CLIENTX103&password=65sijod&type=m3u
-
-Server:"365 http://149.202.195.182:2500/get.php?username=Jacques2&password=Jacques2&type=m3u
-Server:"366 http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u
-Server:"367 http://iptv-world.ddns.me:8000/get.php?username=luca&password=luca&type=m3u
-Server:"368 http://iptv-world.ddns.me:8000/get.php?username=manuele&password=manuele&type=m3u
-Server:"370 http://cp.dmbshare.net:8000/get.php?username=mentor&password=mentor&type=m3u
-Server:"371 http://cp.dmbshare.net:8000/get.php?username=melih&password=melih&type=m3u
-Server:"372 http://cp.dmbshare.net:8000/get.php?username=mark2&password=mark2&type=m3u
-Server:"373 http://cp.dmbshare.net:8000/get.php?username=kalan&password=kalan&type=m3u
-Server:"374 http://cp.dmbshare.net:8000/get.php?username=juha&password=juha&type=m3u
-Server:"375 http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=101158&password=101158&type=m3u
-Server:"376 http://iptv-supplier.com:8000/get.php?username=210070886404&password=566a94fd44fc2&type=m3u
-
-Server:"346 http://cp.dmbshare.net:8000/get.php?username=daniel1&password=daniel1&type=m3u
-Server:"347 http://cp.dmbshare.net:8000/get.php?username=support&password=support&type=m3u
-Server:"348 http://cp.dmbshare.net:8000/get.php?username=elliottburrows&password=elliottburrows&type=m3u
-Server:"349 http://cp.dmbshare.net:8000/get.php?username=ioannis&password=ioannis&type=m3u
-Server:"350 http://cp.dmbshare.net:8000/get.php?username=holzman&password=holzman&type=m3u
-Server:"351 http://cp.dmbshare.net:8000/get.php?username=hatz&password=hatz&type=m3u
-Server:"352 http://cp.dmbshare.net:8000/get.php?username=gianfranco&password=gianfranco&type=m3u
-Server:"353 http://cp.dmbshare.net:8000/get.php?username=george2&password=george2&type=m3u
-Server:"354 http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u
-Server:"358 http://topchantv.net:3456/get.php?username=IPTV&password=21082016&type=m3u
-
-Server:"335 http://cp.dmbshare.net:8000/get.php?username=geoffrey&password=geoffrey&type=m3uoption
-Server:"336 http://cp.dmbshare.net:8000/get.php?username=dano6570&password=dano6570&type=m3uoption
-Server:"337 http://cp.dmbshare.net:8000/get.php?username=dan&password=dan&type=m3uoption
-Server:"338 http://cp.dmbshare.net:8000/get.php?username=alopecia&password=alopecia&type=m3uoption
-Server:"332 http://orbit-iptv.com:2500/get.php?username=melvin&password=melvin&type=m3u
-
-Server:"321 http://vip.tuguj.net:8000/get.php?username=test11&password=test11&type=m3u
-Server:"322 http://cp.dmbshare.net:8000/get.php?username=shane1&password=shane1&type=m3uoption
-Server:"323 http://cp.dmbshare.net:8000/get.php?username=horn&password=horn&type=m3uoption
-Server:"324 http://cp.dmbshare.net:8000/get.php?username=jukka&password=jukka&type=m3uoption
-Server:"325 http://cp.dmbshare.net:8000/get.php?username=obor&password=obor&type=m3uoption
-Server:"318 http://83.149.125.90:8000/get.php?username=h0FpfEsesi&password=hTHo1iTF34&type=m3u
-
-http://d4life.dtdns.net:8000/get.php?username=aaaaaa&password=aaaaaa&type=m3u
-http://mediaipro.com:8000/get.php?username=OnzTest780&password=Shsig8226hdhdh&type=m3u
-http://lookmytv.ddns.net:8000/get.php?username=abdul&password=abdul&type=m3u
-http://r3v0lut10n.mine.nu:9000/get.php?username=qwerty1&password=qwerty1&type=m3u
-http://freeiptv-tuga.zapto.org/get.php?username=free&password=iptv&type=m3u
-http://codeiptv.hopto.org:8000/get.php?username=test&password=pQJ1GLk1TU&type=m3u
-http://163.172.218.107:8181/get.php?username=iosandroid&password=203124b19f&type=m3u
-http://163.172.15.23:8000/get.php?username=testapp&password=testapp&type=m3u
-http://163.172.33.221/get.php?username=test1&password=test1&type=m3u
-http://163.172.15.23:8000/get.php?username=efILR0i2c8q&password=BZO1TvpPGDv&type=m3u
-IPTV Spain udp Playlist
-#EXTINF:-1,[000] Movistar+
-http://83.53.32.85:4022/udp/239.0.0.77:8208
-#EXTINF:-1,[000] Movistar+ HD
-http://83.53.32.85:4022/udp/239.0.5.185:8208
-#EXTINF:-1,[001] TVE 1
-http://83.53.32.85:4022/udp/239.0.0.76:8208
-#EXTINF:-1,[001] TVE 1 HD
-http://83.53.32.85:4022/udp/239.0.0.185:8208
-#EXTINF:-1,[002] TVE 2
-http://83.53.32.85:4022/udp/239.0.0.2:8208
-#EXTINF:-1,[003] Antena 3
-http://83.53.32.85:4022/udp/239.0.0.3:8208
-#EXTINF:-1,[003] Antena 3 HD
-http://83.53.32.85:4022/udp/239.0.0.186:8208
-#EXTINF:-1,[004] Cuatro
-http://83.53.32.85:4022/udp/239.0.0.4:8208
-#EXTINF:-1,[004] Cuatro HD
-http://83.53.32.85:4022/udp/239.0.0.177:8208
-#EXTINF:-1,[005] Telecinco
-http://83.53.32.85:4022/udp/239.0.0.5:8208
-#EXTINF:-1,[005] Telecinco HD
-http://83.53.32.85:4022/udp/239.0.0.176:8208
-#EXTINF:-1,[006] La Sexta
-http://83.53.32.85:4022/udp/239.0.0.58:8208
-#EXTINF:-1,[006] La Sexta HD
-http://83.53.32.85:4022/udp/239.0.0.187:8208
-#EXTINF:-1,[007] #0
-http://83.53.32.85:4022/udp/239.0.0.108:8208
-#EXTINF:-1,[007] #0 HD
-http://83.53.32.85:4022/udp/239.0.5.187:8208
-#EXTINF:-1,[008] 7 Region de Murcia
-http://83.53.32.85:4022/udp/239.0.0.87:8208
-#EXTINF:-1,[008] Aragon TV
-http://83.53.32.85:4022/udp/239.0.0.88:8208
-#EXTINF:-1,[008] Canal Sur
-http://83.53.32.85:4022/udp/239.0.0.49:8208
-#EXTINF:-1,[008] Castilla y Leon 7
-http://83.53.32.85:4022/udp/239.0.0.109:8208
-#EXTINF:-1,[008] CMT
-http://83.53.32.85:4022/udp/239.0.0.55:8208
-#EXTINF:-1,[008] ETB 1
-http://83.53.32.85:4022/udp/239.0.0.35:8208
-#EXTINF:-1,[008] Extremadura TV
-http://83.53.32.85:4022/udp/239.0.0.73:8208
-#EXTINF:-1,[008] IB3
-http://83.53.32.85:4022/udp/239.0.0.56:8208
-#EXTINF:-1,[008] Telemadrid
-http://83.53.32.85:4022/udp/239.0.0.25:8208
-#EXTINF:-1,[008] TV Canaria
-http://83.53.32.85:4022/udp/239.0.0.54:8208
-#EXTINF:-1,[008] TV Galicia
-http://83.53.32.85:4022/udp/239.0.0.53:8208
-#EXTINF:-1,[008] TV Mediterraneo
-http://83.53.32.85:4022/udp/239.0.3.34:8208
-#EXTINF:-1,[008] TV Princ de Asturias
-http://83.53.32.85:4022/udp/239.0.0.86:8208
-#EXTINF:-1,[008] TV3
-http://83.53.32.85:4022/udp/239.0.0.23:8208
-#EXTINF:-1,[008] TV3 HD
-http://83.53.32.85:4022/udp/239.0.5.186:8208
-#EXTINF:-1,https://iptv.zone/en [009] 8 TV
-http://83.53.32.85:4022/udp/239.0.0.82:8208
-#EXTINF:-1,[009] Canal Sur 2
-http://83.53.32.85:4022/udp/239.0.0.50:8208
-#EXTINF:-1,[009] ETB 2
-http://83.53.32.85:4022/udp/239.0.0.36:8208
-#EXTINF:-1,[009] La Otra
-http://83.53.32.85:4022/udp/239.0.0.26:8208
-#EXTINF:-1,[010] Series
-http://83.53.32.85:4022/udp/239.0.3.32:8208
-#EXTINF:-1,[010] Series HD
-http://83.53.32.85:4022/udp/239.0.0.184:8208
-#EXTINF:-1,[011] Movistar Series
-http://83.53.32.85:4022/udp/239.0.5.4:8208
-#EXTINF:-1,[011] Movistar Series HD
-http://83.53.32.85:4022/udp/239.0.5.250:8208
-#EXTINF:-1,[012] Movistar Series Xtra
-http://83.53.32.85:4022/udp/239.0.3.20:8208
-#EXTINF:-1,[012] Movistar Series Xtra HD
-http://83.53.32.85:4022/udp/239.0.5.83:8208
-#EXTINF:-1,[013] FOX
-http://83.53.32.85:4022/udp/239.0.0.74:8208
-#EXTINF:-1,[013] FOX HD
-http://83.53.32.85:4022/udp/239.0.9.134:8208
-#EXTINF:-1,[014] AXN
-http://83.53.32.85:4022/udp/239.0.0.14:8208
-#EXTINF:-1,[014] AXN HD
-http://83.53.32.85:4022/udp/239.0.9.131:8208
-#EXTINF:-1,[015] TNT
-http://83.53.32.85:4022/udp/239.0.0.44:8208
-#EXTINF:-1,[015] TNT HD
-http://83.53.32.85:4022/udp/239.0.5.87:8208
-#EXTINF:-1,[016] Comedy Central
-http://83.53.32.85:4022/udp/239.0.0.68:8208
-#EXTINF:-1,[016] Comedy Central HD
-http://83.53.32.85:4022/udp/239.0.0.174:8208
-#EXTINF:-1,[017] Calle 13
-http://83.53.32.85:4022/udp/239.0.0.13:8208
-#EXTINF:-1,[017] Calle 13 HD
-http://83.53.32.85:4022/udp/239.0.5.74:8208
-#EXTINF:-1,[018] Cosmo
-http://83.53.32.85:4022/udp/239.0.0.15:8208
-#EXTINF:-1,[018] Cosmo HD
-http://83.53.32.85:4022/udp/239.0.5.71:8208
-#EXTINF:-1,[019] AMC
-http://83.53.32.85:4022/udp/239.0.0.8:8208
-#EXTINF:-1,[019] AMC HD
-http://83.53.32.85:4022/udp/239.0.9.132:8208
-#EXTINF:-1,[020] FOX Life
-http://83.53.32.85:4022/udp/239.0.0.112:8208
-#EXTINF:-1,[020] FOX Life HD
-http://83.53.32.85:4022/udp/239.0.5.86:8208
-#EXTINF:-1,[021] AXN White
-http://83.53.32.85:4022/udp/239.0.0.62:8208
-#EXTINF:-1,[021] AXN White HD
-http://83.53.32.85:4022/udp/239.0.5.79:8208
-#EXTINF:-1,[022] SyFy
-http://83.53.32.85:4022/udp/239.0.0.111:8208
-#EXTINF:-1,[022] SyFy HD
-http://83.53.32.85:4022/udp/239.0.5.75:8208
-#EXTINF:-1,[023] Non Stop People
-http://83.53.32.85:4022/udp/239.0.0.212:8208
-#EXTINF:-1,[023] Non Stop People HD
-http://83.53.32.85:4022/udp/239.0.5.170:8208
-#EXTINF:-1,[024] MTV
-http://83.53.32.85:4022/udp/239.0.0.211:8208
-#EXTINF:-1,[025] FDF
-http://83.53.32.85:4022/udp/239.0.0.84:8208
-#EXTINF:-1,[026] Neox
-http://83.53.32.85:4022/udp/239.0.0.107:8208
-#EXTINF:-1,[027] Atreseries
-http://83.53.32.85:4022/udp/239.0.3.29:8208
-#EXTINF:-1,[027] Atreseries HD
-http://83.53.32.85:4022/udp/239.0.0.181:8208
-#EXTINF:-1,[030] Cine
-http://83.53.32.85:4022/udp/239.0.3.30:8208
-#EXTINF:-1,[030] Cine HD
-http://83.53.32.85:4022/udp/239.0.0.178:8208
-#EXTINF:-1,[031] Movistar Estrenos
-http://83.53.32.85:4022/udp/239.0.3.40:8208
-#EXTINF:-1,[031] Movistar Estrenos HD
-http://83.53.32.85:4022/udp/239.0.5.111:8208
-#EXTINF:-1,[032] Movistar Xtra
-http://83.53.32.85:4022/udp/239.0.3.41:8208
-#EXTINF:-1,[032] Movistar Xtra HD
-http://83.53.32.85:4022/udp/239.0.5.112:8208
-#EXTINF:-1,[033] Movistar Accion
-http://83.53.32.85:4022/udp/239.0.3.42:8208
-#EXTINF:-1,[033] Movistar Accion HD
-http://83.53.32.85:4022/udp/239.0.5.113:8208
-#EXTINF:-1,[034] Movistar Comedia
-http://83.53.32.85:4022/udp/239.0.3.43:8208
-#EXTINF:-1,[034] Movistar Comedia HD
-http://83.53.32.85:4022/udp/239.0.5.114:8208
-#EXTINF:-1,[035] Movistar DCine
-http://83.53.32.85:4022/udp/239.0.3.44:8208
-#EXTINF:-1,[035] Movistar DCine HD
-http://83.53.32.85:4022/udp/239.0.5.115:8208
-#EXTINF:-1,[036] DCine Espanol
-http://83.53.32.85:4022/udp/239.0.3.45:8208
-#EXTINF:-1,[037] TCM
-http://83.53.32.85:4022/udp/239.0.6.5:8208
-#EXTINF:-1,[037] TCM HD
-http://83.53.32.85:4022/udp/239.0.5.89:8208
-#EXTINF:-1,[038] Hollywood
-http://83.53.32.85:4022/udp/239.0.0.16:8208
-#EXTINF:-1,[038] Hollywood HD
-http://83.53.32.85:4022/udp/239.0.5.76:8208
-#EXTINF:-1,[039] Sundance
-http://83.53.32.85:4022/udp/239.0.0.102:8208
-#EXTINF:-1,[039] Sundance HD
-http://83.53.32.85:4022/udp/239.0.5.72:8208
-#EXTINF:-1,[040] Paramount
-http://83.53.32.85:4022/udp/239.0.0.90:8208
-#EXTINF:-1,[041] 13 TV
-http://83.53.32.85:4022/udp/239.0.0.91:8208
-#EXTINF:-1,[042] Ten
-http://83.53.32.85:4022/udp/239.0.0.34:8208
-#EXTINF:-1,[044] Deportes
-http://83.53.32.85:4022/udp/239.0.3.33:8208
-#EXTINF:-1,https://iptv.zone/en [044] Deportes HD
-http://83.53.32.85:4022/udp/239.0.0.180:8208
-#EXTINF:-1,[045] Movistar Futbol
-http://83.53.32.85:4022/udp/239.0.6.8:8208
-#EXTINF:-1,[045] Movistar Futbol HD
-http://83.53.32.85:4022/udp/239.0.6.14:8208
-#EXTINF:-1,[046] Movistar Partidazo
-http://83.53.32.85:4022/udp/239.0.4.129:8208
-#EXTINF:-1,[046] Movistar Partidazo HD
-http://83.53.32.85:4022/udp/239.0.5.84:8208
-#EXTINF:-1,[047] beIN La Liga
-http://83.53.32.85:4022/udp/239.0.0.46:8208
-#EXTINF:-1,[047] beIN La Liga HD
-http://83.53.32.85:4022/udp/239.0.5.106:8208
-#EXTINF:-1,[048] beIN La Liga 1
-http://83.53.32.85:4022/udp/239.0.0.47:8208
-#EXTINF:-1,[048] beIN La Liga 1 HD
-http://83.53.32.85:4022/udp/239.0.5.179:8208
-#EXTINF:-1,[049] beIN La Liga 2
-http://83.53.32.85:4022/udp/239.0.0.67:8208
-#EXTINF:-1,[049] beIN La Liga 2 HD
-http://83.53.32.85:4022/udp/239.0.5.180:8208
-#EXTINF:-1,[050] beIN SPORTS
-http://83.53.32.85:4022/udp/239.0.3.100:8208
-#EXTINF:-1,[050] beIN SPORTS HD
-http://83.53.32.85:4022/udp/239.0.9.80:8208
-#EXTINF:-1,[050] Futbol Replay
-http://83.53.32.85:4022/udp/239.0.0.97:8208
-#EXTINF:-1,[051] beIN MAX 1
-http://83.53.32.85:4022/udp/239.0.6.7:8208
-#EXTINF:-1,[051] beIN MAX 1 HD
-http://83.53.32.85:4022/udp/239.0.5.177:8208
-#EXTINF:-1,[052] beIN MAX 2
-http://83.53.32.85:4022/udp/239.0.6.13:8208
-#EXTINF:-1,[055] Movistar Deportes 1
-http://83.53.32.85:4022/udp/239.0.4.193:8208
-#EXTINF:-1,[055] Movistar Deportes 1 HD
-http://83.53.32.85:4022/udp/239.0.5.248:8208
-#EXTINF:-1,[056] Movistar Deportes 2
-http://83.53.32.85:4022/udp/239.0.5.5:8208
-#EXTINF:-1,[056] Movistar Deportes 2 HD
-http://83.53.32.85:4022/udp/239.0.5.245:8208
-#EXTINF:-1,[057] Movistar F1
-http://83.53.32.85:4022/udp/239.0.0.210:8208
-#EXTINF:-1,[057] Movistar F1 HD
-http://83.53.32.85:4022/udp/239.0.5.246:8208
-#EXTINF:-1,[058] Movistar MotoGP
-http://83.53.32.85:4022/udp/239.0.3.38:8208
-#EXTINF:-1,[058] Movistar MotoGP HD
-http://83.53.32.85:4022/udp/239.0.5.107:8208
-#EXTINF:-1,[059] Movistar Golf
-http://83.53.32.85:4022/udp/239.0.5.2:8208
-#EXTINF:-1,[059] Movistar Golf HD
-http://83.53.32.85:4022/udp/239.0.5.249:8208
-#EXTINF:-1,[060] EuroSport
-http://83.53.32.85:4022/udp/239.0.0.18:8208
-#EXTINF:-1,[060] EuroSport HD New
-http://83.53.32.85:4022/udp/239.0.9.144:8208
-#EXTINF:-1,[060] EuroSport HD Old
-http://83.53.32.85:4022/udp/239.0.9.135:8208
-#EXTINF:-1,[061] EuroSport 2
-http://83.53.32.85:4022/udp/239.0.0.37:8208
-#EXTINF:-1,[061] EuroSport 2 HD
-http://83.53.32.85:4022/udp/239.0.5.105:8208
-#EXTINF:-1,[063] Teledeporte
-http://83.53.32.85:4022/udp/239.0.0.79:8208
-#EXTINF:-1,[063] Teledeporte HD
-http://83.53.32.85:4022/udp/239.0.0.188:8208
-#EXTINF:-1,[066] Iberalia
-http://83.53.32.85:4022/udp/239.0.5.6:8208
-#EXTINF:-1,[068] Multideporte 1
-http://83.53.32.85:4022/udp/239.0.7.1:8208
-#EXTINF:-1,[070] National Geographic
-http://83.53.32.85:4022/udp/239.0.0.103:8208
-#EXTINF:-1,[070] National Geographic HD
-http://83.53.32.85:4022/udp/239.0.5.78:8208
-#EXTINF:-1,[071] Nat Geo Wild
-http://83.53.32.85:4022/udp/239.0.0.89:8208
-#EXTINF:-1,[071] Nat Geo Wild HD
-http://83.53.32.85:4022/udp/239.0.9.136:8208
-#EXTINF:-1,[072] Historia
-http://83.53.32.85:4022/udp/239.0.0.19:8208
-#EXTINF:-1,[073] Discovery Channel
-http://83.53.32.85:4022/udp/239.0.0.21:8208
-#EXTINF:-1,[073] Discovery Channel HD
-http://83.53.32.85:4022/udp/239.0.5.77:8208
-#EXTINF:-1,[074] Odisea
-http://83.53.32.85:4022/udp/239.0.0.22:8208
-#EXTINF:-1,[074] Odisea HD
-http://83.53.32.85:4022/udp/239.0.5.82:8208
-#EXTINF:-1,[075] A&ampE
-http://83.53.32.85:4022/udp/239.0.0.38:8208
-#EXTINF:-1,[076] Viajar
-http://83.53.32.85:4022/udp/239.0.0.20:8208
-#EXTINF:-1,[076] Viajar HD
-http://83.53.32.85:4022/udp/239.0.5.73:8208
-#EXTINF:-1,[077] Discovery MAX
-http://83.53.32.85:4022/udp/239.0.0.32:8208
-#EXTINF:-1,[079] CCTV-E
-http://83.53.32.85:4022/udp/239.0.0.65:8208
-#EXTINF:-1,[080] Cocina
-http://83.53.32.85:4022/udp/239.0.0.27:8208
-#EXTINF:-1,[081] Decasa
-http://83.53.32.85:4022/udp/239.0.0.71:8208
-#EXTINF:-1,[082] Crimen e Investigacion
-http://83.53.32.85:4022/udp/239.0.0.57:8208
-#EXTINF:-1,[083] Divinity
-http://83.53.32.85:4022/udp/239.0.0.48:8208
-#EXTINF:-1,[084] Nova
-http://83.53.32.85:4022/udp/239.0.0.106:8208
-#EXTINF:-1,[085] MEGA
-http://83.53.32.85:4022/udp/239.0.3.31:8208
-#EXTINF:-1,[086] Energy
-http://83.53.32.85:4022/udp/239.0.0.59:8208
-#EXTINF:-1,[087] Garage TV
-http://83.53.32.85:4022/udp/239.0.0.99:8208
-#EXTINF:-1,[090] Baby TV
-http://83.53.32.85:4022/udp/239.0.0.113:8208
-#EXTINF:-1,[091] Disney Junior
-http://83.53.32.85:4022/udp/239.0.0.10:8208
-#EXTINF:-1,[092] Canal Panda
-http://83.53.32.85:4022/udp/239.0.0.117:8208
-#EXTINF:-1,[093] Nick Jr
-http://83.53.32.85:4022/udp/239.0.0.115:8208
-#EXTINF:-1,[094] Nickelodeon
-http://83.53.32.85:4022/udp/239.0.0.69:8208
-#EXTINF:-1,[095] Disney XD
-http://83.53.32.85:4022/udp/239.0.0.11:8208
-#EXTINF:-1,[096] Disney Channel
-http://83.53.32.85:4022/udp/239.0.0.64:8208
-#EXTINF:-1,[096] Disney Channel HD
-http://83.53.32.85:4022/udp/239.0.0.173:8208
-#EXTINF:-1,[097] Boing
-http://83.53.32.85:4022/udp/239.0.0.66:8208
-#EXTINF:-1,[098] Clan TVE
-http://83.53.32.85:4022/udp/239.0.0.80:8208
-#EXTINF:-1,[103] 40 TV
-http://83.53.32.85:4022/udp/239.0.0.12:8208
-#EXTINF:-1,[104] Sol Musica
-http://83.53.32.85:4022/udp/239.0.0.39:8208
-#EXTINF:-1,[105] VH1
-http://83.53.32.85:4022/udp/239.0.0.75:8208
-#EXTINF:-1,[112] Canal 24 Horas
-http://83.53.32.85:4022/udp/239.0.0.78:8208
-#EXTINF:-1,[113] BBC world
-http://83.53.32.85:4022/udp/239.0.0.30:8208
-#EXTINF:-1,[114] CNN International
-http://83.53.32.85:4022/udp/239.0.0.40:8208
-#EXTINF:-1,[115] Fox News
-http://83.53.32.85:4022/udp/239.0.7.65:8208
-#EXTINF:-1,[116] Euronews
-http://83.53.32.85:4022/udp/239.0.0.28:8208
-#EXTINF:-1,[117] Al Jazeera
-http://83.53.32.85:4022/udp/239.0.7.66:8208
-#EXTINF:-1,[118] France 24
-http://83.53.32.85:4022/udp/239.0.7.67:8208
-#EXTINF:-1,[119] Russia Today
-http://83.53.32.85:4022/udp/239.0.7.68:8208
-#EXTINF:-1,[120] CNBC Europe
-http://83.53.32.85:4022/udp/239.0.7.69:8208
-#EXTINF:-1,[122] TV5 Monde Europe
-http://83.53.32.85:4022/udp/239.0.0.31:8208
-#EXTINF:-1,[123] Bloomberg
-http://83.53.32.85:4022/udp/239.0.0.29:8208
-#EXTINF:-1,[124] Intereconomia TV
-http://83.53.32.85:4022/udp/239.0.0.63:8208
-#EXTINF:-1,[128] I24 News
-http://83.53.32.85:4022/udp/239.0.0.220:8208
-#EXTINF:-1,[129] CNC World
-http://83.53.32.85:4022/udp/239.0.0.221:8208
-#EXTINF:-1,[133] Canal Orbe 21
-http://83.53.32.85:4022/udp/239.0.0.45:8208
-#EXTINF:-1,[150] Andalucia TV
-http://83.53.32.85:4022/udp/239.0.0.1:8208
-#EXTINF:-1,[151] Galicia TV Europa
-http://83.53.32.85:4022/udp/239.0.3.37:8208
-#EXTINF:-1,[153] TV3CAT
-http://83.53.32.85:4022/udp/239.0.3.36:8208
-#EXTINF:-1,[154] ETB Sat
-http://83.53.32.85:4022/udp/239.0.0.60:8208
-#EXTINF:-1,https://iptv.zone/en [155] Aragon TV Int
-http://83.53.32.85:4022/udp/239.0.0.81:8208
-#EXTINF:-1,[156] Super 3/33
-http://83.53.32.85:4022/udp/239.0.0.24:8208
-#EXTINF:-1,[157] Esport3
-http://83.53.32.85:4022/udp/239.0.0.51:8208
-#EXTINF:-1,[158] 3/24
-http://83.53.32.85:4022/udp/239.0.0.61:8208
-#EXTINF:-1,[159] Xarxa Televisions
-http://83.53.32.85:4022/udp/239.0.0.9:8208
-#EXTINF:-1,[176] Multifutbol 1
-http://83.53.32.85:4022/udp/239.0.0.92:8208
-#EXTINF:-1,[177] Multifutbol 2
-http://83.53.32.85:4022/udp/239.0.0.93:8208
-#EXTINF:-1,[178] Multifutbol 3
-http://83.53.32.85:4022/udp/239.0.0.94:8208
-#EXTINF:-1,[179] Multifutbol 4
-http://83.53.32.85:4022/udp/239.0.0.95:8208
-#EXTINF:-1,[180] Multifutbol 5
-http://83.53.32.85:4022/udp/239.0.0.96:8208
-#EXTINF:-1,[181] beIN La Liga 3
-http://83.53.32.85:4022/udp/239.0.0.70:8208
-#EXTINF:-1,[181] beIN La Liga 3 HD
-http://83.53.32.85:4022/udp/239.0.5.181:8208
-#EXTINF:-1,[182] beIN La Liga 4
-http://83.53.32.85:4022/udp/239.0.0.72:8208
-#EXTINF:-1,[186] beIN MAX 3
-http://83.53.32.85:4022/udp/239.0.0.216:8208
-#EXTINF:-1,[187] beIN MAX 4
-http://83.53.32.85:4022/udp/239.0.0.217:8208
-#EXTINF:-1,[192] Multideporte 2
-http://83.53.32.85:4022/udp/239.0.7.2:8208
-#EXTINF:-1,[193] Multideporte 3
-http://83.53.32.85:4022/udp/239.0.7.3:8208
-#EXTINF:-1,[194] Multideporte 4
-http://83.53.32.85:4022/udp/239.0.7.4:8208
-#EXTINF:-1,[195] Multideporte 5
-http://83.53.32.85:4022/udp/239.0.7.5:8208
-#EXTINF:-1,[196] Multideporte 6
-http://83.53.32.85:4022/udp/239.0.7.132:8208
-#EXTINF:-1,[197] Multideporte 7
-http://83.53.32.85:4022/udp/239.0.7.133:8208
-#EXTINF:-1,[200] La Tienda en Casa
-http://83.53.32.85:4022/udp/239.0.0.98:8208
