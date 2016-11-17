@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 group-title="Z etiquetas",Facebook Oficial: http://fb.com/ExabyteTV
+#EXTINF:1 group-title="Z etiquetas",Facebook Oficial: http://fb.com/ExabyteTV
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 group-title="Z etiquetas",[B][COLOR yellow]== ENTRETENIMIENTO ==[/COLOR][/B]
+#EXTINF:1 group-title="Z etiquetas",[B][COLOR yellow]== ENTRETENIMIENTO ==[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Exabyte TV A&E" tvg-name="A&E" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="ENTRETENIMIENTO",A&E (Op1) *  Sólo México o con VPN
 http://exagonalbyte.jl.serv.net.mx/totalplei.php/canal_211/calidad_3/token_1001111101010000011100010100010100-ExabyteTV/exabytetv.m3u8
