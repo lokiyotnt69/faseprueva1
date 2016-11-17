@@ -1,70 +1,228 @@
 #EXTM3U
 #EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
-#EXTINF:-1,ES: CANAL+ LIGA HD
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/197.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,ES: REAL MADRID
-plugin://plugin.video.f4mTester/?url=http://89.163.135.168:8000/live/christine/christine/466.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25
-#EXTINF:-1,C+ DEPORT 2
-http://5.147.77.93:8001/1:0:1:760C:408:1:C00000:0:0:0:
-#EXTINF:-1,C+ PARTIDAZO
-http://5.147.77.93:8001/1:0:1:769C:41E:1:C00000:0:0:0:
-#EXTINF:-1,C+ DEPORTES
-http://5.147.77.93:8001/1:0:1:778F:424:1:C00000:0:0:0:
-#EXTINF:-1,C+ FUTBOL
-http://5.147.77.93:8001/1:0:1:778E:424:1:C00000:0:0:0:
-#EXTINF:-1,EUROSPORT 2
-http://5.147.77.93:8001/1:0:1:760E:408:1:C00000:0:0:0:
-#EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
 #EXTM3U
-#EXTINF:-1,Sky Sports 1 SD
-http://78.56.221.9:7059/skysp1
-#EXTINF:-1,Sky Sports 2 SD
-http://78.56.221.9:7059/skysp2
-#EXTINF:-1,Sky Sports 3 SD
-http://78.56.221.9:7059/skysp3
-#EXTINF:-1,Sky Sports F1 SD
-http://78.56.221.9:7059/skyspf1
-#EXTINF:-1,[044] Deportes
-http://83.53.32.85:4022/udp/239.0.3.33:8208
-#EXTINF:-1,https://iptv.zone/en [044] Deportes HD
-http://83.53.32.85:4022/udp/239.0.0.180:8208
-#EXTINF:-1,[045] Movistar Futbol
-http://83.53.32.85:4022/udp/239.0.6.8:8208
-#EXTINF:-1,[045] Movistar Futbol HD
-http://83.53.32.85:4022/udp/239.0.6.14:8208
-#EXTINF:-1,[046] Movistar Partidazo
-http://83.53.32.85:4022/udp/239.0.4.129:8208
-#EXTINF:-1,[046] Movistar Partidazo HD
-http://83.53.32.85:4022/udp/239.0.5.84:8208
-#EXTINF:-1,[047] beIN La Liga
-http://83.53.32.85:4022/udp/239.0.0.46:8208
-#EXTINF:-1,[047] beIN La Liga HD
-http://83.53.32.85:4022/udp/239.0.5.106:8208
-#EXTINF:-1,[048] beIN La Liga 1
-http://83.53.32.85:4022/udp/239.0.0.47:8208
-#EXTINF:-1,[048] beIN La Liga 1 HD
-http://83.53.32.85:4022/udp/239.0.5.179:8208
-#EXTINF:-1,[049] beIN La Liga 2
-http://83.53.32.85:4022/udp/239.0.0.67:8208
-#EXTINF:-1,[049] beIN La Liga 2 HD
-http://83.53.32.85:4022/udp/239.0.5.180:8208
-#EXTINF:-1,[050] beIN SPORTS
-http://83.53.32.85:4022/udp/239.0.3.100:8208
-#EXTINF:-1,[050] beIN SPORTS HD
-http://83.53.32.85:4022/udp/239.0.9.80:8208
-#EXTINF:-1,[050] Futbol Replay
-http://83.53.32.85:4022/udp/239.0.0.97:8208
-#EXTINF:-1,[051] beIN MAX 1
-http://83.53.32.85:4022/udp/239.0.6.7:8208
-#EXTINF:-1,[051] beIN MAX 1 HD
-http://83.53.32.85:4022/udp/239.0.5.177:8208
-#EXTINF:-1,[052] beIN MAX 2
-http://83.53.32.85:4022/udp/239.0.6.13:8208
-#EXTINF:-1,[055] Movistar Deportes 1
-http://83.53.32.85:4022/udp/239.0.4.193:8208
-#EXTINF:-1,[055] Movistar Deportes 1 HD
-http://83.53.32.85:4022/udp/239.0.5.248:8208
-#EXTINF:-1,[056] Movistar Deportes 2
-http://83.53.32.85:4022/udp/239.0.5.5:8208
-#EXTINF:-1,[056] Movistar Deportes 2 HD
-http://83.53.32.85:4022/udp/239.0.5.245:8208
+#EXTINF:1,UFC
+http://tinyurl.com/hrycwms
+#EXTINF:1,UFC
+http://tinyurl.com/hrycwms
+#EXTINF:1,UFC
+http://tinyurl.com/h8ogta3
+#EXTINF:-1,#[COLOR yellow] Fecha Clave 19 Noviembre!!!Actualizandolo!!!  [/COLOR]
+#EXTINF:1,
+1240-20161116192150.ts
+#EXTINF:1,
+1240-20161116192200.ts
+#EXTINF:1,
+1240-20161116192210.ts
+#EXTINF:1,
+1240-20161116192220.ts
+#EXTINF:1,
+1240-20161116192230.ts
+#EXTINF:1,
+1240-20161116192240.ts
+#EXTINF:-1,ES: #0 HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3974.ts
+#EXTINF:-1,ES: 24h
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3975.ts
+#EXTINF:-1,ES: 360 TV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4970.ts
+#EXTINF:-1,ES: 40TV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3976.ts
+#EXTINF:-1,ES: A&E
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3977.ts
+#EXTINF:-1,ES: AMC HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3978.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3979.ts
+#EXTINF:-1,ES: Antena 3 Internacional HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4971.ts
+#EXTINF:-1,ES: AXN HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3980.ts
+#EXTINF:-1,ES: AXN WHITE
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3981.ts
+#EXTINF:-1,ES: Azteca 13
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4972.ts
+#EXTINF:-1,ES: BABY
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3982.ts
+#EXTINF:-1,ES: BARCATV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3983.ts
+#EXTINF:-1,ES: beIN Sport Ñ HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3984.ts
+#EXTINF:-1,ES: BOING
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3985.ts
+#EXTINF:-1,ES: CALLE13
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3991.ts
+#EXTINF:-1,ES: Canal COCINA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4001.ts
+#EXTINF:-1,ES: Canal DE LA ESTRELLAS
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3999.ts
+#EXTINF:-1,ES: Canal DECASA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4002.ts
+#EXTINF:-1,ES: CANAL HISTORIA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4018.ts
+#EXTINF:-1,ES: Canal ODISEA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4003.ts
+#EXTINF:-1,ES: Canal PANDA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4000.ts
+#EXTINF:-1,ES: CAZAYPESCA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4004.ts
+#EXTINF:-1,ES: CBN Español
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4973.ts
+#EXTINF:-1,ES: CLANTVE
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4005.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4006.ts
+#EXTINF:-1,ES: COSMOPOLITAN HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4007.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACIÓN
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4008.ts
+#EXTINF:-1,ES: CUATRO HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4009.ts
+#EXTINF:-1,ES: DISCOVERY
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4011.ts
+#EXTINF:-1,ES: DISNEY
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4012.ts
+#EXTINF:-1,ES: DIVINITY
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4013.ts
+#EXTINF:-1,ES: Efekto TV HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4974.ts
+#EXTINF:-1,ES: ENERGY
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4014.ts
+#EXTINF:-1,ES: EUROSPORT1 HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4015.ts
+#EXTINF:-1,ES: FOX HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4016.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4017.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4019.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4020.ts
+#EXTINF:-1,ES: LA1
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4021.ts
+#EXTINF:-1,ES: LA2
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4022.ts
+#EXTINF:-1,ES: LaLiga TV HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4388.ts
+#EXTINF:-1,ES: Latina TV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4975.ts
+#EXTINF:-1,ES: LTC
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4023.ts
+#EXTINF:-1,ES: MEGA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4024.ts
+#EXTINF:-1,ES: Movistar ACCION HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3993.ts
+#EXTINF:-1,ES: MOVISTAR CINE Ñ
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4010.ts
+#EXTINF:-1,ES: Movistar COMEDIA HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3994.ts
+#EXTINF:-1,ES: Movistar DCINE HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3995.ts
+#EXTINF:-1,ES: Movistar DEPORTES 1
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3986.ts
+#EXTINF:-1,ES: Movistar DEPORTES 2
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3987.ts
+#EXTINF:-1,ES: Movistar ESTRENOS
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3996.ts
+#EXTINF:-1,ES: Movistar F1
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4025.ts
+#EXTINF:-1,ES: Movistar FUTBOL
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3988.ts
+#EXTINF:-1,ES: Movistar GOLF
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3989.ts
+#EXTINF:-1,ES: Movistar MOTOGP
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4026.ts
+#EXTINF:-1,ES: Movistar SERIES HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3997.ts
+#EXTINF:-1,ES: Movistar TOROS
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/3998.ts
+#EXTINF:-1,ES: MTV ESPANA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4027.ts
+#EXTINF:-1,ES: NAT GEO HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4028.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4029.ts
+#EXTINF:-1,ES: NATGEOGRAPH
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4030.ts
+#EXTINF:-1,ES: NEOX
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4031.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4032.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4033.ts
+#EXTINF:-1,ES: NOVA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4034.ts
+#EXTINF:-1,ES: Orbe 21
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4976.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4035.ts
+#EXTINF:-1,ES: Proyecto 40
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4977.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4318.ts
+#EXTINF:-1,ES: SOL MUSICA
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4036.ts
+#EXTINF:-1,ES: SYFY HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4037.ts
+#EXTINF:-1,ES: TCM
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4038.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4039.ts
+#EXTINF:-1,ES: TELEDEPORTE
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4040.ts
+#EXTINF:-1,ES: TNT HD
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4041.ts
+#EXTINF:-1,ES: VIAJAR
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4042.ts
+#EXTINF:-1,ES: Willax TV
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4978.ts
+#EXTINF:-1,ES: Win Sports
+http://s1.finoip.com:20000/live/test91115/XPbhPLcU29/4979.ts
+
+
+#EXTINF:-1,SP | TVE 2 HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2648.ts
+#EXTINF:-1,SP | Teledeporte
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2640.ts
+#EXTINF:-1,SP | NEOX
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2641.ts
+#EXTINF:-1,SP | NOVA
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2666.ts
+#EXTINF:-1,SP | A&E
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://devcon.1dns1.com:8080/live/cccamclup/325697/2644.ts
