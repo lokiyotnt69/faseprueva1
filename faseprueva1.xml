@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1,#[COLOR yellow] no FUNCIONAN!!!!!!  [/COLOR]
+#EXTINF:-1,2
 http://iptv.nexa.space:8000/get.php?username=test&password=test1&type=m3u
-
+#EXTINF:-1,3
 http://5.9.37.53:1795/get.php?username=omer&password=omer01&type=m3u
-
+#EXTINF:-1,oo
 http://foxiptv.stream.tf:5050/get.php?username=fang005&password=chiaro&type=m3u
 
 http://biwsat.com:8080/get.php?username=testtgb&password=1EZsQsCY71&type=m3u
