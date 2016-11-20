@@ -1720,5 +1720,736 @@ http://163.172.52.141:7200/live/majidi/majidi/436.ts
 http://163.172.52.141:7200/live/majidi/majidi/440.ts
 #EXTINF:-1,MUSIC:Capital_Tv
 http://163.172.52.141:7200/live/majidi/majidi/426.ts
-
+#EXTINF:-1,[COLOR red ] JHG ESPAÑA!!! [/COLOR]
+#EXTINF:-1,DE: ZDF
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/686.ts
+#EXTINF:-1,DE: WDR
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/687.ts
+#EXTINF:-1,DE: SKY TNT SERIES HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/689.ts
+#EXTINF:-1,DE: SKY TNT FILME
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/690.ts
+#EXTINF:-1,DE: SKY SYFY HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/691.ts
+#EXTINF:-1,DE: SKY SPORT 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/693.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/692.ts
+#EXTINF:-1,DE: SKY MGM HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/694.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/695.ts
+#EXTINF:-1,DE: SKY HISTORY CHANNEL HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/696.ts
+#EXTINF:-1,DE: SKY DMAX HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/697.ts
+#EXTINF:-1,DE: SKY DISNEY CINEMAGIC
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/698.ts
+#EXTINF:-1,DE: SKY DISCOVERY CHANNEL HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/699.ts
+#EXTINF:-1,DE: SAT 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/700.ts
+#EXTINF:-1,DE: RTL 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/702.ts
+#EXTINF:-1,DE: RTL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/701.ts
+#EXTINF:-1,DE: PRO 7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/703.ts
+#EXTINF:-1,DE: NDR
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/704.ts
+#EXTINF:-1,DE: KABEL 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/705.ts
+#EXTINF:-1,DE: ARD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/706.ts
+#EXTINF:-1,DE: ZDF HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/392.ts
+#EXTINF:-1,DE: WDR HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/393.ts
+#EXTINF:-1,DE: VOX HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/394.ts
+#EXTINF:-1,DE: SUPER RTL HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/395.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/385.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/391.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/390.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/389.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/388.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/387.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/386.ts
+#EXTINF:-1,DE: SKY NATGEO WILD HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/400.ts
+#EXTINF:-1,DE: SKY FOX HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/384.ts
+#EXTINF:-1,DE: SKY COMEDY HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/401.ts
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/402.ts
+#EXTINF:-1,DE: SKY CINEMA 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/403.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/382.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/383.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/381.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/380.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/379.ts
+#EXTINF:-1,DE: SAT 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/399.ts
+#EXTINF:-1,DE: RTL PASSION
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/378.ts
+#EXTINF:-1,DE: RTL HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/396.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/397.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/398.ts
+#EXTINF:-1,DE: SKY HITS
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/238.ts
+#EXTINF:-1,DE: SKY EMOTION
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/237.ts
+#EXTINF:-1,DE: Sky Bundesliga  HD 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/236.ts
+#EXTINF:-1,DE: Sky Action
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/228.ts
+#EXTINF:-1,DE: Nat Geo HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/235.ts
+#EXTINF:-1,DE: Disney Channel
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/234.ts
+#EXTINF:-1,DE: DISCOVERY CHANNEL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/233.ts
+#EXTINF:-1,DE-syfy
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/232.ts
+#EXTINF:-1,DE-Sky-Sport-1HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/231.ts
+#EXTINF:-1,DE-Sky-Cinema
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/230.ts
+#EXTINF:-1,DE-Sky-Atlantic-HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/229.ts
+#EXTINF:-1,RSI La2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/512.ts
+#EXTINF:-1,RSI La1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/511.ts
+#EXTINF:-1,Rete4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/504.ts
+#EXTINF:-1,Rai yoyo
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/508.ts
+#EXTINF:-1,Rai Sport 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/510.ts
+#EXTINF:-1,Rai Sport 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/509.ts
+#EXTINF:-1,Rai Premium
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/506.ts
+#EXTINF:-1,Rai Gulp
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/507.ts
+#EXTINF:-1,Rai 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/505.ts
+#EXTINF:-1,Premium Stories
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/488.ts
+#EXTINF:-1,Premium Joy
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/490.ts
+#EXTINF:-1,Premium Emotion
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/502.ts
+#EXTINF:-1,Premium Disney Junior (En)
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/489.ts
+#EXTINF:-1,Premium Crime HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/491.ts
+#EXTINF:-1,Premium Crime   24 (En)(O)
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/492.ts
+#EXTINF:-1,Premium Cinema Joy (En)(O)
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/493.ts
+#EXTINF:-1,Premium Cinema HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/494.ts
+#EXTINF:-1,Premium Cinema Energy
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/495.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/496.ts
+#EXTINF:-1,Premium Cinema Action HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/497.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/499.ts
+#EXTINF:-1,Premium Cinema 2   24
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/500.ts
+#EXTINF:-1,Premium Cinema   24 (En)(O)
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/498.ts
+#EXTINF:-1,Premium Cinema   24
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/501.ts
+#EXTINF:-1,IT_SKY CINEMA comedy1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/344.ts
+#EXTINF:-1,IT:Sky Calcio 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/332.ts
+#EXTINF:-1,IT:Sky Calcio 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/331.ts
+#EXTINF:-1,IT:Sky Calcio 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/330.ts
+#EXTINF:-1,IT:Premium fox sport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/339.ts
+#EXTINF:-1,IT: Sky UNO
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/336.ts
+#EXTINF:-1,IT: Sky Primafila 5 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/342.ts
+#EXTINF:-1,IT: Sky Primafila 4 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/341.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/335.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/334.ts
+#EXTINF:-1,IT: PREMIUM CALCIO 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/333.ts
+#EXTINF:-1,IT: La 7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/340.ts
+#EXTINF:-1,IT: italia 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/338.ts
+#EXTINF:-1,IT: Canal 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/337.ts
+#EXTINF:-1,IT_SKY SPORT 24HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/261.ts
+#EXTINF:-1,IT_SKY NATIONAL GEOGRAPHIC
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/260.ts
+#EXTINF:-1,IT_SKY MOTO GP
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/259.ts
+#EXTINF:-1,IT_Sky CINEMA PASSION
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/258.ts
+#EXTINF:-1,IT_SKY CINEMA MAX
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/256.ts
+#EXTINF:-1,IT_sky Cinema Family HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/253.ts
+#EXTINF:-1,IT_Sky CINEMA CULT HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/252.ts
+#EXTINF:-1,IT_SKY CINEMA COMEDY
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/251.ts
+#EXTINF:-1,IT_SKY CINEMA CLASSIC
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/250.ts
+#EXTINF:-1,IT_SKY CINEMA 24
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/249.ts
+#EXTINF:-1,IT_SKY CINEMA 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/247.ts
+#EXTINF:-1,IT_SKY CARTOON NETWORK
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/246.ts
+#EXTINF:-1,IT_SKY ATLANTIC
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/245.ts
+#EXTINF:-1,IT:Sky Sport 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/244.ts
+#EXTINF:-1,IT:SKY SPORT 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/243.ts
+#EXTINF:-1,IT:SKY SPORT 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/242.ts
+#EXTINF:-1,IT: SKY UNO  1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/255.ts
+#EXTINF:-1,IT: Sky Primafila 3 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/241.ts
+#EXTINF:-1,IT: Sky Primafila 2 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/240.ts
+#EXTINF:-1,IT: Sky Primafila 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/239.ts
+#EXTINF:-1,IT: SKY CINEMA MAX  1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/257.ts
+#EXTINF:-1,IT: SKY CINEMA FAMILLY  1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/254.ts
+#EXTINF:-1,IT: SKY CINEMA  1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/248.ts
+#EXTINF:-1,NL SBS 9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/277.ts
+#EXTINF:-1,NL SBS 6
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/276.ts
+#EXTINF:-1,NL RTL 8
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/275.ts
+#EXTINF:-1,NL RTL 7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/274.ts
+#EXTINF:-1,NL RTL 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/266.ts
+#EXTINF:-1,NL RTL 4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/265.ts
+#EXTINF:-1,NL NPO 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/264.ts
+#EXTINF:-1,NL NPO 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/263.ts
+#EXTINF:-1,NL NPO 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/262.ts
+#EXTINF:-1,NL NET 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/273.ts
+#EXTINF:-1,NL HBO 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/272.ts
+#EXTINF:-1,NL HBO 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/271.ts
+#EXTINF:-1,NL HBO 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/270.ts
+#EXTINF:-1,NL FOX SPORTS 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/269.ts
+#EXTINF:-1,NL FOX SPORTS 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/268.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/267.ts
+#EXTINF:-1,TR:Lig TV1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/286.ts
+#EXTINF:-1,TR: Salon 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/278.ts
+#EXTINF:-1,TR: Salon 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/279.ts
+#EXTINF:-1,TR: Salon 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/280.ts
+#EXTINF:-1,TR: LOCAL3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/281.ts
+#EXTINF:-1,TR: LOCAL2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/282.ts
+#EXTINF:-1,TR: LOCAL1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/283.ts
+#EXTINF:-1,TR: LIG TV3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/285.ts
+#EXTINF:-1,TR: lig tv 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/284.ts
+#EXTINF:-1,SPA:TNT
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/586.ts
+#EXTINF:-1,SPA:National GEO
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/590.ts
+#EXTINF:-1,SPA:MoviStar MotoGP
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/587.ts
+#EXTINF:-1,SPA:Fox Life
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/588.ts
+#EXTINF:-1,SPA:Fox
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/589.ts
+#EXTINF:-1,SPA:Comedy
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/592.ts
+#EXTINF:-1,SPA:CANAL HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/591.ts
+#EXTINF:-1,SPA:Canal Decasa
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/593.ts
+#EXTINF:-1,SPA:C Seriesxtra
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/594.ts
+#EXTINF:-1,SPA:C  Estrenos
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/595.ts
+#EXTINF:-1,SPA:C   DCINE
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/596.ts
+#EXTINF:-1,SPA: Canal  Toros
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/597.ts
+#EXTINF:-1,SPA: CANAL  FUTBOL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/598.ts
+#EXTINF:-1,SPA-NAT GEO WILD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/599.ts
+#EXTINF:-1,SPA-MOVISTAR F1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/601.ts
+#EXTINF:-1,SPA-Hollywood Spain
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/600.ts
+#EXTINF:-1,SPA-disney jr
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/602.ts
+#EXTINF:-1,SPA-Cuatro
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/603.ts
+#EXTINF:-1,SPA-CANAL DEPORTE
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/604.ts
+#EXTINF:-1,SPA-canal  action
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/605.ts
+#EXTINF:-1,SPA-Canal   Liga
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/606.ts
+#EXTINF:-1,SPA-Canal   Dcine
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/607.ts
+#EXTINF:-1,SPA-Barca TV
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/608.ts
+#EXTINF:-1,SPA-AXN White Spain
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/609.ts
+#EXTINF:-1,SPA-AXN Spain
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/610.ts
+#EXTINF:-1,ES: TELECINCO
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/575.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/576.ts
+#EXTINF:-1,ES: LA SEXTA
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/577.ts
+#EXTINF:-1,ES: LA 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/578.ts
+#EXTINF:-1,ES: LA 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/579.ts
+#EXTINF:-1,ES: FOX MOVIE HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/580.ts
+#EXTINF:-1,ES: CANAL Odesia
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/581.ts
+#EXTINF:-1,ES: CANAL COCINA
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/582.ts
+#EXTINF:-1,ES: CANAL   1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/583.ts
+#EXTINF:-1,ES: CALLE 13
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/584.ts
+#EXTINF:-1,Es: ANTENA3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/585.ts
+#EXTINF:-1,FR1:1_SFR11
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/727.ts
+#EXTINF:-1,FR1:1_SFR13
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/729.ts
+#EXTINF:-1,FR1:1_SFR12
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/728.ts
+#EXTINF:-1,FR1:1_VoyageTV
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/756.ts
+#EXTINF:-1,FR1:1_USHUAIATV
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/757.ts
+#EXTINF:-1,FR1:1_TIJI HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/774.ts
+#EXTINF:-1,FR1:1_TF1HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/714.ts
+#EXTINF:-1,FR1:1_TeleToonHD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/768.ts
+#EXTINF:-1,FR1:1_SEASON HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/773.ts
+#EXTINF:-1,FR1:1_RTS UN HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/771.ts
+#EXTINF:-1,FR1:1_RTS DEUX HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/772.ts
+#EXTINF:-1,FR1:1_RTL9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/725.ts
+#EXTINF:-1,FR1:1_RMC DECOVERTE HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/761.ts
+#EXTINF:-1,FR1:1_PlanetHD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/751.ts
+#EXTINF:-1,FR1:1_PLANETE CI HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/758.ts
+#EXTINF:-1,FR1:1_PLANETE A&E
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/759.ts
+#EXTINF:-1,FR1:1_Planet-Thalassa
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/752.ts
+#EXTINF:-1,FR1:1_PIWI HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/775.ts
+#EXTINF:-1,FR1:1_Ocs-Geant
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/769.ts
+#EXTINF:-1,FR1:1_Ocs-City
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/770.ts
+#EXTINF:-1,FR1:1_NUMERO 23
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/763.ts
+#EXTINF:-1,FR1:1_NT1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/722.ts
+#EXTINF:-1,FR1:1_NRJ12
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/748.ts
+#EXTINF:-1,FR1:1_NICKELODEON JUNIOR HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/777.ts
+#EXTINF:-1,FR1:1_NICKELODEON HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/778.ts
+#EXTINF:-1,FR1:1_NationalGeo
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/754.ts
+#EXTINF:-1,FR1:1_MANGAS HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/764.ts
+#EXTINF:-1,FR1:1_M6HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/713.ts
+#EXTINF:-1,FR1:1_M6-Music
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/749.ts
+#EXTINF:-1,FR1:1_L'EQUIPE21
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/750.ts
+#EXTINF:-1,FR1:1_ITele
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/726.ts
+#EXTINF:-1,FR1:1_InfoSport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/733.ts
+#EXTINF:-1,FR1:1_HISTOIRE HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/762.ts
+#EXTINF:-1,FR1:1_HD1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/715.ts
+#EXTINF:-1,FR1:1_GULLI HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/784.ts
+#EXTINF:-1,FR1:1_GAME ONE HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/765.ts
+#EXTINF:-1,FR1:1_FR1anceOHD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/716.ts
+#EXTINF:-1,FR1:1_FR1ance5HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/720.ts
+#EXTINF:-1,FR1:1_FR1ance4HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/719.ts
+#EXTINF:-1,FR1:1_FR1ance3HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/718.ts
+#EXTINF:-1,FR1:1_FR1ance2HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/717.ts
+#EXTINF:-1,FR1:1_FOOT24
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/734.ts
+#EXTINF:-1,FR1:1_EuroSport2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/736.ts
+#EXTINF:-1,FR1:1_EuroSport1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/735.ts
+#EXTINF:-1,FR1:1_DISNEY-JUNIOR
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/781.ts
+#EXTINF:-1,FR1:1_DISNEY-CHANNEL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/782.ts
+#EXTINF:-1,FR1:1_DISNEY XD HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/779.ts
+#EXTINF:-1,FR1:1_DISNEY CINEMA HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/780.ts
+#EXTINF:-1,FR1:1_Discovery-Sience
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/760.ts
+#EXTINF:-1,FR1:1_D8HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/721.ts
+#EXTINF:-1,FR1:1_CSTAR
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/767.ts
+#EXTINF:-1,FR1:1_Cine.FR1isson
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/745.ts
+#EXTINF:-1,FR1:1_Cine.Famiz
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/744.ts
+#EXTINF:-1,FR1:1_Cine.Classic
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/746.ts
+#EXTINF:-1,FR1:1_Cine-Polar
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/743.ts
+#EXTINF:-1,FR1:1_CARTOON NETWORK HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/783.ts
+#EXTINF:-1,FR1:1_CANALPLAY-16
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/800.ts
+#EXTINF:-1,FR1:1_CANALPLAY-15
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/799.ts
+#EXTINF:-1,FR1:1_CANALPLAY-14
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/798.ts
+#EXTINF:-1,FR1:1_CANALPLAY-13
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/797.ts
+#EXTINF:-1,FR1:1_CANALPLAY-12
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/796.ts
+#EXTINF:-1,FR1:1_CANALPLAY-11
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/795.ts
+#EXTINF:-1,FR1:1_CANALPLAY-10
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/794.ts
+#EXTINF:-1,FR1:1_CANALPLAY-09
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/793.ts
+#EXTINF:-1,FR1:1_CANALPLAY-08
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/792.ts
+#EXTINF:-1,FR1:1_CANALPLAY-07
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/791.ts
+#EXTINF:-1,FR1:1_CANALPLAY-06
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/790.ts
+#EXTINF:-1,FR1:1_CANALPLAY-05
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/789.ts
+#EXTINF:-1,FR1:1_CANALPLAY-04
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/788.ts
+#EXTINF:-1,FR1:1_CANALPLAY-03
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/787.ts
+#EXTINF:-1,FR1:1_CANALPLAY-02
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/786.ts
+#EXTINF:-1,FR1:1_CANALPLAY-01
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/785.ts
+#EXTINF:-1,FR1:1_Canal Serie
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/740.ts
+#EXTINF:-1,FR1:1_CANAL J HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/776.ts
+#EXTINF:-1,FR1:1_CANAL .Sport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/742.ts
+#EXTINF:-1,FR1:1_CANAL .FAMILY.HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/738.ts
+#EXTINF:-1,FR1:1_Canal .Decaler
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/741.ts
+#EXTINF:-1,FR1:1_CANAL .CINEMA
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/739.ts
+#EXTINF:-1,FR1:1_Canal
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/737.ts
+#EXTINF:-1,FR1:1_BoomeRang
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/747.ts
+#EXTINF:-1,FR1:1_BOING HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/766.ts
+#EXTINF:-1,FR1:1_BeinSport3HD_FR1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/732.ts
+#EXTINF:-1,FR1:1_BeinSport2HD_FR1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/731.ts
+#EXTINF:-1,FR1:1_BeinSport1HD_FR1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/730.ts
+#EXTINF:-1,FR1:1_Animaux
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/755.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/809.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-8
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/808.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/807.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-6
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/806.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/805.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/804.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/803.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/802.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-10
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/810.ts
+#EXTINF:-1,FR1:1_A-LA-CARTE-1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/801.ts
+#EXTINF:-1,FR1:1_6TER
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/723.ts
+#EXTINF:-1,FR1:1_13eme-Rue
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/724.ts
+#EXTINF:-1,FR:  TF1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/1.ts
+#EXTINF:-1,FR:  France 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/2.ts
+#EXTINF:-1,FR:  France 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/3.ts
+#EXTINF:-1,FR:  France 4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/4.ts
+#EXTINF:-1,FR: RTS UN
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/530.ts
+#EXTINF:-1,FR: RTL9 HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/521.ts
+#EXTINF:-1,FR: Paris Premiere HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/517.ts
+#EXTINF:-1,FR: OCS MAX HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/518.ts
+#EXTINF:-1,FR: OCS Geants HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/519.ts
+#EXTINF:-1,FR: HD1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/522.ts
+#EXTINF:-1,FR: Equidia Live HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/528.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/523.ts
+#EXTINF:-1,FR: Club RTL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/524.ts
+#EXTINF:-1,FR: chérie 25
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/529.ts
+#EXTINF:-1,FR: BOOMRANG HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/520.ts
+#EXTINF:-1,FR: Boomerang
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/525.ts
+#EXTINF:-1,FR:  WEO
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/527.ts
+#EXTINF:-1,FR:  Teva
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/526.ts
+#EXTINF:-1,FR:  Disney Channel HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/516.ts
+#EXTINF:-1,BE: RTL TVI HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/535.ts
+#EXTINF:-1,BE: PLUG RTL
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/534.ts
+#EXTINF:-1,BE: La Une HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/533.ts
+#EXTINF:-1,BE: La Trois
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/532.ts
+#EXTINF:-1,BE: La Deux
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/531.ts
+#EXTINF:-1,FR: Ma chaine sport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/409.ts
+#EXTINF:-1,FR: W9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/9.ts
+#EXTINF:-1,FR: ushuaia hd
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/53.ts
+#EXTINF:-1,FR: Trace Urban
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/34.ts
+#EXTINF:-1,FR: TIJI
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/24.ts
+#EXTINF:-1,FR: TELETOON
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/25.ts
+#EXTINF:-1,FR: Serie Club
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/51.ts
+#EXTINF:-1,FR: PIWI
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/35.ts
+#EXTINF:-1,FR: OCS City
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/50.ts
+#EXTINF:-1,FR: NT1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/36.ts
+#EXTINF:-1,FR: Lequipe 21
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/37.ts
+#EXTINF:-1,FR:disney cinema fr HD
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/52.ts
+#EXTINF:-1,FR: GULLI
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/49.ts
+#EXTINF:-1,FR: France 5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/5.ts
+#EXTINF:-1,FR: Foot  24
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/48.ts
+#EXTINF:-1,FR: Eurosport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/47.ts
+#EXTINF:-1,FR: Discovery hd
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/46.ts
+#EXTINF:-1,FR: D8
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/8.ts
+#EXTINF:-1,FR: Cine  Premier
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/45.ts
+#EXTINF:-1,FR: Cine  Frisson
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/44.ts
+#EXTINF:-1,FR: Cine  Famiz
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/43.ts
+#EXTINF:-1,FR: Cine  Emotion
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/42.ts
+#EXTINF:-1,FR: Cine  Classic
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/41.ts
+#EXTINF:-1,FR: cinÃ© polar
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/40.ts
+#EXTINF:-1,FR: chasse peche
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/39.ts
+#EXTINF:-1,FR: Canal J
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/38.ts
+#EXTINF:-1,FR: Canal   Sport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/33.ts
+#EXTINF:-1,FR: Canal   Serie
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/32.ts
+#EXTINF:-1,FR: Canal   Family
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/31.ts
+#EXTINF:-1,FR: Canal   Decale
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/30.ts
+#EXTINF:-1,FR: Canal   Cinema
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/29.ts
+#EXTINF:-1,FR: Canal
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/28.ts
+#EXTINF:-1,FR: Bein Sport 3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/56.ts
+#EXTINF:-1,FR: Bein Sport 2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/55.ts
+#EXTINF:-1,FR: Bein Sport 1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/54.ts
+#EXTINF:-1,FR: Arte
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/27.ts
+#EXTINF:-1,FR: Action
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/26.ts
+#EXTINF:-1,FR: 13eme Rue
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/23.ts
+#EXTINF:-1,FR:  Planete  CI
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/22.ts
+#EXTINF:-1,FR:  Planete
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/21.ts
+#EXTINF:-1,FR:  NRJ12
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/10.ts
+#EXTINF:-1,FR:  Nat Geo Wild
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/20.ts
+#EXTINF:-1,FR:  Nat Geo
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/19.ts
+#EXTINF:-1,FR:  MANGA
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/18.ts
+#EXTINF:-1,FR:  M6
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/7.ts
+#EXTINF:-1,FR:  infosport
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/17.ts
+#EXTINF:-1,FR:  France O
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/6.ts
+#EXTINF:-1,FR:  Disney Jr Fr
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/16.ts
+#EXTINF:-1,FR:  Disney
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/15.ts
+#EXTINF:-1,FR:  Discovery Science
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/14.ts
+#EXTINF:-1,FR:  Comedie
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/13.ts
+#EXTINF:-1,FR:  Cartoon Network
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/12.ts
+#EXTINF:-1,FR:  animaux hd
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/11.ts
+#EXTINF:-1,FR:A.LA.CARTE.9
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/619.ts
+#EXTINF:-1,FR:A.LA.CARTE.8
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/618.ts
+#EXTINF:-1,FR:A.LA.CARTE.7
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/617.ts
+#EXTINF:-1,FR:A.LA.CARTE.6
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/616.ts
+#EXTINF:-1,FR:A.LA.CARTE.5
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/615.ts
+#EXTINF:-1,FR:A.LA.CARTE.4
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/614.ts
+#EXTINF:-1,FR:A.LA.CARTE.3
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/613.ts
+#EXTINF:-1,FR:A.LA.CARTE.2
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/612.ts
+#EXTINF:-1,FR:A.LA.CARTE.12
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/622.ts
+#EXTINF:-1,FR:A.LA.CARTE.11
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/621.ts
+#EXTINF:-1,FR:A.LA.CARTE.10
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/620.ts
+#EXTINF:-1,FR:A.LA.CARTE.1
+http://foxiptv.stream.tf:5050/live/fang005/chiaro/611.ts
+ 
 
