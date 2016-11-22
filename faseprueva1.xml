@@ -1,6 +1,955 @@
 #EXTM3U
 #EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://iptv.re/live/george/george/1785.ts
+#EXTINF:-1,ES: BEIN LA LIGA
+http://iptv.re/live/george/george/2516.ts
+#EXTINF:-1,ES: CANAL LIGA HD 2
+http://iptv.re/live/george/george/2517.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE
+http://iptv.re/live/george/george/2432.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://iptv.re/live/george/george/2518.ts
+#EXTINF:-1,ES: MOVISTAR FUTBOL
+http://iptv.re/live/george/george/2519.ts
+#EXTINF:-1,ES: Beinsport HD
+http://iptv.re/live/george/george/2515.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://iptv.re/live/george/george/1903.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://iptv.re/live/george/george/2425.ts
+#EXTINF:-1,ES: GOL TV
+http://iptv.re/live/george/george/2514.ts
+#EXTINF:-1,ES: Movistar moto gp
+http://iptv.re/live/george/george/1916.ts
+#EXTINF:-1,ES: Movistar F1
+http://iptv.re/live/george/george/1915.ts
+#EXTINF:-1,ES: MOVISTAR DCINE
+http://iptv.re/live/george/george/1765.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://iptv.re/live/george/george/2427.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://iptv.re/live/george/george/2524.ts
+#EXTINF:-1,ES : MOVISTAR TOROS HD
+http://iptv.re/live/george/george/2525.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://iptv.re/live/george/george/2522.ts
+#EXTINF:-1,ES: CUATRO HD
+http://iptv.re/live/george/george/2510.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://iptv.re/live/george/george/2512.ts
+#EXTINF:-1,ES: MOVISTAR XTRA HD
+http://iptv.re/live/george/george/3137.ts
+#EXTINF:-1,ES: CASA Y PESCA
+http://iptv.re/live/george/george/2429.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA
+http://iptv.re/live/george/george/2426.ts
+#EXTINF:-1,ES: CANAL MUSICA
+http://iptv.re/live/george/george/2428.ts
+#EXTINF:-1,ES: Canal Cocina
+http://iptv.re/live/george/george/2430.ts
+#EXTINF:-1,ES: BARCA TV
+http://iptv.re/live/george/george/2445.ts
+#EXTINF:-1,ES: TELECINCO
+http://iptv.re/live/george/george/1767.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://iptv.re/live/george/george/2511.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://iptv.re/live/george/george/2724.ts
+#EXTINF:-1,ES : COMEDY CENTRAL HD
+http://iptv.re/live/george/george/1907.ts
+#EXTINF:-1,ES: TCM
+http://iptv.re/live/george/george/2528.ts
+#EXTINF:-1,ES: REAL MADRID TV
+http://iptv.re/live/george/george/2436.ts
+#EXTINF:-1,ES: MEGA
+http://iptv.re/live/george/george/2721.ts
+#EXTINF:-1,ES : Viajar HD
+http://iptv.re/live/george/george/1909.ts
+#EXTINF:-1,ES: La 2
+http://iptv.re/live/george/george/2532.ts
+#EXTINF:-1,ES: La 1
+http://iptv.re/live/george/george/2531.ts
+#EXTINF:-1,ES: HUESCA TV
+http://iptv.re/live/george/george/2438.ts
+#EXTINF:-1,ES: ENERGY
+http://iptv.re/live/george/george/2530.ts
+#EXTINF:-1,ES: MOVISTAR DCINE Ñ
+http://iptv.re/live/george/george/2529.ts
+#EXTINF:-1,ES: Baby TV
+http://iptv.re/live/george/george/2527.ts
+#EXTINF:-1,ES: Antena 3
+http://iptv.re/live/george/george/1770.ts
+#EXTINF:-1,ES: antena3 HD
+http://iptv.re/live/george/george/3135.ts
+#EXTINF:-1,ES: Disney channel
+http://iptv.re/live/george/george/1793.ts
+#EXTINF:-1,ES: FOX
+http://iptv.re/live/george/george/1790.ts
+#EXTINF:-1,ES: History
+http://iptv.re/live/george/george/1928.ts
+#EXTINF:-1,ES: Hollywood HD
+http://iptv.re/live/george/george/1773.ts
+#EXTINF:-1,ES: SyFy HD
+http://iptv.re/live/george/george/1791.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://iptv.re/live/george/george/2421.ts
+#EXTINF:-1,ES: LaSextaHD
+http://iptv.re/live/george/george/1768.ts
+#EXTINF:-1,ES: AMC HD
+http://iptv.re/live/george/george/2435.ts
+#EXTINF:-1,ES: AMC
+http://iptv.re/live/george/george/2434.ts
+#EXTINF:-1,ES: FOX Life
+http://iptv.re/live/george/george/1771.ts
+#EXTINF:-1,ES: CUATRO SD
+http://iptv.re/live/george/george/1769.ts
+#EXTINF:-1,ES: CALLE13
+http://iptv.re/live/george/george/2422.ts
+#EXTINF:-1,ES: Axn White
+http://iptv.re/live/george/george/1786.ts
+#EXTINF:-1,ES: 40 TV
+http://iptv.re/live/george/george/2423.ts
+#EXTINF:-1,ES: TVE 24 Hora
+http://iptv.re/live/george/george/1923.ts
+#EXTINF:-1,ES: TVE3
+http://iptv.re/live/george/george/1919.ts
+#EXTINF:-1,ES: TVE 2
+http://iptv.re/live/george/george/1918.ts
+#EXTINF:-1,ES: TVE
+http://iptv.re/live/george/george/2420.ts
+#EXTINF:-1,ES: TNT HD
+http://iptv.re/live/george/george/1788.ts
+#EXTINF:-1,ES: Odisea HD
+http://iptv.re/live/george/george/1912.ts
+#EXTINF:-1,ES: Nat Geo Wild
+http://iptv.re/live/george/george/1789.ts
+#EXTINF:-1,ES: Eurosport
+http://iptv.re/live/george/george/1906.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://iptv.re/live/george/george/1917.ts
+#EXTINF:-1,ES: AXNSpain
+http://iptv.re/live/george/george/1772.ts
+#EXTINF:-1,ES: Andalucia TV
+http://iptv.re/live/george/george/1921.ts
+#EXTINF:-1,<>===#=== Romania Channel ===#===<>
+http://iptv.re/live/george/george/3524.ts
+#EXTINF:-1,RO: West TV
+http://iptv.re/live/george/george/3519.ts
+#EXTINF:-1,RO: TVR Timisoara
+http://iptv.re/live/george/george/3505.ts
+#EXTINF:-1,RO: TVR TGmures
+http://iptv.re/live/george/george/3506.ts
+#EXTINF:-1,RO: TVR International
+http://iptv.re/live/george/george/3501.ts
+#EXTINF:-1,RO: TVR Iasi
+http://iptv.re/live/george/george/3504.ts
+#EXTINF:-1,RO: TVR Craiova
+http://iptv.re/live/george/george/3503.ts
+#EXTINF:-1,RO: TVR Cluj
+http://iptv.re/live/george/george/3502.ts
+#EXTINF:-1,RO: TVR 3
+http://iptv.re/live/george/george/3500.ts
+#EXTINF:-1,RO: TVR 2
+http://iptv.re/live/george/george/3499.ts
+#EXTINF:-1,RO: TVR 1
+http://iptv.re/live/george/george/3498.ts
+#EXTINF:-1,RO: TVR
+http://iptv.re/live/george/george/3497.ts
+#EXTINF:-1,RO: TARAF TV
+http://iptv.re/live/george/george/3511.ts
+#EXTINF:-1,RO: Sportro
+http://iptv.re/live/george/george/3513.ts
+#EXTINF:-1,RO: Realitatea TV
+http://iptv.re/live/george/george/3520.ts
+#EXTINF:-1,RO: Realitatea Plus
+http://iptv.re/live/george/george/3518.ts
+#EXTINF:-1,RO: PRO Cinema
+http://iptv.re/live/george/george/3510.ts
+#EXTINF:-1,RO: National TV
+http://iptv.re/live/george/george/3514.ts
+#EXTINF:-1,RO: Kanal D
+http://iptv.re/live/george/george/3515.ts
+#EXTINF:-1,RO: Etno TV
+http://iptv.re/live/george/george/3516.ts
+#EXTINF:-1,RO: Estrada TV
+http://iptv.re/live/george/george/3512.ts
+#EXTINF:-1,RO: Alfa Omega TV
+http://iptv.re/live/george/george/3517.ts
+#EXTINF:-1,<>===#=== Russia Channel ===#===<>
+http://iptv.re/live/george/george/3523.ts
+#EXTINF:-1,RU: TNT
+http://iptv.re/live/george/george/3300.ts
+#EXTINF:-1,RU: STV
+http://iptv.re/live/george/george/3303.ts
+#EXTINF:-1,RU: Rossiya 24
+http://iptv.re/live/george/george/3298.ts
+#EXTINF:-1,RU: Ren TV
+http://iptv.re/live/george/george/3301.ts
+#EXTINF:-1,RU: Kinozal 9
+http://iptv.re/live/george/george/3872.ts
+#EXTINF:-1,RU: Kinozal 8
+http://iptv.re/live/george/george/3871.ts
+#EXTINF:-1,RU: Kinozal 7
+http://iptv.re/live/george/george/3870.ts
+#EXTINF:-1,RU: Kinozal 6
+http://iptv.re/live/george/george/3869.ts
+#EXTINF:-1,RU: Kinozal 5
+http://iptv.re/live/george/george/3868.ts
+#EXTINF:-1,RU: Kinozal 4
+http://iptv.re/live/george/george/3867.ts
+#EXTINF:-1,RU: Kinozal 3
+http://iptv.re/live/george/george/3866.ts
+#EXTINF:-1,RU: Kinozal 2
+http://iptv.re/live/george/george/3865.ts
+#EXTINF:-1,RU: Kinozal 1
+http://iptv.re/live/george/george/3864.ts
+#EXTINF:-1,RU: Perviy Kanal
+http://iptv.re/live/george/george/3310.ts
+#EXTINF:-1,RU: NTV
+http://iptv.re/live/george/george/3299.ts
+#EXTINF:-1,RU: Nashe Kino
+http://iptv.re/live/george/george/3308.ts
+#EXTINF:-1,RU: Komediya TV
+http://iptv.re/live/george/george/3309.ts
+#EXTINF:-1,RU: Kino Plus
+http://iptv.re/live/george/george/3312.ts
+#EXTINF:-1,RU: Kino Klub
+http://iptv.re/live/george/george/3313.ts
+#EXTINF:-1,RU: Kino Hit
+http://iptv.re/live/george/george/3314.ts
+#EXTINF:-1,RU: Kanal Disney
+http://iptv.re/live/george/george/3316.ts
+#EXTINF:-1,RU: Indiya TV
+http://iptv.re/live/george/george/3311.ts
+#EXTINF:-1,RU: Evrokino
+http://iptv.re/live/george/george/3302.ts
+#EXTINF:-1,RU: Amedia Premium
+http://iptv.re/live/george/george/3307.ts
+#EXTINF:-1,RU: Amedia Hit
+http://iptv.re/live/george/george/3306.ts
+#EXTINF:-1,RU: Amedia 2
+http://iptv.re/live/george/george/3305.ts
+#EXTINF:-1,RU: Amedia 1
+http://iptv.re/live/george/george/3304.ts
+#EXTINF:-1,<>===#=== Bulgaria Channel ===#===<>
+http://iptv.re/live/george/george/3526.ts
+#EXTINF:-1,Bul: Planeta TV
+http://iptv.re/live/george/george/3562.ts
+#EXTINF:-1,Bul: Nova Sport
+http://iptv.re/live/george/george/3561.ts
+#EXTINF:-1,Bul: Kanal 3
+http://iptv.re/live/george/george/3560.ts
+#EXTINF:-1,Bul: Folklor TV
+http://iptv.re/live/george/george/3565.ts
+#EXTINF:-1,Bul: Fen TV
+http://iptv.re/live/george/george/3564.ts
+#EXTINF:-1,Bul: Fen Folk
+http://iptv.re/live/george/george/3566.ts
+#EXTINF:-1,Bul: Deima
+http://iptv.re/live/george/george/3559.ts
+#EXTINF:-1,Bul: BTV Action
+http://iptv.re/live/george/george/3558.ts
+#EXTINF:-1,Bul: BNT1
+http://iptv.re/live/george/george/3557.ts
+#EXTINF:-1,Bul: Balkanika Music TV
+http://iptv.re/live/george/george/3563.ts
+#EXTINF:-1,Bul: B1 TV
+http://iptv.re/live/george/george/3556.ts
+#EXTINF:-1,<>===#=== Brazilia Channel ===#===<>
+http://iptv.re/live/george/george/4292.ts
+#EXTINF:-1,BR: Warner Channel HD
+http://iptv.re/live/george/george/4287.ts
+#EXTINF:-1,BR: VH1 HD
+http://iptv.re/live/george/george/4258.ts
+#EXTINF:-1,BR: TV PIPOCA HD
+http://iptv.re/live/george/george/4280.ts
+#EXTINF:-1,BR: TNT HD
+http://iptv.re/live/george/george/4271.ts
+#EXTINF:-1,BR: TLC HD
+http://iptv.re/live/george/george/4263.ts
+#EXTINF:-1,BR: TC TOUCH HD
+http://iptv.re/live/george/george/4281.ts
+#EXTINF:-1,BR: TC PREMIUM HD
+http://iptv.re/live/george/george/4277.ts
+#EXTINF:-1,BR: TC FUN HD
+http://iptv.re/live/george/george/4276.ts
+#EXTINF:-1,BR: TC ACTION
+http://iptv.re/live/george/george/4279.ts
+#EXTINF:-1,BR: SONY HD
+http://iptv.re/live/george/george/4274.ts
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://iptv.re/live/george/george/4268.ts
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://iptv.re/live/george/george/4256.ts
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://iptv.re/live/george/george/4254.ts
+#EXTINF:-1,BR: PREMIERE 1 HD
+http://iptv.re/live/george/george/4250.ts
+#EXTINF:-1,BR: PARAMOUNT HD
+http://iptv.re/live/george/george/4288.ts
+#EXTINF:-1,BR: OFF HD
+http://iptv.re/live/george/george/4267.ts
+#EXTINF:-1,BR: NICKELODEON HD
+http://iptv.re/live/george/george/4255.ts
+#EXTINF:-1,BR: NAT GEO WILD HD
+http://iptv.re/live/george/george/4285.ts
+#EXTINF:-1,BR: NAT GEO HD
+http://iptv.re/live/george/george/4253.ts
+#EXTINF:-1,BR: MULTISHOW HD
+http://iptv.re/live/george/george/4273.ts
+#EXTINF:-1,BR: MTV HD
+http://iptv.re/live/george/george/4269.ts
+#EXTINF:-1,BR: MEGA PIX HD
+http://iptv.re/live/george/george/4252.ts
+#EXTINF:-1,BR: MAX HD
+http://iptv.re/live/george/george/4259.ts
+#EXTINF:-1,BR: MAIS GLOBO SAT HD
+http://iptv.re/live/george/george/4265.ts
+#EXTINF:-1,BR: LIFE TIME HD
+http://iptv.re/live/george/george/4270.ts
+#EXTINF:-1,BR: KIDS HD
+http://iptv.re/live/george/george/4249.ts
+#EXTINF:-1,BR: HISTORY CHANNEL HD
+http://iptv.re/live/george/george/4275.ts
+#EXTINF:-1,BR: HBO Family HD
+http://iptv.re/live/george/george/4260.ts
+#EXTINF:-1,BR: HBO 2 HD
+http://iptv.re/live/george/george/4262.ts
+#EXTINF:-1,BR: H&H HD
+http://iptv.re/live/george/george/4251.ts
+#EXTINF:-1,BR: GLOBO SP HD
+http://iptv.re/live/george/george/4247.ts
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://iptv.re/live/george/george/4248.ts
+#EXTINF:-1,BR: GLOBO
+http://iptv.re/live/george/george/4266.ts
+#EXTINF:-1,BR: FOX SPORT 2 HD
+http://iptv.re/live/george/george/4284.ts
+#EXTINF:-1,BR: FOX HD
+http://iptv.re/live/george/george/4278.ts
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://iptv.re/live/george/george/4282.ts
+#EXTINF:-1,BR: Disney Channel HD
+http://iptv.re/live/george/george/4283.ts
+#EXTINF:-1,BR: Discovery Channel HD
+http://iptv.re/live/george/george/4286.ts
+#EXTINF:-1,BR: COMBATE HD
+http://iptv.re/live/george/george/4246.ts
+#EXTINF:-1,BR: BAND SPORT HD
+http://iptv.re/live/george/george/4272.ts
+#EXTINF:-1,BR: AXN HD
+http://iptv.re/live/george/george/4264.ts
+#EXTINF:-1,BR: ANIMAL Planet HD
+http://iptv.re/live/george/george/4261.ts
+#EXTINF:-1,BR: A&E HD
+http://iptv.re/live/george/george/4257.ts
+#EXTINF:-1,<>===#=== Persian Channel ===#===<>
+http://iptv.re/live/george/george/3680.ts
+#EXTINF:-1,FA: Simaye Azadi
+http://iptv.re/live/george/george/3585.ts
+#EXTINF:-1,FA: Shabakeh 7
+http://iptv.re/live/george/george/3586.ts
+#EXTINF:-1,FA: Sahand TV
+http://iptv.re/live/george/george/3666.ts
+#EXTINF:-1,FA: Yazd TV IRIB Taban
+http://iptv.re/live/george/george/3657.ts
+#EXTINF:-1,FA: U Toon TV
+http://iptv.re/live/george/george/3679.ts
+#EXTINF:-1,FA: TVP
+http://iptv.re/live/george/george/3660.ts
+#EXTINF:-1,FA: TM TV
+http://iptv.re/live/george/george/3588.ts
+#EXTINF:-1,FA: Tin TV
+http://iptv.re/live/george/george/3598.ts
+#EXTINF:-1,FA: Tapesh TV
+http://iptv.re/live/george/george/3607.ts
+#EXTINF:-1,FA: Sabalan TV
+http://iptv.re/live/george/george/3672.ts
+#EXTINF:-1,FA: Rubix TV
+http://iptv.re/live/george/george/3610.ts
+#EXTINF:-1,FA: Rox 1
+http://iptv.re/live/george/george/3653.ts
+#EXTINF:-1,FA: River TV
+http://iptv.re/live/george/george/3611.ts
+#EXTINF:-1,FA: Qom TV IRIB Noor
+http://iptv.re/live/george/george/3643.ts
+#EXTINF:-1,FA: Qazvin TV
+http://iptv.re/live/george/george/3641.ts
+#EXTINF:-1,FA: PMC
+http://iptv.re/live/george/george/3593.ts
+#EXTINF:-1,FA: Persian TV
+http://iptv.re/live/george/george/3621.ts
+#EXTINF:-1,FA: Persian Star 2
+http://iptv.re/live/george/george/3575.ts
+#EXTINF:-1,FA: Persian Star 1
+http://iptv.re/live/george/george/3574.ts
+#EXTINF:-1,FA: Persian Movie
+http://iptv.re/live/george/george/3576.ts
+#EXTINF:-1,FA: Pars TV
+http://iptv.re/live/george/george/3577.ts
+#EXTINF:-1,FA: Onyx TV
+http://iptv.re/live/george/george/3608.ts
+#EXTINF:-1,FA: OMC Tv
+http://iptv.re/live/george/george/3601.ts
+#EXTINF:-1,FA: Nex 1
+http://iptv.re/live/george/george/3592.ts
+#EXTINF:-1,FA: Negah e Shoma
+http://iptv.re/live/george/george/3582.ts
+#EXTINF:-1,FA: My Cartoon
+http://iptv.re/live/george/george/3596.ts
+#EXTINF:-1,FA: Movie 1
+http://iptv.re/live/george/george/3628.ts
+#EXTINF:-1,FA: Modern Economy
+http://iptv.re/live/george/george/3663.ts
+#EXTINF:-1,FA: Mifa Music
+http://iptv.re/live/george/george/3609.ts
+#EXTINF:-1,FA: Mi Tv
+http://iptv.re/live/george/george/3597.ts
+#EXTINF:-1,FA: Markazi TV Atfab TV
+http://iptv.re/live/george/george/3644.ts
+#EXTINF:-1,FA: Manoto 1
+http://iptv.re/live/george/george/3579.ts
+#EXTINF:-1,FA: Kordestan TV
+http://iptv.re/live/george/george/3673.ts
+#EXTINF:-1,FA: Khorosan
+http://iptv.re/live/george/george/3661.ts
+#EXTINF:-1,FA: Khorasan Shomali
+http://iptv.re/live/george/george/3671.ts
+#EXTINF:-1,FA: Khorasan Razavi TV
+http://iptv.re/live/george/george/3665.ts
+#EXTINF:-1,FA: Khoozestan TV
+http://iptv.re/live/george/george/3654.ts
+#EXTINF:-1,FA: Khatereh TV
+http://iptv.re/live/george/george/3581.ts
+#EXTINF:-1,FA: Khatereh 2
+http://iptv.re/live/george/george/3623.ts
+#EXTINF:-1,FA: Khane Honarmadan
+http://iptv.re/live/george/george/3604.ts
+#EXTINF:-1,FA: Khane Film
+http://iptv.re/live/george/george/3627.ts
+#EXTINF:-1,FA: Khalij E Fars TV
+http://iptv.re/live/george/george/3639.ts
+#EXTINF:-1,FA: Kermashah TV
+http://iptv.re/live/george/george/3667.ts
+#EXTINF:-1,FA: Kerman TV IRIB
+http://iptv.re/live/george/george/3638.ts
+#EXTINF:-1,FA: Jahanbin TV
+http://iptv.re/live/george/george/3656.ts
+#EXTINF:-1,FA: ITN
+http://iptv.re/live/george/george/3594.ts
+#EXTINF:-1,FA: Irinn TV
+http://iptv.re/live/george/george/3634.ts
+#EXTINF:-1,FA: IRIB TV 5
+http://iptv.re/live/george/george/3633.ts
+#EXTINF:-1,FA: IRIB TV 4
+http://iptv.re/live/george/george/3632.ts
+#EXTINF:-1,FA: IRIB TV 3
+http://iptv.re/live/george/george/3631.ts
+#EXTINF:-1,FA: IRIB TV 2
+http://iptv.re/live/george/george/3630.ts
+#EXTINF:-1,FA: IRIB TV 1
+http://iptv.re/live/george/george/3629.ts
+#EXTINF:-1,FA: IRIB Semnan
+http://iptv.re/live/george/george/3647.ts
+#EXTINF:-1,FA: IRIB Promo
+http://iptv.re/live/george/george/3637.ts
+#EXTINF:-1,FA: IRIB Mostanad
+http://iptv.re/live/george/george/3636.ts
+#EXTINF:-1,FA: IRIB llam
+http://iptv.re/live/george/george/3658.ts
+#EXTINF:-1,FA: IRIB Alborz
+http://iptv.re/live/george/george/3648.ts
+#EXTINF:-1,FA: Iran View
+http://iptv.re/live/george/george/3624.ts
+#EXTINF:-1,FA: Iran Plus
+http://iptv.re/live/george/george/3595.ts
+#EXTINF:-1,FA: Iran MN TV
+http://iptv.re/live/george/george/3587.ts
+#EXTINF:-1,FA: Iran Gold Star2 Music
+http://iptv.re/live/george/george/3606.ts
+#EXTINF:-1,FA: Iran Gold Star1 Movies
+http://iptv.re/live/george/george/3605.ts
+#EXTINF:-1,FA: Iran Gold
+http://iptv.re/live/george/george/3625.ts
+#EXTINF:-1,FA: Iran FM TV
+http://iptv.re/live/george/george/3590.ts
+#EXTINF:-1,FA: Iran Bmarz 
+http://iptv.re/live/george/george/3591.ts
+#EXTINF:-1,FA: Iran AS Music
+http://iptv.re/live/george/george/3602.ts
+#EXTINF:-1,FA: ICC TV
+http://iptv.re/live/george/george/3589.ts
+#EXTINF:-1,FA: I Music
+http://iptv.re/live/george/george/3626.ts
+#EXTINF:-1,FA: I Film
+http://iptv.re/live/george/george/3659.ts
+#EXTINF:-1,FA: HPTV
+http://iptv.re/live/george/george/3622.ts
+#EXTINF:-1,FA: HOD HOD Farsi
+http://iptv.re/live/george/george/3583.ts
+#EXTINF:-1,FA: Hamoon TV Zahedan
+http://iptv.re/live/george/george/3640.ts
+#EXTINF:-1,FA: Hamedan TV Sina TV
+http://iptv.re/live/george/george/3645.ts
+#EXTINF:-1,FA: Guilan TV Baran TV
+http://iptv.re/live/george/george/3642.ts
+#EXTINF:-1,FA: Golestan TV
+http://iptv.re/live/george/george/3662.ts
+#EXTINF:-1,FA: GESM ST
+http://iptv.re/live/george/george/3617.ts
+#EXTINF:-1,FA: GEM TV
+http://iptv.re/live/george/george/3572.ts
+#EXTINF:-1,FA: GEM Teen
+http://iptv.re/live/george/george/3618.ts
+#EXTINF:-1,FA: Gem Life
+http://iptv.re/live/george/george/3612.ts
+#EXTINF:-1,FA: GEM Junior
+http://iptv.re/live/george/george/3615.ts
+#EXTINF:-1,FA: GEM Education
+http://iptv.re/live/george/george/3616.ts
+#EXTINF:-1,FA: GEM Classic
+http://iptv.re/live/george/george/3614.ts
+#EXTINF:-1,FA: GEM Bollyood
+http://iptv.re/live/george/george/3613.ts
+#EXTINF:-1,FA: GEEM Series
+http://iptv.re/live/george/george/3619.ts
+#EXTINF:-1,FA: Ganj E Hozour TV
+http://iptv.re/live/george/george/3670.ts
+#EXTINF:-1,FA: GAM TV
+http://iptv.re/live/george/george/3668.ts
+#EXTINF:-1,FA: Gam Life
+http://iptv.re/live/george/george/3674.ts
+#EXTINF:-1,FA: GAM Classic
+http://iptv.re/live/george/george/3677.ts
+#EXTINF:-1,FA: FTL Farsi Kliksat
+http://iptv.re/live/george/george/3620.ts
+#EXTINF:-1,FA: Film One
+http://iptv.re/live/george/george/3675.ts
+#EXTINF:-1,FA: Fars TV
+http://iptv.re/live/george/george/3649.ts
+#EXTINF:-1,FA: Face 2
+http://iptv.re/live/george/george/3603.ts
+#EXTINF:-1,FA: FACE 1
+http://iptv.re/live/george/george/3580.ts
+#EXTINF:-1,FA: Didgah TV
+http://iptv.re/live/george/george/3600.ts
+#EXTINF:-1,FA: Dena TV
+http://iptv.re/live/george/george/3651.ts
+#EXTINF:-1,FA: Boushehr TV
+http://iptv.re/live/george/george/3650.ts
+#EXTINF:-1,FA: BBC Persian
+http://iptv.re/live/george/george/3571.ts
+#EXTINF:-1,FA: Bakhtar Music
+http://iptv.re/live/george/george/3678.ts
+#EXTINF:-1,FA: Angel TV
+http://iptv.re/live/george/george/3578.ts
+#EXTINF:-1,FA: Andisheh TV
+http://iptv.re/live/george/george/3599.ts
+#EXTINF:-1,FA: Amouzesh TV
+http://iptv.re/live/george/george/3635.ts
+#EXTINF:-1,FA:  Farsi 1
+http://iptv.re/live/george/george/3573.ts
+#EXTINF:-1,<>===#=== Africa Channel ===#===<>
+http://iptv.re/live/george/george/3445.ts
+#EXTINF:-1,AF ES TV
+http://iptv.re/live/george/george/3273.ts
+#EXTINF:-1,AF: HC TV
+http://iptv.re/live/george/george/3276.ts
+#EXTINF:-1,AF: Kalsan TV
+http://iptv.re/live/george/george/3272.ts
+#EXTINF:-1,AF: RTD Djbouti
+http://iptv.re/live/george/george/3278.ts
+#EXTINF:-1,AF: SNTV HB
+http://iptv.re/live/george/george/3277.ts
+#EXTINF:-1,AF: Somali Land National TV
+http://iptv.re/live/george/george/3275.ts
+#EXTINF:-1,AF: Universal Somali TV
+http://iptv.re/live/george/george/3274.ts
+#EXTINF:-1,AF: VOX AFRICA
+http://iptv.re/live/george/george/3421.ts
+#EXTINF:-1,AF: TVC NEWS 1
+http://iptv.re/live/george/george/3420.ts
+#EXTINF:-1,AF: TVC NEWS
+http://iptv.re/live/george/george/3419.ts
+#EXTINF:-1,AF: TFM SOMALI
+http://iptv.re/live/george/george/3429.ts
+#EXTINF:-1,AF: Somali Cable
+http://iptv.re/live/george/george/3435.ts
+#EXTINF:-1,AF: RTS 1
+http://iptv.re/live/george/george/3430.ts
+#EXTINF:-1,AF: Royal Somali TV
+http://iptv.re/live/george/george/3438.ts
+#EXTINF:-1,AF: ORTM SOMALI
+http://iptv.re/live/george/george/3428.ts
+#EXTINF:-1,AF: Nollywood
+http://iptv.re/live/george/george/3437.ts
+#EXTINF:-1,AF: ETV 3
+http://iptv.re/live/george/george/3432.ts
+#EXTINF:-1,AF: ETV
+http://iptv.re/live/george/george/3431.ts
+#EXTINF:-1,AF: ERI TV
+http://iptv.re/live/george/george/3433.ts
+#EXTINF:-1,AF: El Moritanya
+http://iptv.re/live/george/george/3434.ts
+#EXTINF:-1,AF: BEN
+http://iptv.re/live/george/george/3422.ts
+#EXTINF:-1,AF: AIT International
+http://iptv.re/live/george/george/3436.ts
+#EXTINF:-1,AF: AFRICA TV4
+http://iptv.re/live/george/george/3426.ts
+#EXTINF:-1,AF: AFRICA TV3
+http://iptv.re/live/george/george/3425.ts
+#EXTINF:-1,AF: AFRICA TV2
+http://iptv.re/live/george/george/3424.ts
+#EXTINF:-1,AF: AFRICA TV1
+http://iptv.re/live/george/george/3423.ts
+#EXTINF:-1,AF: AFRICA 24
+http://iptv.re/live/george/george/3427.ts
+#EXTINF:-1,<>===#=== Afghanistan Channel ===#===<>
+http://iptv.re/live/george/george/3522.ts
+#EXTINF:-1,AFG: RTA NEWS
+http://iptv.re/live/george/george/3476.ts
+#EXTINF:-1,AFG: PAYAME Afghan
+http://iptv.re/live/george/george/3483.ts
+#EXTINF:-1,AFG: NOORIN TV
+http://iptv.re/live/george/george/3491.ts
+#EXTINF:-1,AFG: NOOR TV
+http://iptv.re/live/george/george/3493.ts
+#EXTINF:-1,AFG: NEGAAH TV
+http://iptv.re/live/george/george/3490.ts
+#EXTINF:-1,AFG: MITRA TV
+http://iptv.re/live/george/george/3485.ts
+#EXTINF:-1,AFG: MAIWAND TV
+http://iptv.re/live/george/george/3484.ts
+#EXTINF:-1,AFG: LEMAR TV
+http://iptv.re/live/george/george/3489.ts
+#EXTINF:-1,AFG: LANA TV
+http://iptv.re/live/george/george/3492.ts
+#EXTINF:-1,AFG: KHURCHID TV 
+http://iptv.re/live/george/george/3482.ts
+#EXTINF:-1,AFG: KABUL NEWS
+http://iptv.re/live/george/george/3480.ts
+#EXTINF:-1,AFG: HEWAD TV
+http://iptv.re/live/george/george/3495.ts
+#EXTINF:-1,AFG: ARIANA INTERN
+http://iptv.re/live/george/george/3474.ts
+#EXTINF:-1,AFG: ARIANA
+http://iptv.re/live/george/george/3473.ts
+#EXTINF:-1,AFG: AREZU TV
+http://iptv.re/live/george/george/3496.ts
+#EXTINF:-1,AFG: A TV
+http://iptv.re/live/george/george/3472.ts
+#EXTINF:-1,AFG: 1 TV
+http://iptv.re/live/george/george/3477.ts
+#EXTINF:-1,3 AFG: SPORT TV
+http://iptv.re/live/george/george/3481.ts
+#EXTINF:-1,AFG: ZHWANDON TV
+http://iptv.re/live/george/george/3488.ts
+#EXTINF:-1,AFG: TOLO TV
+http://iptv.re/live/george/george/3478.ts
+#EXTINF:-1,AFG: TOLO NEWS
+http://iptv.re/live/george/george/3479.ts
+#EXTINF:-1,AFG: TAMADON TV
+http://iptv.re/live/george/george/3494.ts
+#EXTINF:-1,AFG: RTA TV
+http://iptv.re/live/george/george/3475.ts
+#EXTINF:-1,<>===#=== YES Channel ===#===<>
+http://iptv.re/live/george/george/3525.ts
+#EXTINF:-1,YES 1 HD
+http://iptv.re/live/george/george/3822.ts
+#EXTINF:-1,YES 2 HD
+http://iptv.re/live/george/george/3322.ts
+#EXTINF:-1,YES 3 HD
+http://iptv.re/live/george/george/3823.ts
+#EXTINF:-1,YES 4 HD
+http://iptv.re/live/george/george/3323.ts
+#EXTINF:-1,YES 5
+http://iptv.re/live/george/george/3324.ts
+#EXTINF:-1,YES: Home Plus
+http://iptv.re/live/george/george/3325.ts
+#EXTINF:-1,YES One HD
+http://iptv.re/live/george/george/3836.ts
+#EXTINF:-1,YES Comedy HD
+http://iptv.re/live/george/george/3828.ts
+#EXTINF:-1,YES ACTION
+http://iptv.re/live/george/george/3326.ts
+#EXTINF:-1,YES DRAMA
+http://iptv.re/live/george/george/3329.ts
+#EXTINF:-1,YES DOCU
+http://iptv.re/live/george/george/3328.ts
+#EXTINF:-1,YES OH
+http://iptv.re/live/george/george/3331.ts
+#EXTINF:-1,YES Hop
+http://iptv.re/live/george/george/3829.ts
+#EXTINF:-1,YES Hot Gold HD
+http://iptv.re/live/george/george/3832.ts
+#EXTINF:-1,YES Hot 3 HD
+http://iptv.re/live/george/george/3830.ts
+#EXTINF:-1,YES HOT ZONE HD
+http://iptv.re/live/george/george/3845.ts
+#EXTINF:-1,YES HOT PLUS HD
+http://iptv.re/live/george/george/3844.ts
+#EXTINF:-1,YES HOT FUN HD
+http://iptv.re/live/george/george/3843.ts
+#EXTINF:-1,YES HOT Entertainment
+http://iptv.re/live/george/george/3841.ts
+#EXTINF:-1,YES HOT DRAMA HD
+http://iptv.re/live/george/george/3842.ts
+#EXTINF:-1,YES HOT Comedy Central HD
+http://iptv.re/live/george/george/3840.ts
+#EXTINF:-1,YES Hot Action HD
+http://iptv.re/live/george/george/3831.ts
+#EXTINF:-1,YES Sport 1
+http://iptv.re/live/george/george/3833.ts
+#EXTINF:-1,YES SPORT 2 HD
+http://iptv.re/live/george/george/3332.ts
+#EXTINF:-1,YES Sport 5 HD
+http://iptv.re/live/george/george/3834.ts
+#EXTINF:-1,YES Sport 5 Live HD
+http://iptv.re/live/george/george/3835.ts
+#EXTINF:-1,YES: Baby TV
+http://iptv.re/live/george/george/3837.ts
+#EXTINF:-1,Yes: Nickelodeon
+http://iptv.re/live/george/george/3839.ts
+#EXTINF:-1,YES: VIVA
+http://iptv.re/live/george/george/3330.ts
+#EXTINF:-1,YES Cinema HD
+http://iptv.re/live/george/george/3327.ts
+#EXTINF:-1,<>===#=== Portugal Channel ===#===<>
+http://iptv.re/live/george/george/3125.ts
+#EXTINF:-1,PT: RTP 1
+http://iptv.re/live/george/george/3757.ts
+#EXTINF:-1,PT: RTP 2
+http://iptv.re/live/george/george/3758.ts
+#EXTINF:-1,PT: RTP 3
+http://iptv.re/live/george/george/3759.ts
+#EXTINF:-1,PT: Record News
+http://iptv.re/live/george/george/3769.ts
+#EXTINF:-1,PT: Odesseia
+http://iptv.re/live/george/george/3774.ts
+#EXTINF:-1,PT: MTV
+http://iptv.re/live/george/george/3764.ts
+#EXTINF:-1,PT: Motors TV
+http://iptv.re/live/george/george/3763.ts
+#EXTINF:-1,PT: Economico TV
+http://iptv.re/live/george/george/3776.ts
+#EXTINF:-1,PT: Cancanova
+http://iptv.re/live/george/george/3773.ts
+#EXTINF:-1,PT: Canal Hollyood
+http://iptv.re/live/george/george/3761.ts
+#EXTINF:-1,PT: Baby TV
+http://iptv.re/live/george/george/3775.ts
+#EXTINF:-1,PT: ARTV
+http://iptv.re/live/george/george/3765.ts
+#EXTINF:-1,PT: AMC
+http://iptv.re/live/george/george/3762.ts
+#EXTINF:-1,PT: Abola TV
+http://iptv.re/live/george/george/3777.ts
+#EXTINF:-1,PT: Tvi Ficcao
+http://iptv.re/live/george/george/3766.ts
+#EXTINF:-1,PT: TVi 24
+http://iptv.re/live/george/george/3767.ts
+#EXTINF:-1,PT: TV Record
+http://iptv.re/live/george/george/3768.ts
+#EXTINF:-1,PT: Sic Noticias
+http://iptv.re/live/george/george/3772.ts
+#EXTINF:-1,PT: Sic Kids
+http://iptv.re/live/george/george/3771.ts
+#EXTINF:-1,PT: Sic
+http://iptv.re/live/george/george/3770.ts
+#EXTINF:-1,PT: RTP Madeira
+http://iptv.re/live/george/george/3760.ts
+#EXTINF:-1,PT Sports TV1
+http://iptv.re/live/george/george/3007.ts
+#EXTINF:-1,PT Sports TV2
+http://iptv.re/live/george/george/3003.ts
+#EXTINF:-1,PT Sports TV3
+http://iptv.re/live/george/george/3004.ts
+#EXTINF:-1,PT Sports TV4
+http://iptv.re/live/george/george/3005.ts
+#EXTINF:-1,PT Sports TV5
+http://iptv.re/live/george/george/3006.ts
+#EXTINF:-1,PT - TVCINE 1 HD
+http://iptv.re/live/george/george/3056.ts
+#EXTINF:-1,PT - TVCINE 2HD
+http://iptv.re/live/george/george/3057.ts
+#EXTINF:-1,PT - TVCINE 3HD
+http://iptv.re/live/george/george/3058.ts
+#EXTINF:-1,PT - TVCINE 4 HD
+http://iptv.re/live/george/george/3059.ts
+#EXTINF:-1,PT - TV SERIES HD
+http://iptv.re/live/george/george/3068.ts
+#EXTINF:-1,PT - TLC
+http://iptv.re/live/george/george/3070.ts
+#EXTINF:-1,PT - SYFY
+http://iptv.re/live/george/george/3069.ts
+#EXTINF:-1,PT - FOX NEWS
+http://iptv.re/live/george/george/3071.ts
+#EXTINF:-1,PT - FOX MOVIES
+http://iptv.re/live/george/george/3064.ts
+#EXTINF:-1,PT - FOX LIFE
+http://iptv.re/live/george/george/3061.ts
+#EXTINF:-1,PT - FOX HD
+http://iptv.re/live/george/george/3060.ts
+#EXTINF:-1,PT - FOX CRIME
+http://iptv.re/live/george/george/3063.ts
+#EXTINF:-1,PT - FOX COMEDY
+http://iptv.re/live/george/george/3062.ts
+#EXTINF:-1,PT - AXN WHITE HD
+http://iptv.re/live/george/george/3066.ts
+#EXTINF:-1,PT - AXN HD
+http://iptv.re/live/george/george/3065.ts
+#EXTINF:-1,PT - AXN BLACK HD
+http://iptv.re/live/george/george/3067.ts
+#EXTINF:-1,<>===#=== Turque Channel ===#===<>
+http://iptv.re/live/george/george/3533.ts
+#EXTINF:-1,TR Sinema TV
+http://iptv.re/live/george/george/3382.ts
+#EXTINF:-1,TR MovieSmart Turk
+http://iptv.re/live/george/george/3377.ts
+#EXTINF:-1,TR MovieSmart Premium HD
+http://iptv.re/live/george/george/3380.ts
+#EXTINF:-1,TR MovieSmart Premium 2
+http://iptv.re/live/george/george/3381.ts
+#EXTINF:-1,TR MovieSmart Platin2
+http://iptv.re/live/george/george/3379.ts
+#EXTINF:-1,TR MovieSmart Platin
+http://iptv.re/live/george/george/3378.ts
+#EXTINF:-1,TR MovieSmart Gold
+http://iptv.re/live/george/george/3376.ts
+#EXTINF:-1,TR MovieSmart Fest
+http://iptv.re/live/george/george/3374.ts
+#EXTINF:-1,TR MovieSmart Family
+http://iptv.re/live/george/george/3373.ts
+#EXTINF:-1,TR MovieSmart Classic
+http://iptv.re/live/george/george/3375.ts
+#EXTINF:-1,TR Movie Smart Action HD
+http://iptv.re/live/george/george/3372.ts
+#EXTINF:-1,TR: ATV
+http://iptv.re/live/george/george/2454.ts
+#EXTINF:-1,TR: TRT 1
+http://iptv.re/live/george/george/2457.ts
+#EXTINF:-1,TR: Star TV
+http://iptv.re/live/george/george/2455.ts
+#EXTINF:-1,TR: Smart Sport
+http://iptv.re/live/george/george/2460.ts
+#EXTINF:-1,TR: TRT
+http://iptv.re/live/george/george/2733.ts
+#EXTINF:-1,TR: TRT 3 Spor
+http://iptv.re/live/george/george/2734.ts
+#EXTINF:-1,TR: Sports TV
+http://iptv.re/live/george/george/2735.ts
+#EXTINF:-1,TR: FOX TV
+http://iptv.re/live/george/george/2731.ts
+#EXTINF:-1,TR: Fox Life HD
+http://iptv.re/live/george/george/2732.ts
+#EXTINF:-1,TR: Show TV
+http://iptv.re/live/george/george/2458.ts
+#EXTINF:-1,TR: NTV Spor
+http://iptv.re/live/george/george/2452.ts
+#EXTINF:-1,TR: MovieSmart Premium
+http://iptv.re/live/george/george/2462.ts
+#EXTINF:-1,TR: MovieSmart Action
+http://iptv.re/live/george/george/2463.ts
+#EXTINF:-1,TR: Kral Pop TV
+http://iptv.re/live/george/george/2456.ts
+#EXTINF:-1,TR: Kanal D
+http://iptv.re/live/george/george/2453.ts
+#EXTINF:-1,TR: Fox Sports
+http://iptv.re/live/george/george/2461.ts
+#EXTINF:-1,<>===#=== Greek Ote Channel ===#===<>
+http://iptv.re/live/george/george/2446.ts
+#EXTINF:-1,GR: Makedonia TV
+http://iptv.re/live/george/george/3540.ts
+#EXTINF:-1,GR: ET3 TV
+http://iptv.re/live/george/george/3543.ts
+#EXTINF:-1,GR: Epsilon TV
+http://iptv.re/live/george/george/3541.ts
+#EXTINF:-1,GR: Antenna
+http://iptv.re/live/george/george/3536.ts
+#EXTINF:-1,GR: Alpha TV
+http://iptv.re/live/george/george/3537.ts
+#EXTINF:-1,GR: 4E TV
+http://iptv.re/live/george/george/3544.ts
+#EXTINF:-1,GR: Star TV
+http://iptv.re/live/george/george/3538.ts
+#EXTINF:-1,GR: Skai TV
+http://iptv.re/live/george/george/3539.ts
+#EXTINF:-1,GR: Nerit TV
+http://iptv.re/live/george/george/3534.ts
+#EXTINF:-1,GR: Nerit Sports TV
+http://iptv.re/live/george/george/3542.ts
+#EXTINF:-1,GR: Mega tv
+http://iptv.re/live/george/george/3535.ts
+#EXTINF:-1,<>===#=== USA/CANADA Channel ===#===<>
+http://iptv.re/live/george/george/3124.ts
+#EXTINF:-1,US: USA Network
+http://iptv.re/live/george/george/3089.ts
+#EXTINF:-1,US: TSN 5
+http://iptv.re/live/george/george/3084.ts
+#EXTINF:-1,US: TSN 4
+http://iptv.re/live/george/george/3083.ts
+#EXTINF:-1,US: TSN 3
+http://iptv.re/live/george/george/3082.ts
+#EXTINF:-1,US: TSN 2
+http://iptv.re/live/george/george/3081.ts
+#EXTINF:-1,US: TSN 1
+http://iptv.re/live/george/george/3080.ts
+#EXTINF:-1,US: TBS HD
+http://iptv.re/live/george/george/3099.ts
+#EXTINF:-1,US: STARS KIDS 
+http://iptv.re/live/george/george/3200.ts
+#EXTINF:-1,US: STARS Cinema
+http://iptv.re/live/george/george/3201.ts
+#EXTINF:-1,US: Showtime HD
+http://iptv.re/live/george/george/3198.ts
+#EXTINF:-1,US: RT Documentary
+http://iptv.re/live/george/george/3093.ts
+#EXTINF:-1,US: RT America HD
+http://iptv.re/live/george/george/3092.ts
+#EXTINF:-1,US: NBC Golf HD
+http://iptv.re/live/george/george/3103.ts
+#EXTINF:-1,US: NBA TV
+http://iptv.re/live/george/george/3097.ts
+#EXTINF:-1,US: HSN 2
+http://iptv.re/live/george/george/3091.ts
+#EXTINF:-1,US: HSN 1
+http://iptv.re/live/george/george/3090.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://iptv.re/live/george/george/3202.ts
+#EXTINF:-1,US: HBO Family
+http://iptv.re/live/george/george/3203.ts
+#EXTINF:-1,US: HBO East
+http://iptv.re/live/george/george/3204.ts
+#EXTINF:-1,US: ESPN HD
+http://iptv.re/live/george/george/3102.ts
+#EXTINF:-1,US: Discovery Science HD
+http://iptv.re/live/george/george/3100.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://iptv.re/live/george/george/3101.ts
+#EXTINF:-1,US: CNN HD
+http://iptv.re/live/george/george/3096.ts
+#EXTINF:-1,US: CBS HD
+http://iptv.re/live/george/george/3085.ts
+#EXTINF:-1,US: CBS DRAMA
+http://iptv.re/live/george/george/3086.ts
+#EXTINF:-1,US: WWE HD
+http://iptv.re/live/george/george/3098.ts
+#EXTINF:-1,US: CBS ACTION
+http://iptv.re/live/george/george/3087.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://iptv.re/live/george/george/3094.ts
+#EXTINF:-1,US: ABC FAMILY
+http://iptv.re/live/george/george/3095.ts
+#EXTINF:-1,US CBS News HD
+http://iptv.re/live/george/george/3088.ts
+#EXTINF:-1,USA: Vevo3 HD
+http://iptv.re/live/george/george/602.ts
+#EXTINF:-1,USA: Vevo2 HD
+http://iptv.re/live/george/george/601.ts
+#EXTINF:-1,USA: Vevo1 HD
+http://iptv.re/live/george/george/600.ts
 #EXTINF:-1,ES: Viva Nicaragua Canal 13
 plugin://plugin.video.f4mTester/?url=http://gameserver4.streamiptv.online/live/banana/brancaccio/6532.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 iPad; CPU OS 6_0 like Mac OS X AppleWebKit/536.26 KHTML, like Gecko Version/6.0 Mobile/10A5376e Safari/8536.25
 #EXTINF:-1,ES: TYC SpoRTS.
