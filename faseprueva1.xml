@@ -1,88 +1,134 @@
 #EXTM3U
 #EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,-------- Romani ---------
-http://ipsatpro.com:8000/live/9999999/1234567/1746.ts
-#EXTINF:-1,RO: Digi Sport 1
-http://ipsatpro.com:8000/live/9999999/1234567/1717.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://ipsatpro.com:8000/live/9999999/1234567/1718.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://ipsatpro.com:8000/live/9999999/1234567/1719.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://ipsatpro.com:8000/live/9999999/1234567/1720.ts
-#EXTINF:-1,RO: Digi World RO
-http://ipsatpro.com:8000/live/9999999/1234567/1705.ts
-#EXTINF:-1,RO: Digi World
-http://ipsatpro.com:8000/live/9999999/1234567/1686.ts
-#EXTINF:-1,RO: Digi Film
-http://ipsatpro.com:8000/live/9999999/1234567/1700.ts
-#EXTINF:-1,RO: Digi Life
-http://ipsatpro.com:8000/live/9999999/1234567/1722.ts
-#EXTINF:-1,RO: Digi 24
-http://ipsatpro.com:8000/live/9999999/1234567/1707.ts
-#EXTINF:-1,RO: Eurosport
-http://ipsatpro.com:8000/live/9999999/1234567/1706.ts
-#EXTINF:-1,RO: Eurosport 2
-http://ipsatpro.com:8000/live/9999999/1234567/1715.ts
-#EXTINF:-1,RO: Antena 1
-http://ipsatpro.com:8000/live/9999999/1234567/1698.ts
-#EXTINF:-1,RO: Antena Stars
-http://ipsatpro.com:8000/live/9999999/1234567/1697.ts
-#EXTINF:-1,RO: Acasa TV
-http://ipsatpro.com:8000/live/9999999/1234567/1721.ts
-#EXTINF:-1,RO: Megamax
-http://ipsatpro.com:8000/live/9999999/1234567/1690.ts
-#EXTINF:-1,RO: Cinemax 2
-http://ipsatpro.com:8000/live/9999999/1234567/1701.ts
-#EXTINF:-1,RO: HBO 1
-http://ipsatpro.com:8000/live/9999999/1234567/1725.ts
-#EXTINF:-1,RO: HBO 2
-http://ipsatpro.com:8000/live/9999999/1234567/1712.ts
-#EXTINF:-1,RO: HBO 3
-http://ipsatpro.com:8000/live/9999999/1234567/1704.ts
-#EXTINF:-1,RO: Prima
-http://ipsatpro.com:8000/live/9999999/1234567/1684.ts
-#EXTINF:-1,RO: Prima Love
-http://ipsatpro.com:8000/live/9999999/1234567/1689.ts
-#EXTINF:-1,RO: ProTV
-http://ipsatpro.com:8000/live/9999999/1234567/1723.ts
-#EXTINF:-1,RO: Pro Cinema
-http://ipsatpro.com:8000/live/9999999/1234567/1724.ts
-#EXTINF:-1,RO: Kanal D
-http://ipsatpro.com:8000/live/9999999/1234567/1714.ts
-#EXTINF:-1,RO: TVR 1
-http://ipsatpro.com:8000/live/9999999/1234567/1693.ts
-#EXTINF:-1,RO: TVR 2
-http://ipsatpro.com:8000/live/9999999/1234567/1694.ts
-#EXTINF:-1,RO: Crime & Investigation
-http://ipsatpro.com:8000/live/9999999/1234567/1696.ts
-#EXTINF:-1,RO: National Geographic
-http://ipsatpro.com:8000/live/9999999/1234567/1726.ts
-#EXTINF:-1,RO: History HD
-http://ipsatpro.com:8000/live/9999999/1234567/1727.ts
-#EXTINF:-1,RO: National TV
-http://ipsatpro.com:8000/live/9999999/1234567/1685.ts
-#EXTINF:-1,RO: TV TRWAM
-http://ipsatpro.com:8000/live/9999999/1234567/1681.ts
-#EXTINF:-1,RO: TV Asta
-http://ipsatpro.com:8000/live/9999999/1234567/1683.ts
-#EXTINF:-1,RO: Disney Junior
-http://ipsatpro.com:8000/live/9999999/1234567/1716.ts
-#EXTINF:-1,RO: Music Channe hu
-http://ipsatpro.com:8000/live/9999999/1234567/1692.ts
-#EXTINF:-1,RO: Tv Sud Est
-http://ipsatpro.com:8000/live/9999999/1234567/1703.ts
-#EXTINF:-1,RO: TeleMoldovaPlus
-http://ipsatpro.com:8000/live/9999999/1234567/1702.ts
-#EXTINF:-1,RO: Realtaea TV
-http://ipsatpro.com:8000/live/9999999/1234567/1695.ts
-#EXTINF:-1,RO: TeleM Iasi
-http://ipsatpro.com:8000/live/9999999/1234567/1699.ts
-#EXTINF:-1,RO: Retro
-http://ipsatpro.com:8000/live/9999999/1234567/1688.ts
-#EXTINF:-1,RO: Noe
-http://ipsatpro.com:8000/live/9999999/1234567/1687.ts
-#EXTINF:-1,RO: Nickelodeon
-http://ipsatpro.com:8000/live/9999999/1234567/1682.ts
-#EXTINF:-1,RO: Salajeanul TV
-http://ipsatpro.com:8000/live/9999999/1234567/1691.ts
+#EXTINF:-1,------- Spanish ---------
+http://ipsatpro.com:8000/live/9999999/1234567/1072.ts
+#EXTINF:-1,ES: Taquilla 1
+http://ipsatpro.com:8000/live/9999999/1234567/1071.ts
+#EXTINF:-1,ES: Taquilla 2
+http://ipsatpro.com:8000/live/9999999/1234567/1070.ts
+#EXTINF:-1,ES: Taquilla 3
+http://ipsatpro.com:8000/live/9999999/1234567/1069.ts
+#EXTINF:-1,ES: Taquilla 4
+http://ipsatpro.com:8000/live/9999999/1234567/1068.ts
+#EXTINF:-1,ES: Taquilla 5
+http://ipsatpro.com:8000/live/9999999/1234567/1067.ts
+#EXTINF:-1,ES: Taquilla 6
+http://ipsatpro.com:8000/live/9999999/1234567/1066.ts
+#EXTINF:-1,ES: Taquilla 7
+http://ipsatpro.com:8000/live/9999999/1234567/1065.ts
+#EXTINF:-1,ES: Taquilla 8
+http://ipsatpro.com:8000/live/9999999/1234567/1064.ts
+#EXTINF:-1,ES: Taquilla 9
+http://ipsatpro.com:8000/live/9999999/1234567/1063.ts
+#EXTINF:-1,ES: Taquilla 10
+http://ipsatpro.com:8000/live/9999999/1234567/1062.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://ipsatpro.com:8000/live/9999999/1234567/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+http://ipsatpro.com:8000/live/9999999/1234567/1012.ts
+#EXTINF:-1,ES: Canal+ Futpol
+http://ipsatpro.com:8000/live/9999999/1234567/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+http://ipsatpro.com:8000/live/9999999/1234567/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+http://ipsatpro.com:8000/live/9999999/1234567/1016.ts
+#EXTINF:-1,ES: Canal+ Accion
+http://ipsatpro.com:8000/live/9999999/1234567/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+http://ipsatpro.com:8000/live/9999999/1234567/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+http://ipsatpro.com:8000/live/9999999/1234567/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+http://ipsatpro.com:8000/live/9999999/1234567/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+http://ipsatpro.com:8000/live/9999999/1234567/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+http://ipsatpro.com:8000/live/9999999/1234567/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+http://ipsatpro.com:8000/live/9999999/1234567/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+http://ipsatpro.com:8000/live/9999999/1234567/1026.ts
+#EXTINF:-1,ES: Canal+ Dcine Espanol
+http://ipsatpro.com:8000/live/9999999/1234567/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+http://ipsatpro.com:8000/live/9999999/1234567/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+http://ipsatpro.com:8000/live/9999999/1234567/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+http://ipsatpro.com:8000/live/9999999/1234567/1049.ts
+#EXTINF:-1,ES: Canal Los40
+http://ipsatpro.com:8000/live/9999999/1234567/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+http://ipsatpro.com:8000/live/9999999/1234567/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+http://ipsatpro.com:8000/live/9999999/1234567/1029.ts
+#EXTINF:-1,ES: Canal T HD
+http://ipsatpro.com:8000/live/9999999/1234567/1047.ts
+#EXTINF:-1,ES: Canal MicroVision HD
+http://ipsatpro.com:8000/live/9999999/1234567/1041.ts
+#EXTINF:-1,ES: Canal+ 40
+http://ipsatpro.com:8000/live/9999999/1234567/1039.ts
+#EXTINF:-1,ES: 24 Horas
+http://ipsatpro.com:8000/live/9999999/1234567/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://ipsatpro.com:8000/live/9999999/1234567/1003.ts
+#EXTINF:-1,ES: Barca TV
+http://ipsatpro.com:8000/live/9999999/1234567/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://ipsatpro.com:8000/live/9999999/1234567/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+http://ipsatpro.com:8000/live/9999999/1234567/1010.ts
+#EXTINF:-1,ES: Comedy Central
+http://ipsatpro.com:8000/live/9999999/1234567/1042.ts
+#EXTINF:-1,ES: Teledeportes
+http://ipsatpro.com:8000/live/9999999/1234567/1050.ts
+#EXTINF:-1,ES: Clan TVE
+http://ipsatpro.com:8000/live/9999999/1234567/1045.ts
+#EXTINF:-1,ES: Real Madrid
+http://ipsatpro.com:8000/live/9999999/1234567/1037.ts
+#EXTINF:-1,ES: La 1
+http://ipsatpro.com:8000/live/9999999/1234567/1014.ts
+#EXTINF:-1,ES: La 2
+http://ipsatpro.com:8000/live/9999999/1234567/1013.ts
+#EXTINF:-1,ES: Canal+ Cine
+http://ipsatpro.com:8000/live/9999999/1234567/1025.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://ipsatpro.com:8000/live/9999999/1234567/1017.ts
+#EXTINF:-1,ES: TV Galicia
+http://ipsatpro.com:8000/live/9999999/1234567/1015.ts
+#EXTINF:-1,ES: News DW
+http://ipsatpro.com:8000/live/9999999/1234567/1053.ts
+#EXTINF:-1,ES: Proyecto 40
+http://ipsatpro.com:8000/live/9999999/1234567/1056.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://ipsatpro.com:8000/live/9999999/1234567/1061.ts
+#EXTINF:-1,ES: 324 Entertainment
+http://ipsatpro.com:8000/live/9999999/1234567/1005.ts
+#EXTINF:-1,ES: Fox Life
+http://ipsatpro.com:8000/live/9999999/1234567/1060.ts
+#EXTINF:-1,ES: Hollywood
+http://ipsatpro.com:8000/live/9999999/1234567/1036.ts
+#EXTINF:-1,ES: Axn White HD
+http://ipsatpro.com:8000/live/9999999/1234567/1023.ts
+#EXTINF:-1,ES: History
+http://ipsatpro.com:8000/live/9999999/1234567/1051.ts
+#EXTINF:-1,ES: Calle 13 Spain
+http://ipsatpro.com:8000/live/9999999/1234567/1009.ts
+#EXTINF:-1,ES: Azteca trece
+http://ipsatpro.com:8000/live/9999999/1234567/1018.ts
+#EXTINF:-1,ES: Anime
+http://ipsatpro.com:8000/live/9999999/1234567/999.ts
+#EXTINF:-1,ES: Azteca 7 Monterrey
+http://ipsatpro.com:8000/live/9999999/1234567/1035.ts
+#EXTINF:-1,ES: Antena 3 Internacional
+http://ipsatpro.com:8000/live/9999999/1234567/1000.ts
+#EXTINF:-1,ES: A&E
+http://ipsatpro.com:8000/live/9999999/1234567/1001.ts
+#EXTINF:-1,ES: FDF
+http://ipsatpro.com:8000/live/9999999/1234567/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+http://ipsatpro.com:8000/live/9999999/1234567/1027.ts
+#EXTINF:-1,ES: Viajar
+http://ipsatpro.com:8000/live/9999999/1234567/1043.ts
+#EXTINF:-1,ES: Teleticino
+http://ipsatpro.com:8000/live/9999999/1234567/1008.ts
