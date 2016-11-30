@@ -1,5 +1,281 @@
 #EXTM3U
 #EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:1,BEINSPORT 1
+http://evolive-tv.com:8000/live/majid/majid/207.ts
+#EXTINF:1,BEINSPORT 2
+http://evolive-tv.com:8000/live/majid/majid/206.ts
+#EXTINF:1,BEINSPORT 3
+http://evolive-tv.com:8000/live/majid/majid/209.ts
+#EXTINF:1,beINSports 4
+http://evolive-tv.com:8000/live/majid/majid/180.ts
+#EXTINF:1,beINSports 5
+http://evolive-tv.com:8000/live/majid/majid/181.ts
+#EXTINF:1,BEINSPORT6
+http://evolive-tv.com:8000/live/majid/majid/56.ts
+#EXTINF:1,BEINSPORT 7
+http://evolive-tv.com:8000/live/majid/majid/57.ts
+#EXTINF:1,BEINSPORT 8
+http://evolive-tv.com:8000/live/majid/majid/58.ts
+#EXTINF:1,BEINSPORT 9
+http://evolive-tv.com:8000/live/majid/majid/59.ts
+#EXTINF:1,BEINSPORT 10
+http://evolive-tv.com:8000/live/majid/majid/60.ts
+#EXTINF:1,BEINSPORT-11HD
+http://evolive-tv.com:8000/live/majid/majid/311.ts
+#EXTINF:1,BEINSPORT-12HD
+http://evolive-tv.com:8000/live/majid/majid/331.ts
+#EXTINF:1,BEIN SPORTS MAX 1
+http://evolive-tv.com:8000/live/majid/majid/387.ts
+#EXTINF:1,BEIN SPORTS MAX 2
+http://evolive-tv.com:8000/live/majid/majid/388.ts
+#EXTINF:1,Bein Sport
+http://evolive-tv.com:8000/live/majid/majid/416.ts
+#EXTINF:1,BEINMOVIES-1HD
+http://evolive-tv.com:8000/live/majid/majid/333.ts
+#EXTINF:1,BEINMOVIES-2HD
+http://evolive-tv.com:8000/live/majid/majid/334.ts
+#EXTINF:1,BEINMOVIES-3HD
+http://evolive-tv.com:8000/live/majid/majid/335.ts
+#EXTINF:1,BEINMOVIES-4HD
+http://evolive-tv.com:8000/live/majid/majid/313.ts
+#EXTINF:1,BT_SPORT_EXTRA
+http://evolive-tv.com:8000/live/majid/majid/269.ts
+#EXTINF:1,BT_SPORT1
+http://evolive-tv.com:8000/live/majid/majid/284.ts
+#EXTINF:1,BT_SPORT2
+http://evolive-tv.com:8000/live/majid/majid/283.ts
+#EXTINF:1,CTH Staduim XHD
+http://evolive-tv.com:8000/live/majid/majid/317.ts
+#EXTINF:1,CTH Staduim 6HD
+http://evolive-tv.com:8000/live/majid/majid/318.ts
+#EXTINF:1,CTH Staduim 5HD
+http://evolive-tv.com:8000/live/majid/majid/319.ts
+#EXTINF:1,CTH Staduim 4HD
+http://evolive-tv.com:8000/live/majid/majid/320.ts
+#EXTINF:1,CTH Staduim 3HD
+http://evolive-tv.com:8000/live/majid/majid/321.ts
+#EXTINF:1,CTH Staduim 2HD
+http://evolive-tv.com:8000/live/majid/majid/322.ts
+#EXTINF:1,CTH Staduim 1HD
+http://evolive-tv.com:8000/live/majid/majid/323.ts
+#EXTINF:1,Sky Sport 1
+http://evolive-tv.com:8000/live/majid/majid/70.ts
+#EXTINF:1,Sky Sport 2
+http://evolive-tv.com:8000/live/majid/majid/71.ts
+#EXTINF:1,Sky Sport 3
+http://evolive-tv.com:8000/live/majid/majid/72.ts
+#EXTINF:1,Sky Sport 4
+http://evolive-tv.com:8000/live/majid/majid/73.ts
+#EXTINF:1,Sky Sport 5
+http://evolive-tv.com:8000/live/majid/majid/74.ts
+#EXTINF:1,Eurosport2
+http://esiptv.tn:7500/live/ge108/ge108/608.ts
+#EXTINF:1,NFOSPORTPLUS
+http://esiptv.tn:7500/live/ge108/ge108/1273.ts
+#EXTINF:1,Eurosport1
+http://esiptv.tn:7500/live/ge108/ge108/609.ts
+ #EXTINF:-1,BEINSPORT_FULLHD1
+http://giant-iptv.com:5477/live/99944/99944/5770.ts
+#EXTINF:-1,BEINSPORT_FULLHD2
+http://giant-iptv.com:5477/live/99944/99944/5771.ts
+#EXTINF:-1,BEINSPORT_FULLHD3
+http://giant-iptv.com:5477/live/99944/99944/5772.ts
+#EXTINF:-1,BEINSPORT_FULLHD4
+http://giant-iptv.com:5477/live/99944/99944/5773.ts
+#EXTINF:-1,BEINSPORT_FULLHD5
+http://giant-iptv.com:5477/live/99944/99944/5774.ts
+#EXTINF:-1,BEINSPORT_FULLHD6
+http://giant-iptv.com:5477/live/99944/99944/5775.ts
+#EXTINF:-1,BEINSPORT_FULLHD7
+http://giant-iptv.com:5477/live/99944/99944/5776.ts
+#EXTINF:-1,BEINSPORT_FULLHD8
+http://giant-iptv.com:5477/live/99944/99944/5777.ts
+#EXTINF:-1,BEINSPORT_FULLHD9
+http://giant-iptv.com:5477/live/99944/99944/5778.ts
+#EXTINF:-1,BEINSPORT_FULLHD10
+http://giant-iptv.com:5477/live/99944/99944/5779.ts
+#EXTINF:-1,BEINSPORT_FULLHD11
+http://giant-iptv.com:5477/live/99944/99944/6585.ts
+#EXTINF:-1,BEINSPORT_FULLHD12
+http://giant-iptv.com:5477/live/99944/99944/8534.ts
+#EXTINF:-1,BEIN-SPORT-HD1
+http://giant-iptv.com:5477/live/99944/99944/10201.ts
+#EXTINF:-1,BEIN-SPORT-HD2
+http://giant-iptv.com:5477/live/99944/99944/10202.ts
+#EXTINF:-1,BEIN-SPORT-HD3
+http://giant-iptv.com:5477/live/99944/99944/10203.ts
+#EXTINF:-1,BEIN-SPORT-HD4
+http://giant-iptv.com:5477/live/99944/99944/10204.ts
+#EXTINF:-1,BEIN-SPORT-HD5
+http://giant-iptv.com:5477/live/99944/99944/10205.ts
+#EXTINF:-1,BEIN-SPORT-HD6
+http://giant-iptv.com:5477/live/99944/99944/10206.ts
+#EXTINF:-1,BEIN-SPORT-HD7
+http://giant-iptv.com:5477/live/99944/99944/10207.ts
+#EXTINF:-1,BEIN-SPORT-HD8
+http://giant-iptv.com:5477/live/99944/99944/10208.ts
+#EXTINF:-1,BEIN-SPORT-HD9
+http://giant-iptv.com:5477/live/99944/99944/10209.ts
+#EXTINF:-1,BEIN-SPORT-HD10
+http://giant-iptv.com:5477/live/99944/99944/10210.ts
+#EXTINF:-1,BEIN-SPORT-HD11
+http://giant-iptv.com:5477/live/99944/99944/10211.ts
+#EXTINF:-1,BEIN-SPORT-HD12
+http://giant-iptv.com:5477/live/99944/99944/10212.ts
+#EXTINF:-1,BEIN-SPORT-HD13
+http://giant-iptv.com:5477/live/99944/99944/10213.ts
+#EXTINF:-1,Qu:Bein-Sport_1HD
+http://giant-iptv.com:5477/live/99944/99944/10013.ts
+#EXTINF:-1,Qu:Bein-Sport_2HD
+http://giant-iptv.com:5477/live/99944/99944/10014.ts
+#EXTINF:-1,Qu:Bein-Sport_3HD
+http://giant-iptv.com:5477/live/99944/99944/10015.ts
+#EXTINF:-1,Qu:Bein-Sport_4HD
+http://giant-iptv.com:5477/live/99944/99944/10016.ts
+#EXTINF:-1,Qu:Bein-Sport_5HD
+http://giant-iptv.com:5477/live/99944/99944/10017.ts
+#EXTINF:-1,Qu:Bein-Sport_6HD
+http://giant-iptv.com:5477/live/99944/99944/10018.ts
+#EXTINF:-1,Qu:Bein-Sport_7HD
+http://giant-iptv.com:5477/live/99944/99944/10019.ts
+#EXTINF:-1,Qu:Bein-Sport_8HD
+http://giant-iptv.com:5477/live/99944/99944/10020.ts
+#EXTINF:-1,Qu:Bein-Sport_9HD
+http://giant-iptv.com:5477/live/99944/99944/10021.ts
+#EXTINF:-1,Qu:Bein-Sport_10HD
+http://giant-iptv.com:5477/live/99944/99944/10022.ts
+#EXTINF:-1,Qu:Bein-Sport_11HD
+http://giant-iptv.com:5477/live/99944/99944/10023.ts
+#EXTINF:-1,Qu:Bein-Sport_12HD
+http://giant-iptv.com:5477/live/99944/99944/10024.ts
+#EXTINF:-1,SD:Bein-Sport-1
+http://giant-iptv.com:5477/live/99944/99944/10025.ts
+#EXTINF:-1,SD:Bein-Sport-2
+http://giant-iptv.com:5477/live/99944/99944/10026.ts
+#EXTINF:-1,SD:Bein-Sport-3
+http://giant-iptv.com:5477/live/99944/99944/10027.ts
+#EXTINF:-1,SD:Bein-Sport-4
+http://giant-iptv.com:5477/live/99944/99944/10028.ts
+#EXTINF:-1,SD:Bein-Sport-5
+http://giant-iptv.com:5477/live/99944/99944/10029.ts
+#EXTINF:-1,SD:Bein-Sport-6
+http://giant-iptv.com:5477/live/99944/99944/10030.ts
+#EXTINF:-1,SD:Bein-Sport-7
+http://giant-iptv.com:5477/live/99944/99944/10031.ts
+#EXTINF:-1,SD:Bein-Sport-8
+http://giant-iptv.com:5477/live/99944/99944/10032.ts
+#EXTINF:-1,SD:Bein-Sport-9
+http://giant-iptv.com:5477/live/99944/99944/10033.ts
+#EXTINF:-1,SD:Bein-Sport-10
+http://giant-iptv.com:5477/live/99944/99944/10034.ts
+#EXTINF:-1,BE:BEINSPORT_1HD
+http://giant-iptv.com:5477/live/99944/99944/3845.ts
+#EXTINF:-1,BE:BEINSPORT_2HD
+http://giant-iptv.com:5477/live/99944/99944/3846.ts
+#EXTINF:-1,BE:-BEINSPORT_3HD
+http://giant-iptv.com:5477/live/99944/99944/3847.ts
+#EXTINF:-1,BE:BEINSPORT_4HD
+http://giant-iptv.com:5477/live/99944/99944/3848.ts
+#EXTINF:-1,BE:BEINSPORT_5HD
+http://giant-iptv.com:5477/live/99944/99944/3849.ts
+#EXTINF:-1,BE:BEINSPORT_6HD
+http://giant-iptv.com:5477/live/99944/99944/3850.ts
+#EXTINF:-1,BE:BEINSPORT_7HD
+http://giant-iptv.com:5477/live/99944/99944/3851.ts
+#EXTINF:-1,BE:BEINSPORT_8HD
+http://giant-iptv.com:5477/live/99944/99944/3852.ts
+#EXTINF:-1,BeinSports_1HD
+http://giant-iptv.com:5477/live/99944/99944/5792.ts
+#EXTINF:-1,BeinSports_2HD
+http://giant-iptv.com:5477/live/99944/99944/5795.ts
+#EXTINF:-1,BeinSports_3HD
+http://giant-iptv.com:5477/live/99944/99944/5798.ts
+#EXTINF:-1,BeinSports_4HD
+http://giant-iptv.com:5477/live/99944/99944/5801.ts
+#EXTINF:-1,BeinSports_5HD
+http://giant-iptv.com:5477/live/99944/99944/5804.ts
+#EXTINF:-1,BeinSports_6HD
+http://giant-iptv.com:5477/live/99944/99944/5807.ts
+#EXTINF:-1,BeinSports_7HD
+http://giant-iptv.com:5477/live/99944/99944/5810.ts
+#EXTINF:-1,BeinSports_8HD
+http://giant-iptv.com:5477/live/99944/99944/5813.ts
+#EXTINF:-1,BeinSports_9HD
+http://giant-iptv.com:5477/live/99944/99944/5816.ts
+#EXTINF:-1,BeinSports_10HD
+http://giant-iptv.com:5477/live/99944/99944/5819.ts
+#EXTINF:-1,BeinSport_1HD
+http://giant-iptv.com:5477/live/99944/99944/5791.ts
+#EXTINF:-1,BeinSport_2HD
+http://giant-iptv.com:5477/live/99944/99944/5794.ts
+#EXTINF:-1,BeinSport_3HD
+http://giant-iptv.com:5477/live/99944/99944/5797.ts
+#EXTINF:-1,BeinSport_4HD
+http://giant-iptv.com:5477/live/99944/99944/5800.ts
+#EXTINF:-1,BeinSport_5HD
+http://giant-iptv.com:5477/live/99944/99944/5803.ts
+#EXTINF:-1,BeinSport_6HD
+http://giant-iptv.com:5477/live/99944/99944/5806.ts
+#EXTINF:-1,BeinSport_7HD
+http://giant-iptv.com:5477/live/99944/99944/5809.ts
+#EXTINF:-1,BeinSport_8HD
+http://giant-iptv.com:5477/live/99944/99944/5812.ts
+#EXTINF:-1,BeinSport_9HD
+http://giant-iptv.com:5477/live/99944/99944/5815.ts
+#EXTINF:-1,BeinSport_10HD
+http://giant-iptv.com:5477/live/99944/99944/5818.ts
+#EXTINF:-1,UK-SkySports1HD
+http://giant-iptv.com:5477/live/99944/99944/9679.ts
+#EXTINF:-1,UK-SkySports2HD
+http://giant-iptv.com:5477/live/99944/99944/9678.ts
+#EXTINF:-1,UK-SkySports3HD
+http://giant-iptv.com:5477/live/99944/99944/9677.ts
+#EXTINF:-1,UK-SkySports4HD
+http://giant-iptv.com:5477/live/99944/99944/9676.ts
+#EXTINF:-1,SFR-Sports_1HD
+http://giant-iptv.com:5477/live/99944/99944/10117.ts
+#EXTINF:-1,SFR-Sports_2HD
+http://giant-iptv.com:5477/live/99944/99944/10118.ts
+#EXTINF:-1,SFR-Sports_3HD
+http://giant-iptv.com:5477/live/99944/99944/10119.ts
+#EXTINF:-1,IT:SKY_SPORTS_HD1
+http://giant-iptv.com:5477/live/99944/99944/8528.ts
+#EXTINF:-1,IT:SKY_SPORTS_3HD
+http://giant-iptv.com:5477/live/99944/99944/8530.ts
+#EXTINF:-1,IT:SKY_SPORTS_2HD
+http://giant-iptv.com:5477/live/99944/99944/8529.ts
+#EXTINF:-1,IT:SKY_SPORT_F1
+http://giant-iptv.com:5477/live/99944/99944/8532.ts
+#EXTINF:-1,IT:SKY_MOTO_GPHD
+http://giant-iptv.com:5477/live/99944/99944/8531.ts
+#EXTINF:-1,ARENA_SPORT1_HR
+http://giant-iptv.com:5477/live/99944/99944/9856.ts
+#EXTINF:-1,ARENA_SPORT2_HR
+http://giant-iptv.com:5477/live/99944/99944/9855.ts
+#EXTINF:-1,ARENA_SPORT3_HR
+http://giant-iptv.com:5477/live/99944/99944/9854.ts
+#EXTINF:-1,ARENA_SPORT4_HR
+http://giant-iptv.com:5477/live/99944/99944/9853.ts
+#EXTINF:-1,ARENA_SPORT5_HR
+http://giant-iptv.com:5477/live/99944/99944/9852.ts
+#EXTINF:-1,NL:FoxSports_2
+http://giant-iptv.com:5477/live/99944/99944/8377.ts
+#EXTINF:-1,NL:FoxSports_3
+http://giant-iptv.com:5477/live/99944/99944/8378.ts
+#EXTINF:-1,NL:FoxSports_4
+http://giant-iptv.com:5477/live/99944/99944/8379.ts
+#EXTINF:-1,NL:FoxSports_5
+http://giant-iptv.com:5477/live/99944/99944/8380.ts
+#EXTINF:-1,NL:FoxSports_6
+http://giant-iptv.com:5477/live/99944/99944/8381.ts
+#EXTINF:-1,PT:SportTV1
+http://giant-iptv.com:5477/live/99944/99944/8425.ts
+#EXTINF:-1,PT:SportTV2
+http://giant-iptv.com:5477/live/99944/99944/8426.ts
+#EXTINF:-1,PT:SportTV4
+http://giant-iptv.com:5477/live/99944/99944/8428.ts
+#EXTINF:-1,PT:SportTV5
+http://giant-iptv.com:5477/live/99944/99944/8429.ts
 #EXTINF:-1,SP Viajar - SP Viajar
 plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1829.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,SP TVI Inter - SP TVI Inter
