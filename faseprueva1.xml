@@ -1,84 +1,6 @@
 #EXTM3U
 #EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,beIN SPORTS 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1675.ts
-#EXTINF:-1,beIN SPORTS 1HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1791.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1674.ts
-#EXTINF:-1,beIN SPORTS 2HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1777.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1566.ts
-#EXTINF:-1,beIN SPORTS 3HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1776.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1565.ts
-#EXTINF:-1,beIN SPORTS 4HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1775.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1564.ts
-#EXTINF:-1,beIN SPORTS 5HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1773.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1563.ts
-#EXTINF:-1,beIN SPORTS 6HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1772.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://www.zeebra.tv:8000/live/mama12/mama12/487.ts
-#EXTINF:-1,beIN SPORTS 7HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1679.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://www.zeebra.tv:8000/live/mama12/mama12/10.ts
-#EXTINF:-1,beIN SPORTS 8HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1678.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://www.zeebra.tv:8000/live/mama12/mama12/9.ts
-#EXTINF:-1,beIN SPORTS 9HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1677.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://www.zeebra.tv:8000/live/mama12/mama12/8.ts
-#EXTINF:-1,beIN SPORTS 10HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1676.ts
-#EXTINF:-1,beIN SPORTS 11 EN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/7.ts
-#EXTINF:-1,beIN SPORTS 12 EN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/6.ts
-#EXTINF:-1,beIN SPORTS 13 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/5.ts
-#EXTINF:-1,beIN SPORTS 14 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/4.ts
-#EXTINF:-1,beIN SPORTS 15 ES HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3.ts
-#EXTINF:-1,beIN SPORTS 16 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2.ts
-#EXTINF:-1,beIN SPORTS 17 ES HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2917.ts
-#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES: CANAL DCINE HD
-http://iptvch.selfip.info/live/sayed/sayed/2304.ts
-#EXTINF:-1,ES: CANAL LIGA 2 HD
-http://iptvch.selfip.info/live/sayed/sayed/1958.ts
-#EXTINF:-1,ES: CANAL PLUS 2 HD
-http://iptvch.selfip.info/live/sayed/sayed/2300.ts
-#EXTINF:-1,ES: CANAL+ ACTION HD
-http://iptvch.selfip.info/live/sayed/sayed/1959.ts
-#EXTINF:-1,ES: Canal+ Comedy
-http://iptvch.selfip.info/live/sayed/sayed/286.ts
-#EXTINF:-1,ES: CANAL+ DEPORTES
-http://iptvch.selfip.info/live/sayed/sayed/962.ts
-#EXTINF:-1,ES: Canal+ Futbol HD
-http://iptvch.selfip.info/live/sayed/sayed/851.ts
-#EXTINF:-1,ES: CANAL+ HD
-http://iptvch.selfip.info/live/sayed/sayed/2303.ts
-#EXTINF:-1,ES: CANAL+ LA LIGA HD
-http://iptvch.selfip.info/live/sayed/sayed/1960.ts
-#EXTINF:-1,ES: CANAL+ LIGA
-http://iptvch.selfip.info/live/sayed/sayed/850.ts
-#EXTINF:-1,ES: COSMO HD
-http://iptvch.selfip.info/live/sayed/sayed/2301.ts
-#EXTINF:-1,ES: MOVIESTAR F1
-http://iptvch.selfip.info/live/sayed/sayed/2162.ts
+
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,ARABIA:BEIN SPORT 2 HD By www.iptv4free.com
 http://163.172.217.53:8000/live/5grandiptv915/67863345/524.ts
@@ -118,7 +40,6 @@ http://163.172.217.53:8000/live/5grandiptv915/67863345/1335.ts
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1302.ts
 #EXTINF:-1,OSN:MBC PRO SPORTS 1 HD
 http://163.172.217.53:8000/live/5grandiptv915/67863345/1301.ts
-#EXTM3U
 #EXTINF:-1,#### BEINSPORT ARABIC SD ####
 http://iptvtop.com:8888/live/nedned/nedned/1.ts
 #EXTINF:-1,AR: BeinSport1_SD
