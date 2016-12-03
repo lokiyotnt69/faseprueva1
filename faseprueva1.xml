@@ -1,1810 +1,296 @@
 #EXTM3U
 #EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,------- Spanish ---------
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1072.ts
+#EXTINF:-1,ES: Taquilla 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1071.ts
+#EXTINF:-1,ES: Taquilla 2
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1070.ts
+#EXTINF:-1,ES: Taquilla 3
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1069.ts
+#EXTINF:-1,ES: Taquilla 4
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1068.ts
+#EXTINF:-1,ES: Taquilla 5
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1067.ts
+#EXTINF:-1,ES: Taquilla 6
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1066.ts
+#EXTINF:-1,ES: Taquilla 7
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1065.ts
+#EXTINF:-1,ES: Taquilla 8
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1064.ts
+#EXTINF:-1,ES: Taquilla 9
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1063.ts
+#EXTINF:-1,ES: Taquilla 10
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1062.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1012.ts
+#EXTINF:-1,ES: Canal+ Futpol
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1020.ts
+#EXTINF:-1,ES: Canal+ Golf
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1019.ts
+#EXTINF:-1,ES: Canal+ HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1016.ts
+#EXTINF:-1,ES: Canal+ Accion
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1030.ts
+#EXTINF:-1,ES: Canal+ Dcine
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1028.ts
+#EXTINF:-1,ES: Canal+ Comedia
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1031.ts
+#EXTINF:-1,ES: Canal+ Estrenos HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1059.ts
+#EXTINF:-1,ES: Canal+ de las Estrellas
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1048.ts
+#EXTINF:-1,ES: Canal+ Series
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1058.ts
+#EXTINF:-1,ES: Canal+ Serie Xtra
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1004.ts
+#EXTINF:-1,ES: Canal+ Cuatro
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1026.ts
+#EXTINF:-1,ES: Canal+ Dcine Espanol
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1033.ts
+#EXTINF:-1,ES: Canal+ Cocina
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1024.ts
+#EXTINF:-1,ES: Canal+ AXN HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1054.ts
+#EXTINF:-1,ES: Canal+ Toros
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1049.ts
+#EXTINF:-1,ES: Canal Los40
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1002.ts
+#EXTINF:-1,ES: Canal+ Nova
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1034.ts
+#EXTINF:-1,ES: Canal+ Fox HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1029.ts
+#EXTINF:-1,ES: Canal T HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1047.ts
+#EXTINF:-1,ES: Canal MicroVision HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1041.ts
+#EXTINF:-1,ES: Canal+ 40
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1039.ts
+#EXTINF:-1,ES: 24 Horas
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1046.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1003.ts
+#EXTINF:-1,ES: Barca TV
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1021.ts
+#EXTINF:-1,ES: Movis Star Moto Gp
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1011.ts
+#EXTINF:-1,ES: Movi Star F1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1010.ts
+#EXTINF:-1,ES: Comedy Central
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1042.ts
+#EXTINF:-1,ES: Teledeportes
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1050.ts
+#EXTINF:-1,ES: Clan TVE
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1045.ts
+#EXTINF:-1,ES: Real Madrid
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1037.ts
+#EXTINF:-1,ES: La 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1014.ts
+#EXTINF:-1,ES: La 2
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1013.ts
+#EXTINF:-1,ES: Canal+ Cine
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1025.ts
+#EXTINF:-1,ES: La  Sexta HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1017.ts
+#EXTINF:-1,ES: TV Galicia
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1015.ts
+#EXTINF:-1,ES: News DW
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1053.ts
+#EXTINF:-1,ES: Proyecto 40
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1056.ts
+#EXTINF:-1,ES: Azteca Noticias
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1061.ts
+#EXTINF:-1,ES: 324 Entertainment
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1005.ts
+#EXTINF:-1,ES: Fox Life
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1060.ts
+#EXTINF:-1,ES: Hollywood
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1036.ts
+#EXTINF:-1,ES: Axn White HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1023.ts
+#EXTINF:-1,ES: History
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1051.ts
+#EXTINF:-1,ES: Calle 13 Spain
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1009.ts
+#EXTINF:-1,ES: Azteca trece
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1018.ts
+#EXTINF:-1,ES: Anime
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/999.ts
+#EXTINF:-1,ES: Azteca 7 Monterrey
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1035.ts
+#EXTINF:-1,ES: Antena 3 Internacional
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1000.ts
+#EXTINF:-1,ES: A&E
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1001.ts
+#EXTINF:-1,ES: FDF
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1007.ts
+#EXTINF:-1,ES: Caza Y Pesca
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1027.ts
+#EXTINF:-1,ES: Viajar
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1043.ts
+#EXTINF:-1,ES: Teleticino
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1008.ts
+#EXTINF:-1,ES: National Geographic
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1057.ts
+#EXTINF:-1,ES: National Geographic Wild
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1055.ts
+#EXTINF:-1,ES: Disney Chaneel
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1040.ts
+#EXTINF:-1,ES: Disney XD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1038.ts
+#EXTINF:-1,ES: TNT
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1032.ts
+#EXTINF:-1,ES: TVN Chile HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1006.ts
+#EXTINF:-1,ES: CHILE La Red
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1052.ts
+#EXTINF:-1,ES: ITV HD Chile
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1044.ts
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,---Bein-Sp-----------------------
+http://149.202.77.226:7500/live/telecom1/telecom1/885.ts
+#EXTINF:-1,BeinSport-HD1
+http://149.202.77.226:7500/live/telecom1/telecom1/1033.ts
+#EXTINF:-1,BeinSport-HD2
+http://149.202.77.226:7500/live/telecom1/telecom1/1031.ts
+#EXTINF:-1,BeinSport-HD3
+http://149.202.77.226:7500/live/telecom1/telecom1/1030.ts
+#EXTINF:-1,BeinSport-HD4
+http://149.202.77.226:7500/live/telecom1/telecom1/1029.ts
+#EXTINF:-1,BeinSport-HD5
+http://149.202.77.226:7500/live/telecom1/telecom1/1028.ts
+#EXTINF:-1,BeinSport-HD6
+http://149.202.77.226:7500/live/telecom1/telecom1/1027.ts
+#EXTINF:-1,BeinSport-HD7
+http://149.202.77.226:7500/live/telecom1/telecom1/1026.ts
+#EXTINF:-1,BeinSport-HD8
+http://149.202.77.226:7500/live/telecom1/telecom1/1025.ts
+#EXTINF:-1,BeinSport-HD9
+http://149.202.77.226:7500/live/telecom1/telecom1/1024.ts
+#EXTINF:-1,BeinSport-HD10
+http://149.202.77.226:7500/live/telecom1/telecom1/1032.ts
+#EXTINF:-1,BEIN-S1
+http://149.202.77.226:7500/live/telecom1/telecom1/528.ts
+#EXTINF:-1,BEIN-S2
+http://149.202.77.226:7500/live/telecom1/telecom1/529.ts
+#EXTINF:-1,BEIN-S3
+http://149.202.77.226:7500/live/telecom1/telecom1/530.ts
+#EXTINF:-1,BEIN-S4
+http://149.202.77.226:7500/live/telecom1/telecom1/531.ts
+#EXTINF:-1,BEIN-S5
+http://149.202.77.226:7500/live/telecom1/telecom1/532.ts
+#EXTINF:-1,BEIN-S6
+http://149.202.77.226:7500/live/telecom1/telecom1/533.ts
+#EXTINF:-1,BEIN-S7
+http://149.202.77.226:7500/live/telecom1/telecom1/534.ts
+#EXTINF:-1,BEIN-S8
+http://149.202.77.226:7500/live/telecom1/telecom1/535.ts
+#EXTINF:-1,BEIN-S9
+http://149.202.77.226:7500/live/telecom1/telecom1/536.ts
+#EXTINF:-1,BEIN-S10
+http://149.202.77.226:7500/live/telecom1/telecom1/537.ts
+#EXTINF:-1,BEIN_MOVIES_1HD
+http://149.202.77.226:7500/live/telecom1/telecom1/952.ts
+#EXTINF:-1,BEIN_MOVIES_2HD
+http://149.202.77.226:7500/live/telecom1/telecom1/953.ts
+#EXTINF:-1,Bein-Sport1
+http://149.202.77.226:7500/live/telecom1/telecom1/603.ts
+#EXTINF:-1,Bein-Sport2
+http://149.202.77.226:7500/live/telecom1/telecom1/604.ts
+#EXTINF:-1,Bein-Sport3
+http://149.202.77.226:7500/live/telecom1/telecom1/605.ts
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,***** SPAIN *****
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2669.ts
+#EXTINF:-1,SP | FDF
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2650.ts
+#EXTINF:-1,SP | La Sexta HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2649.ts
+#EXTINF:-1,SP | DCINE
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2651.ts
+#EXTINF:-1,SP | TV3 CAT
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2664.ts
+#EXTINF:-1,SP | Barca TV
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2648.ts
+#EXTINF:-1,SP | Teledeporte
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2657.ts
+#EXTINF:-1,SP | CALLE 13
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2640.ts
+#EXTINF:-1,SP | NEOX
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2641.ts
+#EXTINF:-1,SP | NOVA
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2666.ts
+#EXTINF:-1,SP | A&E
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://sutverduz.com:8080/live/test2911/GxdUTtuMN9/2644.ts
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
 
 
 
 
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,-------  Arabic CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2672.ts
-#EXTINF:-1,MBC1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2619.ts
-#EXTINF:-1,MBC2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2620.ts
-#EXTINF:-1,MBC3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2621.ts
-#EXTINF:-1,MBC4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2622.ts
-#EXTINF:-1,MBC MAX HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2623.ts
-#EXTINF:-1,MBC Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2625.ts
-#EXTINF:-1,MBC Action HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2627.ts
-#EXTINF:-1,MBC Bollywood
-http://www.zeebra.tv:8000/live/mama12/mama12/2626.ts
-#EXTINF:-1,MBC MASR
-http://www.zeebra.tv:8000/live/mama12/mama12/2624.ts
-#EXTINF:-1,MBC Masr 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2628.ts
-#EXTINF:-1,Abu Dhabi TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2640.ts
-#EXTINF:-1,AD Al Emarat
-http://www.zeebra.tv:8000/live/mama12/mama12/2641.ts
-#EXTINF:-1,AD Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/2643.ts
-#EXTINF:-1,YAS SPORTS HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2694.ts
-#EXTINF:-1,Majid Kids
-http://www.zeebra.tv:8000/live/mama12/mama12/2642.ts
-#EXTINF:-1,AD Nat Geo HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2629.ts
-#EXTINF:-1,Dubai
-http://www.zeebra.tv:8000/live/mama12/mama12/2634.ts
-#EXTINF:-1,Dubai Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/2636.ts
-#EXTINF:-1,Dubai Zaman
-http://www.zeebra.tv:8000/live/mama12/mama12/2638.ts
-#EXTINF:-1,Sama Dubai
-http://www.zeebra.tv:8000/live/mama12/mama12/2635.ts
-#EXTINF:-1,NOOR DUBAI
-http://www.zeebra.tv:8000/live/mama12/mama12/2639.ts
-#EXTINF:-1,Dubai One
-http://www.zeebra.tv:8000/live/mama12/mama12/2633.ts
-#EXTINF:-1,Dubai Racing
-http://www.zeebra.tv:8000/live/mama12/mama12/2637.ts
-#EXTINF:-1,Dubai Sport 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2630.ts
-#EXTINF:-1,Dubai Sport 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2631.ts
-#EXTINF:-1,Dubai Sport 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2632.ts
-#EXTINF:-1,SKY NEWS ARABIA
-http://www.zeebra.tv:8000/live/mama12/mama12/2655.ts
-#EXTINF:-1,BBC Arabia
-http://www.zeebra.tv:8000/live/mama12/mama12/2652.ts
-#EXTINF:-1,EuroNews
-http://www.zeebra.tv:8000/live/mama12/mama12/2653.ts
-#EXTINF:-1,FRANCE24
-http://www.zeebra.tv:8000/live/mama12/mama12/2656.ts
-#EXTINF:-1,RT
-http://www.zeebra.tv:8000/live/mama12/mama12/2654.ts
-#EXTINF:-1,Aljazeera
-http://www.zeebra.tv:8000/live/mama12/mama12/2649.ts
-#EXTINF:-1,Aljazeera Doc
-http://www.zeebra.tv:8000/live/mama12/mama12/2651.ts
-#EXTINF:-1,Aljazeera Mubasher
-http://www.zeebra.tv:8000/live/mama12/mama12/2650.ts
-#EXTINF:-1,Alarabiya
-http://www.zeebra.tv:8000/live/mama12/mama12/2647.ts
-#EXTINF:-1,Alarabiya Alhadath
-http://www.zeebra.tv:8000/live/mama12/mama12/2648.ts
-#EXTINF:-1,Rotana Cinema
-http://www.zeebra.tv:8000/live/mama12/mama12/2692.ts
-#EXTINF:-1,Rotana Aflam
-http://www.zeebra.tv:8000/live/mama12/mama12/2689.ts
-#EXTINF:-1,Rotana Khalijia
-http://www.zeebra.tv:8000/live/mama12/mama12/2687.ts
-#EXTINF:-1,Rotana Masriya
-http://www.zeebra.tv:8000/live/mama12/mama12/2690.ts
-#EXTINF:-1,Rotana Classic
-http://www.zeebra.tv:8000/live/mama12/mama12/2693.ts
-#EXTINF:-1,Rotana Clip
-http://www.zeebra.tv:8000/live/mama12/mama12/2691.ts
-#EXTINF:-1,Rotana Music
-http://www.zeebra.tv:8000/live/mama12/mama12/2688.ts
-#EXTINF:-1,CBC TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2920.ts
-#EXTINF:-1,CBC +2
-http://www.zeebra.tv:8000/live/mama12/mama12/2921.ts
-#EXTINF:-1,CBC Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/2918.ts
-#EXTINF:-1,CBC SOFRA
-http://www.zeebra.tv:8000/live/mama12/mama12/2914.ts
-#EXTINF:-1,Panorama Film
-http://www.zeebra.tv:8000/live/mama12/mama12/3057.ts
-#EXTINF:-1,Panorama Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/3059.ts
-#EXTINF:-1,PANORAMA DRAMA_2
-http://www.zeebra.tv:8000/live/mama12/mama12/3058.ts
-#EXTINF:-1,Panorama Comedy
-http://www.zeebra.tv:8000/live/mama12/mama12/3060.ts
-#EXTINF:-1,Nile Life
-http://www.zeebra.tv:8000/live/mama12/mama12/3062.ts
-#EXTINF:-1,Nile Family
-http://www.zeebra.tv:8000/live/mama12/mama12/3063.ts
-#EXTINF:-1,Nile Comedy
-http://www.zeebra.tv:8000/live/mama12/mama12/3064.ts
-#EXTINF:-1,Nile Cinema
-http://www.zeebra.tv:8000/live/mama12/mama12/3065.ts
-#EXTINF:-1,Moga Comedy
-http://www.zeebra.tv:8000/live/mama12/mama12/3056.ts
-#EXTINF:-1,Nile Sport
-http://www.zeebra.tv:8000/live/mama12/mama12/3061.ts
-#EXTINF:-1,ALAHLY TV
-http://www.zeebra.tv:8000/live/mama12/mama12/3055.ts
-#EXTINF:-1,HEYA TV
-http://www.zeebra.tv:8000/live/mama12/mama12/3054.ts
-#EXTINF:-1,Dream
-http://www.zeebra.tv:8000/live/mama12/mama12/3053.ts
-#EXTINF:-1,AL QAHERA WAL NAS
-http://www.zeebra.tv:8000/live/mama12/mama12/3052.ts
-#EXTINF:-1,ORIENT
-http://www.zeebra.tv:8000/live/mama12/mama12/3051.ts
-#EXTINF:-1,Samira tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2927.ts
-#EXTINF:-1,ZEE Aflam
-http://www.zeebra.tv:8000/live/mama12/mama12/2685.ts
-#EXTINF:-1,Zee Alwan
-http://www.zeebra.tv:8000/live/mama12/mama12/2680.ts
-#EXTINF:-1,B4U Aflam
-http://www.zeebra.tv:8000/live/mama12/mama12/2679.ts
-#EXTINF:-1,B4U PLUS
-http://www.zeebra.tv:8000/live/mama12/mama12/2686.ts
-#EXTINF:-1,Baraem
-http://www.zeebra.tv:8000/live/mama12/mama12/2682.ts
-#EXTINF:-1,Mickey Channel
-http://www.zeebra.tv:8000/live/mama12/mama12/2919.ts
-#EXTINF:-1,Cartoon Network Arabic
-http://www.zeebra.tv:8000/live/mama12/mama12/2916.ts
-#EXTINF:-1,Taha
-http://www.zeebra.tv:8000/live/mama12/mama12/3046.ts
-#EXTINF:-1,Toyor Aljanah
-http://www.zeebra.tv:8000/live/mama12/mama12/3047.ts
-#EXTINF:-1,BAHRAIN
-http://www.zeebra.tv:8000/live/mama12/mama12/2644.ts
-#EXTINF:-1,BAHRAIN International
-http://www.zeebra.tv:8000/live/mama12/mama12/2645.ts
-#EXTINF:-1,BAHRAIN SPORT
-http://www.zeebra.tv:8000/live/mama12/mama12/2646.ts
-#EXTINF:-1,Kuwait
-http://www.zeebra.tv:8000/live/mama12/mama12/2681.ts
-#EXTINF:-1,Alrai
-http://www.zeebra.tv:8000/live/mama12/mama12/2913.ts
-#EXTINF:-1,Funoon
-http://www.zeebra.tv:8000/live/mama12/mama12/2657.ts
-#EXTINF:-1,Qatar
-http://www.zeebra.tv:8000/live/mama12/mama12/2695.ts
-#EXTINF:-1,Oman
-http://www.zeebra.tv:8000/live/mama12/mama12/2939.ts
-#EXTINF:-1,Oman Thakafia
-http://www.zeebra.tv:8000/live/mama12/mama12/3086.ts
-#EXTINF:-1,Oman Riyadhia
-http://www.zeebra.tv:8000/live/mama12/mama12/3085.ts
-#EXTINF:-1,Saudi-1
-http://www.zeebra.tv:8000/live/mama12/mama12/2684.ts
-#EXTINF:-1,Al Oula
-http://www.zeebra.tv:8000/live/mama12/mama12/2930.ts
-#EXTINF:-1,2M Monde
-http://www.zeebra.tv:8000/live/mama12/mama12/2931.ts
-#EXTINF:-1,Assadissa
-http://www.zeebra.tv:8000/live/mama12/mama12/2938.ts
-#EXTINF:-1,Arriadia
-http://www.zeebra.tv:8000/live/mama12/mama12/2933.ts
-#EXTINF:-1,Tunisia national 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2928.ts
-#EXTINF:-1,Tunisia national 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2929.ts
-#EXTINF:-1,Nessma tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2936.ts
-#EXTINF:-1,Hannibal tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2937.ts
-#EXTINF:-1,LBC
-http://www.zeebra.tv:8000/live/mama12/mama12/2935.ts
-#EXTINF:-1,Future tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2934.ts
-#EXTINF:-1,NBN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3048.ts
-#EXTINF:-1,MTV Lebanon
-http://www.zeebra.tv:8000/live/mama12/mama12/3045.ts
-#EXTINF:-1,LDC
-http://www.zeebra.tv:8000/live/mama12/mama12/3049.ts
-#EXTINF:-1,BELQEES Yemen
-http://www.zeebra.tv:8000/live/mama12/mama12/3050.ts
-#EXTINF:-1,Aljadeed
-http://www.zeebra.tv:8000/live/mama12/mama12/3044.ts
-#EXTINF:-1,OTV
-http://www.zeebra.tv:8000/live/mama12/mama12/3043.ts
-#EXTINF:-1,ALALAM
-http://www.zeebra.tv:8000/live/mama12/mama12/2831.ts
-#EXTINF:-1,AL MANAR
-http://www.zeebra.tv:8000/live/mama12/mama12/2830.ts
-#EXTINF:-1,Al Mayadeen TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2833.ts
-#EXTINF:-1,Syria
-http://www.zeebra.tv:8000/live/mama12/mama12/2587.ts
-#EXTINF:-1,Syria Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/2932.ts
-#EXTINF:-1,Karbala
-http://www.zeebra.tv:8000/live/mama12/mama12/2776.ts
-#EXTINF:-1,ALAnwar
-http://www.zeebra.tv:8000/live/mama12/mama12/2941.ts
-#EXTINF:-1,ALMAAREF
-http://www.zeebra.tv:8000/live/mama12/mama12/2940.ts
-#EXTINF:-1,Al Forat
-http://www.zeebra.tv:8000/live/mama12/mama12/2915.ts
-#EXTINF:-1,I Film Arabic
-http://www.zeebra.tv:8000/live/mama12/mama12/2779.ts
-#EXTINF:-1,Almajd 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2923.ts
-#EXTINF:-1,ALMAJD QURAN
-http://www.zeebra.tv:8000/live/mama12/mama12/2924.ts
-#EXTINF:-1,IQRAA
-http://www.zeebra.tv:8000/live/mama12/mama12/2925.ts
-#EXTINF:-1,Al Resala
-http://www.zeebra.tv:8000/live/mama12/mama12/2926.ts
-#EXTINF:-1,Al Rahma
-http://www.zeebra.tv:8000/live/mama12/mama12/2922.ts
-#EXTINF:-1,Al Fajer
-http://www.zeebra.tv:8000/live/mama12/mama12/2601.ts
-#EXTINF:-1,------- beIN SPORTS CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2380.ts
-#EXTINF:-1,beIN SPORTS 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1675.ts
-#EXTINF:-1,beIN SPORTS 1HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1791.ts
-#EXTINF:-1,beIN SPORTS 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1674.ts
-#EXTINF:-1,beIN SPORTS 2HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1777.ts
-#EXTINF:-1,beIN SPORTS 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1566.ts
-#EXTINF:-1,beIN SPORTS 3HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1776.ts
-#EXTINF:-1,beIN SPORTS 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1565.ts
-#EXTINF:-1,beIN SPORTS 4HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1775.ts
-#EXTINF:-1,beIN SPORTS 5HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1564.ts
-#EXTINF:-1,beIN SPORTS 5HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1773.ts
-#EXTINF:-1,beIN SPORTS 6HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1563.ts
-#EXTINF:-1,beIN SPORTS 6HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1772.ts
-#EXTINF:-1,beIN SPORTS 7HD
-http://www.zeebra.tv:8000/live/mama12/mama12/487.ts
-#EXTINF:-1,beIN SPORTS 7HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1679.ts
-#EXTINF:-1,beIN SPORTS 8HD
-http://www.zeebra.tv:8000/live/mama12/mama12/10.ts
-#EXTINF:-1,beIN SPORTS 8HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1678.ts
-#EXTINF:-1,beIN SPORTS 9HD
-http://www.zeebra.tv:8000/live/mama12/mama12/9.ts
-#EXTINF:-1,beIN SPORTS 9HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1677.ts
-#EXTINF:-1,beIN SPORTS 10HD
-http://www.zeebra.tv:8000/live/mama12/mama12/8.ts
-#EXTINF:-1,beIN SPORTS 10HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/1676.ts
-#EXTINF:-1,beIN SPORTS 11 EN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/7.ts
-#EXTINF:-1,beIN SPORTS 12 EN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/6.ts
-#EXTINF:-1,beIN SPORTS 13 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/5.ts
-#EXTINF:-1,beIN SPORTS 14 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/4.ts
-#EXTINF:-1,beIN SPORTS 15 ES HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3.ts
-#EXTINF:-1,beIN SPORTS 16 FR HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2.ts
-#EXTINF:-1,beIN SPORTS 17 ES HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2917.ts
-#EXTINF:-1,beIN SPORTS NBA HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3066.ts
-#EXTINF:-1,beIN MOVIES 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2388.ts
-#EXTINF:-1,beIN MOVIES 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2459.ts
-#EXTINF:-1,beIN MOVIES 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2617.ts
-#EXTINF:-1,beIN MOVIES 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2835.ts
-#EXTINF:-1,beIN SERIES 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3084.ts
-#EXTINF:-1,beIN Fatafeat HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2683.ts
-#EXTINF:-1,beIN Baraem HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2837.ts
-#EXTINF:-1,beIN Jeem HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2583.ts
-#EXTINF:-1,beIN Dream Works HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2998.ts
-#EXTINF:-1,beIN JUNIOR KIDS HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2867.ts
-#EXTINF:-1,beIN SPORTS NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/2673.ts
-#EXTINF:-1,beIN SPORTS
-http://www.zeebra.tv:8000/live/mama12/mama12/2674.ts
-#EXTINF:-1,beIN SPORTS 1
-http://www.zeebra.tv:8000/live/mama12/mama12/3069.ts
-#EXTINF:-1,beIN SPORTS 1+
-http://www.zeebra.tv:8000/live/mama12/mama12/3108.ts
-#EXTINF:-1,beIN SPORTS 2
-http://www.zeebra.tv:8000/live/mama12/mama12/3070.ts
-#EXTINF:-1,beIN SPORTS 2+
-http://www.zeebra.tv:8000/live/mama12/mama12/3109.ts
-#EXTINF:-1,beIN SPORTS 3
-http://www.zeebra.tv:8000/live/mama12/mama12/3071.ts
-#EXTINF:-1,beIN SPORTS 3+
-http://www.zeebra.tv:8000/live/mama12/mama12/3110.ts
-#EXTINF:-1,beIN SPORTS 4
-http://www.zeebra.tv:8000/live/mama12/mama12/3072.ts
-#EXTINF:-1,beIN SPORTS 4+
-http://www.zeebra.tv:8000/live/mama12/mama12/3111.ts
-#EXTINF:-1,beIN SPORTS 5
-http://www.zeebra.tv:8000/live/mama12/mama12/3073.ts
-#EXTINF:-1,beIN SPORTS 5+
-http://www.zeebra.tv:8000/live/mama12/mama12/3112.ts
-#EXTINF:-1,beIN SPORTS 6
-http://www.zeebra.tv:8000/live/mama12/mama12/3076.ts
-#EXTINF:-1,beIN SPORTS 6+
-http://www.zeebra.tv:8000/live/mama12/mama12/3113.ts
-#EXTINF:-1,beIN SPORTS 7
-http://www.zeebra.tv:8000/live/mama12/mama12/3077.ts
-#EXTINF:-1,beIN SPORTS 7+
-http://www.zeebra.tv:8000/live/mama12/mama12/3114.ts
-#EXTINF:-1,beIN SPORTS 8
-http://www.zeebra.tv:8000/live/mama12/mama12/3078.ts
-#EXTINF:-1,beIN SPORTS 8+
-http://www.zeebra.tv:8000/live/mama12/mama12/3115.ts
-#EXTINF:-1,beIN SPORTS 9
-http://www.zeebra.tv:8000/live/mama12/mama12/3079.ts
-#EXTINF:-1,beIN SPORTS 9+
-http://www.zeebra.tv:8000/live/mama12/mama12/3116.ts
-#EXTINF:-1,beIN SPORTS 10
-http://www.zeebra.tv:8000/live/mama12/mama12/3080.ts
-#EXTINF:-1,beIN SPORTS 10+
-http://www.zeebra.tv:8000/live/mama12/mama12/3117.ts
-#EXTINF:-1,beIN SPORTS 11 EN
-http://www.zeebra.tv:8000/live/mama12/mama12/3118.ts
-#EXTINF:-1,beIN SPORTS 12 EN
-http://www.zeebra.tv:8000/live/mama12/mama12/3119.ts
-#EXTINF:-1,beIN MOVIES 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2549.ts
-#EXTINF:-1,beIN MOVIES 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2548.ts
-#EXTINF:-1,-------  MBC PRO SPORT CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2595.ts
-#EXTINF:-1,MBC Pro Sports 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2594.ts
-#EXTINF:-1,MBC Pro Sports 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2593.ts
-#EXTINF:-1,MBC Pro Sports 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2592.ts
-#EXTINF:-1,-------  AlKASS TV CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2573.ts
-#EXTINF:-1,AlKASS 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2569.ts
-#EXTINF:-1,AlKASS 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2570.ts
-#EXTINF:-1,AlKASS 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2571.ts
-#EXTINF:-1,AlKASS 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2572.ts
-#EXTINF:-1,------- OSN SPORTS CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2410.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2411.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2412.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2413.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2415.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 5HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2895.ts
-#EXTINF:-1,OSN Abu Dhabi Sports 6HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2523.ts
-#EXTINF:-1,OSN SPORTS 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3029.ts
-#EXTINF:-1,OSN SPORTS 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2295.ts
-#EXTINF:-1,OSN SPORTS 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3030.ts
-#EXTINF:-1,OSN SPORTS 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2416.ts
-#EXTINF:-1,OSN SPORTS CRICKET HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3082.ts
-#EXTINF:-1,OSN WWE Network HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2417.ts
-#EXTINF:-1,OSN WWE Network HD+
-http://www.zeebra.tv:8000/live/mama12/mama12/2483.ts
-#EXTINF:-1,OSN Fight Network
-http://www.zeebra.tv:8000/live/mama12/mama12/2848.ts
-#EXTINF:-1,------- OSN CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2381.ts
-#EXTINF:-1,OSN DISCOVERY HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2291.ts
-#EXTINF:-1,OSN Discovery Sc HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1800.ts
-#EXTINF:-1,OSN Discovery Life HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3042.ts
-#EXTINF:-1,OSN DISCOVERY ID HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2894.ts
-#EXTINF:-1,OSN ANIMUX HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2836.ts
-#EXTINF:-1,OSN Nat People HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2586.ts
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2241.ts
-#EXTINF:-1,OSN Animal Planet HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1927.ts
-#EXTINF:-1,OSN Outdoor HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2892.ts
-#EXTINF:-1,OSN History HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2768.ts
-#EXTINF:-1,OSN H2
-http://www.zeebra.tv:8000/live/mama12/mama12/2765.ts
-#EXTINF:-1,OSN DMAX
-http://www.zeebra.tv:8000/live/mama12/mama12/2766.ts
-#EXTINF:-1,OSN Travel
-http://www.zeebra.tv:8000/live/mama12/mama12/2585.ts
-#EXTINF:-1,OSN News
-http://www.zeebra.tv:8000/live/mama12/mama12/3081.ts
-#EXTINF:-1,OSN Ya Hala! HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1823.ts
-#EXTINF:-1,OSN Yahala HD+2
-http://www.zeebra.tv:8000/live/mama12/mama12/2582.ts
-#EXTINF:-1,OSN Ya Hala! Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2239.ts
-#EXTINF:-1,OSN Yahala Shabab HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2242.ts
-#EXTINF:-1,OSN Yahala Cinema HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2616.ts
-#EXTINF:-1,OSN SeeVii Al Aoula HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2843.ts
-#EXTINF:-1,OSN SeeVii Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2581.ts
-#EXTINF:-1,OSN SeeVii Beelink HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2767.ts
-#EXTINF:-1,OSN SeeVii Shamiya HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2596.ts
-#EXTINF:-1,OSN MBC+ Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1798.ts
-#EXTINF:-1,OSN MBC P Variety HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2618.ts
-#EXTINF:-1,OSN Series HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3038.ts
-#EXTINF:-1,OSN Fann
-http://www.zeebra.tv:8000/live/mama12/mama12/3068.ts
-#EXTINF:-1,OSN Al Yawm
-http://www.zeebra.tv:8000/live/mama12/mama12/2482.ts
-#EXTINF:-1,OSN Al Safwa
-http://www.zeebra.tv:8000/live/mama12/mama12/2881.ts
-#EXTINF:-1,OSN CINEMA 1
-http://www.zeebra.tv:8000/live/mama12/mama12/1910.ts
-#EXTINF:-1,OSN CINEMA 2
-http://www.zeebra.tv:8000/live/mama12/mama12/1909.ts
-#EXTINF:-1,OSN ART Aflam 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2405.ts
-#EXTINF:-1,OSN ART Aflam 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2406.ts
-#EXTINF:-1,OSN ART Cinema
-http://www.zeebra.tv:8000/live/mama12/mama12/2409.ts
-#EXTINF:-1,OSN ART Hekayat 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2407.ts
-#EXTINF:-1,OSN ART Hekayat 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2408.ts
-#EXTINF:-1,OSN Movies HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2289.ts
-#EXTINF:-1,OSN Movies 2+HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2615.ts
-#EXTINF:-1,OSN Movies Action HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2245.ts
-#EXTINF:-1,OSN Movies  Action +2
-http://www.zeebra.tv:8000/live/mama12/mama12/1827.ts
-#EXTINF:-1,OSN Movies Premiere HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2246.ts
-#EXTINF:-1,OSN Movies Premier +2
-http://www.zeebra.tv:8000/live/mama12/mama12/2205.ts
-#EXTINF:-1,OSN Movies 007 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3083.ts
-#EXTINF:-1,OSN Movies Comedy HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1915.ts
-#EXTINF:-1,OSN MOVIES COMEDY +2
-http://www.zeebra.tv:8000/live/mama12/mama12/3037.ts
-#EXTINF:-1,OSN Movies Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1877.ts
-#EXTINF:-1,OSN MOVIES FESTIVAL HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2244.ts
-#EXTINF:-1,OSN MOVIES Kids HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1914.ts
-#EXTINF:-1,OSN Movies Family HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2995.ts
-#EXTINF:-1,OSN Comedy Central
-http://www.zeebra.tv:8000/live/mama12/mama12/3041.ts
-#EXTINF:-1,OSN Syfy HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3039.ts
-#EXTINF:-1,OSN AMC HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3007.ts
-#EXTINF:-1,OSN FX HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2908.ts
-#EXTINF:-1,OSN FOX HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3074.ts
-#EXTINF:-1,OSN Fox Movies HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3075.ts
-#EXTINF:-1,OSN Fox Movies Action HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2598.ts
-#EXTINF:-1,OSN Fox Family Movies HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2566.ts
-#EXTINF:-1,OSN Star movies
-http://www.zeebra.tv:8000/live/mama12/mama12/2529.ts
-#EXTINF:-1,OSN Star movies+
-http://www.zeebra.tv:8000/live/mama12/mama12/2574.ts
-#EXTINF:-1,OSN Star world
-http://www.zeebra.tv:8000/live/mama12/mama12/2905.ts
-#EXTINF:-1,OSN Star world+
-http://www.zeebra.tv:8000/live/mama12/mama12/2528.ts
-#EXTINF:-1,OSN First HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1916.ts
-#EXTINF:-1,OSN First HBO HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2912.ts
-#EXTINF:-1,OSN First Comedy HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2292.ts
-#EXTINF:-1,OSN Music Now
-http://www.zeebra.tv:8000/live/mama12/mama12/2588.ts
-#EXTINF:-1,OSN E!
-http://www.zeebra.tv:8000/live/mama12/mama12/2565.ts
-#EXTINF:-1,OSN Fine Living HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2815.ts
-#EXTINF:-1,OSN Food Network
-http://www.zeebra.tv:8000/live/mama12/mama12/2713.ts
-#EXTINF:-1,OSN CBS Reality
-http://www.zeebra.tv:8000/live/mama12/mama12/2597.ts
-#EXTINF:-1,OSN Baby tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2821.ts
-#EXTINF:-1,OSN Disney XD
-http://www.zeebra.tv:8000/live/mama12/mama12/2525.ts
-#EXTINF:-1,OSN Disney Junior
-http://www.zeebra.tv:8000/live/mama12/mama12/2526.ts
-#EXTINF:-1,OSN Disney Channel HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2488.ts
-#EXTINF:-1,OSN Nick Junior
-http://www.zeebra.tv:8000/live/mama12/mama12/2829.ts
-#EXTINF:-1,OSN Nickelodeon
-http://www.zeebra.tv:8000/live/mama12/mama12/2828.ts
-#EXTINF:-1,OSN CARTOON NETWORK
-http://www.zeebra.tv:8000/live/mama12/mama12/2842.ts
-#EXTINF:-1,OSN Boomerang
-http://www.zeebra.tv:8000/live/mama12/mama12/2997.ts
-#EXTINF:-1,OSN Box Office 1
-http://www.zeebra.tv:8000/live/mama12/mama12/1917.ts
-#EXTINF:-1,OSN Box Office 2
-http://www.zeebra.tv:8000/live/mama12/mama12/1878.ts
-#EXTINF:-1,OSN Box Office 3
-http://www.zeebra.tv:8000/live/mama12/mama12/1918.ts
-#EXTINF:-1,OSN Home Cinema 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2460.ts
-#EXTINF:-1,OSN Home Cinema 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2461.ts
-#EXTINF:-1,OSN Home Cinema 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2462.ts
-#EXTINF:-1,OSN Home Cinema 4
-http://www.zeebra.tv:8000/live/mama12/mama12/2463.ts
-#EXTINF:-1,OSN Home Cinema 5
-http://www.zeebra.tv:8000/live/mama12/mama12/3163.ts
-#EXTINF:-1,OSN Home Cinema 6
-http://www.zeebra.tv:8000/live/mama12/mama12/3164.ts
-#EXTINF:-1,OSN Home Cinema 7
-http://www.zeebra.tv:8000/live/mama12/mama12/3165.ts
-#EXTINF:-1,OSN Home Cinema 8
-http://www.zeebra.tv:8000/live/mama12/mama12/3166.ts
-#EXTINF:-1,OSN Home Cinema 9
-http://www.zeebra.tv:8000/live/mama12/mama12/3167.ts
-#EXTINF:-1,OSN Home Cinema 10
-http://www.zeebra.tv:8000/live/mama12/mama12/3168.ts
-#EXTINF:-1,OSN On Demand HD
-http://www.zeebra.tv:8000/live/mama12/mama12/1802.ts
-#EXTINF:-1,OSN On Demand Extra 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2182.ts
-#EXTINF:-1,OSN On Demand Extra 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2996.ts
-#EXTINF:-1,PPV WWE HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2464.ts
-#EXTINF:-1,------- My GMA CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2481.ts
-#EXTINF:-1,OSN TFC
-http://www.zeebra.tv:8000/live/mama12/mama12/2834.ts
-#EXTINF:-1,GMA Life TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2479.ts
-#EXTINF:-1,GMA Pinoy TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2478.ts
-#EXTINF:-1,GMA News TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2480.ts
-#EXTINF:-1,UNTV
-http://www.zeebra.tv:8000/live/mama12/mama12/3121.ts
-#EXTINF:-1,PEOPLES TV
-http://www.zeebra.tv:8000/live/mama12/mama12/3122.ts
-#EXTINF:-1,TV5 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3125.ts
-#EXTINF:-1,ASKYON HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3126.ts
-#EXTINF:-1,ANC HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3127.ts
-#EXTINF:-1,NEWS5
-http://www.zeebra.tv:8000/live/mama12/mama12/3124.ts
-#EXTINF:-1,CNN Philippines
-http://www.zeebra.tv:8000/live/mama12/mama12/3123.ts
-#EXTINF:-1,------- SKY UK CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2383.ts
-#EXTINF:-1,Sky Movies Select HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2307.ts
-#EXTINF:-1,Sky Movies Action HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2314.ts
-#EXTINF:-1,Sky Movies Premiere HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2309.ts
-#EXTINF:-1,Sky Movies Sci-Fi&Horror HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2308.ts
-#EXTINF:-1,Sky Movies Family HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2310.ts
-#EXTINF:-1,Sky Movies Drama HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2311.ts
-#EXTINF:-1,Sky Movies Comedy HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2313.ts
-#EXTINF:-1,Sky Movies Disney HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2312.ts
-#EXTINF:-1,Sky Arts
-http://www.zeebra.tv:8000/live/mama12/mama12/3026.ts
-#EXTINF:-1,ITV 1
-http://www.zeebra.tv:8000/live/mama12/mama12/3008.ts
-#EXTINF:-1,ITV 2
-http://www.zeebra.tv:8000/live/mama12/mama12/3009.ts
-#EXTINF:-1,ITV 3
-http://www.zeebra.tv:8000/live/mama12/mama12/3010.ts
-#EXTINF:-1,ITV 4
-http://www.zeebra.tv:8000/live/mama12/mama12/3011.ts
-#EXTINF:-1,ITV BE
-http://www.zeebra.tv:8000/live/mama12/mama12/3012.ts
-#EXTINF:-1,ITV ENCORE
-http://www.zeebra.tv:8000/live/mama12/mama12/3013.ts
-#EXTINF:-1,Watch
-http://www.zeebra.tv:8000/live/mama12/mama12/3022.ts
-#EXTINF:-1,Yesterday
-http://www.zeebra.tv:8000/live/mama12/mama12/3018.ts
-#EXTINF:-1,TLC-IRELAND
-http://www.zeebra.tv:8000/live/mama12/mama12/3017.ts
-#EXTINF:-1,Good Food
-http://www.zeebra.tv:8000/live/mama12/mama12/3020.ts
-#EXTINF:-1,Comedy Central
-http://www.zeebra.tv:8000/live/mama12/mama12/3019.ts
-#EXTINF:-1,Fox UK
-http://www.zeebra.tv:8000/live/mama12/mama12/3025.ts
-#EXTINF:-1,Gold
-http://www.zeebra.tv:8000/live/mama12/mama12/3023.ts
-#EXTINF:-1,TCM
-http://www.zeebra.tv:8000/live/mama12/mama12/2670.ts
-#EXTINF:-1,Film 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3027.ts
-#EXTINF:-1,E4
-http://www.zeebra.tv:8000/live/mama12/mama12/3021.ts
-#EXTINF:-1,Dave
-http://www.zeebra.tv:8000/live/mama12/mama12/3024.ts
-#EXTINF:-1,CBS Drama
-http://www.zeebra.tv:8000/live/mama12/mama12/3015.ts
-#EXTINF:-1,CBS ACTION
-http://www.zeebra.tv:8000/live/mama12/mama12/3014.ts
-#EXTINF:-1,TRUE MOVIES 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2333.ts
-#EXTINF:-1,TRUE MOVIES 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2334.ts
-#EXTINF:-1,Sky News HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2524.ts
-#EXTINF:-1,Fox News
-http://www.zeebra.tv:8000/live/mama12/mama12/2841.ts
-#EXTINF:-1,CBN
-http://www.zeebra.tv:8000/live/mama12/mama12/2567.ts
-#EXTINF:-1,ABC News
-http://www.zeebra.tv:8000/live/mama12/mama12/2568.ts
-#EXTINF:-1,MTV
-http://www.zeebra.tv:8000/live/mama12/mama12/2658.ts
-#EXTINF:-1,CNN HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2659.ts
-#EXTINF:-1,BBC News
-http://www.zeebra.tv:8000/live/mama12/mama12/2664.ts
-#EXTINF:-1,DMAX
-http://www.zeebra.tv:8000/live/mama12/mama12/2663.ts
-#EXTINF:-1,BBC 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2318.ts
-#EXTINF:-1,BBC 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2319.ts
-#EXTINF:-1,BBC 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2320.ts
-#EXTINF:-1,BBC 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2321.ts
-#EXTINF:-1,Nat Geo Wild
-http://www.zeebra.tv:8000/live/mama12/mama12/2340.ts
-#EXTINF:-1,National Geographic
-http://www.zeebra.tv:8000/live/mama12/mama12/2671.ts
-#EXTINF:-1,ANIMAL PLANET
-http://www.zeebra.tv:8000/live/mama12/mama12/2661.ts
-#EXTINF:-1,DISCOVERY
-http://www.zeebra.tv:8000/live/mama12/mama12/2662.ts
-#EXTINF:-1,Discovery Science
-http://www.zeebra.tv:8000/live/mama12/mama12/2343.ts
-#EXTINF:-1,DISCOVERY TURBO
-http://www.zeebra.tv:8000/live/mama12/mama12/2660.ts
-#EXTINF:-1,DISCOVERY HOME HEALTH
-http://www.zeebra.tv:8000/live/mama12/mama12/2666.ts
-#EXTINF:-1,Animal Planet UK
-http://www.zeebra.tv:8000/live/mama12/mama12/2668.ts
-#EXTINF:-1,Discovery Investigation
-http://www.zeebra.tv:8000/live/mama12/mama12/2667.ts
-#EXTINF:-1,DISCOVERY HISTORY
-http://www.zeebra.tv:8000/live/mama12/mama12/2342.ts
-#EXTINF:-1,History Channel
-http://www.zeebra.tv:8000/live/mama12/mama12/2665.ts
-#EXTINF:-1,Crime & Investigiation
-http://www.zeebra.tv:8000/live/mama12/mama12/2669.ts
-#EXTINF:-1,SKY SPORTS 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2249.ts
-#EXTINF:-1,SKY SPORTS 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2250.ts
-#EXTINF:-1,SKY SPORTS 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2296.ts
-#EXTINF:-1,SKY SPORTS 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2297.ts
-#EXTINF:-1,SKY SPORTS 5 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2298.ts
-#EXTINF:-1,SKY SPORTS F1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2299.ts
-#EXTINF:-1,BT Sports 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2301.ts
-#EXTINF:-1,BT Sports 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2300.ts
-#EXTINF:-1,BT Sports Europe HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2826.ts
-#EXTINF:-1,BT Sports ESPN
-http://www.zeebra.tv:8000/live/mama12/mama12/2816.ts
-#EXTINF:-1,Racing
-http://www.zeebra.tv:8000/live/mama12/mama12/3016.ts
-#EXTINF:-1,Mototrs TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2771.ts
-#EXTINF:-1,EUROSPORT 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2613.ts
-#EXTINF:-1,EUROSPORT 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2614.ts
-#EXTINF:-1,-------  USA CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2712.ts
-#EXTINF:-1,TSN 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2817.ts
-#EXTINF:-1,TSN 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2818.ts
-#EXTINF:-1,TSN 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2819.ts
-#EXTINF:-1,TSN 4
-http://www.zeebra.tv:8000/live/mama12/mama12/2820.ts
-#EXTINF:-1,NBA TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2484.ts
-#EXTINF:-1,ESPN
-http://www.zeebra.tv:8000/live/mama12/mama12/2612.ts
-#EXTINF:-1,ESPN 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2710.ts
-#EXTINF:-1,NFL HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2705.ts
-#EXTINF:-1,Fox Sports 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2703.ts
-#EXTINF:-1,Fox Sports 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2702.ts
-#EXTINF:-1,AFN SPORTS HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2838.ts
-#EXTINF:-1,AFN SPORTS 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2839.ts
-#EXTINF:-1,USA Network
-http://www.zeebra.tv:8000/live/mama12/mama12/2711.ts
-#EXTINF:-1,BRAVO HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2709.ts
-#EXTINF:-1,Poker Central
-http://www.zeebra.tv:8000/live/mama12/mama12/2699.ts
-#EXTINF:-1,SYFY
-http://www.zeebra.tv:8000/live/mama12/mama12/2704.ts
-#EXTINF:-1,ABC
-http://www.zeebra.tv:8000/live/mama12/mama12/2698.ts
-#EXTINF:-1,CW
-http://www.zeebra.tv:8000/live/mama12/mama12/2707.ts
-#EXTINF:-1,AMC
-http://www.zeebra.tv:8000/live/mama12/mama12/2708.ts
-#EXTINF:-1,BYU TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2706.ts
-#EXTINF:-1,BEIN SPORT
-http://www.zeebra.tv:8000/live/mama12/mama12/2700.ts
-#EXTINF:-1,HALLMARK
-http://www.zeebra.tv:8000/live/mama12/mama12/2697.ts
-#EXTINF:-1,------- SKY IT CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2522.ts
-#EXTINF:-1,Sky Sports 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2518.ts
-#EXTINF:-1,Sky Sports 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2520.ts
-#EXTINF:-1,Sky Sports 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2519.ts
-#EXTINF:-1,Sky Sport 24
-http://www.zeebra.tv:8000/live/mama12/mama12/2521.ts
-#EXTINF:-1,Sky Sports F1
-http://www.zeebra.tv:8000/live/mama12/mama12/2517.ts
-#EXTINF:-1,FOX SPORTS
-http://www.zeebra.tv:8000/live/mama12/mama12/2508.ts
-#EXTINF:-1,Supercalcio
-http://www.zeebra.tv:8000/live/mama12/mama12/2575.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2509.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2516.ts
-#EXTINF:-1,SKY CINEMA MAX HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2510.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2511.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2512.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2515.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2513.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2514.ts
-#EXTINF:-1,Sky UNO
-http://www.zeebra.tv:8000/live/mama12/mama12/2576.ts
-#EXTINF:-1,FOX +1
-http://www.zeebra.tv:8000/live/mama12/mama12/2580.ts
-#EXTINF:-1,Fox Life
-http://www.zeebra.tv:8000/live/mama12/mama12/2579.ts
-#EXTINF:-1,Fox Crime
-http://www.zeebra.tv:8000/live/mama12/mama12/2578.ts
-#EXTINF:-1,Sky 3D
-http://www.zeebra.tv:8000/live/mama12/mama12/2770.ts
-#EXTINF:-1,Sky Primafila 01 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2882.ts
-#EXTINF:-1,Sky Primafila 02 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2883.ts
-#EXTINF:-1,Sky Primafila 03 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2884.ts
-#EXTINF:-1,Sky Primafila 04 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2885.ts
-#EXTINF:-1,Sky Primafila 05 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2886.ts
-#EXTINF:-1,Sky Primafila 06 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2887.ts
-#EXTINF:-1,Sky Primafila 07 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2888.ts
-#EXTINF:-1,Sky Primafila 08 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2889.ts
-#EXTINF:-1,Sky Primafila 09 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2890.ts
-#EXTINF:-1,Sky Primafila 10 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2891.ts
-#EXTINF:-1,Sky Primafila 11 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2999.ts
-#EXTINF:-1,Sky Primafila 12 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3000.ts
-#EXTINF:-1,Sky Primafila 13 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3001.ts
-#EXTINF:-1,Sky Primafila 14 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3002.ts
-#EXTINF:-1,Sky Primafila 15 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3003.ts
-#EXTINF:-1,Sky Primafila 16 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3004.ts
-#EXTINF:-1,Sky Primafila 17 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3005.ts
-#EXTINF:-1,Sky Primafila 18 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3006.ts
-#EXTINF:-1,------- CLUB TV CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2530.ts
-#EXTINF:-1,Barca TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2505.ts
-#EXTINF:-1,REAL MADRID TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2502.ts
-#EXTINF:-1,MUTV
-http://www.zeebra.tv:8000/live/mama12/mama12/2402.ts
-#EXTINF:-1,LIVERPOOL TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2485.ts
-#EXTINF:-1,CHELSEA TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2564.ts
-#EXTINF:-1,Roma TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2608.ts
-#EXTINF:-1,Juventus TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2610.ts
-#EXTINF:-1,Inter Channel
-http://www.zeebra.tv:8000/live/mama12/mama12/2611.ts
-#EXTINF:-1,Milan Channel
-http://www.zeebra.tv:8000/live/mama12/mama12/2609.ts
-#EXTINF:-1,-------  TURK CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2813.ts
-#EXTINF:-1,LIG TV1
-http://www.zeebra.tv:8000/live/mama12/mama12/2786.ts
-#EXTINF:-1,LIG TV2
-http://www.zeebra.tv:8000/live/mama12/mama12/2787.ts
-#EXTINF:-1,LIG TV3
-http://www.zeebra.tv:8000/live/mama12/mama12/2788.ts
-#EXTINF:-1,A SPORT
-http://www.zeebra.tv:8000/live/mama12/mama12/2812.ts
-#EXTINF:-1,NTV SPORT
-http://www.zeebra.tv:8000/live/mama12/mama12/2803.ts
-#EXTINF:-1,TRT SPORT HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2827.ts
-#EXTINF:-1,Moviemax Premier
-http://www.zeebra.tv:8000/live/mama12/mama12/2783.ts
-#EXTINF:-1,Moviemax Premier 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2782.ts
-#EXTINF:-1,Moviemax Stars
-http://www.zeebra.tv:8000/live/mama12/mama12/2781.ts
-#EXTINF:-1,Moviemax Festival
-http://www.zeebra.tv:8000/live/mama12/mama12/2784.ts
-#EXTINF:-1,MovieSmart Action HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2811.ts
-#EXTINF:-1,Moviemax Family
-http://www.zeebra.tv:8000/live/mama12/mama12/2785.ts
-#EXTINF:-1,SALON 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2791.ts
-#EXTINF:-1,SALON 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2792.ts
-#EXTINF:-1,SALON 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2793.ts
-#EXTINF:-1,LOCA 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2814.ts
-#EXTINF:-1,LOCA 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2789.ts
-#EXTINF:-1,LOCA 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2790.ts
-#EXTINF:-1,STAR TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2798.ts
-#EXTINF:-1,Show TV HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2794.ts
-#EXTINF:-1,POWER TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2806.ts
-#EXTINF:-1,FOX TV TURK
-http://www.zeebra.tv:8000/live/mama12/mama12/2780.ts
-#EXTINF:-1,KRAL TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2805.ts
-#EXTINF:-1,TV2
-http://www.zeebra.tv:8000/live/mama12/mama12/2807.ts
-#EXTINF:-1,KANAL D HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2799.ts
-#EXTINF:-1,KANAL 7 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2800.ts
-#EXTINF:-1,KANAL 7 AVRUPA
-http://www.zeebra.tv:8000/live/mama12/mama12/2801.ts
-#EXTINF:-1,Fox TV HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2795.ts
-#EXTINF:-1,DREAM TURK
-http://www.zeebra.tv:8000/live/mama12/mama12/2804.ts
-#EXTINF:-1,Beyaz TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2796.ts
-#EXTINF:-1,ATV HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2797.ts
-#EXTINF:-1,TRT HABER HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2810.ts
-#EXTINF:-1,HABER TÜRK
-http://www.zeebra.tv:8000/live/mama12/mama12/2802.ts
-#EXTINF:-1,Nat Geo wild Turk
-http://www.zeebra.tv:8000/live/mama12/mama12/2808.ts
-#EXTINF:-1,CARTON NETWORK TURK
-http://www.zeebra.tv:8000/live/mama12/mama12/2809.ts
-#EXTINF:-1,------- SKY DE CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2384.ts
-#EXTINF:-1,SKY SPORT HD 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2322.ts
-#EXTINF:-1,SKY SPORT HD 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2323.ts
-#EXTINF:-1,Sky Bundesliga HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2425.ts
-#EXTINF:-1,SKY CINEMA HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2859.ts
-#EXTINF:-1,SKY CINEMA 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2866.ts
-#EXTINF:-1,SKY CINEMA 24HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2860.ts
-#EXTINF:-1,SKY HITS
-http://www.zeebra.tv:8000/live/mama12/mama12/2849.ts
-#EXTINF:-1,SKY EMOTION
-http://www.zeebra.tv:8000/live/mama12/mama12/2855.ts
-#EXTINF:-1,SKY COMEDY HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2858.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2850.ts
-#EXTINF:-1,SKY KRIMI HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2854.ts
-#EXTINF:-1,SKY MGM HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2853.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2865.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2864.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2863.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2862.ts
-#EXTINF:-1,SKY SELECT 5 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2861.ts
-#EXTINF:-1,SKY NATGEO WILD HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2852.ts
-#EXTINF:-1,SKY NATIONAL GEOGRAPHIC HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2851.ts
-#EXTINF:-1,SKY DISCOVERY CHANNEL HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2857.ts
-#EXTINF:-1,SKY DISNEY CINEMAGIC
-http://www.zeebra.tv:8000/live/mama12/mama12/2856.ts
-#EXTINF:-1,ARD
-http://www.zeebra.tv:8000/live/mama12/mama12/2419.ts
-#EXTINF:-1,ZDF
-http://www.zeebra.tv:8000/live/mama12/mama12/2418.ts
-#EXTINF:-1,VOX
-http://www.zeebra.tv:8000/live/mama12/mama12/2422.ts
-#EXTINF:-1,Sat1
-http://www.zeebra.tv:8000/live/mama12/mama12/2426.ts
-#EXTINF:-1,RTL
-http://www.zeebra.tv:8000/live/mama12/mama12/2428.ts
-#EXTINF:-1,RTL2
-http://www.zeebra.tv:8000/live/mama12/mama12/2427.ts
-#EXTINF:-1,ORF1
-http://www.zeebra.tv:8000/live/mama12/mama12/2431.ts
-#EXTINF:-1,ORF2
-http://www.zeebra.tv:8000/live/mama12/mama12/2430.ts
-#EXTINF:-1,PRO 7
-http://www.zeebra.tv:8000/live/mama12/mama12/2424.ts
-#EXTINF:-1,Kabel 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2475.ts
-#EXTINF:-1,AXN
-http://www.zeebra.tv:8000/live/mama12/mama12/2429.ts
-#EXTINF:-1,Sixx
-http://www.zeebra.tv:8000/live/mama12/mama12/2423.ts
-#EXTINF:-1,FOX
-http://www.zeebra.tv:8000/live/mama12/mama12/2420.ts
-#EXTINF:-1,------- CSAT FR CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2382.ts
-#EXTINF:-1,BEINSPORTS 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2282.ts
-#EXTINF:-1,BEINSPORTS 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2283.ts
-#EXTINF:-1,BEINSPORTS 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2302.ts
-#EXTINF:-1,BEINSPORTS MAX 4
-http://www.zeebra.tv:8000/live/mama12/mama12/2545.ts
-#EXTINF:-1,BEINSPORTS MAX 5
-http://www.zeebra.tv:8000/live/mama12/mama12/2544.ts
-#EXTINF:-1,BEINSPORTS MAX 6
-http://www.zeebra.tv:8000/live/mama12/mama12/2543.ts
-#EXTINF:-1,BEINSPORTS MAX 7
-http://www.zeebra.tv:8000/live/mama12/mama12/2542.ts
-#EXTINF:-1,CANAL+ HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2718.ts
-#EXTINF:-1,CANAL+ Family
-http://www.zeebra.tv:8000/live/mama12/mama12/2715.ts
-#EXTINF:-1,CANAL+ DECALE HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2716.ts
-#EXTINF:-1,CANAL+ CINEMA HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2717.ts
-#EXTINF:-1,CANAL+ SERIES HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2714.ts
-#EXTINF:-1,ACTION HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3028.ts
-#EXTINF:-1,W9
-http://www.zeebra.tv:8000/live/mama12/mama12/2745.ts
-#EXTINF:-1,Ushuaia
-http://www.zeebra.tv:8000/live/mama12/mama12/2721.ts
-#EXTINF:-1,Paris Premiere
-http://www.zeebra.tv:8000/live/mama12/mama12/2725.ts
-#EXTINF:-1,PLANETE THALASSA
-http://www.zeebra.tv:8000/live/mama12/mama12/2732.ts
-#EXTINF:-1,Planete
-http://www.zeebra.tv:8000/live/mama12/mama12/2733.ts
-#EXTINF:-1,Planete  CI
-http://www.zeebra.tv:8000/live/mama12/mama12/2734.ts
-#EXTINF:-1,OCS Max HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2722.ts
-#EXTINF:-1,OCS Geants HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2723.ts
-#EXTINF:-1,OCS City HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2724.ts
-#EXTINF:-1,M6
-http://www.zeebra.tv:8000/live/mama12/mama12/2731.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://www.zeebra.tv:8000/live/mama12/mama12/2741.ts
-#EXTINF:-1,Disney XD
-http://www.zeebra.tv:8000/live/mama12/mama12/2735.ts
-#EXTINF:-1,Disney Junior
-http://www.zeebra.tv:8000/live/mama12/mama12/2736.ts
-#EXTINF:-1,Disney Cinemagic
-http://www.zeebra.tv:8000/live/mama12/mama12/2737.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://www.zeebra.tv:8000/live/mama12/mama12/2738.ts
-#EXTINF:-1,D8
-http://www.zeebra.tv:8000/live/mama12/mama12/2746.ts
-#EXTINF:-1,Chasse et Pêche
-http://www.zeebra.tv:8000/live/mama12/mama12/2747.ts
-#EXTINF:-1,Animaux HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2739.ts
-#EXTINF:-1,DISCOVERY SCIENCES
-http://www.zeebra.tv:8000/live/mama12/mama12/2740.ts
-#EXTINF:-1,France O
-http://www.zeebra.tv:8000/live/mama12/mama12/2455.ts
-#EXTINF:-1,France 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2451.ts
-#EXTINF:-1,France 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2452.ts
-#EXTINF:-1,France 4
-http://www.zeebra.tv:8000/live/mama12/mama12/2453.ts
-#EXTINF:-1,France 5
-http://www.zeebra.tv:8000/live/mama12/mama12/2454.ts
-#EXTINF:-1,TF1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2450.ts
-#EXTINF:-1,CinÃ© Premier
-http://www.zeebra.tv:8000/live/mama12/mama12/2456.ts
-#EXTINF:-1,CINE EMOTION
-http://www.zeebra.tv:8000/live/mama12/mama12/2457.ts
-#EXTINF:-1,CINE FRISSON
-http://www.zeebra.tv:8000/live/mama12/mama12/2458.ts
-#EXTINF:-1,BOX OFFICE 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2444.ts
-#EXTINF:-1,BOX OFFICE 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2445.ts
-#EXTINF:-1,BOX OFFICE 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2446.ts
-#EXTINF:-1,BOX OFFICE 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2447.ts
-#EXTINF:-1,BOX OFFICE 5HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2448.ts
-#EXTINF:-1,BOX OFFICE 6HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2449.ts
-#EXTINF:-1,-------  YES CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/3107.ts
-#EXTINF:-1,YES SPORT1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3094.ts
-#EXTINF:-1,YES SPORT2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3093.ts
-#EXTINF:-1,Sport 5 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3101.ts
-#EXTINF:-1,Sport 5 Live HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3100.ts
-#EXTINF:-1,YES 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3099.ts
-#EXTINF:-1,YES 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3098.ts
-#EXTINF:-1,YES 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3097.ts
-#EXTINF:-1,YES 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3096.ts
-#EXTINF:-1,YES 5 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3095.ts
-#EXTINF:-1,YES ACTION HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3092.ts
-#EXTINF:-1,YES CINEMA HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3091.ts
-#EXTINF:-1,YES COMEDY HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3090.ts
-#EXTINF:-1,YES DRAMA HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3088.ts
-#EXTINF:-1,YES DRAMA HD +2
-http://www.zeebra.tv:8000/live/mama12/mama12/3170.ts
-#EXTINF:-1,YES OH HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3087.ts
-#EXTINF:-1,YES DOCU HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3089.ts
-#EXTINF:-1,YES GOLD HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3171.ts
-#EXTINF:-1,YES Hop HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3172.ts
-#EXTINF:-1,YES HOT3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3173.ts
-#EXTINF:-1,YES PLUS  HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3176.ts
-#EXTINF:-1,YES Baby
-http://www.zeebra.tv:8000/live/mama12/mama12/3169.ts
-#EXTINF:-1,YES Nick Jr
-http://www.zeebra.tv:8000/live/mama12/mama12/3174.ts
-#EXTINF:-1,YES Nickelodeon
-http://www.zeebra.tv:8000/live/mama12/mama12/3175.ts
-#EXTINF:-1,ONE HD
-http://www.zeebra.tv:8000/live/mama12/mama12/3102.ts
-#EXTINF:-1,Channel 2
-http://www.zeebra.tv:8000/live/mama12/mama12/3105.ts
-#EXTINF:-1,Channel 9
-http://www.zeebra.tv:8000/live/mama12/mama12/3103.ts
-#EXTINF:-1,Channel 10
-http://www.zeebra.tv:8000/live/mama12/mama12/3106.ts
-#EXTINF:-1,Channel 20
-http://www.zeebra.tv:8000/live/mama12/mama12/3104.ts
-#EXTINF:-1,------- Greece CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2965.ts
-#EXTINF:-1,O1
-http://www.zeebra.tv:8000/live/mama12/mama12/2966.ts
-#EXTINF:-1,O2
-http://www.zeebra.tv:8000/live/mama12/mama12/2967.ts
-#EXTINF:-1,O24
-http://www.zeebra.tv:8000/live/mama12/mama12/2968.ts
-#EXTINF:-1,4E
-http://www.zeebra.tv:8000/live/mama12/mama12/2942.ts
-#EXTINF:-1,E HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2949.ts
-#EXTINF:-1,SKAI
-http://www.zeebra.tv:8000/live/mama12/mama12/2950.ts
-#EXTINF:-1,SIGMA
-http://www.zeebra.tv:8000/live/mama12/mama12/2953.ts
-#EXTINF:-1,Zougla TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2958.ts
-#EXTINF:-1,ERT 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2951.ts
-#EXTINF:-1,ERT 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2952.ts
-#EXTINF:-1,ANT 1 CYP
-http://www.zeebra.tv:8000/live/mama12/mama12/2955.ts
-#EXTINF:-1,MEGA
-http://www.zeebra.tv:8000/live/mama12/mama12/2948.ts
-#EXTINF:-1,AXELOOS TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2947.ts
-#EXTINF:-1,EXTRA
-http://www.zeebra.tv:8000/live/mama12/mama12/2957.ts
-#EXTINF:-1,Mad TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2946.ts
-#EXTINF:-1,Rik Sat 2 TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2956.ts
-#EXTINF:-1,Ebs
-http://www.zeebra.tv:8000/live/mama12/mama12/2945.ts
-#EXTINF:-1,Ebs Plus
-http://www.zeebra.tv:8000/live/mama12/mama12/2944.ts
-#EXTINF:-1,Creta
-http://www.zeebra.tv:8000/live/mama12/mama12/2954.ts
-#EXTINF:-1,ALPHA
-http://www.zeebra.tv:8000/live/mama12/mama12/2943.ts
-#EXTINF:-1,Messina tv HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2960.ts
-#EXTINF:-1,TV 100
-http://www.zeebra.tv:8000/live/mama12/mama12/2959.ts
-#EXTINF:-1,Kontra TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2964.ts
-#EXTINF:-1,Alpha Cyp
-http://www.zeebra.tv:8000/live/mama12/mama12/2962.ts
-#EXTINF:-1,ANIMAL
-http://www.zeebra.tv:8000/live/mama12/mama12/2961.ts
-#EXTINF:-1,ZOUGLA
-http://www.zeebra.tv:8000/live/mama12/mama12/2963.ts
-#EXTINF:-1,------- CTH Staduim CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2535.ts
-#EXTINF:-1,CTH Staduim 1HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2362.ts
-#EXTINF:-1,CTH Staduim 2HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2361.ts
-#EXTINF:-1,CTH Staduim 3HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2360.ts
-#EXTINF:-1,CTH Staduim 4HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2531.ts
-#EXTINF:-1,CTH Staduim 5HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2532.ts
-#EXTINF:-1,CTH Staduim 6HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2533.ts
-#EXTINF:-1,CTH Staduim XHD
-http://www.zeebra.tv:8000/live/mama12/mama12/2534.ts
-#EXTINF:-1,------- Russia CH -------
-http://www.zeebra.tv:8000/live/mama12/mama12/2991.ts
-#EXTINF:-1,DigiSport 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2606.ts
-#EXTINF:-1,DigiSport 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2486.ts
-#EXTINF:-1,DigiSport 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2979.ts
-#EXTINF:-1,DigiSport 4
-http://www.zeebra.tv:8000/live/mama12/mama12/2980.ts
-#EXTINF:-1,Digi 24 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2984.ts
-#EXTINF:-1,Digi World
-http://www.zeebra.tv:8000/live/mama12/mama12/2982.ts
-#EXTINF:-1,Digi Animal World
-http://www.zeebra.tv:8000/live/mama12/mama12/2983.ts
-#EXTINF:-1,football 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2970.ts
-#EXTINF:-1,football 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2969.ts
-#EXTINF:-1,Russia
-http://www.zeebra.tv:8000/live/mama12/mama12/2973.ts
-#EXTINF:-1,Russia 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2972.ts
-#EXTINF:-1,Russia 24
-http://www.zeebra.tv:8000/live/mama12/mama12/2971.ts
-#EXTINF:-1,Nashe Kino
-http://www.zeebra.tv:8000/live/mama12/mama12/2988.ts
-#EXTINF:-1,NASH FILM
-http://www.zeebra.tv:8000/live/mama12/mama12/2974.ts
-#EXTINF:-1,HELLO-TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2978.ts
-#EXTINF:-1,Kino Plus
-http://www.zeebra.tv:8000/live/mama12/mama12/2989.ts
-#EXTINF:-1,Kino Hit
-http://www.zeebra.tv:8000/live/mama12/mama12/2990.ts
-#EXTINF:-1,hello tv
-http://www.zeebra.tv:8000/live/mama12/mama12/2987.ts
-#EXTINF:-1,Basketball
-http://www.zeebra.tv:8000/live/mama12/mama12/2986.ts
-#EXTINF:-1,MUSIC BOX
-http://www.zeebra.tv:8000/live/mama12/mama12/2985.ts
-#EXTINF:-1,ProTV HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2975.ts
-#EXTINF:-1,Disney Junior Russia
-http://www.zeebra.tv:8000/live/mama12/mama12/2976.ts
-#EXTINF:-1,Fishing & Hunting
-http://www.zeebra.tv:8000/live/mama12/mama12/2981.ts
-#EXTINF:-1,Animal Planet Russia
-http://www.zeebra.tv:8000/live/mama12/mama12/2977.ts
-#EXTINF:-1,------- Tring CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2385.ts
-#EXTINF:-1,Tring Max
-http://www.zeebra.tv:8000/live/mama12/mama12/2356.ts
-#EXTINF:-1,Tring Super
-http://www.zeebra.tv:8000/live/mama12/mama12/2359.ts
-#EXTINF:-1,Film Hits
-http://www.zeebra.tv:8000/live/mama12/mama12/2387.ts
-#EXTINF:-1,Film Aksion
-http://www.zeebra.tv:8000/live/mama12/mama12/2358.ts
-#EXTINF:-1,Film Komedi
-http://www.zeebra.tv:8000/live/mama12/mama12/2357.ts
-#EXTINF:-1,Kino Premium 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2589.ts
-#EXTINF:-1,Kino Premium 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2590.ts
-#EXTINF:-1,Kino Premium 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2591.ts
-#EXTINF:-1,------- DISH TV CH --------
-http://www.zeebra.tv:8000/live/mama12/mama12/2399.ts
-#EXTINF:-1,Star Sports 1 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2404.ts
-#EXTINF:-1,Star Sports 2 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2468.ts
-#EXTINF:-1,Star Sports 3 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2466.ts
-#EXTINF:-1,Star Sports 4 HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2474.ts
-#EXTINF:-1,TEN 1
-http://www.zeebra.tv:8000/live/mama12/mama12/2547.ts
-#EXTINF:-1,TEN 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2893.ts
-#EXTINF:-1,TEN 3
-http://www.zeebra.tv:8000/live/mama12/mama12/2845.ts
-#EXTINF:-1,TEN CRICKET
-http://www.zeebra.tv:8000/live/mama12/mama12/2503.ts
-#EXTINF:-1,WILLOW
-http://www.zeebra.tv:8000/live/mama12/mama12/2774.ts
-#EXTINF:-1,Sony Six
-http://www.zeebra.tv:8000/live/mama12/mama12/2469.ts
-#EXTINF:-1,Sony ESPN
-http://www.zeebra.tv:8000/live/mama12/mama12/2847.ts
-#EXTINF:-1,Sony HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2476.ts
-#EXTINF:-1,Star Gold
-http://www.zeebra.tv:8000/live/mama12/mama12/2772.ts
-#EXTINF:-1,Star Plus
-http://www.zeebra.tv:8000/live/mama12/mama12/2470.ts
-#EXTINF:-1,Colors HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2546.ts
-#EXTINF:-1,&Picture HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2490.ts
-#EXTINF:-1,UTV Movies International
-http://www.zeebra.tv:8000/live/mama12/mama12/2541.ts
-#EXTINF:-1,Life OK
-http://www.zeebra.tv:8000/live/mama12/mama12/2992.ts
-#EXTINF:-1,Food Food
-http://www.zeebra.tv:8000/live/mama12/mama12/2993.ts
-#EXTINF:-1,ZING
-http://www.zeebra.tv:8000/live/mama12/mama12/2504.ts
-#EXTINF:-1,Rishtey
-http://www.zeebra.tv:8000/live/mama12/mama12/2563.ts
-#EXTINF:-1,ZEE TV HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2498.ts
-#EXTINF:-1,Zee Action
-http://www.zeebra.tv:8000/live/mama12/mama12/2492.ts
-#EXTINF:-1,Zee Cinema
-http://www.zeebra.tv:8000/live/mama12/mama12/2489.ts
-#EXTINF:-1,Zee Smile
-http://www.zeebra.tv:8000/live/mama12/mama12/2499.ts
-#EXTINF:-1,ZEE Classic
-http://www.zeebra.tv:8000/live/mama12/mama12/2501.ts
-#EXTINF:-1,ZEE Punjabi
-http://www.zeebra.tv:8000/live/mama12/mama12/2500.ts
-#EXTINF:-1,Zee Living
-http://www.zeebra.tv:8000/live/mama12/mama12/3137.ts
-#EXTINF:-1,ZEE Studio HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2477.ts
-#EXTINF:-1,Zee Bollywood HD
-http://www.zeebra.tv:8000/live/mama12/mama12/2846.ts
-#EXTINF:-1,Zee Bangla
-http://www.zeebra.tv:8000/live/mama12/mama12/2536.ts
-#EXTINF:-1,ZEE NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/3132.ts
-#EXTINF:-1,ATN NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/3129.ts
-#EXTINF:-1,ABP NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/3130.ts
-#EXTINF:-1,AAJ TAAK
-http://www.zeebra.tv:8000/live/mama12/mama12/3131.ts
-#EXTINF:-1,DISCOVERY Hindi
-http://www.zeebra.tv:8000/live/mama12/mama12/3133.ts
-#EXTINF:-1,Zee Cinema Bangla
-http://www.zeebra.tv:8000/live/mama12/mama12/2994.ts
-#EXTINF:-1,Star Jalsha
-http://www.zeebra.tv:8000/live/mama12/mama12/2400.ts
-#EXTINF:-1,JALSHA MOVIES
-http://www.zeebra.tv:8000/live/mama12/mama12/2840.ts
-#EXTINF:-1,Channel 9 Bangla
-http://www.zeebra.tv:8000/live/mama12/mama12/3128.ts
-#EXTINF:-1,Atn Bangla
-http://www.zeebra.tv:8000/live/mama12/mama12/3158.ts
-#EXTINF:-1,Ntv
-http://www.zeebra.tv:8000/live/mama12/mama12/3156.ts
-#EXTINF:-1,Etv
-http://www.zeebra.tv:8000/live/mama12/mama12/3157.ts
-#EXTINF:-1,Gtv
-http://www.zeebra.tv:8000/live/mama12/mama12/3160.ts
-#EXTINF:-1,Btv World
-http://www.zeebra.tv:8000/live/mama12/mama12/3161.ts
-#EXTINF:-1,Channel i
-http://www.zeebra.tv:8000/live/mama12/mama12/3154.ts
-#EXTINF:-1,Rtv
-http://www.zeebra.tv:8000/live/mama12/mama12/3155.ts
-#EXTINF:-1,Somoy
-http://www.zeebra.tv:8000/live/mama12/mama12/3159.ts
-#EXTINF:-1,Cartoon Network
-http://www.zeebra.tv:8000/live/mama12/mama12/2604.ts
-#EXTINF:-1,Sonic Nickelodeon
-http://www.zeebra.tv:8000/live/mama12/mama12/2605.ts
-#EXTINF:-1,Music India
-http://www.zeebra.tv:8000/live/mama12/mama12/2471.ts
-#EXTINF:-1,Asianet
-http://www.zeebra.tv:8000/live/mama12/mama12/2497.ts
-#EXTINF:-1,Asianet Plus
-http://www.zeebra.tv:8000/live/mama12/mama12/2495.ts
-#EXTINF:-1,Asianet Movies
-http://www.zeebra.tv:8000/live/mama12/mama12/2494.ts
-#EXTINF:-1,Asianet News
-http://www.zeebra.tv:8000/live/mama12/mama12/2493.ts
-#EXTINF:-1,Asianet Suvarna
-http://www.zeebra.tv:8000/live/mama12/mama12/2769.ts
-#EXTINF:-1,MAZHAVIL MANORAMA
-http://www.zeebra.tv:8000/live/mama12/mama12/3120.ts
-#EXTINF:-1,MATHRUBHUMI NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/3136.ts
-#EXTINF:-1,WE TV
-http://www.zeebra.tv:8000/live/mama12/mama12/3134.ts
-#EXTINF:-1,MEDIA ONE
-http://www.zeebra.tv:8000/live/mama12/mama12/3135.ts
-#EXTINF:-1,Kiran TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2607.ts
-#EXTINF:-1,Kairali TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2540.ts
-#EXTINF:-1,Surya TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2539.ts
-#EXTINF:-1,Sun TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2537.ts
-#EXTINF:-1,Sun Music
-http://www.zeebra.tv:8000/live/mama12/mama12/2538.ts
-#EXTINF:-1,GEO TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2554.ts
-#EXTINF:-1,GEO SUPER
-http://www.zeebra.tv:8000/live/mama12/mama12/2555.ts
-#EXTINF:-1,GEO KAHANI
-http://www.zeebra.tv:8000/live/mama12/mama12/2557.ts
-#EXTINF:-1,GEO NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/2556.ts
-#EXTINF:-1,HUM TV
-http://www.zeebra.tv:8000/live/mama12/mama12/2559.ts
-#EXTINF:-1,HUM TV 2
-http://www.zeebra.tv:8000/live/mama12/mama12/2558.ts
-#EXTINF:-1,HUM Sitaray
-http://www.zeebra.tv:8000/live/mama12/mama12/2560.ts
-#EXTINF:-1,PTV HOME
-http://www.zeebra.tv:8000/live/mama12/mama12/2553.ts
-#EXTINF:-1,PTV WORLD
-http://www.zeebra.tv:8000/live/mama12/mama12/2551.ts
-#EXTINF:-1,PTV NEWS
-http://www.zeebra.tv:8000/live/mama12/mama12/2552.ts
-#EXTINF:-1,PTV SPORTS
-http://www.zeebra.tv:8000/live/mama12/mama12/2550.ts
-#EXTINF:-1,ARY QTV
-http://www.zeebra.tv:8000/live/mama12/mama12/2562.ts
-#EXTINF:-1,ARY DIGITAL
-http://www.zeebra.tv:8000/live/mama12/mama12/2561.ts
-#EXTINF:-1,Opinioni
-http://x.multimediaiptv.net:8999/live/stream/multimedia/432.ts
-#EXTINF:-1,TV Prizren
-http://x.multimediaiptv.net:8999/live/stream/multimedia/431.ts
-#EXTINF:-1,TV Mitrovica
-http://x.multimediaiptv.net:8999/live/stream/multimedia/430.ts
-#EXTINF:-1,Elrodi
-http://x.multimediaiptv.net:8999/live/stream/multimedia/429.ts
-#EXTINF:-1,Film Nje
-http://x.multimediaiptv.net:8999/live/stream/multimedia/35.ts
-#EXTINF:-1,SuperSonic TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/29.ts
-#EXTINF:-1,HRT 4
-http://x.multimediaiptv.net:8999/live/stream/multimedia/264.ts
-#EXTINF:-1,Lexo
-http://x.multimediaiptv.net:8999/live/stream/multimedia/428.ts
-#EXTINF:-1,Sport Special 8
-http://x.multimediaiptv.net:8999/live/stream/multimedia/414.ts
-#EXTINF:-1,Sport Special 7
-http://x.multimediaiptv.net:8999/live/stream/multimedia/413.ts
-#EXTINF:-1,Sport Special 6
-http://x.multimediaiptv.net:8999/live/stream/multimedia/412.ts
-#EXTINF:-1,Sport Special 5
-http://x.multimediaiptv.net:8999/live/stream/multimedia/411.ts
-#EXTINF:-1,Sport Special 4
-http://x.multimediaiptv.net:8999/live/stream/multimedia/410.ts
-#EXTINF:-1,Sport Special 3
-http://x.multimediaiptv.net:8999/live/stream/multimedia/409.ts
-#EXTINF:-1,Sport Special 2 HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/119.ts
-#EXTINF:-1,Sport Special 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/118.ts
-#EXTINF:-1,Peace TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/75.ts
-#EXTINF:-1,Super RTL HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/406.ts
-#EXTINF:-1,RTL Nitro
-http://x.multimediaiptv.net:8999/live/stream/multimedia/404.ts
-#EXTINF:-1,Eurosport DE
-http://x.multimediaiptv.net:8999/live/stream/multimedia/405.ts
-#EXTINF:-1,Weo HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/396.ts
-#EXTINF:-1,Weo
-http://x.multimediaiptv.net:8999/live/stream/multimedia/397.ts
-#EXTINF:-1,Vevo Music TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/391.ts
-#EXTINF:-1,Vevo Hip Hop TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/392.ts
-#EXTINF:-1,RTC
-http://x.multimediaiptv.net:8999/live/stream/multimedia/380.ts
-#EXTINF:-1,RADIO VIRGIN TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/388.ts
-#EXTINF:-1,RADIO MONTE CARLO TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/387.ts
-#EXTINF:-1,RADIO 105 TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/386.ts
-#EXTINF:-1,PTC
-http://x.multimediaiptv.net:8999/live/stream/multimedia/379.ts
-#EXTINF:-1,Ortm
-http://x.multimediaiptv.net:8999/live/stream/multimedia/394.ts
-#EXTINF:-1,Notele
-http://x.multimediaiptv.net:8999/live/stream/multimedia/382.ts
-#EXTINF:-1,MONACO INFOS
-http://x.multimediaiptv.net:8999/live/stream/multimedia/381.ts
-#EXTINF:-1,MFM TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/389.ts
-#EXTINF:-1,La Tele
-http://x.multimediaiptv.net:8999/live/stream/multimedia/399.ts
-#EXTINF:-1,LA CHAINE NORMANDIE
-http://x.multimediaiptv.net:8999/live/stream/multimedia/375.ts
-#EXTINF:-1,IL TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/403.ts
-#EXTINF:-1,Grand Lille TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/400.ts
-#EXTINF:-1,GONG
-http://x.multimediaiptv.net:8999/live/stream/multimedia/385.ts
-#EXTINF:-1,Euronews
-http://x.multimediaiptv.net:8999/live/stream/multimedia/378.ts
-#EXTINF:-1,Enorme TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/384.ts
-#EXTINF:-1,CNA
-http://x.multimediaiptv.net:8999/live/stream/multimedia/402.ts
-#EXTINF:-1,Canal 2 Info (CMR)
-http://x.multimediaiptv.net:8999/live/stream/multimedia/393.ts
-#EXTINF:-1,BFM TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/376.ts
-#EXTINF:-1,BFM Business
-http://x.multimediaiptv.net:8999/live/stream/multimedia/377.ts
-#EXTINF:-1,Best Music HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/390.ts
-#EXTINF:-1,Assemblée Nationale
-http://x.multimediaiptv.net:8999/live/stream/multimedia/383.ts
-#EXTINF:-1,arte
-http://x.multimediaiptv.net:8999/live/stream/multimedia/395.ts
-#EXTINF:-1,Antenne Centre TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/401.ts
-#EXTINF:-1,Alternativna - ATV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/245.ts
-#EXTINF:-1,ABC News
-http://x.multimediaiptv.net:8999/live/stream/multimedia/21.ts
-#EXTINF:-1,TV Iliret
-http://x.multimediaiptv.net:8999/live/stream/multimedia/228.ts
-#EXTINF:-1,Albuk TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/226.ts
-#EXTINF:-1,Albuk +
-http://x.multimediaiptv.net:8999/live/stream/multimedia/227.ts
-#EXTINF:-1,Tema TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/225.ts
-#EXTINF:-1,Plus TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/224.ts
-#EXTINF:-1,Kutia TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/223.ts
-#EXTINF:-1,Kopliku TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/222.ts
-#EXTINF:-1,Syri Vision
-http://x.multimediaiptv.net:8999/live/stream/multimedia/221.ts
-#EXTINF:-1,RRokum TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/220.ts
-#EXTINF:-1,Jug TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/219.ts
-#EXTINF:-1,ORA News
-http://x.multimediaiptv.net:8999/live/stream/multimedia/218.ts
-#EXTINF:-1,Zjarr TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/217.ts
-#EXTINF:-1,Koha TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/76.ts
-#EXTINF:-1,TR Fox
-http://x.multimediaiptv.net:8999/live/stream/multimedia/215.ts
-#EXTINF:-1,Star TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/214.ts
-#EXTINF:-1,Show TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/213.ts
-#EXTINF:-1,Cegrani - Besa
-http://x.multimediaiptv.net:8999/live/stream/multimedia/212.ts
-#EXTINF:-1,Tirana TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/198.ts
-#EXTINF:-1,Apollon TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/133.ts
-#EXTINF:-1,TVR
-http://x.multimediaiptv.net:8999/live/stream/multimedia/129.ts
-#EXTINF:-1,Zdf Neo
-http://x.multimediaiptv.net:8999/live/stream/multimedia/211.ts
-#EXTINF:-1,Zdf Kultur
-http://x.multimediaiptv.net:8999/live/stream/multimedia/202.ts
-#EXTINF:-1,Videolina TG
-http://x.multimediaiptv.net:8999/live/stream/multimedia/193.ts
-#EXTINF:-1,Video Brescia
-http://x.multimediaiptv.net:8999/live/stream/multimedia/191.ts
-#EXTINF:-1,TV Tribuna
-http://x.multimediaiptv.net:8999/live/stream/multimedia/134.ts
-#EXTINF:-1,TV Sharri
-http://x.multimediaiptv.net:8999/live/stream/multimedia/138.ts
-#EXTINF:-1,TV Opoja
-http://x.multimediaiptv.net:8999/live/stream/multimedia/137.ts
-#EXTINF:-1,TV Globi Gostivar
-http://x.multimediaiptv.net:8999/live/stream/multimedia/136.ts
-#EXTINF:-1,TV Dukagjini
-http://x.multimediaiptv.net:8999/live/stream/multimedia/135.ts
-#EXTINF:-1,TV 8
-http://x.multimediaiptv.net:8999/live/stream/multimedia/164.ts
-#EXTINF:-1,TRT Cocuk
-http://bstream.eu/bsdev/live/?savke24@gmail.com/Fsr1xZbQCL/TR-TRT-Cocuk
-#EXTINF:-1,TRT 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/5.ts
-#EXTINF:-1,TNT Serie
-http://x.multimediaiptv.net:8999/live/stream/multimedia/148.ts
-#EXTINF:-1,TNT Film
-http://x.multimediaiptv.net:8999/live/stream/multimedia/147.ts
-#EXTINF:-1,TGRT Belgesel
-http://x.multimediaiptv.net:8999/live/stream/multimedia/173.ts
-#EXTINF:-1,Tetova
-http://x.multimediaiptv.net:8999/live/stream/multimedia/130.ts
-#EXTINF:-1,Teleprime
-http://x.multimediaiptv.net:8999/live/stream/multimedia/206.ts
-#EXTINF:-1,Tele Milano
-http://x.multimediaiptv.net:8999/live/stream/multimedia/190.ts
-#EXTINF:-1,Tele Diogene
-http://x.multimediaiptv.net:8999/live/stream/multimedia/192.ts
-#EXTINF:-1,SWR
-http://x.multimediaiptv.net:8999/live/stream/multimedia/156.ts
-#EXTINF:-1,WF Fashion
-http://x.multimediaiptv.net:8999/live/stream/multimedia/131.ts
-#EXTINF:-1,SkyTG 24
-http://x.multimediaiptv.net:8999/live/stream/multimedia/188.ts
-#EXTINF:-1,SIX
-http://x.multimediaiptv.net:8999/live/stream/multimedia/204.ts
-#EXTINF:-1,Sardegna 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/189.ts
-#EXTINF:-1,Salon 2
-http://x.multimediaiptv.net:8999/live/stream/multimedia/172.ts
-#EXTINF:-1,Salon 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/171.ts
-#EXTINF:-1,RBB Berlin
-http://x.multimediaiptv.net:8999/live/stream/multimedia/205.ts
-#EXTINF:-1,RAI YoYo
-http://x.multimediaiptv.net:8999/live/stream/multimedia/187.ts
-#EXTINF:-1,Rai News
-http://x.multimediaiptv.net:8999/live/stream/multimedia/185.ts
-#EXTINF:-1,Rai 5
-http://x.multimediaiptv.net:8999/live/stream/multimedia/184.ts
-#EXTINF:-1,Rai 4
-http://x.multimediaiptv.net:8999/live/stream/multimedia/183.ts
-#EXTINF:-1,Rai 3
-http://x.multimediaiptv.net:8999/live/stream/multimedia/182.ts
-#EXTINF:-1,Planet Cocuk
-http://x.multimediaiptv.net:8999/live/stream/multimedia/177.ts
-#EXTINF:-1,Phoenix HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/209.ts
-#EXTINF:-1,Orf 2
-http://x.multimediaiptv.net:8999/live/stream/multimedia/201.ts
-#EXTINF:-1,Orf 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/200.ts
-#EXTINF:-1,NT 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/181.ts
-#EXTINF:-1,NRJ 12
-http://x.multimediaiptv.net:8999/live/stream/multimedia/180.ts
-#EXTINF:-1,NGeo Wild
-http://x.multimediaiptv.net:8999/live/stream/multimedia/208.ts
-#EXTINF:-1,NDR
-http://x.multimediaiptv.net:8999/live/stream/multimedia/146.ts
-#EXTINF:-1,N 24
-http://x.multimediaiptv.net:8999/live/stream/multimedia/203.ts
-#EXTINF:-1,Movies Smart Family
-http://x.multimediaiptv.net:8999/live/stream/multimedia/170.ts
-#EXTINF:-1,Movies 1 DE
-http://x.multimediaiptv.net:8999/live/stream/multimedia/155.ts
-#EXTINF:-1,MGM HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/149.ts
-#EXTINF:-1,MedinaTV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/139.ts
-#EXTINF:-1,MDR
-http://x.multimediaiptv.net:8999/live/stream/multimedia/145.ts
-#EXTINF:-1,Loca 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/176.ts
-#EXTINF:-1,Lig TV1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/169.ts
-#EXTINF:-1,La 7
-http://x.multimediaiptv.net:8999/live/stream/multimedia/186.ts
-#EXTINF:-1,A1 Report
-http://x.multimediaiptv.net:8999/live/stream/multimedia/132.ts
-#EXTINF:-1,Kika
-http://x.multimediaiptv.net:8999/live/stream/multimedia/144.ts
-#EXTINF:-1,Kanal D Turk
-http://x.multimediaiptv.net:8999/live/stream/multimedia/162.ts
-#EXTINF:-1,Kanal 7
-http://x.multimediaiptv.net:8999/live/stream/multimedia/168.ts
-#EXTINF:-1,Kanal 3
-http://x.multimediaiptv.net:8999/live/stream/multimedia/167.ts
-#EXTINF:-1,Italia 2
-http://x.multimediaiptv.net:8999/live/stream/multimedia/195.ts
-#EXTINF:-1,Italia 1
-http://x.multimediaiptv.net:8999/live/stream/multimedia/194.ts
-#EXTINF:-1,HR Fernsehen
-http://x.multimediaiptv.net:8999/live/stream/multimedia/154.ts
-#EXTINF:-1,History Channel DE
-http://x.multimediaiptv.net:8999/live/stream/multimedia/153.ts
-#EXTINF:-1,Halle TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/152.ts
-#EXTINF:-1,Halk TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/166.ts
-#EXTINF:-1,Haber Turk
-http://x.multimediaiptv.net:8999/live/stream/multimedia/175.ts
-#EXTINF:-1,France 24
-http://x.multimediaiptv.net:8999/live/stream/multimedia/178.ts
-#EXTINF:-1,Euronews DE
-http://x.multimediaiptv.net:8999/live/stream/multimedia/151.ts
-#EXTINF:-1,Ege TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/174.ts
-#EXTINF:-1,Dream Turk
-http://x.multimediaiptv.net:8999/live/stream/multimedia/160.ts
-#EXTINF:-1,Dmax
-http://x.multimediaiptv.net:8999/live/stream/multimedia/143.ts
-#EXTINF:-1,Discovery Science
-http://x.multimediaiptv.net:8999/live/stream/multimedia/165.ts
-#EXTINF:-1,Deluxe Music
-http://x.multimediaiptv.net:8999/live/stream/multimedia/142.ts
-#EXTINF:-1,D HD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/80.ts
-#EXTINF:-1,CNN Turk
-http://x.multimediaiptv.net:8999/live/stream/multimedia/161.ts
-#EXTINF:-1,Click TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/199.ts
-#EXTINF:-1,BR
-http://x.multimediaiptv.net:8999/live/stream/multimedia/141.ts
-#EXTINF:-1,Beyaz TV
-http://x.multimediaiptv.net:8999/live/stream/multimedia/163.ts
-#EXTINF:-1,Austria 24
-http://x.multimediaiptv.net:8999/live/stream/multimedia/207.ts
-#EXTINF:-1,ATV Tr
-http://x.multimediaiptv.net:8999/live/stream/multimedia/210.ts
-#EXTINF:-1,AT5
-http://x.multimediaiptv.net:8999/live/stream/multimedia/196.ts
-#EXTINF:-1,ARD
-http://x.multimediaiptv.net:8999/live/stream/multimedia/140.ts
-#EXTINF:-1,ABC News (USA)
-http://x.multimediaiptv.net:8999/live/stream/multimedia/197.ts
-#EXTINF:-1,13 Street
-http://x.multimediaiptv.net:8999/live/stream/multimedia/150.ts
-#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
 
 
-#EXTINF:-1,[COLOR yellow][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
