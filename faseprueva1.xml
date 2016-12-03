@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,------- ACESTREAM 1.0 ---------
-Animal Family HD (Documentary)
+#EXTINF:-1,Animal Family HD (Documentary)
 acestream://f219545899167f8d0523dfbc37b482722d310e43
-Animal Planet (Documentary)
+#EXTINF:-1,Animal Planet (Documentary)
 acestream://462d5c1d0ab21bd67e28a0af8b7f175c7090816a
-Animаl Planеt HD (Documentary)
+#EXTINF:-1,Animаl Planеt HD (Documentary)
 acestream://ea790139012da0e83c25116692a30040810acfe9
-Discovery Channel (Documentary)
+#EXTINF:-1,Discovery Channel (Documentary)
 acestream://52b7332a1c1eb1ed14b3a56b65c1062a3de59b96
-Discovery Channel HD (Documentary)
+#EXTINF:-1,Discovery Channel HD (Documentary)
 acestream://3386b60dcee36b61fb78a55d311b75c2101b2272
-Discovery Science (Documentary)
+#EXTINF:-1,Discovery Science (Documentary)
 acestream://7e9c14d059389648d58f0d2b23d1ef2c889360d0
-Nat Geo Wild (Documentary)
+#EXTINF:-1,Nat Geo Wild (Documentary)
 acestream://801f640eeabc25a29722b82de3605ccf2840b8c2
-Nat Geo Wild HD (Documentary)
+#EXTINF:-1,Nat Geo Wild HD (Documentary)
 acestream://8fdaa97c2cea1e65cee8467fa4c649d8f8833638
-National Geographic (Documentary)
+#EXTINF:-1,National Geographic (Documentary)
 acestream://532444ed75771d8d84452b2ae2db088ce6f06933
 
 #EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
