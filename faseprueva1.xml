@@ -1,1425 +1,300 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,AB1
-http://149.202.77.226:7500/live/pass1/pass1/580.ts
-#EXTINF:-1,Tunisia1
-http://149.202.77.226:7500/live/pass1/pass1/368.ts
-#EXTINF:-1,Tunisia2
-http://149.202.77.226:7500/live/pass1/pass1/369.ts
-#EXTINF:-1,Ettounisia
-http://149.202.77.226:7500/live/pass1/pass1/370.ts
-#EXTINF:-1,Nessma
-http://149.202.77.226:7500/live/pass1/pass1/372.ts
-#EXTINF:-1,Hannibal
-http://149.202.77.226:7500/live/pass1/pass1/371.ts
-#EXTINF:-1,Attessia
-http://149.202.77.226:7500/live/pass1/pass1/375.ts
-#EXTINF:-1,Tunisna
-http://149.202.77.226:7500/live/pass1/pass1/374.ts
-#EXTINF:-1,Aljanoubia
-http://149.202.77.226:7500/live/pass1/pass1/376.ts
-#EXTINF:-1,Tnn-Tunisia
-http://149.202.77.226:7500/live/pass1/pass1/378.ts
-#EXTINF:-1,Almutawasit
-http://149.202.77.226:7500/live/pass1/pass1/383.ts
-#EXTINF:-1,Zaytouna
-http://149.202.77.226:7500/live/pass1/pass1/380.ts
-#EXTINF:-1,Telvza-Tv
-http://149.202.77.226:7500/live/pass1/pass1/373.ts
-#EXTINF:-1,M-tunisia
-http://149.202.77.226:7500/live/pass1/pass1/379.ts
-#EXTINF:-1,Firs-tv
-http://149.202.77.226:7500/live/pass1/pass1/377.ts
-#EXTINF:-1,ShemFM
-http://149.202.77.226:7500/live/pass1/pass1/892.ts
-#EXTINF:-1,Oxygene-FM
-http://149.202.77.226:7500/live/pass1/pass1/1381.ts
-#EXTINF:-1,Oasis-FM
-http://149.202.77.226:7500/live/pass1/pass1/1380.ts
-#EXTINF:-1,JawhraFM
-http://149.202.77.226:7500/live/pass1/pass1/1379.ts
-#EXTINF:-1,CapFM
-http://149.202.77.226:7500/live/pass1/pass1/905.ts
-#EXTINF:-1,MosaiqueFM
-http://149.202.77.226:7500/live/pass1/pass1/891.ts
-#EXTINF:-1,IFM
-http://149.202.77.226:7500/live/pass1/pass1/903.ts
-#EXTINF:-1,KnoozFM
-http://149.202.77.226:7500/live/pass1/pass1/904.ts
-#EXTINF:-1,---Bein-Sp-----------------------
-http://149.202.77.226:7500/live/pass1/pass1/885.ts
-#EXTINF:-1,BeinSport-HD1
-http://149.202.77.226:7500/live/pass1/pass1/1033.ts
-#EXTINF:-1,BeinSport-HD2
-http://149.202.77.226:7500/live/pass1/pass1/1031.ts
-#EXTINF:-1,BeinSport-HD3
-http://149.202.77.226:7500/live/pass1/pass1/1030.ts
-#EXTINF:-1,BeinSport-HD4
-http://149.202.77.226:7500/live/pass1/pass1/1029.ts
-#EXTINF:-1,BeinSport-HD5
-http://149.202.77.226:7500/live/pass1/pass1/1028.ts
-#EXTINF:-1,BeinSport-HD6
-http://149.202.77.226:7500/live/pass1/pass1/1027.ts
-#EXTINF:-1,BeinSport-HD7
-http://149.202.77.226:7500/live/pass1/pass1/1026.ts
-#EXTINF:-1,BeinSport-HD8
-http://149.202.77.226:7500/live/pass1/pass1/1025.ts
-#EXTINF:-1,BeinSport-HD9
-http://149.202.77.226:7500/live/pass1/pass1/1024.ts
-#EXTINF:-1,BeinSport-HD10
-http://149.202.77.226:7500/live/pass1/pass1/1032.ts
-#EXTINF:-1,BEIN-S1
-http://149.202.77.226:7500/live/pass1/pass1/528.ts
-#EXTINF:-1,BEIN-S2
-http://149.202.77.226:7500/live/pass1/pass1/529.ts
-#EXTINF:-1,BEIN-S3
-http://149.202.77.226:7500/live/pass1/pass1/530.ts
-#EXTINF:-1,BEIN-S4
-http://149.202.77.226:7500/live/pass1/pass1/531.ts
-#EXTINF:-1,BEIN-S5
-http://149.202.77.226:7500/live/pass1/pass1/532.ts
-#EXTINF:-1,BEIN-S6
-http://149.202.77.226:7500/live/pass1/pass1/533.ts
-#EXTINF:-1,BEIN-S7
-http://149.202.77.226:7500/live/pass1/pass1/534.ts
-#EXTINF:-1,BEIN-S8
-http://149.202.77.226:7500/live/pass1/pass1/535.ts
-#EXTINF:-1,BEIN-S9
-http://149.202.77.226:7500/live/pass1/pass1/536.ts
-#EXTINF:-1,BEIN-S10
-http://149.202.77.226:7500/live/pass1/pass1/537.ts
-#EXTINF:-1,BEIN_MOVIES_1HD
-http://149.202.77.226:7500/live/pass1/pass1/952.ts
-#EXTINF:-1,BEIN_MOVIES_2HD
-http://149.202.77.226:7500/live/pass1/pass1/953.ts
-#EXTINF:-1,Bein-Sport1
-http://149.202.77.226:7500/live/pass1/pass1/603.ts
-#EXTINF:-1,Bein-Sport2
-http://149.202.77.226:7500/live/pass1/pass1/604.ts
-#EXTINF:-1,Bein-Sport3
-http://149.202.77.226:7500/live/pass1/pass1/605.ts
-#EXTINF:-1,Alkass-sport1
-http://149.202.77.226:7500/live/pass1/pass1/815.ts
-#EXTINF:-1,Alkass-sport2
-http://149.202.77.226:7500/live/pass1/pass1/816.ts
-#EXTINF:-1,Alkass-sport3
-http://149.202.77.226:7500/live/pass1/pass1/817.ts
-#EXTINF:-1,Alkass-sport4
-http://149.202.77.226:7500/live/pass1/pass1/818.ts
-#EXTINF:-1,BEIN-News
-http://149.202.77.226:7500/live/pass1/pass1/526.ts
-#EXTINF:-1,---OSN----------------------
-http://149.202.77.226:7500/live/pass1/pass1/1126.ts
-#EXTINF:-1,OSN_MOVIES_FESTIVAL
-http://149.202.77.226:7500/live/pass1/pass1/1125.ts
-#EXTINF:-1,OSN_MOVIES_DRAMA
-http://149.202.77.226:7500/live/pass1/pass1/1124.ts
-#EXTINF:-1,OSN_MOVIES
-http://149.202.77.226:7500/live/pass1/pass1/1123.ts
-#EXTINF:-1,OSN_ACTION
-http://149.202.77.226:7500/live/pass1/pass1/1122.ts
-#EXTINF:-1,OSN-YAHALA-SHABAB
-http://149.202.77.226:7500/live/pass1/pass1/1121.ts
-#EXTINF:-1,OSN-Yahala-HD
-http://149.202.77.226:7500/live/pass1/pass1/1120.ts
-#EXTINF:-1,OSN-YAHAlA-DRAMA
-http://149.202.77.226:7500/live/pass1/pass1/1119.ts
-#EXTINF:-1,OSN-YAHALA
-http://149.202.77.226:7500/live/pass1/pass1/1118.ts
-#EXTINF:-1,OSN-ORBIT-CINEMA1
-http://149.202.77.226:7500/live/pass1/pass1/1116.ts
-#EXTINF:-1,OSN-ORBIT-CINEMA2
-http://149.202.77.226:7500/live/pass1/pass1/1117.ts
-#EXTINF:-1,OSN-On-Demand-Extra-HD
-http://149.202.77.226:7500/live/pass1/pass1/1114.ts
-#EXTINF:-1,OSN-OFFICBOX1
-http://149.202.77.226:7500/live/pass1/pass1/1111.ts
-#EXTINF:-1,OSN-OFFICBOX2
-http://149.202.77.226:7500/live/pass1/pass1/1112.ts
-#EXTINF:-1,OSN-Movies-Premiere
-http://149.202.77.226:7500/live/pass1/pass1/1110.ts
-#EXTINF:-1,OSN-Movie-kids-HD
-http://149.202.77.226:7500/live/pass1/pass1/1109.ts
-#EXTINF:-1,OSN-MBC
-http://149.202.77.226:7500/live/pass1/pass1/1108.ts
-#EXTINF:-1,OSN-ELYOM
-http://149.202.77.226:7500/live/pass1/pass1/1107.ts
-#EXTINF:-1,OSN-Discovery-Science-HD
-http://149.202.77.226:7500/live/pass1/pass1/1106.ts
-#EXTINF:-1,OSN-DISCOVERY-HD
-http://149.202.77.226:7500/live/pass1/pass1/1105.ts
-#EXTINF:-1,OSN-COMEDY
-http://149.202.77.226:7500/live/pass1/pass1/1104.ts
-#EXTINF:-1,OSN-Animal-Planet-HD
-http://149.202.77.226:7500/live/pass1/pass1/1103.ts
-#EXTINF:-1,OSN-ACTION
-http://149.202.77.226:7500/live/pass1/pass1/1102.ts
-#EXTINF:-1,---ARABIC------------------
-http://149.202.77.226:7500/live/pass1/pass1/886.ts
-#EXTINF:-1,MBC1
-http://149.202.77.226:7500/live/pass1/pass1/388.ts
-#EXTINF:-1,Mbc2
-http://149.202.77.226:7500/live/pass1/pass1/387.ts
-#EXTINF:-1,MBC-kIDS
-http://149.202.77.226:7500/live/pass1/pass1/504.ts
-#EXTINF:-1,Mbc4
-http://149.202.77.226:7500/live/pass1/pass1/389.ts
-#EXTINF:-1,Mbc-Max
-http://149.202.77.226:7500/live/pass1/pass1/386.ts
-#EXTINF:-1,Mbc-MASR
-http://149.202.77.226:7500/live/pass1/pass1/390.ts
-#EXTINF:-1,Mbc-MASR2
-http://149.202.77.226:7500/live/pass1/pass1/391.ts
-#EXTINF:-1,Mbc-Drama
-http://149.202.77.226:7500/live/pass1/pass1/392.ts
-#EXTINF:-1,Mbc-Bolly
-http://149.202.77.226:7500/live/pass1/pass1/384.ts
-#EXTINF:-1,Mbc-Action
-http://149.202.77.226:7500/live/pass1/pass1/385.ts
-#EXTINF:-1,Zee-Alwan
-http://149.202.77.226:7500/live/pass1/pass1/393.ts
-#EXTINF:-1,B4U-Plus
-http://149.202.77.226:7500/live/pass1/pass1/416.ts
-#EXTINF:-1,B4U-Aflam
-http://149.202.77.226:7500/live/pass1/pass1/415.ts
-#EXTINF:-1,Rotana_Masriya
-http://149.202.77.226:7500/live/pass1/pass1/516.ts
-#EXTINF:-1,RotanaKhaliji
-http://149.202.77.226:7500/live/pass1/pass1/517.ts
-#EXTINF:-1,RotanaCLIP
-http://149.202.77.226:7500/live/pass1/pass1/514.ts
-#EXTINF:-1,Rotana-Music
-http://149.202.77.226:7500/live/pass1/pass1/515.ts
-#EXTINF:-1,Rotana-masria
-http://149.202.77.226:7500/live/pass1/pass1/412.ts
-#EXTINF:-1,Rotana-classic
-http://149.202.77.226:7500/live/pass1/pass1/413.ts
-#EXTINF:-1,Rotana-Cinema
-http://149.202.77.226:7500/live/pass1/pass1/411.ts
-#EXTINF:-1,Rotana-Aflem
-http://149.202.77.226:7500/live/pass1/pass1/410.ts
-#EXTINF:-1,Melody-Aflam
-http://149.202.77.226:7500/live/pass1/pass1/881.ts
-#EXTINF:-1,Cbc
-http://149.202.77.226:7500/live/pass1/pass1/460.ts
-#EXTINF:-1,Cbc-2
-http://149.202.77.226:7500/live/pass1/pass1/461.ts
-#EXTINF:-1,CBC-Sofra
-http://149.202.77.226:7500/live/pass1/pass1/464.ts
-#EXTINF:-1,CBC-Extra
-http://149.202.77.226:7500/live/pass1/pass1/463.ts
-#EXTINF:-1,Cbc-Drama
-http://149.202.77.226:7500/live/pass1/pass1/462.ts
-#EXTINF:-1,Rotana
-http://149.202.77.226:7500/live/pass1/pass1/513.ts
-#EXTINF:-1,Aflam1
-http://149.202.77.226:7500/live/pass1/pass1/405.ts
-#EXTINF:-1,Aflam2
-http://149.202.77.226:7500/live/pass1/pass1/406.ts
-#EXTINF:-1,Cinema
-http://149.202.77.226:7500/live/pass1/pass1/407.ts
-#EXTINF:-1,Hekayat
-http://149.202.77.226:7500/live/pass1/pass1/408.ts
-#EXTINF:-1,Hekayat2
-http://149.202.77.226:7500/live/pass1/pass1/409.ts
-#EXTINF:-1,Zee-Aflam
-http://149.202.77.226:7500/live/pass1/pass1/414.ts
-#EXTINF:-1,Toyor-Janah
-http://149.202.77.226:7500/live/pass1/pass1/510.ts
-#EXTINF:-1,Majd
-http://149.202.77.226:7500/live/pass1/pass1/498.ts
-#EXTINF:-1,Iqraa
-http://149.202.77.226:7500/live/pass1/pass1/496.ts
-#EXTINF:-1,Toyor-Baby
-http://149.202.77.226:7500/live/pass1/pass1/511.ts
-#EXTINF:-1,Saoudi1
-http://149.202.77.226:7500/live/pass1/pass1/1057.ts
-#EXTINF:-1,Saoudi2
-http://149.202.77.226:7500/live/pass1/pass1/1058.ts
-#EXTINF:-1,Saudi-Sona
-http://149.202.77.226:7500/live/pass1/pass1/896.ts
-#EXTINF:-1,Saudi--Sport
-http://149.202.77.226:7500/live/pass1/pass1/1518.ts
-#EXTINF:-1,Saudi--Quran
-http://149.202.77.226:7500/live/pass1/pass1/1517.ts
-#EXTINF:-1,Saoudi-sonnah
-http://149.202.77.226:7500/live/pass1/pass1/1055.ts
-#EXTINF:-1,Saoudi-Ekberia
-http://149.202.77.226:7500/live/pass1/pass1/1056.ts
-#EXTINF:-1,Saudi-Mekka
-http://149.202.77.226:7500/live/pass1/pass1/897.ts
-#EXTINF:-1,Mehwar
-http://149.202.77.226:7500/live/pass1/pass1/899.ts
-#EXTINF:-1,almasria1
-http://149.202.77.226:7500/live/pass1/pass1/984.ts
-#EXTINF:-1,almasria2
-http://149.202.77.226:7500/live/pass1/pass1/985.ts
-#EXTINF:-1,I24-News
-http://149.202.77.226:7500/live/pass1/pass1/898.ts
-#EXTINF:-1,AlKahera-WalNas
-http://149.202.77.226:7500/live/pass1/pass1/479.ts
-#EXTINF:-1,Alhayat-We-Alnas
-http://149.202.77.226:7500/live/pass1/pass1/1290.ts
-#EXTINF:-1,Alanwar
-http://149.202.77.226:7500/live/pass1/pass1/780.ts
-#EXTINF:-1,Al-Insen
-http://149.202.77.226:7500/live/pass1/pass1/382.ts
-#EXTINF:-1,Al-Ghadir
-http://149.202.77.226:7500/live/pass1/pass1/1400.ts
-#EXTINF:-1,Al-Fath
-http://149.202.77.226:7500/live/pass1/pass1/1399.ts
-#EXTINF:-1,Al-Eskandaria-TV
-http://149.202.77.226:7500/live/pass1/pass1/1398.ts
-#EXTINF:-1,Al-Ekhbariya-Al-Soriya
-http://149.202.77.226:7500/live/pass1/pass1/1397.ts
-#EXTINF:-1,Al-Delta
-http://149.202.77.226:7500/live/pass1/pass1/1396.ts
-#EXTINF:-1,Al-Baghdadia-2
-http://149.202.77.226:7500/live/pass1/pass1/1395.ts
-#EXTINF:-1,Al-Baghdadia
-http://149.202.77.226:7500/live/pass1/pass1/1394.ts
-#EXTINF:-1,Al-Assema-TV
-http://149.202.77.226:7500/live/pass1/pass1/1393.ts
-#EXTINF:-1,Al-Arabiya
-http://149.202.77.226:7500/live/pass1/pass1/809.ts
-#EXTINF:-1,Al-Aqsa
-http://149.202.77.226:7500/live/pass1/pass1/1392.ts
-#EXTINF:-1,Al-Anbar
-http://149.202.77.226:7500/live/pass1/pass1/1391.ts
-#EXTINF:-1,Al-Adjwaa
-http://149.202.77.226:7500/live/pass1/pass1/1390.ts
-#EXTINF:-1,Aghanina
-http://149.202.77.226:7500/live/pass1/pass1/1389.ts
-#EXTINF:-1,Aghani-TV
-http://149.202.77.226:7500/live/pass1/pass1/1388.ts
-#EXTINF:-1,Adhafra
-http://149.202.77.226:7500/live/pass1/pass1/1387.ts
-#EXTINF:-1,AbuDhabi-Imarat
-http://149.202.77.226:7500/live/pass1/pass1/1384.ts
-#EXTINF:-1,Abu-Dhabi-Drama
-http://149.202.77.226:7500/live/pass1/pass1/1386.ts
-#EXTINF:-1,Abu Dhabi Aloula
-http://149.202.77.226:7500/live/pass1/pass1/1385.ts
-#EXTINF:-1,4Shabeb TV
-http://149.202.77.226:7500/live/pass1/pass1/1383.ts
-#EXTINF:-1,Time-Film
-http://149.202.77.226:7500/live/pass1/pass1/436.ts
-#EXTINF:-1,Time-Taxi
-http://149.202.77.226:7500/live/pass1/pass1/812.ts
-#EXTINF:-1,Star-Cin2
-http://149.202.77.226:7500/live/pass1/pass1/427.ts
-#EXTINF:-1,Cinema-Shobra
-http://149.202.77.226:7500/live/pass1/pass1/895.ts
-#EXTINF:-1,Abu-dhabi-yass
-http://149.202.77.226:7500/live/pass1/pass1/900.ts
-#EXTINF:-1,Moga-Comedy
-http://149.202.77.226:7500/live/pass1/pass1/894.ts
-#EXTINF:-1,Time-comedy
-http://149.202.77.226:7500/live/pass1/pass1/813.ts
-#EXTINF:-1,Time-cinema
-http://149.202.77.226:7500/live/pass1/pass1/814.ts
-#EXTINF:-1,star-Film
-http://149.202.77.226:7500/live/pass1/pass1/425.ts
-#EXTINF:-1,Samira-Tv
-http://149.202.77.226:7500/live/pass1/pass1/467.ts
-#EXTINF:-1,Tamazight
-http://149.202.77.226:7500/live/pass1/pass1/792.ts
-#EXTINF:-1,Otv
-http://149.202.77.226:7500/live/pass1/pass1/788.ts
-#EXTINF:-1,NBN
-http://149.202.77.226:7500/live/pass1/pass1/778.ts
-#EXTINF:-1,Mtv-lebanon
-http://149.202.77.226:7500/live/pass1/pass1/819.ts
-#EXTINF:-1,Lbc
-http://149.202.77.226:7500/live/pass1/pass1/472.ts
-#EXTINF:-1,Melody-classic
-http://149.202.77.226:7500/live/pass1/pass1/789.ts
-#EXTINF:-1,Manartv
-http://149.202.77.226:7500/live/pass1/pass1/777.ts
-#EXTINF:-1,HITV
-http://149.202.77.226:7500/live/pass1/pass1/1275.ts
-#EXTINF:-1,HAWACOMTV
-http://149.202.77.226:7500/live/pass1/pass1/1280.ts
-#EXTINF:-1,ALHadath
-http://149.202.77.226:7500/live/pass1/pass1/1274.ts
-#EXTINF:-1,AlAhlyTV
-http://149.202.77.226:7500/live/pass1/pass1/1281.ts
-#EXTINF:-1,ONT
-http://149.202.77.226:7500/live/pass1/pass1/1276.ts
-#EXTINF:-1,LANATV
-http://149.202.77.226:7500/live/pass1/pass1/1279.ts
-#EXTINF:-1,GEAR-ONE
-http://149.202.77.226:7500/live/pass1/pass1/1277.ts
-#EXTINF:-1,Heya-tv
-http://149.202.77.226:7500/live/pass1/pass1/779.ts
-#EXTINF:-1,BeurTv
-http://149.202.77.226:7500/live/pass1/pass1/880.ts
-#EXTINF:-1,Jsc-Mubasher
-http://149.202.77.226:7500/live/pass1/pass1/1063.ts
-#EXTINF:-1,Jsc-Chidren
-http://149.202.77.226:7500/live/pass1/pass1/1064.ts
-#EXTINF:-1,Jsc-Arabic
-http://149.202.77.226:7500/live/pass1/pass1/1065.ts
-#EXTINF:-1,ECHOUROUK
-http://149.202.77.226:7500/live/pass1/pass1/795.ts
-#EXTINF:-1,Cn-tv
-http://149.202.77.226:7500/live/pass1/pass1/783.ts
-#EXTINF:-1,AR.Numedia_Algerie
-http://149.202.77.226:7500/live/pass1/pass1/1016.ts
-#EXTINF:-1,AR.Lindex_Algerie
-http://149.202.77.226:7500/live/pass1/pass1/1023.ts
-#EXTINF:-1,AR.Laki_ENNAHAR
-http://149.202.77.226:7500/live/pass1/pass1/1014.ts
-#EXTINF:-1,AR.KBC_Algerie
-http://149.202.77.226:7500/live/pass1/pass1/1020.ts
-#EXTINF:-1,AR.ENTV_Algerie
-http://149.202.77.226:7500/live/pass1/pass1/1003.ts
-#EXTINF:-1,AR.ENNAHAR_algerie
-http://149.202.77.226:7500/live/pass1/pass1/1013.ts
-#EXTINF:-1,AR.El_Magharibya_2
-http://149.202.77.226:7500/live/pass1/pass1/1012.ts
-#EXTINF:-1,AR.El_Magharibya
-http://149.202.77.226:7500/live/pass1/pass1/1011.ts
-#EXTINF:-1,AR.EL_HADDAF
-http://149.202.77.226:7500/live/pass1/pass1/1022.ts
-#EXTINF:-1,AR.EL_Djazairia
-http://149.202.77.226:7500/live/pass1/pass1/1015.ts
-#EXTINF:-1,AR.EL_Biled
-http://149.202.77.226:7500/live/pass1/pass1/1021.ts
-#EXTINF:-1,AR.Echourouk_news
-http://149.202.77.226:7500/live/pass1/pass1/1010.ts
-#EXTINF:-1,AR.Echerouk_TV
-http://149.202.77.226:7500/live/pass1/pass1/1008.ts
-#EXTINF:-1,AR.Echerouk_Benna
-http://149.202.77.226:7500/live/pass1/pass1/1009.ts
-#EXTINF:-1,AR.Dzair_TV
-http://149.202.77.226:7500/live/pass1/pass1/1017.ts
-#EXTINF:-1,AR.Dzair24
-http://149.202.77.226:7500/live/pass1/pass1/1019.ts
-#EXTINF:-1,AR.Dzair21
-http://149.202.77.226:7500/live/pass1/pass1/1018.ts
-#EXTINF:-1,AR.Canal_Algerie
-http://149.202.77.226:7500/live/pass1/pass1/1004.ts
-#EXTINF:-1,AR.Algerie5_Quoran
-http://149.202.77.226:7500/live/pass1/pass1/1007.ts
-#EXTINF:-1,AR.Algerie3
-http://149.202.77.226:7500/live/pass1/pass1/1005.ts
-#EXTINF:-1,AR.ALGERIAN_amazight
-http://149.202.77.226:7500/live/pass1/pass1/1006.ts
-#EXTINF:-1,CinemaPro
-http://149.202.77.226:7500/live/pass1/pass1/787.ts
-#EXTINF:-1,Bzaflive
-http://149.202.77.226:7500/live/pass1/pass1/794.ts
-#EXTINF:-1,Arabica
-http://149.202.77.226:7500/live/pass1/pass1/781.ts
-#EXTINF:-1,Alriadhia
-http://149.202.77.226:7500/live/pass1/pass1/791.ts
-#EXTINF:-1,Alqods
-http://149.202.77.226:7500/live/pass1/pass1/782.ts
-#EXTINF:-1,Alnas
-http://149.202.77.226:7500/live/pass1/pass1/503.ts
-#EXTINF:-1,TVA3
-http://149.202.77.226:7500/live/pass1/pass1/793.ts
-#EXTINF:-1,KBC
-http://149.202.77.226:7500/live/pass1/pass1/879.ts
-#EXTINF:-1,Toktok-cine
-http://149.202.77.226:7500/live/pass1/pass1/786.ts
-#EXTINF:-1,Toktok-Cima
-http://149.202.77.226:7500/live/pass1/pass1/430.ts
-#EXTINF:-1,Sama-Cinema
-http://149.202.77.226:7500/live/pass1/pass1/797.ts
-#EXTINF:-1,Sat7Kids
-http://149.202.77.226:7500/live/pass1/pass1/785.ts
-#EXTINF:-1,Sat7
-http://149.202.77.226:7500/live/pass1/pass1/784.ts
-#EXTINF:-1,TEN2
-http://149.202.77.226:7500/live/pass1/pass1/1291.ts
-#EXTINF:-1,ENNAHAR-LAKI
-http://149.202.77.226:7500/live/pass1/pass1/1289.ts
-#EXTINF:-1,Althanya
-http://149.202.77.226:7500/live/pass1/pass1/1287.ts
-#EXTINF:-1,ALAANTV
-http://149.202.77.226:7500/live/pass1/pass1/1286.ts
-#EXTINF:-1,National-Geo-AD
-http://149.202.77.226:7500/live/pass1/pass1/798.ts
-#EXTINF:-1,Nile-Tv
-http://149.202.77.226:7500/live/pass1/pass1/455.ts
-#EXTINF:-1,Nile-Sport
-http://149.202.77.226:7500/live/pass1/pass1/983.ts
-#EXTINF:-1,Nile-family
-http://149.202.77.226:7500/live/pass1/pass1/456.ts
-#EXTINF:-1,Nile-Drama
-http://149.202.77.226:7500/live/pass1/pass1/457.ts
-#EXTINF:-1,Nile-Comedy
-http://149.202.77.226:7500/live/pass1/pass1/810.ts
-#EXTINF:-1,Nile-cima
-http://149.202.77.226:7500/live/pass1/pass1/424.ts
-#EXTINF:-1,Syria-Drama
-http://149.202.77.226:7500/live/pass1/pass1/450.ts
-#EXTINF:-1,Panorama-comedy
-http://149.202.77.226:7500/live/pass1/pass1/428.ts
-#EXTINF:-1,panorama-food
-http://149.202.77.226:7500/live/pass1/pass1/429.ts
-#EXTINF:-1,PanoramaAC
-http://149.202.77.226:7500/live/pass1/pass1/422.ts
-#EXTINF:-1,Panoram-Drama
-http://149.202.77.226:7500/live/pass1/pass1/453.ts
-#EXTINF:-1,Panorama-Drama2
-http://149.202.77.226:7500/live/pass1/pass1/454.ts
-#EXTINF:-1,Cairo-Drama
-http://149.202.77.226:7500/live/pass1/pass1/452.ts
-#EXTINF:-1,Cairo-Cinema
-http://149.202.77.226:7500/live/pass1/pass1/431.ts
-#EXTINF:-1,AD-Drama
-http://149.202.77.226:7500/live/pass1/pass1/439.ts
-#EXTINF:-1,Oscarcine
-http://149.202.77.226:7500/live/pass1/pass1/432.ts
-#EXTINF:-1,Oscar-Drama
-http://149.202.77.226:7500/live/pass1/pass1/451.ts
-#EXTINF:-1,Karameech
-http://149.202.77.226:7500/live/pass1/pass1/507.ts
-#EXTINF:-1,Hawas-TV
-http://149.202.77.226:7500/live/pass1/pass1/438.ts
-#EXTINF:-1,Fox-Arabic
-http://149.202.77.226:7500/live/pass1/pass1/418.ts
-#EXTINF:-1,Mody
-http://149.202.77.226:7500/live/pass1/pass1/505.ts
-#EXTINF:-1,Spacetoon
-http://149.202.77.226:7500/live/pass1/pass1/508.ts
-#EXTINF:-1,Future
-http://149.202.77.226:7500/live/pass1/pass1/473.ts
-#EXTINF:-1,Fox-Movie
-http://149.202.77.226:7500/live/pass1/pass1/419.ts
-#EXTINF:-1,Dubai-one
-http://149.202.77.226:7500/live/pass1/pass1/421.ts
-#EXTINF:-1,Dubai-Dra
-http://149.202.77.226:7500/live/pass1/pass1/443.ts
-#EXTINF:-1,Dubai-zaman
-http://149.202.77.226:7500/live/pass1/pass1/1060.ts
-#EXTINF:-1,DUBAI-SPORT4
-http://149.202.77.226:7500/live/pass1/pass1/1278.ts
-#EXTINF:-1,Dubai-tv
-http://149.202.77.226:7500/live/pass1/pass1/1061.ts
-#EXTINF:-1,Dubai-Racing
-http://149.202.77.226:7500/live/pass1/pass1/1062.ts
-#EXTINF:-1,Dubai-AlOula
-http://149.202.77.226:7500/live/pass1/pass1/445.ts
-#EXTINF:-1,El-Djazairia
-http://149.202.77.226:7500/live/pass1/pass1/488.ts
-#EXTINF:-1,DTV-AlgÃˆrie
-http://149.202.77.226:7500/live/pass1/pass1/494.ts
-#EXTINF:-1,CNBC-Arabia
-http://149.202.77.226:7500/live/pass1/pass1/400.ts
-#EXTINF:-1,CnArabia
-http://149.202.77.226:7500/live/pass1/pass1/509.ts
-#EXTINF:-1,ALnahar-one
-http://149.202.77.226:7500/live/pass1/pass1/1288.ts
-#EXTINF:-1,Medi-1TV
-http://149.202.77.226:7500/live/pass1/pass1/486.ts
-#EXTINF:-1,Mbc-pro1
-http://149.202.77.226:7500/live/pass1/pass1/544.ts
-#EXTINF:-1,Mbc-Pro2
-http://149.202.77.226:7500/live/pass1/pass1/545.ts
-#EXTINF:-1,Mbc-Pro3
-http://149.202.77.226:7500/live/pass1/pass1/546.ts
-#EXTINF:-1,Mbc-Pro4
-http://149.202.77.226:7500/live/pass1/pass1/547.ts
-#EXTINF:-1,Mazika-Zoom
-http://149.202.77.226:7500/live/pass1/pass1/519.ts
-#EXTINF:-1,Mazika
-http://149.202.77.226:7500/live/pass1/pass1/518.ts
-#EXTINF:-1,AlnaharDrama
-http://149.202.77.226:7500/live/pass1/pass1/458.ts
-#EXTINF:-1,Al-Nahar-Sport
-http://149.202.77.226:7500/live/pass1/pass1/1285.ts
-#EXTINF:-1,Al-Nahar-Cinema
-http://149.202.77.226:7500/live/pass1/pass1/1284.ts
-#EXTINF:-1,Almajd3
-http://149.202.77.226:7500/live/pass1/pass1/495.ts
-#EXTINF:-1,ALjazeera
-http://149.202.77.226:7500/live/pass1/pass1/394.ts
-#EXTINF:-1,Alhayet-S
-http://149.202.77.226:7500/live/pass1/pass1/449.ts
-#EXTINF:-1,Alhayet-Musalsalet
-http://149.202.77.226:7500/live/pass1/pass1/448.ts
-#EXTINF:-1,Alhayat2
-http://149.202.77.226:7500/live/pass1/pass1/470.ts
-#EXTINF:-1,Alhayat
-http://149.202.77.226:7500/live/pass1/pass1/469.ts
-#EXTINF:-1,2M-Monde
-http://149.202.77.226:7500/live/pass1/pass1/482.ts
-#EXTINF:-1,Algerie-3
-http://149.202.77.226:7500/live/pass1/pass1/489.ts
-#EXTINF:-1,ALarabia
-http://149.202.77.226:7500/live/pass1/pass1/395.ts
-#EXTINF:-1,Alafasy
-http://149.202.77.226:7500/live/pass1/pass1/499.ts
-#EXTINF:-1,Al-Maghribia
-http://149.202.77.226:7500/live/pass1/pass1/483.ts
-#EXTINF:-1,Al-Aoula
-http://149.202.77.226:7500/live/pass1/pass1/485.ts
-#EXTINF:-1,Ajman-TV
-http://149.202.77.226:7500/live/pass1/pass1/481.ts
-#EXTINF:-1,AD-Sport2
-http://149.202.77.226:7500/live/pass1/pass1/522.ts
-#EXTINF:-1,AD-Sport
-http://149.202.77.226:7500/live/pass1/pass1/521.ts
-#EXTINF:-1,JSc-Docum
-http://149.202.77.226:7500/live/pass1/pass1/402.ts
-#EXTINF:-1,Majestic
-http://149.202.77.226:7500/live/pass1/pass1/437.ts
-#EXTINF:-1,Maghreb24
-http://149.202.77.226:7500/live/pass1/pass1/487.ts
-#EXTINF:-1,AD-Aloula
-http://149.202.77.226:7500/live/pass1/pass1/442.ts
-#EXTINF:-1,Abu-dhabi-racing
-http://149.202.77.226:7500/live/pass1/pass1/901.ts
-#EXTINF:-1,BBC-arab
-http://149.202.77.226:7500/live/pass1/pass1/398.ts
-#EXTINF:-1,Baraem
-http://149.202.77.226:7500/live/pass1/pass1/506.ts
-#EXTINF:-1,Assadissa
-http://149.202.77.226:7500/live/pass1/pass1/484.ts
-#EXTINF:-1,Abu-Dhabi
-http://149.202.77.226:7500/live/pass1/pass1/441.ts
-#EXTINF:-1,AD-Natgeo
-http://149.202.77.226:7500/live/pass1/pass1/403.ts
-#EXTINF:-1,AD-Emarat
-http://149.202.77.226:7500/live/pass1/pass1/440.ts
-#EXTINF:-1,AlnaharDrama2
-http://149.202.77.226:7500/live/pass1/pass1/459.ts
-#EXTINF:-1,Dream
-http://149.202.77.226:7500/live/pass1/pass1/474.ts
-#EXTINF:-1,Dream2
-http://149.202.77.226:7500/live/pass1/pass1/475.ts
-#EXTINF:-1,Cima
-http://149.202.77.226:7500/live/pass1/pass1/423.ts
-#EXTINF:-1,---CsatFR---------------------------
-http://149.202.77.226:7500/live/pass1/pass1/887.ts
-#EXTINF:-1,M6
-http://149.202.77.226:7500/live/pass1/pass1/564.ts
-#EXTINF:-1,TF1
-http://149.202.77.226:7500/live/pass1/pass1/563.ts
-#EXTINF:-1,W9
-http://149.202.77.226:7500/live/pass1/pass1/566.ts
-#EXTINF:-1,NT1
-http://149.202.77.226:7500/live/pass1/pass1/878.ts
-#EXTINF:-1,NRJ12
-http://149.202.77.226:7500/live/pass1/pass1/877.ts
-#EXTINF:-1,HD1
-http://149.202.77.226:7500/live/pass1/pass1/1270.ts
-#EXTINF:-1,TMC
-http://149.202.77.226:7500/live/pass1/pass1/1272.ts
-#EXTINF:-1,Canal
-http://149.202.77.226:7500/live/pass1/pass1/548.ts
-#EXTINF:-1,Canal-Cinema
-http://149.202.77.226:7500/live/pass1/pass1/549.ts
-#EXTINF:-1,Canal-Family
-http://149.202.77.226:7500/live/pass1/pass1/551.ts
-#EXTINF:-1,Canal-Sport
-http://149.202.77.226:7500/live/pass1/pass1/602.ts
-#EXTINF:-1,Canal-Series
-http://149.202.77.226:7500/live/pass1/pass1/552.ts
-#EXTINF:-1,Canal-Decale
-http://149.202.77.226:7500/live/pass1/pass1/550.ts
-#EXTINF:-1,Cine-Premier
-http://149.202.77.226:7500/live/pass1/pass1/554.ts
-#EXTINF:-1,Cine-Frisson
-http://149.202.77.226:7500/live/pass1/pass1/553.ts
-#EXTINF:-1,Cine-Famiz
-http://149.202.77.226:7500/live/pass1/pass1/557.ts
-#EXTINF:-1,Cine-Emotion
-http://149.202.77.226:7500/live/pass1/pass1/555.ts
-#EXTINF:-1,Cine-Classic
-http://149.202.77.226:7500/live/pass1/pass1/556.ts
-#EXTINF:-1,TEVA
-http://149.202.77.226:7500/live/pass1/pass1/583.ts
-#EXTINF:-1,VOYAGE
-http://149.202.77.226:7500/live/pass1/pass1/592.ts
-#EXTINF:-1,USHUAIA
-http://149.202.77.226:7500/live/pass1/pass1/593.ts
-#EXTINF:-1,Chasse-Peche
-http://149.202.77.226:7500/live/pass1/pass1/883.ts
-#EXTINF:-1,Animaux
-http://149.202.77.226:7500/live/pass1/pass1/853.ts
-#EXTINF:-1,TV5-Monde
-http://149.202.77.226:7500/live/pass1/pass1/401.ts
-#EXTINF:-1,Tv-Breizh
-http://149.202.77.226:7500/live/pass1/pass1/575.ts
-#EXTINF:-1,TELETOONplus
-http://149.202.77.226:7500/live/pass1/pass1/620.ts
-#EXTINF:-1,TIJI
-http://149.202.77.226:7500/live/pass1/pass1/614.ts
-#EXTINF:-1,Disney-channel-fr
-http://149.202.77.226:7500/live/pass1/pass1/1271.ts
-#EXTINF:-1,Serie-Club
-http://149.202.77.226:7500/live/pass1/pass1/579.ts
-#EXTINF:-1,SYFY
-http://149.202.77.226:7500/live/pass1/pass1/584.ts
-#EXTINF:-1,SRF-Zwei
-http://149.202.77.226:7500/live/pass1/pass1/623.ts
-#EXTINF:-1,SRF
-http://149.202.77.226:7500/live/pass1/pass1/622.ts
-#EXTINF:-1,RTS-Un
-http://149.202.77.226:7500/live/pass1/pass1/624.ts
-#EXTINF:-1,RTS-Deux
-http://149.202.77.226:7500/live/pass1/pass1/625.ts
-#EXTINF:-1,SPORT365
-http://149.202.77.226:7500/live/pass1/pass1/606.ts
-#EXTINF:-1,PLANETE-AE
-http://149.202.77.226:7500/live/pass1/pass1/588.ts
-#EXTINF:-1,PLANETE-CI
-http://149.202.77.226:7500/live/pass1/pass1/587.ts
-#EXTINF:-1,PlANETE
-http://149.202.77.226:7500/live/pass1/pass1/586.ts
-#EXTINF:-1,Paris-Premiere
-http://149.202.77.226:7500/live/pass1/pass1/576.ts
-#EXTINF:-1,Ocs-Max
-http://149.202.77.226:7500/live/pass1/pass1/561.ts
-#EXTINF:-1,Ocs-Geant
-http://149.202.77.226:7500/live/pass1/pass1/560.ts
-#EXTINF:-1,Ocs-City
-http://149.202.77.226:7500/live/pass1/pass1/558.ts
-#EXTINF:-1,Ocs-CHoc
-http://149.202.77.226:7500/live/pass1/pass1/559.ts
-#EXTINF:-1,NATIONAL-GEO
-http://149.202.77.226:7500/live/pass1/pass1/598.ts
-#EXTINF:-1,France24
-http://149.202.77.226:7500/live/pass1/pass1/397.ts
-#EXTINF:-1,JUNE
-http://149.202.77.226:7500/live/pass1/pass1/585.ts
-#EXTINF:-1,HISTOIRE
-http://149.202.77.226:7500/live/pass1/pass1/597.ts
-#EXTINF:-1,France2
-http://149.202.77.226:7500/live/pass1/pass1/569.ts
-#EXTINF:-1,France3
-http://149.202.77.226:7500/live/pass1/pass1/570.ts
-#EXTINF:-1,France4
-http://149.202.77.226:7500/live/pass1/pass1/571.ts
-#EXTINF:-1,France5
-http://149.202.77.226:7500/live/pass1/pass1/572.ts
-#EXTINF:-1,France0
-http://149.202.77.226:7500/live/pass1/pass1/573.ts
-#EXTINF:-1,FOOT24
-http://149.202.77.226:7500/live/pass1/pass1/607.ts
-#EXTINF:-1,Eurosport2
-http://149.202.77.226:7500/live/pass1/pass1/608.ts
-#EXTINF:-1,NFOSPORTPLUS
-http://149.202.77.226:7500/live/pass1/pass1/1273.ts
-#EXTINF:-1,Eurosport1
-http://149.202.77.226:7500/live/pass1/pass1/609.ts
-#EXTINF:-1,EQUIDIA-LIFE
-http://149.202.77.226:7500/live/pass1/pass1/610.ts
-#EXTINF:-1,DISNEY-CHANNEL
-http://149.202.77.226:7500/live/pass1/pass1/619.ts
-#EXTINF:-1,DISCOVERY-SCIENCE
-http://149.202.77.226:7500/live/pass1/pass1/601.ts
-#EXTINF:-1,D8
-http://149.202.77.226:7500/live/pass1/pass1/567.ts
-#EXTINF:-1,D17
-http://149.202.77.226:7500/live/pass1/pass1/568.ts
-#EXTINF:-1,Piwi
-http://149.202.77.226:7500/live/pass1/pass1/882.ts
-#EXTINF:-1,BOOMERANG
-http://149.202.77.226:7500/live/pass1/pass1/613.ts
-#EXTINF:-1,6Ter
-http://149.202.77.226:7500/live/pass1/pass1/565.ts
-#EXTINF:-1,13Eme-RUE
-http://149.202.77.226:7500/live/pass1/pass1/578.ts
-#EXTINF:-1,CANALJ
-http://149.202.77.226:7500/live/pass1/pass1/612.ts
-#EXTINF:-1,RTL-TVI-HD
-http://149.202.77.226:7500/live/pass1/pass1/1215.ts
-#EXTINF:-1,PLUG-RTL
-http://149.202.77.226:7500/live/pass1/pass1/1216.ts
-#EXTINF:-1,LA-UNE-HD
-http://149.202.77.226:7500/live/pass1/pass1/1217.ts
-#EXTINF:-1,LA-DEUX
-http://149.202.77.226:7500/live/pass1/pass1/1219.ts
-#EXTINF:-1,LA-TROIS
-http://149.202.77.226:7500/live/pass1/pass1/1218.ts
-#EXTINF:-1,CLUB-RTL
-http://149.202.77.226:7500/live/pass1/pass1/1220.ts
-#EXTINF:-1,---Sky-It--------------------------
-http://149.202.77.226:7500/live/pass1/pass1/888.ts
-#EXTINF:-1,Sky-Cinema-HD
-http://149.202.77.226:7500/live/pass1/pass1/821.ts
-#EXTINF:-1,Sky-ITCinema1HD
-http://149.202.77.226:7500/live/pass1/pass1/849.ts
-#EXTINF:-1,Sky-IT-PassionHD
-http://149.202.77.226:7500/live/pass1/pass1/850.ts
-#EXTINF:-1,Sky-ITHitsHD
-http://149.202.77.226:7500/live/pass1/pass1/847.ts
-#EXTINF:-1,Sky-ITFamilyHD
-http://149.202.77.226:7500/live/pass1/pass1/851.ts
-#EXTINF:-1,Sky-IT-ComedyHD
-http://149.202.77.226:7500/live/pass1/pass1/852.ts
-#EXTINF:-1,Sky-ITClassicHD
-http://149.202.77.226:7500/live/pass1/pass1/848.ts
-#EXTINF:-1,SkyITNatGeoWild
-http://149.202.77.226:7500/live/pass1/pass1/918.ts
-#EXTINF:-1,SkyITDisneyJunior1
-http://149.202.77.226:7500/live/pass1/pass1/935.ts
-#EXTINF:-1,SkyITDisneyJunior
-http://149.202.77.226:7500/live/pass1/pass1/936.ts
-#EXTINF:-1,SkyITCinemaMax1
-http://149.202.77.226:7500/live/pass1/pass1/942.ts
-#EXTINF:-1,SkyITCinemaCult
-http://149.202.77.226:7500/live/pass1/pass1/945.ts
-#EXTINF:-1,SkyITCinemaClassics
-http://149.202.77.226:7500/live/pass1/pass1/947.ts
-#EXTINF:-1,Sky-Sport1
-http://149.202.77.226:7500/live/pass1/pass1/651.ts
-#EXTINF:-1,Sky-Sport2
-http://149.202.77.226:7500/live/pass1/pass1/652.ts
-#EXTINF:-1,SkyMotoGPHD
-http://149.202.77.226:7500/live/pass1/pass1/846.ts
-#EXTINF:-1,SkySport3HD
-http://149.202.77.226:7500/live/pass1/pass1/841.ts
-#EXTINF:-1,SkySportF1HD
-http://149.202.77.226:7500/live/pass1/pass1/842.ts
-#EXTINF:-1,SkySport24HD
-http://149.202.77.226:7500/live/pass1/pass1/843.ts
-#EXTINF:-1,SkyCalcio1HD
-http://149.202.77.226:7500/live/pass1/pass1/844.ts
-#EXTINF:-1,Sky-Calcio2HD
-http://149.202.77.226:7500/live/pass1/pass1/845.ts
-#EXTINF:-1,Sky-Uno-HD
-http://149.202.77.226:7500/live/pass1/pass1/1226.ts
-#EXTINF:-1,Sky-Supercalcio-HD
-http://149.202.77.226:7500/live/pass1/pass1/1227.ts
-#EXTINF:-1,Sky-Fox-HD
-http://149.202.77.226:7500/live/pass1/pass1/1231.ts
-#EXTINF:-1,Rai-Sport-1
-http://149.202.77.226:7500/live/pass1/pass1/1236.ts
-#EXTINF:-1,Rai-Sport-2
-http://149.202.77.226:7500/live/pass1/pass1/1235.ts
-#EXTINF:-1,Fox-Sports
-http://149.202.77.226:7500/live/pass1/pass1/1234.ts
-#EXTINF:-1,Eurosport-HD
-http://149.202.77.226:7500/live/pass1/pass1/1232.ts
-#EXTINF:-1,Eurosport-2-HD
-http://149.202.77.226:7500/live/pass1/pass1/1233.ts
-#EXTINF:-1,Rete-4
-http://149.202.77.226:7500/live/pass1/pass1/627.ts
-#EXTINF:-1,Italia-Uno
-http://149.202.77.226:7500/live/pass1/pass1/626.ts
-#EXTINF:-1,Canal-5
-http://149.202.77.226:7500/live/pass1/pass1/628.ts
-#EXTINF:-1,Rai1HD
-http://149.202.77.226:7500/live/pass1/pass1/836.ts
-#EXTINF:-1,Rai2HD
-http://149.202.77.226:7500/live/pass1/pass1/837.ts
-#EXTINF:-1,Rai3HD
-http://149.202.77.226:7500/live/pass1/pass1/838.ts
-#EXTINF:-1,caccia-Pesca
-http://149.202.77.226:7500/live/pass1/pass1/811.ts
-#EXTINF:-1,PRIMAFILA1HD
-http://149.202.77.226:7500/live/pass1/pass1/1153.ts
-#EXTINF:-1,PRIMAFILA2HD
-http://149.202.77.226:7500/live/pass1/pass1/1154.ts
-#EXTINF:-1,PRIMAFILA3HD
-http://149.202.77.226:7500/live/pass1/pass1/1155.ts
-#EXTINF:-1,PRIMAFILA4HD
-http://149.202.77.226:7500/live/pass1/pass1/1156.ts
-#EXTINF:-1,PRIMAFILA5HD
-http://149.202.77.226:7500/live/pass1/pass1/1157.ts
-#EXTINF:-1,PRIMAFILA6HD
-http://149.202.77.226:7500/live/pass1/pass1/1158.ts
-#EXTINF:-1,PRIMAFILA7HD
-http://149.202.77.226:7500/live/pass1/pass1/1159.ts
-#EXTINF:-1,PRIMAFILA8HD
-http://149.202.77.226:7500/live/pass1/pass1/1160.ts
-#EXTINF:-1,PRIMAFILA9HD
-http://149.202.77.226:7500/live/pass1/pass1/1161.ts
-#EXTINF:-1,PRIMAFILA10HD
-http://149.202.77.226:7500/live/pass1/pass1/1162.ts
-#EXTINF:-1,PRIMAFILA11HD
-http://149.202.77.226:7500/live/pass1/pass1/1163.ts
-#EXTINF:-1,PRIMAFILA12HD
-http://149.202.77.226:7500/live/pass1/pass1/1164.ts
-#EXTINF:-1,PRIMAFILA13HD
-http://149.202.77.226:7500/live/pass1/pass1/1165.ts
-#EXTINF:-1,PRIMAFILA14HD
-http://149.202.77.226:7500/live/pass1/pass1/1166.ts
-#EXTINF:-1,PRIMAFILA15HD
-http://149.202.77.226:7500/live/pass1/pass1/1167.ts
-#EXTINF:-1,---Mediaset-IT-----------------------------
-http://149.202.77.226:7500/live/pass1/pass1/1188.ts
-#EXTINF:-1,PREMIUM-STORIES
-http://149.202.77.226:7500/live/pass1/pass1/1196.ts
-#EXTINF:-1,PREMIUM-SPORTHD
-http://149.202.77.226:7500/live/pass1/pass1/1197.ts
-#EXTINF:-1,PREMIUM-JOIHD
-http://149.202.77.226:7500/live/pass1/pass1/1189.ts
-#EXTINF:-1,PREMIUM-ENERGY
-http://149.202.77.226:7500/live/pass1/pass1/1198.ts
-#EXTINF:-1,PREMIUM-EMOTION
-http://149.202.77.226:7500/live/pass1/pass1/1199.ts
-#EXTINF:-1,PREMIUM-CRIMEHD
-http://149.202.77.226:7500/live/pass1/pass1/1200.ts
-#EXTINF:-1,PREMIUM-COMEDY
-http://149.202.77.226:7500/live/pass1/pass1/1202.ts
-#EXTINF:-1,PREMIUM-CINEMAHD
-http://149.202.77.226:7500/live/pass1/pass1/1203.ts
-#EXTINF:-1,PREMIUM-CINEMA2HD
-http://149.202.77.226:7500/live/pass1/pass1/1192.ts
-#EXTINF:-1,MEDIASET-ITALIA2
-http://149.202.77.226:7500/live/pass1/pass1/1193.ts
-#EXTINF:-1,MEDIASET-EXTRA
-http://149.202.77.226:7500/live/pass1/pass1/1194.ts
-#EXTINF:-1,---Sky-DE--------------------------------
-http://149.202.77.226:7500/live/pass1/pass1/889.ts
-#EXTINF:-1,DE-Sat-1
-http://149.202.77.226:7500/live/pass1/pass1/1357.ts
-#EXTINF:-1,DE-RTL2
-http://149.202.77.226:7500/live/pass1/pass1/1355.ts
-#EXTINF:-1,DE-RTL-Nitro
-http://149.202.77.226:7500/live/pass1/pass1/1356.ts
-#EXTINF:-1,DE-RTL-I
-http://149.202.77.226:7500/live/pass1/pass1/1354.ts
-#EXTINF:-1,DE-RTL-Crime
-http://149.202.77.226:7500/live/pass1/pass1/1353.ts
-#EXTINF:-1,DE-ProSieben
-http://149.202.77.226:7500/live/pass1/pass1/1352.ts
-#EXTINF:-1,DE-PRO7-MAXX
-http://149.202.77.226:7500/live/pass1/pass1/1351.ts
-#EXTINF:-1,DE-Pro7
-http://149.202.77.226:7500/live/pass1/pass1/1350.ts
-#EXTINF:-1,DE-Phoenix
-http://149.202.77.226:7500/live/pass1/pass1/1349.ts
-#EXTINF:-1,ZDF
-http://149.202.77.226:7500/live/pass1/pass1/832.ts
-#EXTINF:-1,VOX
-http://149.202.77.226:7500/live/pass1/pass1/833.ts
-#EXTINF:-1,super-rtl
-http://149.202.77.226:7500/live/pass1/pass1/954.ts
-#EXTINF:-1,Sky-DMAX
-http://149.202.77.226:7500/live/pass1/pass1/822.ts
-#EXTINF:-1,Skyde-sport1
-http://149.202.77.226:7500/live/pass1/pass1/992.ts
-#EXTINF:-1,SkySport2HD
-http://149.202.77.226:7500/live/pass1/pass1/834.ts
-#EXTINF:-1,Sky-BundesLiga1HD
-http://149.202.77.226:7500/live/pass1/pass1/824.ts
-#EXTINF:-1,Sky-Cinema1HD
-http://149.202.77.226:7500/live/pass1/pass1/823.ts
-#EXTINF:-1,Sky007
-http://149.202.77.226:7500/live/pass1/pass1/986.ts
-#EXTINF:-1,Sky-nostalgie
-http://149.202.77.226:7500/live/pass1/pass1/991.ts
-#EXTINF:-1,Sky-krimi
-http://149.202.77.226:7500/live/pass1/pass1/988.ts
-#EXTINF:-1,Sky-emotion
-http://149.202.77.226:7500/live/pass1/pass1/989.ts
-#EXTINF:-1,Sky-atlantic
-http://149.202.77.226:7500/live/pass1/pass1/990.ts
-#EXTINF:-1,Sky-action
-http://149.202.77.226:7500/live/pass1/pass1/987.ts
-#EXTINF:-1,Sky-Comedy-HD
-http://149.202.77.226:7500/live/pass1/pass1/820.ts
-#EXTINF:-1,sky-cinemaplus1
-http://149.202.77.226:7500/live/pass1/pass1/981.ts
-#EXTINF:-1,sky-cinema24
-http://149.202.77.226:7500/live/pass1/pass1/982.ts
-#EXTINF:-1,Sky-Action-HD
-http://149.202.77.226:7500/live/pass1/pass1/825.ts
-#EXTINF:-1,skyhits
-http://149.202.77.226:7500/live/pass1/pass1/980.ts
-#EXTINF:-1,syfy-de
-http://149.202.77.226:7500/live/pass1/pass1/979.ts
-#EXTINF:-1,mgm
-http://149.202.77.226:7500/live/pass1/pass1/978.ts
-#EXTINF:-1,NdrHD
-http://149.202.77.226:7500/live/pass1/pass1/829.ts
-#EXTINF:-1,N24HD
-http://149.202.77.226:7500/live/pass1/pass1/830.ts
-#EXTINF:-1,N-TV
-http://149.202.77.226:7500/live/pass1/pass1/831.ts
-#EXTINF:-1,BlizzHD
-http://149.202.77.226:7500/live/pass1/pass1/828.ts
-#EXTINF:-1,Skyselect1HD
-http://149.202.77.226:7500/live/pass1/pass1/1002.ts
-#EXTINF:-1,Skyselect2HD
-http://149.202.77.226:7500/live/pass1/pass1/1001.ts
-#EXTINF:-1,Skyselect3HD
-http://149.202.77.226:7500/live/pass1/pass1/1000.ts
-#EXTINF:-1,Skyselect4HD
-http://149.202.77.226:7500/live/pass1/pass1/999.ts
-#EXTINF:-1,Skyselect5HD
-http://149.202.77.226:7500/live/pass1/pass1/998.ts
-#EXTINF:-1,SkySelect6HD
-http://149.202.77.226:7500/live/pass1/pass1/997.ts
-#EXTINF:-1,SkySelect7HD
-http://149.202.77.226:7500/live/pass1/pass1/996.ts
-#EXTINF:-1,SkySelect8HD
-http://149.202.77.226:7500/live/pass1/pass1/995.ts
-#EXTINF:-1,SkySelect9HD
-http://149.202.77.226:7500/live/pass1/pass1/994.ts
-#EXTINF:-1,---Digitalplus---------------------
-http://149.202.77.226:7500/live/pass1/pass1/1152.ts
-#EXTINF:-1,TELECINCOHD
-http://149.202.77.226:7500/live/pass1/pass1/1245.ts
-#EXTINF:-1,NATGEO
-http://149.202.77.226:7500/live/pass1/pass1/1246.ts
-#EXTINF:-1,LASEXTA
-http://149.202.77.226:7500/live/pass1/pass1/1247.ts
-#EXTINF:-1,LA2
-http://149.202.77.226:7500/live/pass1/pass1/1248.ts
-#EXTINF:-1,LA1
-http://149.202.77.226:7500/live/pass1/pass1/1249.ts
-#EXTINF:-1,HOLLYWOOD
-http://149.202.77.226:7500/live/pass1/pass1/1250.ts
-#EXTINF:-1,GALICIA
-http://149.202.77.226:7500/live/pass1/pass1/1251.ts
-#EXTINF:-1,EXTREMADURA
-http://149.202.77.226:7500/live/pass1/pass1/1252.ts
+#EXTINF:-1,LA 1 HD
+http://boxtv.es:8000/live/chile1/chile1/78.ts
+#EXTINF:-1,LA 1
+http://boxtv.es:8000/live/chile1/chile1/79.ts
+#EXTINF:-1,LA 2
+http://boxtv.es:8000/live/chile1/chile1/80.ts
+#EXTINF:-1,24 HORAS
+http://boxtv.es:8000/live/chile1/chile1/89.ts
+#EXTINF:-1,ANTENA 3 HD
+http://boxtv.es:8000/live/chile1/chile1/81.ts
+#EXTINF:-1,ANTENA 3
+http://boxtv.es:8000/live/chile1/chile1/82.ts
+#EXTINF:-1,A3 SERIES
+http://boxtv.es:8000/live/chile1/chile1/144.ts
+#EXTINF:-1,CUATRO HD
+http://boxtv.es:8000/live/chile1/chile1/83.ts
 #EXTINF:-1,CUATRO
-http://149.202.77.226:7500/live/pass1/pass1/1254.ts
-#EXTINF:-1,CAZAYPESCA
-http://149.202.77.226:7500/live/pass1/pass1/1255.ts
-#EXTINF:-1,CANALSERIE
-http://149.202.77.226:7500/live/pass1/pass1/1262.ts
-#EXTINF:-1,CANALLALIGA 2
-http://149.202.77.226:7500/live/pass1/pass1/1257.ts
-#EXTINF:-1,CANALLALIGA
-http://149.202.77.226:7500/live/pass1/pass1/1256.ts
-#EXTINF:-1,CANALFUTBOL
-http://149.202.77.226:7500/live/pass1/pass1/1263.ts
-#EXTINF:-1,CANALESTRENOS
-http://149.202.77.226:7500/live/pass1/pass1/1258.ts
-#EXTINF:-1,CANALDEPORTE
-http://149.202.77.226:7500/live/pass1/pass1/1264.ts
-#EXTINF:-1,CANALDCINE
-http://149.202.77.226:7500/live/pass1/pass1/1259.ts
-#EXTINF:-1,CANALCOMEDIA
-http://149.202.77.226:7500/live/pass1/pass1/1260.ts
-#EXTINF:-1,CANALACCION
-http://149.202.77.226:7500/live/pass1/pass1/1261.ts
-#EXTINF:-1,CALLE13
-http://149.202.77.226:7500/live/pass1/pass1/1265.ts
-#EXTINF:-1,BEINESPAÃ‘A
-http://149.202.77.226:7500/live/pass1/pass1/1266.ts
-#EXTINF:-1,ANTENASERIESHD
-http://149.202.77.226:7500/live/pass1/pass1/1267.ts
-#EXTINF:-1,ANTENA3HD
-http://149.202.77.226:7500/live/pass1/pass1/1268.ts
-#EXTINF:-1,---NL--------------------------------
-http://149.202.77.226:7500/live/pass1/pass1/1334.ts
-#EXTINF:-1,Stadium1-HD
-http://149.202.77.226:7500/live/pass1/pass1/1343.ts
-#EXTINF:-1,Stadium2-HD
-http://149.202.77.226:7500/live/pass1/pass1/1344.ts
-#EXTINF:-1,Stadium3-HD
-http://149.202.77.226:7500/live/pass1/pass1/1345.ts
-#EXTINF:-1,Stadium4-HD
-http://149.202.77.226:7500/live/pass1/pass1/1346.ts
-#EXTINF:-1,Stadium5-HD
-http://149.202.77.226:7500/live/pass1/pass1/1347.ts
-#EXTINF:-1,Stadium6-HD
-http://149.202.77.226:7500/live/pass1/pass1/1348.ts
-#EXTINF:-1,DISNEY_CHANNEL
-http://149.202.77.226:7500/live/pass1/pass1/1333.ts
-#EXTINF:-1,TELEKIDS
-http://149.202.77.226:7500/live/pass1/pass1/1332.ts
-#EXTINF:-1,NL-VERONICAHD
-http://149.202.77.226:7500/live/pass1/pass1/1436.ts
-#EXTINF:-1,NL-TLCHD
-http://149.202.77.226:7500/live/pass1/pass1/1434.ts
-#EXTINF:-1,NL-SBS6HD
-http://149.202.77.226:7500/live/pass1/pass1/1431.ts
-#EXTINF:-1,NL-RTL8HD
-http://149.202.77.226:7500/live/pass1/pass1/1433.ts
-#EXTINF:-1,NL-RTL7HD
-http://149.202.77.226:7500/live/pass1/pass1/1432.ts
-#EXTINF:-1,NL-RTL5HD
-http://149.202.77.226:7500/live/pass1/pass1/1428.ts
-#EXTINF:-1,NL-RTL4HD
-http://149.202.77.226:7500/live/pass1/pass1/1427.ts
-#EXTINF:-1,NL-NPO1HD
-http://149.202.77.226:7500/live/pass1/pass1/1421.ts
-#EXTINF:-1,NL-NPO2HD
-http://149.202.77.226:7500/live/pass1/pass1/1422.ts
-#EXTINF:-1,NL-NPO3HD
-http://149.202.77.226:7500/live/pass1/pass1/1423.ts
-#EXTINF:-1,NL-NICKTOONSHD
-http://149.202.77.226:7500/live/pass1/pass1/1439.ts
-#EXTINF:-1,NL-NICKELODEON-SPIKE
-http://149.202.77.226:7500/live/pass1/pass1/1438.ts
-#EXTINF:-1,NL-NET5HD
-http://149.202.77.226:7500/live/pass1/pass1/1429.ts
-#EXTINF:-1,NL-INVESTIGATION-DISC
-http://149.202.77.226:7500/live/pass1/pass1/1442.ts
-#EXTINF:-1,NL-HBOHD
-http://149.202.77.226:7500/live/pass1/pass1/1424.ts
-#EXTINF:-1,NL-HBO2HD
-http://149.202.77.226:7500/live/pass1/pass1/1425.ts
-#EXTINF:-1,NL-HBO3HD
-http://149.202.77.226:7500/live/pass1/pass1/1426.ts
-#EXTINF:-1,NL-FOXSPORTS1HD
-http://149.202.77.226:7500/live/pass1/pass1/1448.ts
-#EXTINF:-1,NL-FOXSPORTS2HD
-http://149.202.77.226:7500/live/pass1/pass1/1449.ts
-#EXTINF:-1,NL-FOXSPORTS3HD
-http://149.202.77.226:7500/live/pass1/pass1/1450.ts
-#EXTINF:-1,NL-FOXSPORTS4HD
-http://149.202.77.226:7500/live/pass1/pass1/1451.ts
-#EXTINF:-1,NL-FOXSPORTS5HD
-http://149.202.77.226:7500/live/pass1/pass1/1452.ts
-#EXTINF:-1,NL-FOX TV
-http://149.202.77.226:7500/live/pass1/pass1/1435.ts
-#EXTINF:-1,NL-FILM1SUNDANCEHD
-http://149.202.77.226:7500/live/pass1/pass1/1444.ts
-#EXTINF:-1,NL-FILM1PREMIEREHD
-http://149.202.77.226:7500/live/pass1/pass1/1445.ts
-#EXTINF:-1,NL-FILM1COMEDYHD
-http://149.202.77.226:7500/live/pass1/pass1/1446.ts
-#EXTINF:-1,NL-FILM1ACTIONHD
-http://149.202.77.226:7500/live/pass1/pass1/1447.ts
-#EXTINF:-1,NL-DISNEYJUNIOR
-http://149.202.77.226:7500/live/pass1/pass1/1441.ts
-#EXTINF:-1,NL-DISCOVERY-CHANNEL-HD
-http://149.202.77.226:7500/live/pass1/pass1/1443.ts
-#EXTINF:-1,NL-COMEDYCENTRAL
-http://149.202.77.226:7500/live/pass1/pass1/1437.ts
-#EXTINF:-1,NL-CARTOONNLHD
-http://149.202.77.226:7500/live/pass1/pass1/1440.ts
-#EXTINF:-1,NL-AT5
-http://149.202.77.226:7500/live/pass1/pass1/1430.ts
-#EXTINF:-1,FILM1_PREMIERE
-http://149.202.77.226:7500/live/pass1/pass1/1331.ts
-#EXTINF:-1,EEN
-http://149.202.77.226:7500/live/pass1/pass1/1330.ts
-#EXTINF:-1,NET5
-http://149.202.77.226:7500/live/pass1/pass1/1326.ts
-#EXTINF:-1,HBO
-http://149.202.77.226:7500/live/pass1/pass1/1327.ts
-#EXTINF:-1,HBO2
-http://149.202.77.226:7500/live/pass1/pass1/1328.ts
-#EXTINF:-1,HBO3
-http://149.202.77.226:7500/live/pass1/pass1/1329.ts
-#EXTINF:-1,RTL4
-http://149.202.77.226:7500/live/pass1/pass1/1322.ts
-#EXTINF:-1,RTL5
-http://149.202.77.226:7500/live/pass1/pass1/1323.ts
-#EXTINF:-1,RTL7
-http://149.202.77.226:7500/live/pass1/pass1/1324.ts
-#EXTINF:-1,RTL8
-http://149.202.77.226:7500/live/pass1/pass1/1325.ts
-#EXTINF:-1,RTL9
-http://149.202.77.226:7500/live/pass1/pass1/581.ts
-#EXTINF:-1,NPO1
-http://149.202.77.226:7500/live/pass1/pass1/1319.ts
-#EXTINF:-1,NPO2
-http://149.202.77.226:7500/live/pass1/pass1/1320.ts
-#EXTINF:-1,NPO3
-http://149.202.77.226:7500/live/pass1/pass1/1321.ts
-#EXTINF:-1,---Sky-Uk--------------------------
-http://149.202.77.226:7500/live/pass1/pass1/890.ts
-#EXTINF:-1,SkyUKSport1HD
-http://149.202.77.226:7500/live/pass1/pass1/859.ts
-#EXTINF:-1,SkyUKSport2HD
-http://149.202.77.226:7500/live/pass1/pass1/858.ts
-#EXTINF:-1,SkyUKSport3HD
-http://149.202.77.226:7500/live/pass1/pass1/857.ts
-#EXTINF:-1,SkyUKSport4HD
-http://149.202.77.226:7500/live/pass1/pass1/856.ts
-#EXTINF:-1,SkyUKSport5HD
-http://149.202.77.226:7500/live/pass1/pass1/855.ts
-#EXTINF:-1,BBC-One
-http://149.202.77.226:7500/live/pass1/pass1/1337.ts
-#EXTINF:-1,BBC-Two
-http://149.202.77.226:7500/live/pass1/pass1/1338.ts
-#EXTINF:-1,BBC-Three
-http://149.202.77.226:7500/live/pass1/pass1/1339.ts
-#EXTINF:-1,SkyThrillerUK
-http://149.202.77.226:7500/live/pass1/pass1/867.ts
-#EXTINF:-1,SkyShowCaseUK
-http://149.202.77.226:7500/live/pass1/pass1/868.ts
-#EXTINF:-1,SkySelectUK
-http://149.202.77.226:7500/live/pass1/pass1/869.ts
-#EXTINF:-1,SkySci-FihorrorUK
-http://149.202.77.226:7500/live/pass1/pass1/875.ts
-#EXTINF:-1,SkyITMaxhd
-http://149.202.77.226:7500/live/pass1/pass1/854.ts
-#EXTINF:-1,SkyGreatsUK
-http://149.202.77.226:7500/live/pass1/pass1/871.ts
-#EXTINF:-1,SkyFamilyUK
-http://149.202.77.226:7500/live/pass1/pass1/872.ts
-#EXTINF:-1,SkyDramaRomanceUK
-http://149.202.77.226:7500/live/pass1/pass1/873.ts
-#EXTINF:-1,SkyDisneyUK
-http://149.202.77.226:7500/live/pass1/pass1/874.ts
-#EXTINF:-1,SkyActionUK
-http://149.202.77.226:7500/live/pass1/pass1/866.ts
-#EXTINF:-1,NICKELODEON
-http://149.202.77.226:7500/live/pass1/pass1/1242.ts
-#EXTINF:-1,DISNEYXD
-http://149.202.77.226:7500/live/pass1/pass1/1239.ts
-#EXTINF:-1,BT-SPORTS2
-http://149.202.77.226:7500/live/pass1/pass1/1241.ts
-#EXTINF:-1,BT-SPORTS1
-http://149.202.77.226:7500/live/pass1/pass1/1240.ts
-#EXTINF:-1,SkyPremiereUK
-http://149.202.77.226:7500/live/pass1/pass1/870.ts
-#EXTINF:-1,SkyComedyUk
-http://149.202.77.226:7500/live/pass1/pass1/865.ts
-#EXTINF:-1,CBS-RealityUK
-http://149.202.77.226:7500/live/pass1/pass1/1066.ts
-#EXTINF:-1,UK-Syfy
-http://149.202.77.226:7500/live/pass1/pass1/1069.ts
-#EXTINF:-1,UK-SKYArt1
-http://149.202.77.226:7500/live/pass1/pass1/1070.ts
-#EXTINF:-1,UK-Sky-Two
-http://149.202.77.226:7500/live/pass1/pass1/1071.ts
-#EXTINF:-1,UK Sky-F1UK
-http://149.202.77.226:7500/live/pass1/pass1/1072.ts
-#EXTINF:-1,TrueMovies2
-http://149.202.77.226:7500/live/pass1/pass1/864.ts
-#EXTINF:-1,TrueMovies1
-http://149.202.77.226:7500/live/pass1/pass1/863.ts
-#EXTINF:-1,True-Movies 2
-http://149.202.77.226:7500/live/pass1/pass1/1068.ts
-#EXTINF:-1,Sky-Sp-News
-http://149.202.77.226:7500/live/pass1/pass1/1073.ts
-#EXTINF:-1,Sky-One
-http://149.202.77.226:7500/live/pass1/pass1/1074.ts
-#EXTINF:-1,Sky-News
-http://149.202.77.226:7500/live/pass1/pass1/399.ts
-#EXTINF:-1,National-GeoUK
-http://149.202.77.226:7500/live/pass1/pass1/1076.ts
-#EXTINF:-1,NatGeoWildUK
-http://149.202.77.226:7500/live/pass1/pass1/862.ts
-#EXTINF:-1,NATGEO-WILD
-http://149.202.77.226:7500/live/pass1/pass1/599.ts
-#EXTINF:-1,Movies-4men
-http://149.202.77.226:7500/live/pass1/pass1/1077.ts
-#EXTINF:-1,ITV1
-http://149.202.77.226:7500/live/pass1/pass1/1081.ts
-#EXTINF:-1,ITV2
-http://149.202.77.226:7500/live/pass1/pass1/1080.ts
-#EXTINF:-1,ITV3
-http://149.202.77.226:7500/live/pass1/pass1/1079.ts
-#EXTINF:-1,ITV4
-http://149.202.77.226:7500/live/pass1/pass1/1078.ts
-#EXTINF:-1,---Turkish-------------------------
-http://149.202.77.226:7500/live/pass1/pass1/1318.ts
-#EXTINF:-1,SALON1
-http://149.202.77.226:7500/live/pass1/pass1/1294.ts
-#EXTINF:-1,SALON2
-http://149.202.77.226:7500/live/pass1/pass1/1293.ts
-#EXTINF:-1,SALON3
-http://149.202.77.226:7500/live/pass1/pass1/1292.ts
-#EXTINF:-1,TR-FOX
-http://149.202.77.226:7500/live/pass1/pass1/1309.ts
-#EXTINF:-1,CNNTURK
-http://149.202.77.226:7500/live/pass1/pass1/1313.ts
-#EXTINF:-1,CARTONNETWORK
-http://149.202.77.226:7500/live/pass1/pass1/1315.ts
-#EXTINF:-1,ATV-HD
-http://149.202.77.226:7500/live/pass1/pass1/1316.ts
-#EXTINF:-1,---Movies---
-http://149.202.77.226:7500/live/pass1/pass1/951.ts
-#EXTINF:-1,First-Movie1
-http://149.202.77.226:7500/movie/pass1/pass1/966.mkv
-#EXTINF:-1,First-Movie2
-http://149.202.77.226:7500/movie/pass1/pass1/967.mkv
-#EXTINF:-1,First-Movie3
-http://149.202.77.226:7500/movie/pass1/pass1/968.mkv
-#EXTINF:-1,First-Movie4
-http://149.202.77.226:7500/movie/pass1/pass1/969.mkv
-#EXTINF:-1,First-Movie5
-http://149.202.77.226:7500/movie/pass1/pass1/970.mkv
-#EXTINF:-1,First-Movie6
-http://149.202.77.226:7500/movie/pass1/pass1/971.mkv
-#EXTINF:-1,First-Movie7
-http://149.202.77.226:7500/movie/pass1/pass1/972.mkv
-#EXTINF:-1,First-Movie8
-http://149.202.77.226:7500/movie/pass1/pass1/973.mkv
-#EXTINF:-1,First-Movie9
-http://149.202.77.226:7500/movie/pass1/pass1/974.mkv
-#EXTINF:-1,First-Movie11
-http://149.202.77.226:7500/movie/pass1/pass1/976.mkv
-#EXTINF:-1,First-Movie12
-http://149.202.77.226:7500/movie/pass1/pass1/977.mkv
+http://boxtv.es:8000/live/chile1/chile1/84.ts
+#EXTINF:-1,TELECINCO HD
+http://boxtv.es:8000/live/chile1/chile1/85.ts
+#EXTINF:-1,TELECINCO
+http://boxtv.es:8000/live/chile1/chile1/86.ts
+#EXTINF:-1,LA SEXTA HD
+http://boxtv.es:8000/live/chile1/chile1/87.ts
+#EXTINF:-1,LA SEXTA
+http://boxtv.es:8000/live/chile1/chile1/88.ts
+#EXTINF:-1,CANAL EXTREMADURA
+http://boxtv.es:8000/live/chile1/chile1/1559.ts
+#EXTINF:-1,CANAL SUR
+http://boxtv.es:8000/live/chile1/chile1/176.ts
+#EXTINF:-1,CASTILLA LA MANCHA
+http://boxtv.es:8000/live/chile1/chile1/178.ts
+#EXTINF:-1,CASTILLA Y LEON
+http://boxtv.es:8000/live/chile1/chile1/174.ts
+#EXTINF:-1,EITB-1
+http://boxtv.es:8000/live/chile1/chile1/175.ts
+#EXTINF:-1,NAVARRA TV
+http://boxtv.es:8000/live/chile1/chile1/1560.ts
+#EXTINF:-1,RTPA
+http://boxtv.es:8000/live/chile1/chile1/1558.ts
+#EXTINF:-1,TELEBILBAO
+http://boxtv.es:8000/live/chile1/chile1/1550.ts
+#EXTINF:-1,TELEMADRID HD
+http://boxtv.es:8000/live/chile1/chile1/90.ts
+#EXTINF:-1,TELEMADRID
+http://boxtv.es:8000/live/chile1/chile1/91.ts
+#EXTINF:-1,CORDOBA TV
+http://boxtv.es:8000/live/chile1/chile1/1551.ts
+#EXTINF:-1,TV3 CAT
+http://boxtv.es:8000/live/chile1/chile1/173.ts
+#EXTINF:-1,TV GALICIA
+http://boxtv.es:8000/live/chile1/chile1/177.ts
+#EXTINF:-1,8TV MADRID
+http://boxtv.es:8000/live/chile1/chile1/93.ts
+#EXTINF:-1,LA OTRA
+http://boxtv.es:8000/live/chile1/chile1/92.ts
+#EXTINF:-1,TV LOCAL – ZARAGOZA
+http://boxtv.es:8000/live/chile1/chile1/1561.ts
+#EXTINF:-1,EL CORREO
+http://boxtv.es:8000/live/chile1/chile1/1557.ts
+#EXTINF:-1,https://iptv.zone/en PARAMOUNT CHANNEL
+http://boxtv.es:8000/live/chile1/chile1/163.ts
+#EXTINF:-1,NOVA
+http://boxtv.es:8000/live/chile1/chile1/152.ts
+#EXTINF:-1,Neox
+http://boxtv.es:8000/live/chile1/chile1/153.ts
+#EXTINF:-1,MEGA
+http://boxtv.es:8000/live/chile1/chile1/155.ts
+#EXTINF:-1,13 TV
+http://boxtv.es:8000/live/chile1/chile1/168.ts
+#EXTINF:-1,INTERECONOMIA
+http://boxtv.es:8000/live/chile1/chile1/181.ts
+#EXTINF:-1,FDF
+http://boxtv.es:8000/live/chile1/chile1/157.ts
+#EXTINF:-1,ENERGY
+http://boxtv.es:8000/live/chile1/chile1/159.ts
+#EXTINF:-1,DIVINITY
+http://boxtv.es:8000/live/chile1/chile1/158.ts
+#EXTINF:-1,—–★●• DEPORTES- •●★—–
+http://boxtv.es:8000/live/chile1/chile1/94.ts
+#EXTINF:-1,MULTIDEPORTE
+http://boxtv.es:8000/live/chile1/chile1/2096.ts
+#EXTINF:-1,MI ZEN HD -DEPORTE-
+http://boxtv.es:8000/live/chile1/chile1/101.ts
+#EXTINF:-1,CANAL PLUS LIGA HD/solo partidos en directo
+http://boxtv.es:8000/live/chile1/chile1/102.ts
+#EXTINF:-1,C+ LIGA SD
+http://boxtv.es:8000/live/chile1/chile1/103.ts
+#EXTINF:-1,C+ LIGA 2 18:00 carrusel 20:15 Leganés – Huesca
+http://boxtv.es:8000/live/chile1/chile1/104.ts
+#EXTINF:-1,MULTIFUTBOL 2
+http://boxtv.es:8000/live/chile1/chile1/235.ts
+#EXTINF:-1,BEINSPORTS ESPAÑA
+http://boxtv.es:8000/live/chile1/chile1/100.ts
+#EXTINF:-1,BEIN ESPAÑA MOVISTAR
+http://boxtv.es:8000/live/chile1/chile1/99.ts
+#EXTINF:-1,BEIN ESPAÑA SAT
+http://boxtv.es:8000/live/chile1/chile1/95.ts
+#EXTINF:-1,C + FÚTBOL
+http://boxtv.es:8000/live/chile1/chile1/108.ts
+#EXTINF:-1,C + DEPORTES
+http://boxtv.es:8000/live/chile1/chile1/109.ts
+#EXTINF:-1,CANAL PLUS DEPORTE HD
+http://boxtv.es:8000/live/chile1/chile1/2135.ts
+#EXTINF:-1,CANAL+ DEPORTES 2
+http://boxtv.es:8000/live/chile1/chile1/110.ts
+#EXTINF:-1,MOVISTAR MOTO GP
+http://boxtv.es:8000/live/chile1/chile1/1564.ts
+#EXTINF:-1,MOVISTAR F1
+http://boxtv.es:8000/live/chile1/chile1/111.ts
+#EXTINF:-1,C+ GOLF
+http://boxtv.es:8000/live/chile1/chile1/115.ts
+#EXTINF:-1,TDP
+http://boxtv.es:8000/live/chile1/chile1/118.ts
+#EXTINF:-1,EUROSPORT 1 ENG
+http://boxtv.es:8000/live/chile1/chile1/1713.ts
+#EXTINF:-1,EUROSPORT 1
+http://boxtv.es:8000/live/chile1/chile1/113.ts
+#EXTINF:-1,EUROSPORT 2
+http://boxtv.es:8000/live/chile1/chile1/114.ts
+#EXTINF:-1,CAZA Y PESCA
+http://boxtv.es:8000/live/chile1/chile1/117.ts
+#EXTINF:-1,IBERALIA
+http://boxtv.es:8000/live/chile1/chile1/180.ts
+#EXTINF:-1,CANAL + TOROS
+http://boxtv.es:8000/live/chile1/chile1/1369.ts
+#EXTINF:-1,REAL MADRID TV
+http://boxtv.es:8000/live/chile1/chile1/107.ts
+#EXTINF:-1,BARCA TV
+http://boxtv.es:8000/live/chile1/chile1/106.ts
+#EXTINF:-1,—–★●• Movistar- •●★—–
+http://boxtv.es:8000/live/chile1/chile1/131.ts
+#EXTINF:-1,MULTICINE
+http://boxtv.es:8000/live/chile1/chile1/2097.ts
+#EXTINF:-1,#0
+http://boxtv.es:8000/live/chile1/chile1/132.ts
+#EXTINF:-1,C+ ESTRENOS
+http://boxtv.es:8000/live/chile1/chile1/138.ts
+#EXTINF:-1,C+ SERIES EXTRA
+http://boxtv.es:8000/live/chile1/chile1/136.ts
+#EXTINF:-1,CANAL+ COMEDIA
+http://boxtv.es:8000/live/chile1/chile1/134.ts
+#EXTINF:-1,C+ DCINE
+http://boxtv.es:8000/live/chile1/chile1/135.ts
+#EXTINF:-1,C+ ACCION
+http://boxtv.es:8000/live/chile1/chile1/133.ts
+#EXTINF:-1,De Cine español
+http://boxtv.es:8000/live/chile1/chile1/160.ts
+#EXTINF:-1,CANAL + SERIES
+http://boxtv.es:8000/live/chile1/chile1/1195.ts
+#EXTINF:-1,CRIMEN E INVESTIGACION
+http://boxtv.es:8000/live/chile1/chile1/2024.ts
+#EXTINF:-1,FOX
+http://boxtv.es:8000/live/chile1/chile1/156.ts
+#EXTINF:-1,FOX LIFE
+http://boxtv.es:8000/live/chile1/chile1/1193.ts
+#EXTINF:-1,AXN
+http://boxtv.es:8000/live/chile1/chile1/154.ts
+#EXTINF:-1,AXN WHITE
+http://boxtv.es:8000/live/chile1/chile1/1194.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://boxtv.es:8000/live/chile1/chile1/164.ts
+#EXTINF:-1,AMC
+http://boxtv.es:8000/live/chile1/chile1/166.ts
+#EXTINF:-1,A&E
+http://boxtv.es:8000/live/chile1/chile1/167.ts
+#EXTINF:-1,COSMO
+http://boxtv.es:8000/live/chile1/chile1/161.ts
+#EXTINF:-1,VIAJAR
+http://boxtv.es:8000/live/chile1/chile1/179.ts
+#EXTINF:-1,ODISEA
+http://boxtv.es:8000/live/chile1/chile1/129.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://boxtv.es:8000/live/chile1/chile1/126.ts
+#EXTINF:-1,NATGEO WILD
+http://boxtv.es:8000/live/chile1/chile1/127.ts
+#EXTINF:-1,DISCOVERY MAX
+http://boxtv.es:8000/live/chile1/chile1/128.ts
+#EXTINF:-1,HOLLYWOOD
+http://boxtv.es:8000/live/chile1/chile1/151.ts
+#EXTINF:-1,https://iptv.zone/en HISTORIA
+http://boxtv.es:8000/live/chile1/chile1/130.ts
+#EXTINF:-1,CANAL COCINA
+http://boxtv.es:8000/live/chile1/chile1/183.ts
+#EXTINF:-1,DE CASA
+http://boxtv.es:8000/live/chile1/chile1/162.ts
+#EXTINF:-1,MTV ESPAÑA
+http://boxtv.es:8000/live/chile1/chile1/1526.ts
+#EXTINF:-1,—–★●• Musica- •●★—–
+http://boxtv.es:8000/live/chile1/chile1/191.ts
+#EXTINF:-1,HIT TV MUSIC
+http://boxtv.es:8000/live/chile1/chile1/1723.ts
+#EXTINF:-1,Heart TV
+http://boxtv.es:8000/live/chile1/chile1/1722.ts
+#EXTINF:-1,ESKA ROCK
+http://boxtv.es:8000/live/chile1/chile1/1726.ts
+#EXTINF:-1,RITMOSON
+http://boxtv.es:8000/live/chile1/chile1/1555.ts
+#EXTINF:-1,TELEHIT
+http://boxtv.es:8000/live/chile1/chile1/1554.ts
+#EXTINF:-1,CLUBLAND TV
+http://boxtv.es:8000/live/chile1/chile1/203.ts
+#EXTINF:-1,SOL MÚSICA
+http://boxtv.es:8000/live/chile1/chile1/193.ts
+#EXTINF:-1,40 TV
+http://boxtv.es:8000/live/chile1/chile1/194.ts
+#EXTINF:-1,HIT TV
+http://boxtv.es:8000/live/chile1/chile1/195.ts
+#EXTINF:-1,VH1
+http://boxtv.es:8000/live/chile1/chile1/232.ts
+#EXTINF:-1,VH1 CLASSIC
+http://boxtv.es:8000/live/chile1/chile1/230.ts
+#EXTINF:-1,MTV DANCE
+http://boxtv.es:8000/live/chile1/chile1/231.ts
+#EXTINF:-1,VEVO 1
+http://boxtv.es:8000/live/chile1/chile1/226.ts
+#EXTINF:-1,VEVO 2
+http://boxtv.es:8000/live/chile1/chile1/225.ts
+#EXTINF:-1,VEVO 3
+http://boxtv.es:8000/live/chile1/chile1/224.ts
+#EXTINF:-1,TIGO MUSIC
+http://boxtv.es:8000/live/chile1/chile1/228.ts
+#EXTINF:-1,RETRO TV
+http://boxtv.es:8000/live/chile1/chile1/227.ts
+#EXTINF:-1,POP HD
+http://boxtv.es:8000/live/chile1/chile1/233.ts
+#EXTINF:-1,ONDA LATINA
+http://boxtv.es:8000/live/chile1/chile1/234.ts
+#EXTINF:-1,MI MUSICA
+http://boxtv.es:8000/live/chile1/chile1/192.ts
+#EXTINF:-1,ESKA PARTY
+http://boxtv.es:8000/live/chile1/chile1/223.ts
+#EXTINF:-1,BEST MUSIC HD
+http://boxtv.es:8000/live/chile1/chile1/229.ts
+#EXTINF:-1,—–★●• LATINOS •●★—–
+http://boxtv.es:8000/live/chile1/chile1/1877.ts
+#EXTINF:-1,LA RED -CHILE
+http://boxtv.es:8000/live/chile1/chile1/1719.ts
+#EXTINF:-1,RTS ECUADOR
+http://boxtv.es:8000/live/chile1/chile1/1549.ts
+#EXTINF:-1,GALA TV
+http://boxtv.es:8000/live/chile1/chile1/1543.ts
+#EXTINF:-1,DE PELICULA
+http://boxtv.es:8000/live/chile1/chile1/1541.ts
+#EXTINF:-1,TELENOVELAS
+http://boxtv.es:8000/live/chile1/chile1/1540.ts
+#EXTINF:-1,CLASICO TV
+http://boxtv.es:8000/live/chile1/chile1/1539.ts
+#EXTINF:-1,GALAVISION HD —
+http://boxtv.es:8000/live/chile1/chile1/1542.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://boxtv.es:8000/live/chile1/chile1/182.ts
+#EXTINF:-1,AZTECA NOTICIAS
+http://boxtv.es:8000/live/chile1/chile1/1537.ts
+#EXTINF:-1,TELECAFE
+http://boxtv.es:8000/live/chile1/chile1/1536.ts
+#EXTINF:-1,CANAL 26
+http://boxtv.es:8000/live/chile1/chile1/221.ts
+#EXTINF:-1,TVN CHILE
+http://boxtv.es:8000/live/chile1/chile1/1531.ts
+#EXTINF:-1,AZTECA DEPORTES
+http://boxtv.es:8000/live/chile1/chile1/1533.ts
+#EXTINF:-1,AZTECA 13
+http://boxtv.es:8000/live/chile1/chile1/1532.ts
+#EXTINF:-1,prueba televisa
+http://boxtv.es:8000/live/chile1/chile1/1024.ts
+#EXTINF:-1,ONCE TV
+http://boxtv.es:8000/live/chile1/chile1/1171.ts
+#EXTINF:-1,TELEMAX
+http://boxtv.es:8000/live/chile1/chile1/977.ts
+#EXTINF:-1,TV COLOMBIA
+http://boxtv.es:8000/live/chile1/chile1/204.ts
+#EXTINF:-1,TV RECORD
+http://boxtv.es:8000/live/chile1/chile1/196.ts
+#EXTINF:-1,CHILE TV
+http://boxtv.es:8000/live/chile1/chile1/222.ts
+#EXTINF:-1,TELESUR
+http://boxtv.es:8000/live/chile1/chile1/197.ts
+#EXTINF:-1,—–★●• Kids- •●★—–
+http://boxtv.es:8000/live/chile1/chile1/185.ts
+#EXTINF:-1,CANAL PANDA
+http://boxtv.es:8000/live/chile1/chile1/187.ts
+#EXTINF:-1,BOING
+http://boxtv.es:8000/live/chile1/chile1/188.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://boxtv.es:8000/live/chile1/chile1/186.ts
+#EXTINF:-1,DISNEY JR
+http://boxtv.es:8000/live/chile1/chile1/190.ts
+#EXTINF:-1,BABY TV
+http://boxtv.es:8000/live/chile1/chile1/189.ts
+
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES:TOROSHD
-http://149.202.203.121:7022/live/1234/1234/1638.ts
-#EXTINF:-1,ES:TNT
-http://149.202.203.121:7022/live/1234/1234/1627.ts
-#EXTINF:-1,ES:TELEDEPORTE
-http://149.202.203.121:7022/live/1234/1234/1626.ts
-#EXTINF:-1,ES:TELECINCO
-http://149.202.203.121:7022/live/1234/1234/1625.ts
-#EXTINF:-1,ES:TCM
-http://149.202.203.121:7022/live/1234/1234/1624.ts
-#EXTINF:-1,ES:SYFYHD
-http://149.202.203.121:7022/live/1234/1234/1641.ts
-#EXTINF:-1,ES:SYFY
-http://149.202.203.121:7022/live/1234/1234/1584.ts
-#EXTINF:-1,ES:SOL
-http://149.202.203.121:7022/live/1234/1234/1583.ts
-#EXTINF:-1,ES:SERIESXTRA
-http://149.202.203.121:7022/live/1234/1234/1605.ts
-#EXTINF:-1,ES:SERIES
-http://149.202.203.121:7022/live/1234/1234/1604.ts
-#EXTINF:-1,ES:PLAYBOYTV
-http://149.202.203.121:7022/live/1234/1234/1589.ts
-#EXTINF:-1,ES:PARTIDAZO
-http://149.202.203.121:7022/live/1234/1234/1603.ts
-#EXTINF:-1,ES:ORBE21
-http://149.202.203.121:7022/live/1234/1234/1608.ts
-#EXTINF:-1,ES:ODISEA
-http://149.202.203.121:7022/live/1234/1234/1593.ts
-#EXTINF:-1,ES:NGWILDHD
-http://149.202.203.121:7022/live/1234/1234/1640.ts
-#EXTINF:-1,ES:NATGEOHD
-http://149.202.203.121:7022/live/1234/1234/1643.ts
-#EXTINF:-1,ES:MTVESPA
-http://149.202.203.121:7022/live/1234/1234/1591.ts
-#EXTINF:-1,ES:LTC
-http://149.202.203.121:7022/live/1234/1234/1596.ts
-#EXTINF:-1,ES:LIGAHD
-http://149.202.203.121:7022/live/1234/1234/1629.ts
-#EXTINF:-1,ES:LASEXTA
-http://149.202.203.121:7022/live/1234/1234/1623.ts
-#EXTINF:-1,ES:LA2
-http://149.202.203.121:7022/live/1234/1234/1622.ts
-#EXTINF:-1,ES:LA1HD
-http://149.202.203.121:7022/live/1234/1234/1631.ts
-#EXTINF:-1,ES:LA1
-http://149.202.203.121:7022/live/1234/1234/1621.ts
-#EXTINF:-1,ES:HOLLYWOODHD
-http://149.202.203.121:7022/live/1234/1234/1633.ts
-#EXTINF:-1,ES:HISTORIA
-http://149.202.203.121:7022/live/1234/1234/1620.ts
-#EXTINF:-1,ES:GOLF
-http://149.202.203.121:7022/live/1234/1234/1590.ts
-#EXTINF:-1,ES:FOXNEWS
-http://149.202.203.121:7022/live/1234/1234/1595.ts
-#EXTINF:-1,ES:FOXHD
-http://149.202.203.121:7022/live/1234/1234/1636.ts
-#EXTINF:-1,ES:FOTBOLHD
-http://149.202.203.121:7022/live/1234/1234/1635.ts
-#EXTINF:-1,ES:FDF
-http://149.202.203.121:7022/live/1234/1234/1619.ts
-#EXTINF:-1,ES:EUROSPORT1
-http://149.202.203.121:7022/live/1234/1234/1594.ts
-#EXTINF:-1,ES:ESTRENOS
-http://149.202.203.121:7022/live/1234/1234/1602.ts
-#EXTINF:-1,ES:ESTRELLAS
-http://149.202.203.121:7022/live/1234/1234/1587.ts
-#EXTINF:-1,ES:DISNEYXD
-http://149.202.203.121:7022/live/1234/1234/1618.ts
-#EXTINF:-1,ES:DISNEYCH
-http://149.202.203.121:7022/live/1234/1234/1617.ts
-#EXTINF:-1,ES:DISCOVERY
-http://149.202.203.121:7022/live/1234/1234/1616.ts
-#EXTINF:-1,ES:DEPORT
-http://149.202.203.121:7022/live/1234/1234/1588.ts
-#EXTINF:-1,ES:DECASA
-http://149.202.203.121:7022/live/1234/1234/1592.ts
-#EXTINF:-1,ES:DCINESPA
-http://149.202.203.121:7022/live/1234/1234/1615.ts
-#EXTINF:-1,ES:DCINEHD
-http://149.202.203.121:7022/live/1234/1234/1634.ts
-#EXTINF:-1,ES:CUATRO
-http://149.202.203.121:7022/live/1234/1234/1614.ts
-#EXTINF:-1,ES:CRIMEN
-http://149.202.203.121:7022/live/1234/1234/1613.ts
-#EXTINF:-1,ES:COMEDYCENTRAL
-http://149.202.203.121:7022/live/1234/1234/1612.ts
-#EXTINF:-1,ES:COMEDIAHD
-http://149.202.203.121:7022/live/1234/1234/1630.ts
-#EXTINF:-1,ES:CLANTVE
-http://149.202.203.121:7022/live/1234/1234/1611.ts
-#EXTINF:-1,ES:CASAYPESCA
-http://149.202.203.121:7022/live/1234/1234/1610.ts
-#EXTINF:-1,ES:CANALSUR
-http://149.202.203.121:7022/live/1234/1234/1609.ts
-#EXTINF:-1,ES:CANALCOCINA
-http://149.202.203.121:7022/live/1234/1234/1607.ts
-#EXTINF:-1,ES:CALLE13HD
-http://149.202.203.121:7022/live/1234/1234/1639.ts
-#EXTINF:-1,ES:CALLE13
-http://149.202.203.121:7022/live/1234/1234/1597.ts
-#EXTINF:-1,ES:BABYTV
-http://149.202.203.121:7022/live/1234/1234/1586.ts
-#EXTINF:-1,ES:AXNHD
-http://149.202.203.121:7022/live/1234/1234/1632.ts
-#EXTINF:-1,ES:AMC
-http://149.202.203.121:7022/live/1234/1234/1601.ts
-#EXTINF:-1,ES:AE
-http://149.202.203.121:7022/live/1234/1234/1600.ts
-#EXTINF:-1,ES:ACCIONHD
-http://149.202.203.121:7022/live/1234/1234/1628.ts
-#EXTINF:-1,ES:40TV
-http://149.202.203.121:7022/live/1234/1234/1599.ts
-#EXTINF:-1,ES:24HORAS
-http://149.202.203.121:7022/live/1234/1234/1598.ts
-#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES_TELECINCO
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7956.ts
-#EXTINF:-1,ES_REAL_MADRID_TV
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7955.ts
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7954.ts
-#EXTINF:-1,ES_CANAL_COCINA
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7951.ts
-#EXTINF:-1,ES_CANAL_ACTION
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7950.ts
-#EXTINF:-1,ES_CANAL_2
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7949.ts
-#EXTINF:-1,ES_CANAL _TOROS
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7948.ts
-#EXTINF:-1,ES_CANAL _LIGA_HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7947.ts
-#EXTINF:-1,ES_CANAL _Estrenos HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7945.ts
-#EXTINF:-1,ES_CANAL _DEPORTES
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7944.ts
-#EXTINF:-1,ES_CANAL _DCINE
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7943.ts
-#EXTINF:-1,ES_CANAL _COMEDIA
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7942.ts
-#EXTINF:-1,ES_CANAL _1
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7941.ts
-#EXTINF:-1,ES_CALLE_13
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7940.ts
-#EXTINF:-1,ES: TVE La 2HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7938.ts
-#EXTINF:-1,ES: TV3 Cat
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7937.ts
-#EXTINF:-1,ES: Odisea HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7936.ts
-#EXTINF:-1,ES: National Geographic
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7935.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7953.ts
-#EXTINF:-1,ES: Hollywood
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7934.ts
-#EXTINF:-1,ES: History
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7933.ts
-#EXTINF:-1,ES: Fox Spain
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7932.ts
-#EXTINF:-1,ES: Eurosport 2
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7931.ts
-#EXTINF:-1,ES: Disney Channel
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7930.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7952.ts
-#EXTINF:-1,ES: CANAL  FUTBOL
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7946.ts
-#EXTINF:-1,ES: Canal   Golf
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7929.ts
-#EXTINF:-1,ES: Bein Sports HD
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7928.ts
-#EXTINF:-1,ES: BARCA TV
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7939.ts
-#EXTINF:-1,ES: AXN White
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7927.ts
-#EXTINF:-1,ES: AXN
-http://cp.dmbshare.net:8000/live/alessandro/alessandro/7926.ts
+
+
+
 
 
 
@@ -1428,70 +303,22 @@ http://cp.dmbshare.net:8000/live/alessandro/alessandro/7926.ts
 
 
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,ES_TELECINCO
-http://cp.dmbshare.net:8000/live/francesco/francesco/7956.ts
-#EXTINF:-1,ES_REAL_MADRID_TV
-http://cp.dmbshare.net:8000/live/francesco/francesco/7955.ts
-#EXTINF:-1,ES_MOVIESTAR_MOTOGP
-http://cp.dmbshare.net:8000/live/francesco/francesco/7954.ts
-#EXTINF:-1,ES_CANAL_COCINA
-http://cp.dmbshare.net:8000/live/francesco/francesco/7951.ts
-#EXTINF:-1,ES_CANAL_ACTION
-http://cp.dmbshare.net:8000/live/francesco/francesco/7950.ts
-#EXTINF:-1,ES_CANAL_2
-http://cp.dmbshare.net:8000/live/francesco/francesco/7949.ts
-#EXTINF:-1,ES_CANAL _TOROS
-http://cp.dmbshare.net:8000/live/francesco/francesco/7948.ts
-#EXTINF:-1,ES_CANAL _LIGA_HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7947.ts
-#EXTINF:-1,ES_CANAL _Estrenos HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7945.ts
-#EXTINF:-1,ES_CANAL _DEPORTES
-http://cp.dmbshare.net:8000/live/francesco/francesco/7944.ts
-#EXTINF:-1,ES_CANAL _DCINE
-http://cp.dmbshare.net:8000/live/francesco/francesco/7943.ts
-#EXTINF:-1,ES_CANAL _COMEDIA
-http://cp.dmbshare.net:8000/live/francesco/francesco/7942.ts
-#EXTINF:-1,ES_CANAL _1
-http://cp.dmbshare.net:8000/live/francesco/francesco/7941.ts
-#EXTINF:-1,ES_CALLE_13
-http://cp.dmbshare.net:8000/live/francesco/francesco/7940.ts
-#EXTINF:-1,ES: TVE La 2HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7938.ts
-#EXTINF:-1,ES: TV3 Cat
-http://cp.dmbshare.net:8000/live/francesco/francesco/7937.ts
-#EXTINF:-1,ES: Odisea HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7936.ts
-#EXTINF:-1,ES: National Geographic
-http://cp.dmbshare.net:8000/live/francesco/francesco/7935.ts
-#EXTINF:-1,ES: LA SEXTA HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7953.ts
-#EXTINF:-1,ES: Hollywood
-http://cp.dmbshare.net:8000/live/francesco/francesco/7934.ts
-#EXTINF:-1,ES: History
-http://cp.dmbshare.net:8000/live/francesco/francesco/7933.ts
-#EXTINF:-1,ES: Fox Spain
-http://cp.dmbshare.net:8000/live/francesco/francesco/7932.ts
-#EXTINF:-1,ES: Eurosport 2
-http://cp.dmbshare.net:8000/live/francesco/francesco/7931.ts
-#EXTINF:-1,ES: Disney Channel
-http://cp.dmbshare.net:8000/live/francesco/francesco/7930.ts
-#EXTINF:-1,ES: CANAL DECASA
-http://cp.dmbshare.net:8000/live/francesco/francesco/7952.ts
-#EXTINF:-1,ES: CANAL  FUTBOL
-http://cp.dmbshare.net:8000/live/francesco/francesco/7946.ts
-#EXTINF:-1,ES: Canal   Golf
-http://cp.dmbshare.net:8000/live/francesco/francesco/7929.ts
-#EXTINF:-1,ES: Bein Sports HD
-http://cp.dmbshare.net:8000/live/francesco/francesco/7928.ts
-#EXTINF:-1,ES: BARCA TV
-http://cp.dmbshare.net:8000/live/francesco/francesco/7939.ts
-#EXTINF:-1,ES: AXN White
-http://cp.dmbshare.net:8000/live/francesco/francesco/7927.ts
-#EXTINF:-1,ES: AXN
-http://cp.dmbshare.net:8000/live/francesco/francesco/7926.ts
-#EXTINF:-1,ES: A&E
-http://cp.dmbshare.net:8000/live/francesco/francesco/7925.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
+
+
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,CANADA: womens entertainment
 http://cp.dmbshare.net:8000/live/frendo/frendo/8811.ts
