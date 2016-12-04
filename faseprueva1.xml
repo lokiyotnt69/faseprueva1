@@ -1,5 +1,320 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES_TELECINCO
+http://137.74.94.161:8000/live/jason/jason/7956.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://137.74.94.161:8000/live/jason/jason/7955.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://137.74.94.161:8000/live/jason/jason/7954.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://137.74.94.161:8000/live/jason/jason/7951.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://137.74.94.161:8000/live/jason/jason/7950.ts
+#EXTINF:-1,ES_CANAL_2
+http://137.74.94.161:8000/live/jason/jason/7949.ts
+#EXTINF:-1,ES_CANAL _TOROS
+http://137.74.94.161:8000/live/jason/jason/7948.ts
+#EXTINF:-1,ES_CANAL _LIGA_HD
+http://137.74.94.161:8000/live/jason/jason/7947.ts
+#EXTINF:-1,ES_CANAL _Estrenos HD
+http://137.74.94.161:8000/live/jason/jason/7945.ts
+#EXTINF:-1,ES_CANAL _DEPORTES
+http://137.74.94.161:8000/live/jason/jason/7944.ts
+#EXTINF:-1,ES_CANAL _DCINE
+http://137.74.94.161:8000/live/jason/jason/7943.ts
+#EXTINF:-1,ES_CANAL _COMEDIA
+http://137.74.94.161:8000/live/jason/jason/7942.ts
+#EXTINF:-1,ES_CANAL _1
+http://137.74.94.161:8000/live/jason/jason/7941.ts
+#EXTINF:-1,ES_CALLE_13
+http://137.74.94.161:8000/live/jason/jason/7940.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://137.74.94.161:8000/live/jason/jason/7938.ts
+#EXTINF:-1,ES: TV3 Cat
+http://137.74.94.161:8000/live/jason/jason/7937.ts
+#EXTINF:-1,ES: Odisea HD
+http://137.74.94.161:8000/live/jason/jason/7936.ts
+#EXTINF:-1,ES: National Geographic
+http://137.74.94.161:8000/live/jason/jason/7935.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://137.74.94.161:8000/live/jason/jason/7953.ts
+#EXTINF:-1,ES: Hollywood
+http://137.74.94.161:8000/live/jason/jason/7934.ts
+#EXTINF:-1,ES: History
+http://137.74.94.161:8000/live/jason/jason/7933.ts
+#EXTINF:-1,ES: Fox Spain
+http://137.74.94.161:8000/live/jason/jason/7932.ts
+#EXTINF:-1,ES: Eurosport 2
+http://137.74.94.161:8000/live/jason/jason/7931.ts
+#EXTINF:-1,ES: Disney Channel
+http://137.74.94.161:8000/live/jason/jason/7930.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://137.74.94.161:8000/live/jason/jason/7952.ts
+#EXTINF:-1,ES: CANAL  FUTBOL
+http://137.74.94.161:8000/live/jason/jason/7946.ts
+#EXTINF:-1,ES: Canal   Golf
+http://137.74.94.161:8000/live/jason/jason/7929.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://137.74.94.161:8000/live/jason/jason/7928.ts
+#EXTINF:-1,ES: BARCA TV
+http://137.74.94.161:8000/live/jason/jason/7939.ts
+#EXTINF:-1,ES: AXN White
+http://137.74.94.161:8000/live/jason/jason/7927.ts
+#EXTINF:-1,ES: AXN
+http://137.74.94.161:8000/live/jason/jason/7926.ts
+#EXTINF:-1,ES: A&E
+http://137.74.94.161:8000/live/jason/jason/7925.ts
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES:TOROSHD
+http://149.202.203.121:7022/live/1234/1234/1638.ts
+#EXTINF:-1,ES:TNT
+http://149.202.203.121:7022/live/1234/1234/1627.ts
+#EXTINF:-1,ES:TELEDEPORTE
+http://149.202.203.121:7022/live/1234/1234/1626.ts
+#EXTINF:-1,ES:TELECINCO
+http://149.202.203.121:7022/live/1234/1234/1625.ts
+#EXTINF:-1,ES:TCM
+http://149.202.203.121:7022/live/1234/1234/1624.ts
+#EXTINF:-1,ES:SYFYHD
+http://149.202.203.121:7022/live/1234/1234/1641.ts
+#EXTINF:-1,ES:SYFY
+http://149.202.203.121:7022/live/1234/1234/1584.ts
+#EXTINF:-1,ES:SOL
+http://149.202.203.121:7022/live/1234/1234/1583.ts
+#EXTINF:-1,ES:SERIESXTRA
+http://149.202.203.121:7022/live/1234/1234/1605.ts
+#EXTINF:-1,ES:SERIES
+http://149.202.203.121:7022/live/1234/1234/1604.ts
+#EXTINF:-1,ES:PLAYBOYTV
+http://149.202.203.121:7022/live/1234/1234/1589.ts
+#EXTINF:-1,ES:PARTIDAZO
+http://149.202.203.121:7022/live/1234/1234/1603.ts
+#EXTINF:-1,ES:ORBE21
+http://149.202.203.121:7022/live/1234/1234/1608.ts
+#EXTINF:-1,ES:ODISEA
+http://149.202.203.121:7022/live/1234/1234/1593.ts
+#EXTINF:-1,ES:NGWILDHD
+http://149.202.203.121:7022/live/1234/1234/1640.ts
+#EXTINF:-1,ES:NATGEOHD
+http://149.202.203.121:7022/live/1234/1234/1643.ts
+#EXTINF:-1,ES:MTVESPA
+http://149.202.203.121:7022/live/1234/1234/1591.ts
+#EXTINF:-1,ES:LTC
+http://149.202.203.121:7022/live/1234/1234/1596.ts
+#EXTINF:-1,ES:LIGAHD
+http://149.202.203.121:7022/live/1234/1234/1629.ts
+#EXTINF:-1,ES:LASEXTA
+http://149.202.203.121:7022/live/1234/1234/1623.ts
+#EXTINF:-1,ES:LA2
+http://149.202.203.121:7022/live/1234/1234/1622.ts
+#EXTINF:-1,ES:LA1HD
+http://149.202.203.121:7022/live/1234/1234/1631.ts
+#EXTINF:-1,ES:LA1
+http://149.202.203.121:7022/live/1234/1234/1621.ts
+#EXTINF:-1,ES:HOLLYWOODHD
+http://149.202.203.121:7022/live/1234/1234/1633.ts
+#EXTINF:-1,ES:HISTORIA
+http://149.202.203.121:7022/live/1234/1234/1620.ts
+#EXTINF:-1,ES:GOLF
+http://149.202.203.121:7022/live/1234/1234/1590.ts
+#EXTINF:-1,ES:FOXNEWS
+http://149.202.203.121:7022/live/1234/1234/1595.ts
+#EXTINF:-1,ES:FOXHD
+http://149.202.203.121:7022/live/1234/1234/1636.ts
+#EXTINF:-1,ES:FOTBOLHD
+http://149.202.203.121:7022/live/1234/1234/1635.ts
+#EXTINF:-1,ES:FDF
+http://149.202.203.121:7022/live/1234/1234/1619.ts
+#EXTINF:-1,ES:EUROSPORT1
+http://149.202.203.121:7022/live/1234/1234/1594.ts
+#EXTINF:-1,ES:ESTRENOS
+http://149.202.203.121:7022/live/1234/1234/1602.ts
+#EXTINF:-1,ES:ESTRELLAS
+http://149.202.203.121:7022/live/1234/1234/1587.ts
+#EXTINF:-1,ES:DISNEYXD
+http://149.202.203.121:7022/live/1234/1234/1618.ts
+#EXTINF:-1,ES:DISNEYCH
+http://149.202.203.121:7022/live/1234/1234/1617.ts
+#EXTINF:-1,ES:DISCOVERY
+http://149.202.203.121:7022/live/1234/1234/1616.ts
+#EXTINF:-1,ES:DEPORT
+http://149.202.203.121:7022/live/1234/1234/1588.ts
+#EXTINF:-1,ES:DECASA
+http://149.202.203.121:7022/live/1234/1234/1592.ts
+#EXTINF:-1,ES:DCINESPA
+http://149.202.203.121:7022/live/1234/1234/1615.ts
+#EXTINF:-1,ES:DCINEHD
+http://149.202.203.121:7022/live/1234/1234/1634.ts
+#EXTINF:-1,ES:CUATRO
+http://149.202.203.121:7022/live/1234/1234/1614.ts
+#EXTINF:-1,ES:CRIMEN
+http://149.202.203.121:7022/live/1234/1234/1613.ts
+#EXTINF:-1,ES:COMEDYCENTRAL
+http://149.202.203.121:7022/live/1234/1234/1612.ts
+#EXTINF:-1,ES:COMEDIAHD
+http://149.202.203.121:7022/live/1234/1234/1630.ts
+#EXTINF:-1,ES:CLANTVE
+http://149.202.203.121:7022/live/1234/1234/1611.ts
+#EXTINF:-1,ES:CASAYPESCA
+http://149.202.203.121:7022/live/1234/1234/1610.ts
+#EXTINF:-1,ES:CANALSUR
+http://149.202.203.121:7022/live/1234/1234/1609.ts
+#EXTINF:-1,ES:CANALCOCINA
+http://149.202.203.121:7022/live/1234/1234/1607.ts
+#EXTINF:-1,ES:CALLE13HD
+http://149.202.203.121:7022/live/1234/1234/1639.ts
+#EXTINF:-1,ES:CALLE13
+http://149.202.203.121:7022/live/1234/1234/1597.ts
+#EXTINF:-1,ES:BABYTV
+http://149.202.203.121:7022/live/1234/1234/1586.ts
+#EXTINF:-1,ES:AXNHD
+http://149.202.203.121:7022/live/1234/1234/1632.ts
+#EXTINF:-1,ES:AMC
+http://149.202.203.121:7022/live/1234/1234/1601.ts
+#EXTINF:-1,ES:AE
+http://149.202.203.121:7022/live/1234/1234/1600.ts
+#EXTINF:-1,ES:ACCIONHD
+http://149.202.203.121:7022/live/1234/1234/1628.ts
+#EXTINF:-1,ES:40TV
+http://149.202.203.121:7022/live/1234/1234/1599.ts
+#EXTINF:-1,ES:24HORAS
+http://149.202.203.121:7022/live/1234/1234/1598.ts
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES_TELECINCO
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7956.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7955.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7954.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7951.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7950.ts
+#EXTINF:-1,ES_CANAL_2
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7949.ts
+#EXTINF:-1,ES_CANAL _TOROS
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7948.ts
+#EXTINF:-1,ES_CANAL _LIGA_HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7947.ts
+#EXTINF:-1,ES_CANAL _Estrenos HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7945.ts
+#EXTINF:-1,ES_CANAL _DEPORTES
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7944.ts
+#EXTINF:-1,ES_CANAL _DCINE
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7943.ts
+#EXTINF:-1,ES_CANAL _COMEDIA
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7942.ts
+#EXTINF:-1,ES_CANAL _1
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7941.ts
+#EXTINF:-1,ES_CALLE_13
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7940.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7938.ts
+#EXTINF:-1,ES: TV3 Cat
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7937.ts
+#EXTINF:-1,ES: Odisea HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7936.ts
+#EXTINF:-1,ES: National Geographic
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7935.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7953.ts
+#EXTINF:-1,ES: Hollywood
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7934.ts
+#EXTINF:-1,ES: History
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7933.ts
+#EXTINF:-1,ES: Fox Spain
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7932.ts
+#EXTINF:-1,ES: Eurosport 2
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7931.ts
+#EXTINF:-1,ES: Disney Channel
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7930.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7952.ts
+#EXTINF:-1,ES: CANAL  FUTBOL
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7946.ts
+#EXTINF:-1,ES: Canal   Golf
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7929.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7928.ts
+#EXTINF:-1,ES: BARCA TV
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7939.ts
+#EXTINF:-1,ES: AXN White
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7927.ts
+#EXTINF:-1,ES: AXN
+http://cp.dmbshare.net:8000/live/alessandro/alessandro/7926.ts
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,ES_TELECINCO
+http://cp.dmbshare.net:8000/live/francesco/francesco/7956.ts
+#EXTINF:-1,ES_REAL_MADRID_TV
+http://cp.dmbshare.net:8000/live/francesco/francesco/7955.ts
+#EXTINF:-1,ES_MOVIESTAR_MOTOGP
+http://cp.dmbshare.net:8000/live/francesco/francesco/7954.ts
+#EXTINF:-1,ES_CANAL_COCINA
+http://cp.dmbshare.net:8000/live/francesco/francesco/7951.ts
+#EXTINF:-1,ES_CANAL_ACTION
+http://cp.dmbshare.net:8000/live/francesco/francesco/7950.ts
+#EXTINF:-1,ES_CANAL_2
+http://cp.dmbshare.net:8000/live/francesco/francesco/7949.ts
+#EXTINF:-1,ES_CANAL _TOROS
+http://cp.dmbshare.net:8000/live/francesco/francesco/7948.ts
+#EXTINF:-1,ES_CANAL _LIGA_HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7947.ts
+#EXTINF:-1,ES_CANAL _Estrenos HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7945.ts
+#EXTINF:-1,ES_CANAL _DEPORTES
+http://cp.dmbshare.net:8000/live/francesco/francesco/7944.ts
+#EXTINF:-1,ES_CANAL _DCINE
+http://cp.dmbshare.net:8000/live/francesco/francesco/7943.ts
+#EXTINF:-1,ES_CANAL _COMEDIA
+http://cp.dmbshare.net:8000/live/francesco/francesco/7942.ts
+#EXTINF:-1,ES_CANAL _1
+http://cp.dmbshare.net:8000/live/francesco/francesco/7941.ts
+#EXTINF:-1,ES_CALLE_13
+http://cp.dmbshare.net:8000/live/francesco/francesco/7940.ts
+#EXTINF:-1,ES: TVE La 2HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7938.ts
+#EXTINF:-1,ES: TV3 Cat
+http://cp.dmbshare.net:8000/live/francesco/francesco/7937.ts
+#EXTINF:-1,ES: Odisea HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7936.ts
+#EXTINF:-1,ES: National Geographic
+http://cp.dmbshare.net:8000/live/francesco/francesco/7935.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7953.ts
+#EXTINF:-1,ES: Hollywood
+http://cp.dmbshare.net:8000/live/francesco/francesco/7934.ts
+#EXTINF:-1,ES: History
+http://cp.dmbshare.net:8000/live/francesco/francesco/7933.ts
+#EXTINF:-1,ES: Fox Spain
+http://cp.dmbshare.net:8000/live/francesco/francesco/7932.ts
+#EXTINF:-1,ES: Eurosport 2
+http://cp.dmbshare.net:8000/live/francesco/francesco/7931.ts
+#EXTINF:-1,ES: Disney Channel
+http://cp.dmbshare.net:8000/live/francesco/francesco/7930.ts
+#EXTINF:-1,ES: CANAL DECASA
+http://cp.dmbshare.net:8000/live/francesco/francesco/7952.ts
+#EXTINF:-1,ES: CANAL  FUTBOL
+http://cp.dmbshare.net:8000/live/francesco/francesco/7946.ts
+#EXTINF:-1,ES: Canal   Golf
+http://cp.dmbshare.net:8000/live/francesco/francesco/7929.ts
+#EXTINF:-1,ES: Bein Sports HD
+http://cp.dmbshare.net:8000/live/francesco/francesco/7928.ts
+#EXTINF:-1,ES: BARCA TV
+http://cp.dmbshare.net:8000/live/francesco/francesco/7939.ts
+#EXTINF:-1,ES: AXN White
+http://cp.dmbshare.net:8000/live/francesco/francesco/7927.ts
+#EXTINF:-1,ES: AXN
+http://cp.dmbshare.net:8000/live/francesco/francesco/7926.ts
+#EXTINF:-1,ES: A&E
+http://cp.dmbshare.net:8000/live/francesco/francesco/7925.ts
+#EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,CANADA: womens entertainment
 http://cp.dmbshare.net:8000/live/frendo/frendo/8811.ts
 #EXTINF:-1,CANADA: Willow HD
