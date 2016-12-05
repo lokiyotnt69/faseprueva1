@@ -1,438 +1,180 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar MotoGP" tvg-logo="" group-title="SPAIN",ES: Movistar MotoGP
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2182.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="SPAIN",ES: Movistar F1
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2181.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="" group-title="SPAIN",ES: FOX
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1669.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox HD" tvg-logo="" group-title="SPAIN",ES: Fox HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2454.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fox Life" tvg-logo="" group-title="SPAIN",ES: Fox Life
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1024.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco." tvg-logo="" group-title="SPAIN",ES: Telecinco.
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2742.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco" tvg-logo="" group-title="SPAIN",ES: Telecinco
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2104.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA HD" tvg-logo="" group-title="SPAIN",ES: LA SEXTA HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1670.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="" group-title="SPAIN",ES: LA SEXTA
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2620.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ 1" tvg-logo="" group-title="SPAIN",ES: Canal+ 1
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2566.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ HD" tvg-logo="" group-title="SPAIN",ES: Canal+ HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2105.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ XTRA HD" tvg-logo="" group-title="SPAIN",ES: Canal+ XTRA HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2176.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ XTRA" tvg-logo="" group-title="SPAIN",ES: Canal+ XTRA
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2494.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Futbol HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Futbol HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2175.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Futbol" tvg-logo="" group-title="SPAIN",ES: Canal+ Futbol
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2491.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Accion HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Accion HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1675.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Series HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Series HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2453.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Series XTRA" tvg-logo="" group-title="SPAIN",ES: Canal+ Series XTRA
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1671.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Estrenos HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Estrenos HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1672.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Estrenos" tvg-logo="" group-title="SPAIN",ES: Canal+ Estrenos
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2493.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Comedia HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Comedia HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2504.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Comedia" tvg-logo="" group-title="SPAIN",ES: Canal+ Comedia
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1072.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Dcine HD" tvg-logo="" group-title="SPAIN",ES: Canal+ Dcine HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/889.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Dcine" tvg-logo="" group-title="SPAIN",ES: Canal+ Dcine
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2490.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ LIGA HD" tvg-logo="" group-title="SPAIN",ES: Canal+ LIGA HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/890.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ LIGA 2 HD" tvg-logo="" group-title="SPAIN",ES: Canal+ LIGA 2 HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2456.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Golf" tvg-logo="" group-title="SPAIN",ES: Canal+ Golf
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/710.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Toros" tvg-logo="" group-title="SPAIN",ES: Canal+ Toros
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/709.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ Partidazo" tvg-logo="" group-title="SPAIN",ES: Canal+ Partidazo
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2445.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ DEPORTES" tvg-logo="" group-title="SPAIN",ES: Canal+ DEPORTES
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2178.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ DEPORTES 2 HD" tvg-logo="" group-title="SPAIN",ES: Canal+ DEPORTES 2 HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2177.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal+ DEPORTES 2" tvg-logo="" group-title="SPAIN",ES: Canal+ DEPORTES 2
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2692.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENNA 3" tvg-logo="" group-title="SPAIN",ES: ANTENNA 3
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/1117.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="SPAIN",ES: AXN HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/971.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN" tvg-logo="" group-title="SPAIN",ES: AXN
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/2622.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White HD" tvg-logo="" group-title="SPAIN",ES: AXN White HD
-http://globiptv.com:8000/live/alberto425@Outlook.es/5Hzh5claZT/970.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN White" tvg-logo="" group-title="SPAIN",ES: AXN White
+
 #EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,——————–IPTV ESPAÑA——————–
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/445.ts
-
-#EXTINF:-1,——————–espana Generales——————–
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/446.ts
-
-#EXTINF:-1,La 1 HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/447.ts
-
-#EXTINF:-1,LA 1
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/448.ts
-
-#EXTINF:-1,LA 2
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/449.ts
-
-#EXTINF:-1,ANTENA 3
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/450.ts
-
-#EXTINF:-1,Atreseries
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/451.ts
-
-#EXTINF:-1,Cuatro
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/452.ts
-
-#EXTINF:-1,TELECINCO
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/453.ts
-
-#EXTINF:-1,LA SEXTA HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/454.ts
-
-#EXTINF:-1,lasexta
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/455.ts
-
-#EXTINF:-1,FDF
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/456.ts
-
-#EXTINF:-1,7 Region de Murcia
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/457.ts
-
-#EXTINF:-1,Neox
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/458.ts
-
-#EXTINF:-1,Nova
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/459.ts
-
-#EXTINF:-1,ENERGY
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/460.ts
-
-#EXTINF:-1,DIVINITY
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/461.ts
-
-#EXTINF:-1,MTV ES
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/462.ts
-
-#EXTINF:-1,Clan TVE
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/463.ts
-
-#EXTINF:-1,Mega
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/464.ts
-
-#EXTINF:-1,tv3cat
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/465.ts
-
-#EXTINF:-1,Canal Sur Andalusia
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/466.ts
-
-#EXTINF:-1,Canal sur 2
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/467.ts
-
-#EXTINF:-1,Telemadrid
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/468.ts
-
-#EXTINF:-1,8 TV
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/469.ts
-
-#EXTINF:-1,3 24
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/470.ts
-
-#EXTINF:-1,Canal 40
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/471.ts
-
-#EXTINF:-1,24 horas
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/472.ts
-
-#EXTINF:-1,intereconomia
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/473.ts
-
-#EXTINF:-1,Canal Costa
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/474.ts
-
-#EXTINF:-1,13 TV
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/475.ts
-
-#EXTINF:-1,TVG
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/476.ts
-
-#EXTINF:-1,——————–Espana Deportes——————–
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/477.ts
-
-#EXTINF:-1,BEIN SPORTS HD ES
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/478.ts
-
-#EXTINF:-1,Bein Sports
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/479.ts
-
-#EXTINF:-1,Bein La Liga
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/480.ts
-
-#EXTINF:-1,LaLigatv
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/481.ts
-
-#EXTINF:-1,M.Fútbol
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/482.ts
-
-#EXTINF:-1,M.Partidazo
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/483.ts
-
-#EXTINF:-1,M.Deportes
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/484.ts
-
-#EXTINF:-1,M.Deportes 2
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/485.ts
-
-#EXTINF:-1,GOL TV
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/486.ts
-
-#EXTINF:-1,Barça TV
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/487.ts
-
-#EXTINF:-1,R. MADRID TV
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/488.ts
-
-#EXTINF:-1,teledeporte
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/489.ts
-
-#EXTINF:-1,Movistar F1
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/490.ts
-
-#EXTINF:-1,Movistar MotoGP
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/491.ts
-
-#EXTINF:-1,M.GOLF HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/492.ts
-
-#EXTINF:-1,TOROS HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/493.ts
-
-#EXTINF:-1,——————–Espana CINE——————–
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/494.ts
-
-#EXTINF:-1,#0 HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/495.ts
-
-#EXTINF:-1,0 # HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/496.ts
-
-#EXTINF:-1,M.Estrenos
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/497.ts
-
-#EXTINF:-1,M.DCine
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/498.ts
-
-#EXTINF:-1,M.comedia
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/499.ts
-
-#EXTINF:-1,M.Acción
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/500.ts
-
-#EXTINF:-1,M.SERIES HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/501.ts
-
-#EXTINF:-1,M.Series Xtra
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/502.ts
-
-#EXTINF:-1,Hollywood
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/503.ts
-
-#EXTINF:-1,M.Xtra
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/504.ts
-
-#EXTINF:-1,Fox
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/505.ts
-
-#EXTINF:-1,FOX LIFE HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/506.ts
-
-#EXTINF:-1,Cosmo HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/507.ts
-
-#EXTINF:-1,TNT
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/508.ts
-
-#EXTINF:-1,AMC
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/509.ts
-
-#EXTINF:-1,SYFY HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/510.ts
-
-#EXTINF:-1,Calle 13
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/511.ts
-
-#EXTINF:-1,AXN WHITE HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/512.ts
-
-#EXTINF:-1,AXN HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/513.ts
-
-#EXTINF:-1,TCM HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/514.ts
-
-#EXTINF:-1,Comedy Central HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/515.ts
-
-#EXTINF:-1,——————–espana Culturales——————–
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/516.ts
-
-#EXTINF:-1,VIAJAR HD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/517.ts
-
-#EXTINF:-1,Viajar
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/518.ts
-
+#EXTINF:-1,#0_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2475.m3u8
+#EXTINF:-1,LA_1_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/44.m3u8
+#EXTINF:-1,ANTENA_3_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/95.m3u8
+#EXTINF:-1,CUATRO_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/49.m3u8
+#EXTINF:-1,TELECINCO_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/46.m3u8
+#EXTINF:-1,LA_SEXTA_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/47.m3u8
+#EXTINF:-1,FOX+HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/365.m3u8
+#EXTINF:-1,FOX_LIFE_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2538.m3u8
+#EXTINF:-1,AXN_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/764.m3u8
+#EXTINF:-1,AXN_WHITE_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/763.m3u8
+#EXTINF:-1,M._XTRAHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/51.m3u8
+#EXTINF:-1,M.ACCI©N_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2542.m3u8
+#EXTINF:-1,M.COMEDIAHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2541.m3u8
+#EXTINF:-1,M.SERIES_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/376.m3u8
+#EXTINF:-1,M.SeriesXtraHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/362.m3u8
+#EXTINF:-1,M.ESTRENOSHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/363.m3u8
+#EXTINF:-1,M.DCINE_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3728.m3u8
+#EXTINF:-1,HOLLYWOODHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/48.m3u8
+#EXTINF:-1,CALLE_13_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/761.m3u8
+#EXTINF:-1,TNT_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2489.m3u8
+#EXTINF:-1,SYFY_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/73.m3u8
+#EXTINF:-1,AMC_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2495.m3u8
+#EXTINF:-1,TCM_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/358.m3u8
+#EXTINF:-1,COMEDYCENTRALHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3714.m3u8
+#EXTINF:-1,BEIN_LALIGA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/75.m3u8
+#EXTINF:-1,BEIN_SPORTS
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3186.m3u8
+#EXTINF:-1,LALIGA_TV_BAR_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5408.m3u8
+#EXTINF:-1,MOVISTAR__PARTIDAZO_LIVE_SESSION
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5409.m3u8
+#EXTINF:-1,M._F.TBOL_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/76.m3u8
+#EXTINF:-1,M._DEP_2_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/93.m3u8
+#EXTINF:-1,M._DEP_1_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/77.m3u8
+#EXTINF:-1,M.GOLF_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2398.m3u8
+#EXTINF:-1,M.FORMULA1HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5226.m3u8
+#EXTINF:-1,M.MOTOGPHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2496.m3u8
+#EXTINF:-1,EUROSPORT1HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3713.m3u8
+#EXTINF:-1,NG_WILD_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5225.m3u8
+#EXTINF:-1,VIAJAR_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3711.m3u8
+#EXTINF:-1,CAZA_Y_PESCA_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5410.m3u8
+#EXTINF:-1,NAT_GEO_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/74.m3u8
+#EXTINF:-1,NICKELODEONHD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3733.m3u8
+#EXTINF:-1,DISNEY_CH_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3712.m3u8
+#EXTINF:-1,TOROS
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5439.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5412.m3u8
+#EXTINF:-1,PARAMOUNT
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5416.m3u8
+#EXTINF:-1,NONSTOPEOPLE
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5426.m3u8
+#EXTINF:-1,NEOX
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5413.m3u8
+#EXTINF:-1,MTV_ESPA¹A
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5427.m3u8
+#EXTINF:-1,M._Cine_Espaæol
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5414.m3u8
+#EXTINF:-1,LOS_40
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5418.m3u8
+#EXTINF:-1,LA_2
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5442.m3u8
 #EXTINF:-1,HISTORIA
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/519.ts
-
-#EXTINF:-1,AyE
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/520.ts
-
-#EXTINF:-1,Nat Geographic
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/521.ts
-
-#EXTINF:-1,NAT GEO WILD
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/522.ts
-
-#EXTINF:-1,CAZA Y PESCA
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/523.ts
-
-#EXTINF:-1,Odisea
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/524.ts
-
-#EXTINF:-1,Canal Cocina
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/525.ts
-
-#EXTINF:-1,————————–ninos———————-
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/526.ts
-
-#EXTINF:-1,Disney Xd SP
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/527.ts
-
-#EXTINF:-1,Disney Channel ES
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/528.ts
-
-#EXTINF:-1,DISNEY JR
-
-http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/529.ts
-
-
-
-
-#EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
-#EXTINF:-1, C+Estrenos
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
-
-#EXTINF:-1, C+Acción
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/accion_bitzwzh/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
-
-#EXTINF:-1, C+Comedia
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/comedia_az50b5a/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
-#EXTINF:-1, C+DCine
-http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/dcine_bijdglp/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
-#EXTINF:-1, Bein Liga
-http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8
-|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
-#EXTINF:-1, C+Futbol
-http://kdsajkldsadjsad77567dsa99saghdshhdds.sitenow.me/live/tvb112/playlist.m3u8
- 
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5428.m3u8
+#EXTINF:-1,GOL_TV
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5411.m3u8
+#EXTINF:-1,EUROSPORT_2
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5445.m3u8
+#EXTINF:-1,ENERGY
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5446.m3u8
+#EXTINF:-1,DIVINITY
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5429.m3u8
+#EXTINF:-1,DISNEY_XD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5430.m3u8
+#EXTINF:-1,DISCOVERY
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5431.m3u8
+#EXTINF:-1,CRIMEN_INVES
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5432.m3u8
+#EXTINF:-1,CLASSICA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5433.m3u8
+#EXTINF:-1,CASTILLA_LA_MANCHA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5420.m3u8
+#EXTINF:-1,CANAL_SUR_A.
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5434.m3u8
+#EXTINF:-1,CANAL_PANDA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5435.m3u8
+#EXTINF:-1,CANAL_ODISEA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5422.m3u8
+#EXTINF:-1,Canal_Extremadura_SAT
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5423.m3u8
+#EXTINF:-1,CANAL_DECASA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5424.m3u8
+#EXTINF:-1,CANAL_COCINA
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5425.m3u8
+#EXTINF:-1,C&I
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5443.m3u8
+#EXTINF:-1,BOING
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5436.m3u8
+#EXTINF:-1,ARAGON_TV
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5437.m3u8
+#EXTINF:-1,A&E
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5438.m3u8
+#EXTINF:-1,TAQUILLA_1_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3440.m3u8
+#EXTINF:-1,TAQUILLA_2_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3441.m3u8
+#EXTINF:-1,TAQUILLA_3_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3442.m3u8
+#EXTINF:-1,TAQUILLA_4_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3443.m3u8
+#EXTINF:-1,TAQUILLA_5_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3444.m3u8
+#EXTINF:-1,TAQUILLA_6_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3445.m3u8
+#EXTINF:-1,TAQUILLA_7_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3446.m3u8
+#EXTINF:-1,TAQUILLA_8_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3447.m3u8
+#EXTINF:-1,TAQUILLA_9_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3448.m3u8
+#EXTINF:-1,TAQUILLA_10_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3449.m3u8
+#EXTINF:-1,TAQUILLA_11_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3450.m3u8
+#EXTINF:-1,TAQUILLA_12_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3451.m3u8
+#EXTINF:-1,TAQUILLA_13_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3452.m3u8
+#EXTINF:-1,TAQUILLA_14_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3453.m3u8
+#EXTINF:-1,TAQUILLA_15_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3454.m3u8
+#EXTINF:-1,TAQUILLA_16_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3455.m3u8
+#EXTINF:-1,TAQUILLA_17_HD
+http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3456.m3u8
 
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
