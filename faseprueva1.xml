@@ -1,420 +1,344 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,Movistar+
-http://79.148.153.162:4022/udp/239.0.0.77:8208
-#EXTINF:-1,Movistar+ HD
-http://79.148.153.162:4022/udp/239.0.5.185:8208
-#EXTINF:-1,TVE 1
-http://79.148.153.162:4022/udp/239.0.0.76:8208
-#EXTINF:-1,TVE 1 HD
-http://79.148.153.162:4022/udp/239.0.0.185:8208
-#EXTINF:-1,TVE 2
-http://79.148.153.162:4022/udp/239.0.0.2:8208
-#EXTINF:-1,Antena 3
-http://79.148.153.162:4022/udp/239.0.0.3:8208
-#EXTINF:-1,Antena 3 HD
-http://79.148.153.162:4022/udp/239.0.0.186:8208
-#EXTINF:-1,Cuatro
-http://79.148.153.162:4022/udp/239.0.0.4:8208
-#EXTINF:-1,Cuatro HD
-http://79.148.153.162:4022/udp/239.0.0.177:8208
-#EXTINF:-1,Telecinco
-http://79.148.153.162:4022/udp/239.0.0.5:8208
-#EXTINF:-1,Telecinco HD
-http://79.148.153.162:4022/udp/239.0.0.176:8208
-#EXTINF:-1,La Sexta
-http://79.148.153.162:4022/udp/239.0.0.58:8208
-#EXTINF:-1,La Sexta HD
-http://79.148.153.162:4022/udp/239.0.0.187:8208
-#EXTINF:-1,#0
-http://79.148.153.162:4022/udp/239.0.0.108:8208
-#EXTINF:-1,#0 HD
-http://79.148.153.162:4022/udp/239.0.5.187:8208
-#EXTINF:-1,7 Region de Murcia
-http://79.148.153.162:4022/udp/239.0.0.87:8208
-#EXTINF:-1,Aragon TV
-http://79.148.153.162:4022/udp/239.0.0.88:8208
-#EXTINF:-1,Canal Sur
-http://79.148.153.162:4022/udp/239.0.0.49:8208
-#EXTINF:-1,Castilla y Leon 7
-http://79.148.153.162:4022/udp/239.0.0.109:8208
-#EXTINF:-1,CMT
-http://79.148.153.162:4022/udp/239.0.0.55:8208
-#EXTINF:-1,ETB 1
-http://79.148.153.162:4022/udp/239.0.0.35:8208
-#EXTINF:-1,Extremadura TV
-http://79.148.153.162:4022/udp/239.0.0.73:8208
-#EXTINF:-1,IB3
-http://79.148.153.162:4022/udp/239.0.0.56:8208
-#EXTINF:-1,Telemadrid
-http://79.148.153.162:4022/udp/239.0.0.25:8208
-#EXTINF:-1,TV Canaria
-http://79.148.153.162:4022/udp/239.0.0.54:8208
-#EXTINF:-1,TV Galicia
-http://79.148.153.162:4022/udp/239.0.0.53:8208
-#EXTINF:-1,TV Mediterraneo
-http://79.148.153.162:4022/udp/239.0.3.34:8208
-#EXTINF:-1,TV Princ de Asturias
-http://79.148.153.162:4022/udp/239.0.0.86:8208
-#EXTINF:-1,TV3
-http://79.148.153.162:4022/udp/239.0.0.23:8208
-#EXTINF:-1,TV3 HD
-http://79.148.153.162:4022/udp/239.0.5.186:8208
-#EXTINF:-1,8 TV
-http://79.148.153.162:4022/udp/239.0.0.82:8208
-#EXTINF:-1,Canal Sur 2
-http://79.148.153.162:4022/udp/239.0.0.50:8208
-#EXTINF:-1,ETB 2
-http://79.148.153.162:4022/udp/239.0.0.36:8208
-#EXTINF:-1,La Otra
-http://79.148.153.162:4022/udp/239.0.0.26:8208
-#EXTINF:-1,Series
-http://79.148.153.162:4022/udp/239.0.3.32:8208
-#EXTINF:-1,Series HD
-http://79.148.153.162:4022/udp/239.0.0.184:8208
-#EXTINF:-1,Movistar Series
-http://79.148.153.162:4022/udp/239.0.5.4:8208
-#EXTINF:-1,Movistar Series HD
-http://79.148.153.162:4022/udp/239.0.5.250:8208
-#EXTINF:-1,Movistar Series Xtra
-http://79.148.153.162:4022/udp/239.0.3.20:8208
-#EXTINF:-1,Movistar Series Xtra HD
-http://79.148.153.162:4022/udp/239.0.5.83:8208
-#EXTINF:-1,FOX
-http://79.148.153.162:4022/udp/239.0.0.74:8208
-#EXTINF:-1,FOX HD
-http://79.148.153.162:4022/udp/239.0.9.134:8208
-#EXTINF:-1,AXN
-http://79.148.153.162:4022/udp/239.0.0.14:8208
-#EXTINF:-1,AXN HD
-http://79.148.153.162:4022/udp/239.0.9.131:8208
-#EXTINF:-1,TNT
-http://79.148.153.162:4022/udp/239.0.0.44:8208
-#EXTINF:-1,TNT HD
-http://79.148.153.162:4022/udp/239.0.5.87:8208
-#EXTINF:-1,Comedy Central
-http://79.148.153.162:4022/udp/239.0.0.68:8208
-#EXTINF:-1,Comedy Central HD
-http://79.148.153.162:4022/udp/239.0.0.174:8208
-#EXTINF:-1,Calle 13
-http://79.148.153.162:4022/udp/239.0.0.13:8208
-#EXTINF:-1,Calle 13 HD
-http://79.148.153.162:4022/udp/239.0.5.74:8208
-#EXTINF:-1,Cosmo
-http://79.148.153.162:4022/udp/239.0.0.15:8208
-#EXTINF:-1,Cosmo HD
-http://79.148.153.162:4022/udp/239.0.5.71:8208
-#EXTINF:-1,AMC
-http://79.148.153.162:4022/udp/239.0.0.8:8208
-#EXTINF:-1,AMC HD
-http://79.148.153.162:4022/udp/239.0.9.132:8208
-#EXTINF:-1,FOX Life
-http://79.148.153.162:4022/udp/239.0.0.112:8208
-#EXTINF:-1,FOX Life HD
-http://79.148.153.162:4022/udp/239.0.5.86:8208
-#EXTINF:-1,AXN White
-http://79.148.153.162:4022/udp/239.0.0.62:8208
-#EXTINF:-1,AXN White HD
-http://79.148.153.162:4022/udp/239.0.5.79:8208
-#EXTINF:-1,SyFy
-http://79.148.153.162:4022/udp/239.0.0.111:8208
-#EXTINF:-1,SyFy HD
-http://79.148.153.162:4022/udp/239.0.5.75:8208
-#EXTINF:-1,Non Stop People
-http://79.148.153.162:4022/udp/239.0.0.212:8208
-#EXTINF:-1,Non Stop People HD
-http://79.148.153.162:4022/udp/239.0.5.170:8208
-#EXTINF:-1,MTV
-http://79.148.153.162:4022/udp/239.0.0.211:8208
-#EXTINF:-1,FDF
-http://79.148.153.162:4022/udp/239.0.0.84:8208
-#EXTINF:-1,Neox
-http://79.148.153.162:4022/udp/239.0.0.107:8208
-#EXTINF:-1,Atreseries
-http://79.148.153.162:4022/udp/239.0.3.29:8208
-#EXTINF:-1,Atreseries HD
-http://79.148.153.162:4022/udp/239.0.0.181:8208
-#EXTINF:-1,Cine
-http://79.148.153.162:4022/udp/239.0.3.30:8208
-#EXTINF:-1,Cine HD
-http://79.148.153.162:4022/udp/239.0.0.178:8208
-#EXTINF:-1,Movistar Estrenos
-http://79.148.153.162:4022/udp/239.0.3.40:8208
-#EXTINF:-1,Movistar Estrenos HD
-http://79.148.153.162:4022/udp/239.0.5.111:8208
-#EXTINF:-1,Movistar Xtra
-http://79.148.153.162:4022/udp/239.0.3.41:8208
-#EXTINF:-1,Movistar Xtra HD
-http://79.148.153.162:4022/udp/239.0.5.112:8208
-#EXTINF:-1,Movistar Accion
-http://79.148.153.162:4022/udp/239.0.3.42:8208
-#EXTINF:-1,Movistar Accion HD
-http://79.148.153.162:4022/udp/239.0.5.113:8208
-#EXTINF:-1,Movistar Comedia
-http://79.148.153.162:4022/udp/239.0.3.43:8208
-#EXTINF:-1,Movistar Comedia HD
-http://79.148.153.162:4022/udp/239.0.5.114:8208
-#EXTINF:-1,Movistar DCine
-http://79.148.153.162:4022/udp/239.0.3.44:8208
-#EXTINF:-1,Movistar DCine HD
-http://79.148.153.162:4022/udp/239.0.5.115:8208
-#EXTINF:-1,DCine Espanol
-http://79.148.153.162:4022/udp/239.0.3.45:8208
-#EXTINF:-1,TCM
-http://79.148.153.162:4022/udp/239.0.6.5:8208
-#EXTINF:-1,TCM HD
-http://79.148.153.162:4022/udp/239.0.5.89:8208
-#EXTINF:-1,Hollywood
-http://79.148.153.162:4022/udp/239.0.0.16:8208
-#EXTINF:-1,Hollywood HD
-http://79.148.153.162:4022/udp/239.0.5.76:8208
-#EXTINF:-1,Sundance
-http://79.148.153.162:4022/udp/239.0.0.102:8208
-#EXTINF:-1,Sundance HD
-http://79.148.153.162:4022/udp/239.0.5.72:8208
-#EXTINF:-1,Paramount
-http://79.148.153.162:4022/udp/239.0.0.90:8208
-#EXTINF:-1,DARK
-http://79.148.153.162:4022/udp/239.0.0.39:8208
-#EXTINF:-1,13 TV
-http://79.148.153.162:4022/udp/239.0.0.91:8208
-#EXTINF:-1,Ten
-http://79.148.153.162:4022/udp/239.0.0.34:8208
-#EXTINF:-1,Deportes
-http://79.148.153.162:4022/udp/239.0.3.33:8208
-#EXTINF:-1,Deportes HD
-http://79.148.153.162:4022/udp/239.0.0.180:8208
-#EXTINF:-1,Movistar Futbol
-http://79.148.153.162:4022/udp/239.0.6.8:8208
-#EXTINF:-1,Movistar Futbol HD
-http://79.148.153.162:4022/udp/239.0.6.14:8208
-#EXTINF:-1,Movistar Partidazo
-http://79.148.153.162:4022/udp/239.0.4.129:8208
-#EXTINF:-1,Movistar Partidazo HD
-http://79.148.153.162:4022/udp/239.0.5.84:8208
-#EXTINF:-1,beIN La Liga
-http://79.148.153.162:4022/udp/239.0.0.46:8208
-#EXTINF:-1,beIN La Liga HD
-http://79.148.153.162:4022/udp/239.0.5.106:8208
-#EXTINF:-1,beIN La Liga 1
-http://79.148.153.162:4022/udp/239.0.0.47:8208
-#EXTINF:-1,beIN La Liga 1 HD
-http://79.148.153.162:4022/udp/239.0.5.179:8208
-#EXTINF:-1,beIN La Liga 2
-http://79.148.153.162:4022/udp/239.0.0.67:8208
-#EXTINF:-1,beIN La Liga 2 HD
-http://79.148.153.162:4022/udp/239.0.5.180:8208
-#EXTINF:-1,beIN SPORTS
-http://79.148.153.162:4022/udp/239.0.3.100:8208
-#EXTINF:-1,beIN SPORTS HD
-http://79.148.153.162:4022/udp/239.0.9.80:8208
-#EXTINF:-1,Futbol Replay
-http://79.148.153.162:4022/udp/239.0.0.97:8208
-#EXTINF:-1,beIN MAX 1
-http://79.148.153.162:4022/udp/239.0.6.7:8208
-#EXTINF:-1,beIN MAX 1 HD
-http://79.148.153.162:4022/udp/239.0.5.177:8208
-#EXTINF:-1,beIN MAX 2
-http://79.148.153.162:4022/udp/239.0.6.13:8208
-#EXTINF:-1,Movistar Deportes 1
-http://79.148.153.162:4022/udp/239.0.4.193:8208
-#EXTINF:-1,Movistar Deportes 1 HD
-http://79.148.153.162:4022/udp/239.0.5.248:8208
-#EXTINF:-1,Movistar Deportes 2
-http://79.148.153.162:4022/udp/239.0.5.5:8208
-#EXTINF:-1,Movistar Deportes 2 HD
-http://79.148.153.162:4022/udp/239.0.5.245:8208
-#EXTINF:-1,Movistar F1
-http://79.148.153.162:4022/udp/239.0.0.210:8208
-#EXTINF:-1,Movistar F1 HD
-http://79.148.153.162:4022/udp/239.0.5.246:8208
-#EXTINF:-1,Movistar MotoGP
-http://79.148.153.162:4022/udp/239.0.3.38:8208
-#EXTINF:-1,Movistar MotoGP HD
-http://79.148.153.162:4022/udp/239.0.5.107:8208
-#EXTINF:-1,Movistar Golf
-http://79.148.153.162:4022/udp/239.0.5.2:8208
-#EXTINF:-1,Movistar Golf HD
-http://79.148.153.162:4022/udp/239.0.5.249:8208
-#EXTINF:-1,EuroSport
-http://79.148.153.162:4022/udp/239.0.0.18:8208
-#EXTINF:-1,EuroSport HD New
-http://79.148.153.162:4022/udp/239.0.9.144:8208
-#EXTINF:-1,EuroSport HD Old
-http://79.148.153.162:4022/udp/239.0.9.135:8208
-#EXTINF:-1,EuroSport 2
-http://79.148.153.162:4022/udp/239.0.0.37:8208
-#EXTINF:-1,EuroSport 2 HD
-http://79.148.153.162:4022/udp/239.0.5.105:8208
-#EXTINF:-1,GOL
-http://79.148.153.162:4022/udp/239.0.0.7:8208
-#EXTINF:-1,GOL HD
-http://79.148.153.162:4022/udp/239.0.5.189:8208
-#EXTINF:-1,Teledeporte
-http://79.148.153.162:4022/udp/239.0.0.79:8208
-#EXTINF:-1,Teledeporte HD
-http://79.148.153.162:4022/udp/239.0.0.188:8208
-#EXTINF:-1,Iberalia
-http://79.148.153.162:4022/udp/239.0.5.6:8208
-#EXTINF:-1,Multideporte 1
-http://79.148.153.162:4022/udp/239.0.7.1:8208
-#EXTINF:-1,National Geographic
-http://79.148.153.162:4022/udp/239.0.0.103:8208
-#EXTINF:-1,National Geographic HD
-http://79.148.153.162:4022/udp/239.0.5.78:8208
-#EXTINF:-1,Nat Geo Wild
-http://79.148.153.162:4022/udp/239.0.0.89:8208
-#EXTINF:-1,Nat Geo Wild HD
-http://79.148.153.162:4022/udp/239.0.9.136:8208
-#EXTINF:-1,Historia
-http://79.148.153.162:4022/udp/239.0.0.19:8208
-#EXTINF:-1,Discovery Channel
-http://79.148.153.162:4022/udp/239.0.0.21:8208
-#EXTINF:-1,Discovery Channel HD
-http://79.148.153.162:4022/udp/239.0.5.77:8208
-#EXTINF:-1,Odisea
-http://79.148.153.162:4022/udp/239.0.0.22:8208
-#EXTINF:-1,Odisea HD
-http://79.148.153.162:4022/udp/239.0.5.82:8208
-#EXTINF:-1,A&ampE
-http://79.148.153.162:4022/udp/239.0.0.38:8208
-#EXTINF:-1,Viajar
-http://79.148.153.162:4022/udp/239.0.0.20:8208
-#EXTINF:-1,Viajar HD
-http://79.148.153.162:4022/udp/239.0.5.73:8208
-#EXTINF:-1,Discovery MAX
-http://79.148.153.162:4022/udp/239.0.0.32:8208
-#EXTINF:-1,CCTV-E
-http://79.148.153.162:4022/udp/239.0.0.65:8208
-#EXTINF:-1,Cocina
-http://79.148.153.162:4022/udp/239.0.0.27:8208
-#EXTINF:-1,Decasa
-http://79.148.153.162:4022/udp/239.0.0.71:8208
-#EXTINF:-1,DKISS
-http://79.148.153.162:4022/udp/239.0.0.6:8208
-#EXTINF:-1,Crimen e Investigacion
-http://79.148.153.162:4022/udp/239.0.0.57:8208
-#EXTINF:-1,Divinity
-http://79.148.153.162:4022/udp/239.0.0.48:8208
-#EXTINF:-1,Nova
-http://79.148.153.162:4022/udp/239.0.0.106:8208
-#EXTINF:-1,MEGA
-http://79.148.153.162:4022/udp/239.0.3.31:8208
-#EXTINF:-1,BeMad
-http://79.148.153.162:4022/udp/239.0.0.17:8208
-#EXTINF:-1,BeMad HD
-http://79.148.153.162:4022/udp/239.0.0.182:8208
-#EXTINF:-1,Energy
-http://79.148.153.162:4022/udp/239.0.0.59:8208
-#EXTINF:-1,Garage TV
-http://79.148.153.162:4022/udp/239.0.0.99:8208
-#EXTINF:-1,Baby TV
-http://79.148.153.162:4022/udp/239.0.0.113:8208
-#EXTINF:-1,Disney Junior
-http://79.148.153.162:4022/udp/239.0.0.10:8208
-#EXTINF:-1,Canal Panda
-http://79.148.153.162:4022/udp/239.0.0.117:8208
-#EXTINF:-1,Nick Jr
-http://79.148.153.162:4022/udp/239.0.0.115:8208
-#EXTINF:-1,Nickelodeon
-http://79.148.153.162:4022/udp/239.0.0.69:8208
-#EXTINF:-1,Disney XD
-http://79.148.153.162:4022/udp/239.0.0.11:8208
-#EXTINF:-1,Disney Channel
-http://79.148.153.162:4022/udp/239.0.0.64:8208
-#EXTINF:-1,Disney Channel HD
-http://79.148.153.162:4022/udp/239.0.0.173:8208
-#EXTINF:-1,Boing
-http://79.148.153.162:4022/udp/239.0.0.66:8208
-#EXTINF:-1,Clan TVE
-http://79.148.153.162:4022/udp/239.0.0.80:8208
-#EXTINF:-1,40 TV
-http://79.148.153.162:4022/udp/239.0.0.12:8208
-#EXTINF:-1,VH1
-http://79.148.153.162:4022/udp/239.0.0.75:8208
-#EXTINF:-1,Canal 24 Horas
-http://79.148.153.162:4022/udp/239.0.0.78:8208
-#EXTINF:-1,BBC world
-http://79.148.153.162:4022/udp/239.0.0.30:8208
-#EXTINF:-1,CNN International
-http://79.148.153.162:4022/udp/239.0.0.40:8208
-#EXTINF:-1,Fox News
-http://79.148.153.162:4022/udp/239.0.7.65:8208
-#EXTINF:-1,Euronews
-http://79.148.153.162:4022/udp/239.0.0.28:8208
-#EXTINF:-1,Al Jazeera
-http://79.148.153.162:4022/udp/239.0.7.66:8208
-#EXTINF:-1,France 24
-http://79.148.153.162:4022/udp/239.0.7.67:8208
-#EXTINF:-1,Russia Today
-http://79.148.153.162:4022/udp/239.0.7.68:8208
-#EXTINF:-1,CNBC Europe
-http://79.148.153.162:4022/udp/239.0.7.69:8208
-#EXTINF:-1,TV5 Monde Europe
-http://79.148.153.162:4022/udp/239.0.0.31:8208
-#EXTINF:-1,Bloomberg
-http://79.148.153.162:4022/udp/239.0.0.29:8208
-#EXTINF:-1,Intereconomia TV
-http://79.148.153.162:4022/udp/239.0.0.63:8208
-#EXTINF:-1,I24 News
-http://79.148.153.162:4022/udp/239.0.0.220:8208
-#EXTINF:-1,CNC World
-http://79.148.153.162:4022/udp/239.0.0.221:8208
-#EXTINF:-1,Canal Orbe 21
-http://79.148.153.162:4022/udp/239.0.0.45:8208
-#EXTINF:-1,Andalucia TV
-http://79.148.153.162:4022/udp/239.0.0.1:8208
-#EXTINF:-1,Galicia TV Europa
-http://79.148.153.162:4022/udp/239.0.3.37:8208
-#EXTINF:-1,TV3CAT
-http://79.148.153.162:4022/udp/239.0.3.36:8208
-#EXTINF:-1,ETB Sat
-http://79.148.153.162:4022/udp/239.0.0.60:8208
-#EXTINF:-1,Aragon TV Int
-http://79.148.153.162:4022/udp/239.0.0.81:8208
-#EXTINF:-1,Super 3/33
-http://79.148.153.162:4022/udp/239.0.0.24:8208
-#EXTINF:-1,Esport3
-http://79.148.153.162:4022/udp/239.0.0.51:8208
-#EXTINF:-1,3/24
-http://79.148.153.162:4022/udp/239.0.0.61:8208
-#EXTINF:-1,Xarxa Televisions
-http://79.148.153.162:4022/udp/239.0.0.9:8208
-#EXTINF:-1,Multifutbol 1
-http://79.148.153.162:4022/udp/239.0.0.92:8208
-#EXTINF:-1,Multifutbol 2
-http://79.148.153.162:4022/udp/239.0.0.93:8208
-#EXTINF:-1,Multifutbol 3
-http://79.148.153.162:4022/udp/239.0.0.94:8208
-#EXTINF:-1,Multifutbol 4
-http://79.148.153.162:4022/udp/239.0.0.95:8208
-#EXTINF:-1,Multifutbol 5
-http://79.148.153.162:4022/udp/239.0.0.96:8208
-#EXTINF:-1,beIN La Liga 3
-http://79.148.153.162:4022/udp/239.0.0.70:8208
-#EXTINF:-1,beIN La Liga 3 HD
-http://79.148.153.162:4022/udp/239.0.5.181:8208
-#EXTINF:-1,beIN La Liga 4
-http://79.148.153.162:4022/udp/239.0.0.72:8208
-#EXTINF:-1,beIN MAX 3
-http://79.148.153.162:4022/udp/239.0.0.216:8208
-#EXTINF:-1,beIN MAX 4
-http://79.148.153.162:4022/udp/239.0.0.217:8208
-#EXTINF:-1,Multideporte 2
-http://79.148.153.162:4022/udp/239.0.7.2:8208
-#EXTINF:-1,Multideporte 3
-http://79.148.153.162:4022/udp/239.0.7.3:8208
-#EXTINF:-1,Multideporte 4
-http://79.148.153.162:4022/udp/239.0.7.4:8208
-#EXTINF:-1,Multideporte 5
-http://79.148.153.162:4022/udp/239.0.7.5:8208
-#EXTINF:-1,Multideporte 6
-http://79.148.153.162:4022/udp/239.0.7.132:8208
-#EXTINF:-1,Multideporte 7
-http://79.148.153.162:4022/udp/239.0.7.133:8208
-#EXTINF:-1,La Tienda en Casa
-http://79.148.153.162:4022/udp/239.0.0.98:8208
+#EXTINF:-1,——————–IPTV ESPAÑA——————–
 
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/445.ts
+
+#EXTINF:-1,——————–espana Generales——————–
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/446.ts
+
+#EXTINF:-1,La 1 HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/447.ts
+
+#EXTINF:-1,LA 1
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/448.ts
+
+#EXTINF:-1,LA 2
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/449.ts
+
+#EXTINF:-1,ANTENA 3
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/450.ts
+
+#EXTINF:-1,Atreseries
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/451.ts
+
+#EXTINF:-1,Cuatro
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/452.ts
+
+#EXTINF:-1,TELECINCO
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/453.ts
+
+#EXTINF:-1,LA SEXTA HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/454.ts
+
+#EXTINF:-1,lasexta
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/455.ts
+
+#EXTINF:-1,FDF
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/456.ts
+
+#EXTINF:-1,7 Region de Murcia
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/457.ts
+
+#EXTINF:-1,Neox
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/458.ts
+
+#EXTINF:-1,Nova
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/459.ts
+
+#EXTINF:-1,ENERGY
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/460.ts
+
+#EXTINF:-1,DIVINITY
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/461.ts
+
+#EXTINF:-1,MTV ES
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/462.ts
+
+#EXTINF:-1,Clan TVE
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/463.ts
+
+#EXTINF:-1,Mega
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/464.ts
+
+#EXTINF:-1,tv3cat
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/465.ts
+
+#EXTINF:-1,Canal Sur Andalusia
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/466.ts
+
+#EXTINF:-1,Canal sur 2
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/467.ts
+
+#EXTINF:-1,Telemadrid
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/468.ts
+
+#EXTINF:-1,8 TV
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/469.ts
+
+#EXTINF:-1,3 24
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/470.ts
+
+#EXTINF:-1,Canal 40
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/471.ts
+
+#EXTINF:-1,24 horas
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/472.ts
+
+#EXTINF:-1,intereconomia
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/473.ts
+
+#EXTINF:-1,Canal Costa
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/474.ts
+
+#EXTINF:-1,13 TV
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/475.ts
+
+#EXTINF:-1,TVG
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/476.ts
+
+#EXTINF:-1,——————–Espana Deportes——————–
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/477.ts
+
+#EXTINF:-1,BEIN SPORTS HD ES
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/478.ts
+
+#EXTINF:-1,Bein Sports
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/479.ts
+
+#EXTINF:-1,Bein La Liga
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/480.ts
+
+#EXTINF:-1,LaLigatv
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/481.ts
+
+#EXTINF:-1,M.Fútbol
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/482.ts
+
+#EXTINF:-1,M.Partidazo
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/483.ts
+
+#EXTINF:-1,M.Deportes
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/484.ts
+
+#EXTINF:-1,M.Deportes 2
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/485.ts
+
+#EXTINF:-1,GOL TV
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/486.ts
+
+#EXTINF:-1,Barça TV
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/487.ts
+
+#EXTINF:-1,R. MADRID TV
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/488.ts
+
+#EXTINF:-1,teledeporte
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/489.ts
+
+#EXTINF:-1,Movistar F1
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/490.ts
+
+#EXTINF:-1,Movistar MotoGP
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/491.ts
+
+#EXTINF:-1,M.GOLF HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/492.ts
+
+#EXTINF:-1,TOROS HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/493.ts
+
+#EXTINF:-1,——————–Espana CINE——————–
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/494.ts
+
+#EXTINF:-1,#0 HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/495.ts
+
+#EXTINF:-1,0 # HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/496.ts
+
+#EXTINF:-1,M.Estrenos
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/497.ts
+
+#EXTINF:-1,M.DCine
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/498.ts
+
+#EXTINF:-1,M.comedia
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/499.ts
+
+#EXTINF:-1,M.Acción
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/500.ts
+
+#EXTINF:-1,M.SERIES HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/501.ts
+
+#EXTINF:-1,M.Series Xtra
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/502.ts
+
+#EXTINF:-1,Hollywood
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/503.ts
+
+#EXTINF:-1,M.Xtra
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/504.ts
+
+#EXTINF:-1,Fox
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/505.ts
+
+#EXTINF:-1,FOX LIFE HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/506.ts
+
+#EXTINF:-1,Cosmo HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/507.ts
+
+#EXTINF:-1,TNT
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/508.ts
+
+#EXTINF:-1,AMC
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/509.ts
+
+#EXTINF:-1,SYFY HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/510.ts
+
+#EXTINF:-1,Calle 13
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/511.ts
+
+#EXTINF:-1,AXN WHITE HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/512.ts
+
+#EXTINF:-1,AXN HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/513.ts
+
+#EXTINF:-1,TCM HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/514.ts
+
+#EXTINF:-1,Comedy Central HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/515.ts
+
+#EXTINF:-1,——————–espana Culturales——————–
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/516.ts
+
+#EXTINF:-1,VIAJAR HD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/517.ts
+
+#EXTINF:-1,Viajar
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/518.ts
+
+#EXTINF:-1,HISTORIA
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/519.ts
+
+#EXTINF:-1,AyE
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/520.ts
+
+#EXTINF:-1,Nat Geographic
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/521.ts
+
+#EXTINF:-1,NAT GEO WILD
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/522.ts
+
+#EXTINF:-1,CAZA Y PESCA
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/523.ts
+
+#EXTINF:-1,Odisea
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/524.ts
+
+#EXTINF:-1,Canal Cocina
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/525.ts
+
+#EXTINF:-1,————————–ninos———————-
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/526.ts
+
+#EXTINF:-1,Disney Xd SP
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/527.ts
+
+#EXTINF:-1,Disney Channel ES
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/528.ts
+
+#EXTINF:-1,DISNEY JR
+
+http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/529.ts
 
 
 
@@ -1081,186 +1005,7 @@ http://www.t12v.com:8000/live/prevot/prevot/858.ts
 #EXTINF:-1,TAQUILLA_7
 http://www.t12v.com:8000/live/prevot/prevot/854.ts
 
-#EXTINF:-1,CINE+ FRISSON_HD
-http://www.t12v.com:8000/live/prevot/prevot/877.ts
 
-#EXTINF:1,CineStreamTV
-http://68.71.42.179/live/livestream1/playlist.m3u8
-
-#EXTINF: 1, **Movie Premier**
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,FOX
-http://www.t12v.com:8000/live/prevot/prevot/856.ts
-
-#EXTINF:-1,CANAL ACTION
-http://www.t12v.com:8000/live/prevot/prevot/791.ts
-
-#EXTINF:-1,CANAL+ DCINE
-http://www.t12v.com:8000/live/prevot/prevot/785.ts
-
-#EXTINF:-1,CANAL+ COMEDIA
-http://www.t12v.com:8000/live/prevot/prevot/792.ts
-
-#EXTINF:-1,Zombie Channel
-http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
-
-#EXTINF:-1, True movie 2
-http://89.163.148.31:8000/live/aytac/aytac/2755.m3u8
-
-#EXTINF:1,: XTREME TV
-http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
-
-#EXTINF:-1,BEIN SPORT
-http://www.t12v.com:8000/live/prevot/prevot/837.ts
-
-#EXTINF:-1,CANAL+ LIGA_HD
-http://www.t12v.com:8000/live/prevot/prevot/795.ts
-
-#EXTINF:-1,BARCA TV
-http://www.t12v.com:8000/live/prevot/prevot/775.ts
-
-#EXTINF:1, : REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1,SKY BUNDESLIGA_1
-http://www.t12v.com:8000/live/prevot/prevot/1023.ts
-
-#EXTINF:-1,CANAL+ FUTBOL
-http://www.t12v.com:8000/live/prevot/prevot/793.ts
-
-#EXTINF:1, NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:1,Fox Sports 502 HD
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1 ,EuroSports
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:-1,40 TV
-http://www.t12v.com:8000/live/prevot/prevot/763.ts
-
-#EXTINF:-1,Hit Tv
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-#EXTINF:-1,Heart TV
-
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1,Miami tv music
-http://74.208.152.93/music/stream3/stream.m3u8
-
-#EXTINF:-1,Vevo 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
-#EXTINF:-1,Vevo 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
-#EXTINF:-1,Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
-#EXTINF:1,Radio capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:-1, Rock TV
-mmsh://mediatv2.topix.it/24RockOne66
-
-#EXTINF:-1 ,Telemusica
-rtmp://186.155.200.118:1935/live/telemusica
-
-#EXTINF:-1 , Doing Animation music
-http://www.djing.com/tv/animation.m3u8?
-
-#EXTINF:-1 ,ESKA tv Rock
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
-
-#EXTINF:-1 ,Party tv eska
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
-
-#EXTINF:-1 ,Si tv
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-
-#EXTINF:-1,Doing Hot Hot music
-http://www.djing.com/tv/hothothot.m3u8?
-
-#EXTINF:-1,My Music HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-
-#EXTINF:-1,Tigo music tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-
-#EXTINF:-1,Trendy channel music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-
-#EXTINF:-1,CNN Internacional
-
-http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
-
-
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
-
-#EXTINF:1,Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-
-#EXTINF:1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-#EXTINF:1,BBC One London
-http://89.163.148.31:8000/live/aytac/aytac/2752.m3u8
-
-#EXTINF: 1, BBC World News
-http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8
-
-#EXTINF:1,WEATHER NATION
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:1,Accuweather Channel
-http://iphone-streaming.ustream.tv/ustreamVideo/14984935/streams/live/playlist.m3u8
-
-#EXTINF:1,Euronews
-rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
-
-#EXTINF:1,WFTV EVENT LIVE 1
-http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
-
-#EXTINF:-1,FOX NEWS
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1, OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:1, Live Ting Tv
-rtsp://edge2.everyon.tv/etv2/phd1006
-
-#EXTINF:-1, BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1,LATIN LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-#EXTINF:-1,Bella Club
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-
-#EXTINF:-1,sext6senso tv
-http://bit.ly/1JWhNlG
-
-#EXTINF:-1, OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
-
-#EXTINF:1,JASMIN
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1,CS Sex +18 ADULT
-mmsh://tv.webmisto.cz:7000
-
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
 
 
 
