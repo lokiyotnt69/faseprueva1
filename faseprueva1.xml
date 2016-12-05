@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
 #EXTINF:-1,Movistar+
 http://79.148.153.162:4022/udp/239.0.0.77:8208
 #EXTINF:-1,Movistar+ HD
@@ -419,7 +419,7 @@ http://79.148.153.162:4022/udp/239.0.0.98:8208
 
 
 
-#EXTINF:-1,[COLOR yellow]---------------------------------------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
 #EXTINF:-1, C+Estrenos
 http://kdsajkldsadjsab77676dsa99saghdshhdds.sitenow.me/live/plusestrenos_ahnxk7j/chunklist.m3u8|Referer=http://www.dinostream.pw/channel.php?file=104520&width=650&height=400&autostart=true|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40|Accept-Encoding=null
 
