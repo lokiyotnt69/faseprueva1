@@ -1,179 +1,65 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,#0_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2475.m3u8
-#EXTINF:-1,LA_1_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/44.m3u8
-#EXTINF:-1,ANTENA_3_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/95.m3u8
-#EXTINF:-1,CUATRO_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/49.m3u8
-#EXTINF:-1,TELECINCO_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/46.m3u8
-#EXTINF:-1,LA_SEXTA_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/47.m3u8
-#EXTINF:-1,FOX+HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/365.m3u8
-#EXTINF:-1,FOX_LIFE_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2538.m3u8
-#EXTINF:-1,AXN_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/764.m3u8
-#EXTINF:-1,AXN_WHITE_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/763.m3u8
-#EXTINF:-1,M._XTRAHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/51.m3u8
-#EXTINF:-1,M.ACCI©N_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2542.m3u8
-#EXTINF:-1,M.COMEDIAHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2541.m3u8
-#EXTINF:-1,M.SERIES_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/376.m3u8
-#EXTINF:-1,M.SeriesXtraHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/362.m3u8
-#EXTINF:-1,M.ESTRENOSHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/363.m3u8
-#EXTINF:-1,M.DCINE_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3728.m3u8
-#EXTINF:-1,HOLLYWOODHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/48.m3u8
-#EXTINF:-1,CALLE_13_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/761.m3u8
-#EXTINF:-1,TNT_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2489.m3u8
-#EXTINF:-1,SYFY_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/73.m3u8
-#EXTINF:-1,AMC_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2495.m3u8
-#EXTINF:-1,TCM_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/358.m3u8
-#EXTINF:-1,COMEDYCENTRALHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3714.m3u8
-#EXTINF:-1,BEIN_LALIGA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/75.m3u8
-#EXTINF:-1,BEIN_SPORTS
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3186.m3u8
-#EXTINF:-1,LALIGA_TV_BAR_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5408.m3u8
-#EXTINF:-1,MOVISTAR__PARTIDAZO_LIVE_SESSION
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5409.m3u8
-#EXTINF:-1,M._F.TBOL_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/76.m3u8
-#EXTINF:-1,M._DEP_2_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/93.m3u8
-#EXTINF:-1,M._DEP_1_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/77.m3u8
-#EXTINF:-1,M.GOLF_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2398.m3u8
-#EXTINF:-1,M.FORMULA1HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5226.m3u8
-#EXTINF:-1,M.MOTOGPHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/2496.m3u8
-#EXTINF:-1,EUROSPORT1HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3713.m3u8
-#EXTINF:-1,NG_WILD_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5225.m3u8
-#EXTINF:-1,VIAJAR_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3711.m3u8
-#EXTINF:-1,CAZA_Y_PESCA_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5410.m3u8
-#EXTINF:-1,NAT_GEO_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/74.m3u8
-#EXTINF:-1,NICKELODEONHD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3733.m3u8
-#EXTINF:-1,DISNEY_CH_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3712.m3u8
-#EXTINF:-1,TOROS
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5439.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5412.m3u8
-#EXTINF:-1,PARAMOUNT
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5416.m3u8
-#EXTINF:-1,NONSTOPEOPLE
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5426.m3u8
-#EXTINF:-1,NEOX
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5413.m3u8
-#EXTINF:-1,MTV_ESPA¹A
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5427.m3u8
-#EXTINF:-1,M._Cine_Espaæol
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5414.m3u8
-#EXTINF:-1,LOS_40
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5418.m3u8
-#EXTINF:-1,LA_2
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5442.m3u8
-#EXTINF:-1,HISTORIA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5428.m3u8
-#EXTINF:-1,GOL_TV
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5411.m3u8
-#EXTINF:-1,EUROSPORT_2
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5445.m3u8
-#EXTINF:-1,ENERGY
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5446.m3u8
-#EXTINF:-1,DIVINITY
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5429.m3u8
-#EXTINF:-1,DISNEY_XD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5430.m3u8
-#EXTINF:-1,DISCOVERY
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5431.m3u8
-#EXTINF:-1,CRIMEN_INVES
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5432.m3u8
-#EXTINF:-1,CLASSICA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5433.m3u8
-#EXTINF:-1,CASTILLA_LA_MANCHA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5420.m3u8
-#EXTINF:-1,CANAL_SUR_A.
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5434.m3u8
-#EXTINF:-1,CANAL_PANDA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5435.m3u8
-#EXTINF:-1,CANAL_ODISEA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5422.m3u8
-#EXTINF:-1,Canal_Extremadura_SAT
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5423.m3u8
-#EXTINF:-1,CANAL_DECASA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5424.m3u8
-#EXTINF:-1,CANAL_COCINA
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5425.m3u8
-#EXTINF:-1,C&I
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5443.m3u8
-#EXTINF:-1,BOING
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5436.m3u8
-#EXTINF:-1,ARAGON_TV
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5437.m3u8
-#EXTINF:-1,A&E
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/5438.m3u8
-#EXTINF:-1,TAQUILLA_1_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3440.m3u8
-#EXTINF:-1,TAQUILLA_2_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3441.m3u8
-#EXTINF:-1,TAQUILLA_3_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3442.m3u8
-#EXTINF:-1,TAQUILLA_4_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3443.m3u8
-#EXTINF:-1,TAQUILLA_5_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3444.m3u8
-#EXTINF:-1,TAQUILLA_6_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3445.m3u8
-#EXTINF:-1,TAQUILLA_7_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3446.m3u8
-#EXTINF:-1,TAQUILLA_8_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3447.m3u8
-#EXTINF:-1,TAQUILLA_9_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3448.m3u8
-#EXTINF:-1,TAQUILLA_10_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3449.m3u8
-#EXTINF:-1,TAQUILLA_11_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3450.m3u8
-#EXTINF:-1,TAQUILLA_12_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3451.m3u8
-#EXTINF:-1,TAQUILLA_13_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3452.m3u8
-#EXTINF:-1,TAQUILLA_14_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3453.m3u8
-#EXTINF:-1,TAQUILLA_15_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3454.m3u8
-#EXTINF:-1,TAQUILLA_16_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3455.m3u8
-#EXTINF:-1,TAQUILLA_17_HD
-http://service1.astrovida.tv:8000/live/efILR0i2c8q/BZO1TvpPGDv/3456.m3u8
+#EXTINF:-1,SP | FDF
+http://sutverduz.com:8080/live/marija/marija/2650.ts 
+#EXTINF:-1,SP | La Sexta HD
+http://sutverduz.com:8080/live/marija/marija/2649.ts 
+#EXTINF:-1,SP | DCINE
+http://sutverduz.com:8080/live/marija/marija/2651.ts 
+#EXTINF:-1,SP | TV3 CAT
+http://sutverduz.com:8080/live/marija/marija/2645.ts 
+#EXTINF:-1,SP | CANAL SERIES
+http://sutverduz.com:8080/live/marija/marija/2655.ts 
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://sutverduz.com:8080/live/marija/marija/2656.ts 
+#EXTINF:-1,SP | CUATRO
+http://sutverduz.com:8080/live/marija/marija/2652.ts 
+#EXTINF:-1,SP | TVE 2 HD
+http://sutverduz.com:8080/live/marija/marija/2660.ts 
+#EXTINF:-1,SP | Antena 3 HD
+http://sutverduz.com:8080/live/marija/marija/2659.ts 
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+http://sutverduz.com:8080/live/marija/marija/2664.ts 
+#EXTINF:-1,SP | Barca TV
+http://sutverduz.com:8080/live/marija/marija/2665.ts 
+#EXTINF:-1,SP | TELEVISA HD
+http://sutverduz.com:8080/live/marija/marija/2646.ts 
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://sutverduz.com:8080/live/marija/marija/2661.ts 
+#EXTINF:-1,SP | Real Madrid tv
+http://sutverduz.com:8080/live/marija/marija/2648.ts 
+#EXTINF:-1,SP | Teledeporte
+http://sutverduz.com:8080/live/marija/marija/2647.ts 
+#EXTINF:-1,SP | CAZA Y PESCA
+http://sutverduz.com:8080/live/marija/marija/2653.ts 
+#EXTINF:-1,SP | CANAL+ TOROS
+http://sutverduz.com:8080/live/marija/marija/2654.ts 
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://sutverduz.com:8080/live/marija/marija/2657.ts 
+#EXTINF:-1,SP | CALLE 13
+http://sutverduz.com:8080/live/marija/marija/2658.ts 
+#EXTINF:-1,SP | CANAL+ FUTBOL
+http://sutverduz.com:8080/live/marija/marija/2662.ts 
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://sutverduz.com:8080/live/marija/marija/2640.ts 
+#EXTINF:-1,SP | NEOX
+http://sutverduz.com:8080/live/marija/marija/2641.ts 
+#EXTINF:-1,SP | NOVA
+http://sutverduz.com:8080/live/marija/marija/2642.ts 
+#EXTINF:-1,SP | BEIN SPORT ES
+http://sutverduz.com:8080/live/marija/marija/2639.ts 
+#EXTINF:-1,SP | TVE 1 HD
+http://sutverduz.com:8080/live/marija/marija/2666.ts 
+#EXTINF:-1,SP | A&E
+http://sutverduz.com:8080/live/marija/marija/2667.ts 
+#EXTINF:-1,SP | Canal+ Accion HD
+http://sutverduz.com:8080/live/marija/marija/2668.ts 
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://sutverduz.com:8080/live/marija/marija/2663.ts 
+#EXTINF:-1,SP | PARAMOUNT CH
+http://sutverduz.com:8080/live/marija/marija/2643.ts 
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+http://sutverduz.com:8080/live/marija/marija/2644.ts
 
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
