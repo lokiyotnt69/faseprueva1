@@ -1,65 +1,802 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][I][B]---------------------en prueva---------------------------------[/B][/I][/COLOR]
-#EXTINF:-1,SP | FDF
-http://sutverduz.com:8080/live/marija/marija/2650.ts 
-#EXTINF:-1,SP | La Sexta HD
-http://sutverduz.com:8080/live/marija/marija/2649.ts 
-#EXTINF:-1,SP | DCINE
-http://sutverduz.com:8080/live/marija/marija/2651.ts 
-#EXTINF:-1,SP | TV3 CAT
-http://sutverduz.com:8080/live/marija/marija/2645.ts 
-#EXTINF:-1,SP | CANAL SERIES
-http://sutverduz.com:8080/live/marija/marija/2655.ts 
-#EXTINF:-1,SP | CANAL HOLLYWOOD
-http://sutverduz.com:8080/live/marija/marija/2656.ts 
-#EXTINF:-1,SP | CUATRO
-http://sutverduz.com:8080/live/marija/marija/2652.ts 
-#EXTINF:-1,SP | TVE 2 HD
-http://sutverduz.com:8080/live/marija/marija/2660.ts 
-#EXTINF:-1,SP | Antena 3 HD
-http://sutverduz.com:8080/live/marija/marija/2659.ts 
-#EXTINF:-1,SP | MOVISTAR MOTO GP HD
-http://sutverduz.com:8080/live/marija/marija/2664.ts 
-#EXTINF:-1,SP | Barca TV
-http://sutverduz.com:8080/live/marija/marija/2665.ts 
-#EXTINF:-1,SP | TELEVISA HD
-http://sutverduz.com:8080/live/marija/marija/2646.ts 
-#EXTINF:-1,SP | CANAL+ DEPORTES
-http://sutverduz.com:8080/live/marija/marija/2661.ts 
-#EXTINF:-1,SP | Real Madrid tv
-http://sutverduz.com:8080/live/marija/marija/2648.ts 
-#EXTINF:-1,SP | Teledeporte
-http://sutverduz.com:8080/live/marija/marija/2647.ts 
-#EXTINF:-1,SP | CAZA Y PESCA
-http://sutverduz.com:8080/live/marija/marija/2653.ts 
-#EXTINF:-1,SP | CANAL+ TOROS
-http://sutverduz.com:8080/live/marija/marija/2654.ts 
-#EXTINF:-1,SP | CANAL ESTRENOS
-http://sutverduz.com:8080/live/marija/marija/2657.ts 
-#EXTINF:-1,SP | CALLE 13
-http://sutverduz.com:8080/live/marija/marija/2658.ts 
-#EXTINF:-1,SP | CANAL+ FUTBOL
-http://sutverduz.com:8080/live/marija/marija/2662.ts 
-#EXTINF:-1,SP | CANAL+ COMEDIA HD
-http://sutverduz.com:8080/live/marija/marija/2640.ts 
-#EXTINF:-1,SP | NEOX
-http://sutverduz.com:8080/live/marija/marija/2641.ts 
-#EXTINF:-1,SP | NOVA
-http://sutverduz.com:8080/live/marija/marija/2642.ts 
-#EXTINF:-1,SP | BEIN SPORT ES
-http://sutverduz.com:8080/live/marija/marija/2639.ts 
-#EXTINF:-1,SP | TVE 1 HD
-http://sutverduz.com:8080/live/marija/marija/2666.ts 
-#EXTINF:-1,SP | A&E
-http://sutverduz.com:8080/live/marija/marija/2667.ts 
-#EXTINF:-1,SP | Canal+ Accion HD
-http://sutverduz.com:8080/live/marija/marija/2668.ts 
-#EXTINF:-1,SP | CANAL+ LIGA HD
-http://sutverduz.com:8080/live/marija/marija/2663.ts 
-#EXTINF:-1,SP | PARAMOUNT CH
-http://sutverduz.com:8080/live/marija/marija/2643.ts 
-#EXTINF:-1,SP | CANAL+ DEPORTES 2
-http://sutverduz.com:8080/live/marija/marija/2644.ts
+#EXTINF:-1,[COLOR red][I][B]---------------------7-12-2016---------------------------------[/B][/I][/COLOR]
+#EXTINF:-1,BeinSport 1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport2
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport3
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport4
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport5
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport6
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/6.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport7
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport8
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/8.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport9
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BeinSport 10
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/10.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,WWE Network HD
+plugin://plugin.video.f4mTester/?url=http://tv.iptvs.net:9000/live/mutaz/2RWDdYBw1J/106.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Bein Sports HD Spain
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports HD Canada
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1612.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Box Office PPV
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/583.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/880.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/881.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/882.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 4
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/883.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 5
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/884.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 6
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/885.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 7
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/886.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 8
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/887.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Red Button 9
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/888.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/889.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/890.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/891.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 4
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1039.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 5
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1040.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sport Extra 6
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1041.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports Mix HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sports 1 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/237.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 1 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/374.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sports 2 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/238.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 2 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/375.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sports 3 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/241.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 3 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BT Sports ESPN HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 1 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/898.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 1 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 1 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/367.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 2 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/899.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 2 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 2 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/368.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 3 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 3 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/232.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 3 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/369.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 4 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/901.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 4 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 4 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/370.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 5 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/902.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 5 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 5 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/371.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports F1 HD Raw Feed
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/897.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports F1 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports F1 HD 1080p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports News HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/236.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports News HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/373.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/10.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/11.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/87.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 4
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 5
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports F1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/6.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports News
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 1 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/121.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 2 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports 3 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/348.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 1 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 2 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 3 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 4 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/117.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports 5 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/118.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports F1 HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/119.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SkySports News HQ
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/120.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bt Sports ESPN UK
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/14.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eir Sport 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/179.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eir Sport 2 HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/442.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premier Sports HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/443.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premier Sports HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/805.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premier Sports
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Racing UK HD 720p
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1054.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Racing UK HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/239.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Racing UK
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/53.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Box nation HD+
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/240.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Box Nation
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosports 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1029.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/12.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosports 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1030.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/13.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,At The Races
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/52.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Motors TV UK
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/366.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MUTV HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1031.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MUTV
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/343.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Liverpool Tv HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/1617.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Liverpool TV
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/61.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Chelsea TV
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/91.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Barca Tv
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/90.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/34.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/35.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TSN 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/137.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet West HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/268.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet Pacific HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/132.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet World HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/76.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet Ontario HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/77.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet One HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/75.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SportsNet 360 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/8.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 1 USA
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/59.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 2 USA
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/60.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN USA
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/48.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ESPN 2 USA
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/49.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC Golf HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/316.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC Golf SD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/476.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC Sports HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/46.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBC Sports
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mio Stadium 102 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/193.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mio Stadium 103 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/194.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mio Stadium 104 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/195.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mio Stadium 105 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/196.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eleven Sports HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/198.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Eleven HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/199.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Red Fc Tv (Match Time ONLY)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/910.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rangers Tv (Match Time ONLY)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/879.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Hearts Fc Tv (Match Time ONLY)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/909.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Celtic Tv (Match Time ONLY)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/810.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Aberdeen Fc Tv (Match Time ONLY)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/908.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NBA Tv HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/546.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NFL Now HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MLB Network
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/133.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,WWE Network HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/463.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Willow Tv HD (Cricket)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/33.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Benfica TV 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/67.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Benfica TV 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/68.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OSN Cricket HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/28.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OSN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/29.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OSN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/30.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OSN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/130.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OSN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/131.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal+ Deportes
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/43.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal+ Liga
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/45.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal+ Golf
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal+ Futbol
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/44.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal +
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/97.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canal + Sport
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/96.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cmore Sport
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/865.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cmore Tennis
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/866.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Astro Super Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/81.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Astro Super Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/82.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Astro Super Sports 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/83.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Astro Super Sports 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/468.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 1 HD NL
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/418.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 2 HD NL
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 3 HD NL
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 4 HD NL
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/421.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports 5 HD NL
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/422.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Klub 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/71.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Klub 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/72.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Klub 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/73.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 1 Serbian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/892.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 2 Serbian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/893.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 3 Serbian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/894.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 4 Serbian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/895.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 5 Serbian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EPL 6 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/386.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/859.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/860.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/862.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/863.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,OTE Sports 6 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/864.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viasat Fotboll
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/868.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viasat Golf
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/871.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viasat Hockey
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/869.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viasat Motor
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/870.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Viasat Sport
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/867.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 1HD Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 2HD Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports 3HD Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/856.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports F1 HD Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sports Calcio HD Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/93.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 2 Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 3 Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/389.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 24 Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/242.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport F1 Italy
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/58.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 1-2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/39.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/40.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 4
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/41.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/42.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 6 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 7
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/383.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Sport 9
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/384.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Tv 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Tv 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/414.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Tv 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/415.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Tv 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/416.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Tv 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/417.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lig Tv 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lig Tv 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/425.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lig Tv 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/426.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/173.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/174.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/175.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/176.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/253.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/254.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/62.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Star Sports 4
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/255.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sony Espn
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sony Six HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/177.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sony Six
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/256.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ten 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/201.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ten 1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/258.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ten 2
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/257.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ten 3
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/803.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Ten Cricket
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/92.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PTV Sports
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/350.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Geo Super
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/205.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gtv
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,USA: Tennis Channel
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/847.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports USA
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/95.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,beIN Sports Spanish HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/848.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 1 FR
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/31.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 2 FR
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/36.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 3 FR
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/32.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Movies 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/576.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Movies 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/575.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Movies 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/475.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/474.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 1 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/390.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 2 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/391.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 3 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 4 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/393.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 5 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 6 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/395.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 7 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/396.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 8 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/397.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 9 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/398.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 10 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/399.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 11 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/400.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 12 HD Beta
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/17.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/20.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 6 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/21.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 7 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 8 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 9 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/24.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 10 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 11 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/247.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bein Sports 12 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/248.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 4 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/922.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 5 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/923.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Abu Dhabi Sport 6 HD
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/924.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 1 HD Croatian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 2 HD Croatian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 3 HD Croatian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/56.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Arena Sports 4 HD Croatian
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 HD Deutch Germany
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/88.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 2 HD Deutch Germany
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/89.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD1
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/38.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD2(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD3(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/260.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD4(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/261.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD5(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/262.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD6(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD7(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Bundesliga HD8(Match time only)
+plugin://plugin.video.f4mTester/?url=http://5.39.70.216/live/Vivienne/Vivienne/265.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Наш Футбол HD
+http://62.4.22.102:8000/play/a005
+#EXTINF:-1,Матч Футбол 1 HD
+http://62.4.22.102:8000/play/a002
+#EXTINF:-1,Матч Футбол 2 HD
+http://62.4.22.102:8000/play/a003
+#EXTINF:-1,Матч Футбол 3 HD
+http://62.4.22.102:8000/play/a004
+#EXTINF:-1,Матч! HD
+http://62.4.22.102:8000/play/a006
+#EXTINF:-1,Матч Арена HD
+http://62.4.22.102:8000/play/a007
+#EXTINF:-1,Футбол 1 UA HD
+http://62.4.22.102:8000/play/a00d
+#EXTINF:-1,Футбол 2 UA HD
+http://62.4.22.102:8000/play/a00e
+#EXTINF:-1,Viasat Sport HD
+http://62.4.22.102:8000/play/a00a
+#EXTINF:-1,EuroSport 1 HD
+http://62.4.22.102:8000/play/a00b
+#EXTINF:-1,EuroSport 2 HD
+http://62.4.22.102:8000/play/a00c
+#EXTINF:-1,Матч Игра HD
+http://62.4.22.102:8000/play/a008
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,SS News HD
+http://188.62.41.163:8897
+#EXTINF:-1,SS2 HD
+http://188.62.41.163:8891
+#EXTINF:-1,SS4 HD
+http://188.62.41.163:8894
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,bein 1
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/927?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 2
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/928?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 3
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/929?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 4
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/930?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 5
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/931?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein6
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/932?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 7
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/933?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 8
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/934?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 9
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/935?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+#EXTINF:-1,bein 10
+rtmp://149.202.206.50/myapp?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345/936?token=azefrft333FRFTFaqszdrfxxfgfddgqs2345
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,SKY Sport 1 DE
+http://178.199.17.144:2004
+#EXTINF:-1,SKY Sport 1 DE
+http://178.199.17.144:2005
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1 tvg-id="6748b65348fa6aaa427d5f683e0fe743",MOTORS TV CZ
+http://46.99.168.4:9981/stream/channelid/1404455015?ticket=CB53945567C6065BA437DF3C39B0A6D3FA9E6568&profile=pass
+#EXTINF:-1 tvg-id="bdd74d6f16a268948b7216e2b9cd71d7",TRING SPORT NEWS CZ
+http://46.99.168.4:9981/stream/channelid/1867372477?ticket=182C812CB6C11E8273721018059BABA2492E4B42&profile=pass
+#EXTINF:-1 tvg-id="88e85f9483d1b33e0bf43576df81dbe0",SPORT 1 HD CZ
+http://46.99.168.4:9981/stream/channelid/341829768?ticket=6311FF88863B6CF4C87D1C0FF681E10C6122FED6&profile=pass
+#EXTINF:-1 tvg-id="47e8ab450018a8dad97d5384b81c6f4c",SPORT 2 HD CZ
+http://46.99.168.4:9981/stream/channelid/1168894023?ticket=C658B1831C5EE0962375828C70EC99F9BEEBB97D&profile=pass
+#EXTINF:-1 tvg-id="b2969f9418561545487fd12e0c31f7a4",SPORT 3 HD CZ
+http://46.99.168.4:9981/stream/channelid/346003122?ticket=DD8E98F41262D7C897909E178660B78590177C02&profile=pass
+#EXTINF:-1 tvg-id="a5465ad115dc9287395a850180e57bf0",TELESPORT CZ
+http://46.99.168.4:9981/stream/channelid/1364870821?ticket=045C6A201AC82C789E899C6F107AE2035C92DC55&profile=pass
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,TVP Sport HD
+http://wolverine.castto.me/live/jNW14zCx621Z0Ey8uStu/mpegts
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Sky Sports 2 SD
+http://78.56.221.9:7059/skysp2
+#EXTINF:-1,Sky Sports 3 SD
+http://78.56.221.9:7059/skysp3
+#EXTINF:-1,Sky Sports F1 SD
+http://78.56.221.9:7059/skyspf1
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,CT sport1
+http://92.240.232.205:8888/udp/232.232.64.62:5004
+#EXTINF:-1,M4 Sport
+http://92.240.232.205:8888/udp/232.232.67.21:5004
+#EXTINF:-1,Sport1 CZE
+http://92.240.232.205:8888/udp/232.232.69.1:5004
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR white][I][B]------- SOMETIMES ON / OFF -------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR orange][I][B]--------- SWEDEN ---------[/B][/I][/COLOR]
+
+#EXTINF:-1,C More Sport
+http://79.138.99.20:8001/1:0:1:475:20:A027:FFFF0000:0:0:0:
+#EXTINF:-1,C More Hockey
+http://79.138.99.20:8001/1:0:1:402:21:A027:FFFF0000:0:0:0:
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,TJK Sport
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,ФУТБОЛ 1
+http://80.77.52.6:8181/udp/230.0.11.1:12345
+#EXTINF:-1,ФУТБОЛ 3
+http://80.77.52.6:8181/udp/230.0.11.3:12345
+#EXTINF:-1,ФУТБОЛ 2
+http://80.77.52.6:8181/udp/230.0.11.2:12345
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://80.77.52.6:8181/udp/230.0.11.4:12345
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://80.77.52.6:8181/udp/230.0.11.6:12345
+#EXTINF:-1,МАТЧ! АРЕНА
+http://80.77.52.6:8181/udp/230.0.11.5:12345
+#EXTINF:-1,МАТЧ ИГРА
+http://80.77.52.6:8181/udp/230.0.11.7:12345
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,DXTX Argentina (432p)
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/master.m3u8
+#EXTINF:-1,RETE SPORT 8 (360p)
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:-1,TV ALL SPORT (720p)
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,LIVE MOTOR SPORT-7
+http://45.58.62.92:8080
+#EXTINF:-1,LIVE MOTOR SPORT
+http://45.58.62.92:8084
+#EXTINF:-1 tvg-logo="hctv.png" group-title="Arabic TV",Dubai Racing
+http://dmivll.mangomolo.com/events/smil:events.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Olympic Channel
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+#EXTINF:-1,Olympics Channel 2 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel02/NBC_OCS2_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 3 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel03/NBC_OCS3_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 4 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel04/NBC_OCS4_VIDEO_7_6064000.m3u8
+#EXTINF:-1,Olympics Channel 5 (sub channels)
+http://ocs-live.hls.adaptive.level3.net/ocs/channel05/NBC_OCS5_VIDEO_7_6064000.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Dubai Racing
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,Jordan Sports TV
+http://64.251.19.236:1935/sports/s1/playlist.m3u8
 
 #EXTINF:-1,[COLOR blue][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
